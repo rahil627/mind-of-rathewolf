@@ -7,8 +7,6 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 - - -
 
 ### notes
-this part of the readme serves as a simple version of GitHub's projects, issues, and wiki features, so keep those features off.
-
 todo:
 - it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
 - fix https issue
