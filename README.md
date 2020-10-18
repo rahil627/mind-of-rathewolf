@@ -8,9 +8,9 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 - - -
 
 
-todo: (replaces GitHub's projects 'n issues)
-it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
-fix https issue
+todo: (replaces GitHub's projects 'n issues):
+- it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
+- fix https issue
 
 temp:  
 https://talk.hyvor.com/blog/migrate-from-wordpress-to-jekyll/
