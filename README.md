@@ -1,5 +1,5 @@
 ### the mind of ra the wolf
-is a digital representation of my mind at specific times in life
+a digital form of of my philosophies / mind at specific times in life. It started as a blog which was a sorta philosophical diary intended for the public, that i started when i was 15
 
 i have philosopher personality, and sometimes i express myself through writing, creating a life-llng philosophical diary.
 
