@@ -1,4 +1,4 @@
-# rathewolf
+#the mind of ra the wolf
 this is a port of my blog
 
 
