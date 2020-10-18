@@ -12,6 +12,7 @@ todo: (replaces GitHub's projects 'n issues):
 - it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
 - fix https issue
 - this is one repo that should have an appropriate license...
+- add The Mind of Ra crowd-funding writings
 
 temp:  
 https://talk.hyvor.com/blog/migrate-from-wordpress-to-jekyll/
