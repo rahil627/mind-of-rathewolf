@@ -7,8 +7,9 @@ i have philosopher personality, and sometimes i express myself through writing, 
 i have my own unique thoughts, ideas, concepts. Those concepts build up to make my own language, or at least patterns ( a 'pattern language'?) Anyway, it's worth keeping my own view of the world in tact.
 - - -
 
+this part of the readme serves as a simple version of GitHub's projects, issues, and wiki features, so keep those features off.
 
-todo: (replaces GitHub's projects 'n issues):
+todo:
 - it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
 - fix https issue
 - this is one repo that should have an appropriate license...
