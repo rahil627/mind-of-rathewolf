@@ -12,6 +12,7 @@ todo:
 - fix https issue
 - this is one repo that should have an appropriate license...
 - add The Mind of Ra crowd-funding writings
+- re-directs: mindof, themindof, blog, philosophy, philo
 
 temp:  
 https://talk.hyvor.com/blog/migrate-from-wordpress-to-jekyll/
