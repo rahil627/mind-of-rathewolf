@@ -19,6 +19,7 @@ should use Worspress to backup to an xml file first
 
 https://import.jekyllrb.com/docs/wordpress/
   - official importers
+  - https://github.com/jekyll/jekyll-import
 
 https://talk.hyvor.com/blog/migrate-from-wordpress-to-jekyll/
   - uses an outdated plugin, but not bad
