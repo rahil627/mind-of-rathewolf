@@ -8,7 +8,7 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 
 ### notes
 implementation:  
-- the main web-site folder should be linked to a folder in the rathewolf repo, which itself generates the web-site on rathewolf.com (using GitHub Pages)
+the main web-site folder should be linked to a folder in the rathewolf repo, which itself generates the web-site on rathewolf.com (using GitHub Pages)
 
 todo:
 - it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!  
