@@ -8,14 +8,13 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 
 ### notes
 todo:
-- it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!)
-- fix https issue
+- it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!  
 - this is one repo that should have an appropriate license...
 - add The Mind of Ra crowd-funding writings
 - re-directs: mindof, themindof, blog, philosophy, philo
 
 temp:
-should use Worspress to backup to an xml file first
+should use Wordpress to backup to an xml file first
 
 https://import.jekyllrb.com/docs/wordpress/
   - official importers
