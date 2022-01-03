@@ -15,6 +15,7 @@ todo:
 - this is one repo that should have an appropriate license...
 - add The Mind of Ra crowd-funding writings
 - re-directs: mindof, themindof, blog, philosophy, philo
+- make this repo private, but be warned: you cannot used GitHub Pages on a private repo
 
 temp:
 should use Wordpress to backup to an xml file first
