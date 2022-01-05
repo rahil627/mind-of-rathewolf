@@ -2,3 +2,7 @@ title: the mind of rathewolf
 description: thoughts, philosophies, writings, expressions
 
 remote_theme: ronv/sidey
+
+# theme specific stuff
+site: the mind of rathewolf
+#url: #yoururl
