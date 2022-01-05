@@ -6,3 +6,22 @@ remote_theme: ronv/sidey
 # theme specific stuff
 site: the mind of rathewolf
 #url: #yoururl
+
+#defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "/pages/"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "/posts/"
+      type: "posts"
+    values:
+      layout: "post"
