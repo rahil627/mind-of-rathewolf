@@ -3,7 +3,7 @@ id: 22
 title: 'Things I&#8217;ve Made'
 date: 2010-12-17T07:19:22-05:00
 author: Rahil
-layout: page
+layout: default
 guid: http://www.rahilpatel.com/blog/?page_id=22
 inline_featured_image:
   - "0"
