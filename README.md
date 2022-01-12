@@ -11,11 +11,12 @@ implementation:
 the main web-site folder should be linked to a folder in the rathewolf repo, which itself generates the web-site on rathewolf.com (using GitHub Pages)
 
 todo:
-- it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!  
+- currently: the posts and drafts come from jekyll export dated 11-01-2022, but, i don't think it exported pages...? re-check this. i think the current pages come from the older jekyll export (2020?)
+- it's starts by porting my old blog (Wordpress!!! lolll... yiikes!!
 - this is one repo that should have an appropriate license...
 - add The Mind of Ra crowd-funding writings
 - re-directs: mindof, themindof, blog, philosophy, philo
-- make this repo private, but be warned: you cannot used GitHub Pages on a private repo
+- make this repo private, but be warned: you cannot use GitHub Pages on a private repo
 
 temp:
 should use Wordpress to backup to an xml file first
