@@ -48,11 +48,11 @@ collections:
     permalink: /:year/:month/:day/:slug
 
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
+#  -
+#    scope:
+#      path: ""
+#    values:
+#      layout: "default"
   -
     scope:
       path: "/pages/"
