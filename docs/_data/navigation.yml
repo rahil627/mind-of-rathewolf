@@ -1,0 +1,15 @@
+#todo: should get from config file
+
+links:
+- title: index
+  url: /index.md
+- title: list
+  url: /list.md
+- title: resume
+  url: /_pages/resume.md
+- title: portfolio
+  url: /_pages/portfolio.md
+- title: Search
+  url: /search
+- title: Rss
+  url: /atom.xml
