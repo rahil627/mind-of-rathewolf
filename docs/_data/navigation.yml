@@ -2,13 +2,13 @@
 
 links:
 - title: index
-  url: /index.md
+  url: /index
 - title: list
-  url: /list.md
+  url: /list
 - title: resume
-  url: /_pages/resume.md
+  url: /_pages/resume
 - title: portfolio
-  url: /_pages/portfolio.md
+  url: /_pages/portfolio
 - title: Search
   url: /search
 - title: Rss
