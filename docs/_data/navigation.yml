@@ -5,7 +5,7 @@ links:
   url: /index
 - title: corpus
   url: /corpus
-- title: recent-entries
+- title: recent
   url: /posts-list
 - title: resume
   url: /resume
