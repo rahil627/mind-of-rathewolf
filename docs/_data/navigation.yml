@@ -3,8 +3,8 @@
 links:
 - title: herro
   url: /index
-- title: annotated
-  url: /annotated
+- title: annotated # organized?, annotated?, categorized?, selected?
+  url: /organized
 - title: list
   url: /posts-list
 - title: resume
