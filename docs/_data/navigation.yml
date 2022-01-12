@@ -6,9 +6,9 @@ links:
 - title: list
   url: /list
 - title: resume
-  url: /_pages/resume
+  url: /resume
 - title: portfolio
-  url: /_pages/portfolio
+  url: /portfolio
 - title: Search
   url: /search
 - title: Rss
