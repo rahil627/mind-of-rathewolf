@@ -34,7 +34,7 @@ exclude:
 
 #sass:
 #  sass_dir:          _sass
-3  style:            :compressed
+#  style:            :compressed
 
 plugins:
   - jekyll-paginate
