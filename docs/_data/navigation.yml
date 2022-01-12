@@ -1,6 +1,10 @@
 #todo: should get from config file
 
 links:
+- title: rathewolf.com
+  url: https://rathewolf.com
+- title: willowolf.com
+  url: https://willowolf.com
 - title: herro
   url: /index
 - title: annotated # organized?, annotated?, categorized?, selected?
@@ -17,7 +21,3 @@ links:
   url: /archive
 - title: rss
   url: /atom.xml
-- title: rathewolf.com
-  url: https://rathewolf.com
-- title: willowolf.com
-  url: https://willowolf.com
