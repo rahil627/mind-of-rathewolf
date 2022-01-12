@@ -1,9 +1,9 @@
 #todo: should get from config file
 
 links:
-- title: [[rathewolf]]
+- title: [rathewolf]
   url: https://rathewolf.com
-- title: [[willowolf.com]]
+- title: [willowolf]
   url: https://willowolf.com
 - title: herro
   url: /index
