@@ -1,15 +1,19 @@
 #todo: should get from config file
 
 links:
-- title: index
+- title: herro
   url: /index
-- title: list
-  url: /list
+- title: corpus
+  url: /corpus
+- title: recent entries
+  url: /posts-list
 - title: resume
   url: /resume
 - title: portfolio
   url: /portfolio
-- title: Search
+- title: search
   url: /search
-- title: Rss
+- title: archive
+  url: /archive
+- title: rss
   url: /atom.xml
