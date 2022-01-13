@@ -18,7 +18,7 @@ links:
 - title: rss
   url: /atom.xml
 - title: '-' #just to add some space
-  url: {{ site.page.url }}
+  url: {{ page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
 - title: by <u>rathewolf</u> #non-characters get stripped somewhere
