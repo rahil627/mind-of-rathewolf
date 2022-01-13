@@ -5,18 +5,20 @@ links:
   url: /index
 - title: annotations # organized?, categorized?, selected?
   url: /organized-writings
-- title: writings
+- title: list
   url: /posts-list
-- title: resume
-  url: /resume
-- title: portfolio
-  url: /portfolio
 - title: search
   url: /search
 - title: old-archive
   url: /archive
 - title: rss
   url: /atom.xml
+- title: '-' #just to add some space
+  url: {{ page.url }}
+- title: resume
+  url: /resume
+- title: portfolio
+  url: /portfolio
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
