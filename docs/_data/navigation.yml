@@ -3,9 +3,9 @@
 links:
 - title: herro
   url: /index
-- title: annotated # organized?, annotated?, categorized?, selected?
+- title: annotations # organized?, categorized?, selected?
   url: /organized-writings
-- title: list
+- title: writings
   url: /posts-list
 - title: resume
   url: /resume
@@ -13,7 +13,7 @@ links:
   url: /portfolio
 - title: search
   url: /search
-- title: archive
+- title: old-archive
   url: /archive
 - title: rss
   url: /atom.xml
