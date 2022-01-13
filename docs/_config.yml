@@ -12,7 +12,7 @@ site: the mind of rathewolf
 #  creator: #yourusername
 #author:
 #  twitter: #yourusername
-#  name: #yourusername
+#  name: rahil627
 #  avatar:
 #  email: #youremail
 #  url: #yoururl
@@ -45,7 +45,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+    permalink: /:slug
 
 defaults:
 #  -
@@ -53,15 +53,3 @@ defaults:
 #      path: ""
 #    values:
 #      layout: "default"
-  -
-    scope:
-      path: "/pages/"
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: "/posts/"
-      type: "posts"
-    values:
-      layout: "post"
