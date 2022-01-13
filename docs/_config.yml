@@ -5,7 +5,7 @@ remote_theme: ronv/sidey
 
 # theme specific stuff
 site: the mind of rathewolf
-url: mind.rathewolf.com
+url: mind.rathewolf.com # full url?
 #twitter:
 #  username: #yourusername
 #  card: summary
