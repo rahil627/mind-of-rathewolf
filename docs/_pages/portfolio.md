@@ -123,9 +123,9 @@ A return to more primitive ways of living.
 &#8230;?
 todo: need to put these in the right place
 [能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3
-[屏東藝文樓 / the Place of Arts](), <3
-  - note: can't seem to find the page anymore..? :(
-  - [the fb group](https://www.facebook.com/groups/201873603531671/about)
+[屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3
+  - note: the page is private now
+  - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
 
 ### <span id="heroic_age_nature">Heroic Age / nature</span>
 
