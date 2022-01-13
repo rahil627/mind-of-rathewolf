@@ -5,7 +5,7 @@ remote_theme: ronv/sidey
 
 # theme specific stuff
 site: the mind of rathewolf
-#url: #yoururl
+url: mind.rathewolf.com
 #twitter:
 #  username: #yourusername
 #  card: summary
@@ -19,7 +19,7 @@ site: the mind of rathewolf
 
 permalink: pretty
 
-#baseurl: ""
+baseurl: ""
 
 #highlighter: none
 
