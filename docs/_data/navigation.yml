@@ -17,7 +17,7 @@ links:
   url: /archive
 - title: rss
   url: /atom.xml
-- title: '--' #just to add some space
+- title: '-' #just to add some space
   url: {{ site.page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
