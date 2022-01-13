@@ -11,7 +11,7 @@ links:
   url: /search
 - title: old-archive
   url: /archive
-- title: rss
+- title: todo-rss
   url: /atom.xml
 - title: '-' #just to add some space
   url: {{ page.url }}
