@@ -3,7 +3,7 @@
 links:
 - title: herro
   url: /index
-- title: annotations # organized?, categorized?, selected?
+- title: organized? # categorized?, selected?, annotated?
   url: /organized-writings
 - title: list
   url: /posts-list
