@@ -7,6 +7,7 @@ layout: page
 guid: http://www.rahilpatel.com/blog/?page_id=22
 inline_featured_image:
   - "0"
+# todo: if you update the page here, then check the revisions for changes before reverting to a page without html
 ---
 A shout out to the great history games:
 
@@ -121,8 +122,10 @@ A return to more primitive ways of living.
 
 &#8230;?
 todo: need to put these in the right place
-[能盛行 / the Factory](https://www.facebook.com/NSXFactory/)
-[屏東藝文樓 / the Place of Arts]()
+[能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3
+[屏東藝文樓 / the Place of Arts](), <3
+  - note: can't seem to find the page anymore..? :(
+  - [the fb group](https://www.facebook.com/groups/201873603531671/about)
 
 ### <span id="heroic_age_nature">Heroic Age / nature</span>
 
