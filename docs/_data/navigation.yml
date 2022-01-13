@@ -17,7 +17,9 @@ links:
   url: /archive
 - title: rss
   url: /atom.xml
-- title: [rathewolf] # non-characters get stripped somewhere
-  url: https://rathewolf.com
-- title: [willowolf]
+- title: '' #just to add some space
+  url: /index
+- title: a [willowolf]
   url: https://willowolf.com
+- title: by [rathewolf] #non-characters get stripped somewhere
+  url: https://rathewolf.com
