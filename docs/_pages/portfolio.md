@@ -101,7 +101,7 @@ A shout out to the great history games:
 
 ## <span id="age_of_empires_iv">Age of Empires IV</span>
 
-The long awaited return. But can I return?&#8230;
+The long awaited return. But can I return?..
 
 [Ra the Wolf](http://www.rathewolf.com/), a digital home for my spirit  
 &#8211; [The Mind of Ra the Wolf](http://www.rathewolf.com/mind), a digital space for my mind’s expressions  
@@ -120,6 +120,9 @@ A return to more primitive ways of living.
 ### <span id="mythic_age">Mythic Age</span>
 
 &#8230;?
+todo: need to put these in the right place
+[能盛行 / the Factory](https://www.facebook.com/NSXFactory/)
+[屏東藝文樓 / the Place of Arts]()
 
 ### <span id="heroic_age_nature">Heroic Age / nature</span>
 
