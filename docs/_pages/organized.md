@@ -1,3 +1,7 @@
+---
+# this sucks!
+# maybe added wp:paragraph shit from the new wordpress editor? wtf??
+---
 <!-- wp:paragraph -->
 <p>[todo: rename philosophy to filosophy. Will it break anchors?]</p>
 <!-- /wp:paragraph -->
