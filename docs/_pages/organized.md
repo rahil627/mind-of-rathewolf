@@ -3,7 +3,7 @@ id: 3501
 title: 'Organized Things I&#8217;ve Written'
 date: 2014-01-19T07:17:27-05:00
 author: Rahil
-layout: post
+layout: page
 guid: http://www.rahilpatel.com/blog/?p=3501
 permalink: /valuable-things-ive-written
 medium_post:
