@@ -7,7 +7,7 @@ layout: page
 guid: http://www.rahilpatel.com/blog/?page_id=22
 inline_featured_image:
   - "0"
-# todo: if you update the page here, then check the revisions for changes before reverting to a page without html
+# todo: if you update the page here, then check the revisions for changes
 ---
 A shout out to the great history games:
 
