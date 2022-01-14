@@ -10,9 +10,18 @@ remote_theme: rahil627/sidey # seems updated as of recently (01/2022), so try to
 title: the mind of rathewolf
 description: thoughts, philosophies, writings, expressions
 
-# theme specific stuff
-site: the mind of rathewolf
-url: mind.rathewolf.com # todo: full url?
+# semi-standard vars
+site: the mind of rathewolf #often used by plguins
+url: https://mind.rathewolf.com #used by plugins
+
+author:
+#  twitter: #yourusername
+  name: rahil627
+#  avatar:
+#  email: #youremail
+  url: https://rathewolf.com 
+  
+# theme specific vars
 #twitter:
 #  username: #yourusername
 #  card: summary
