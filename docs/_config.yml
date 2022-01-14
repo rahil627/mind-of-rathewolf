@@ -43,9 +43,11 @@ sass:
 
 # note: remember to add to add to the gemfile too
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-paginate # standard if not official plugin
+  - jekyll-seo-tag # official plugin
+  - jekyll-sitemap  # official plguin
+  
+  - jekyll-titles-from-headings
 
 collections:
   pages:
