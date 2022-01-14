@@ -41,12 +41,13 @@ sass:
   sass_dir:          _sass
   style:            :compressed
 
-# note: remember to add to add to the gemfile too
+# note: remember to add to the gemfile too
 plugins:
+  # plugins that already exist on the github pages dependencies
+  - jekyll-feed
+
+  # theme's custom plugins in the gemfile
   - jekyll-paginate # standard if not official plugin
-  - jekyll-seo-tag # official plugin
-  - jekyll-sitemap  # official plguin
-  
   - jekyll-titles-from-headings
 
 collections:
