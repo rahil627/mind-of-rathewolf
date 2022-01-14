@@ -4,7 +4,7 @@
 # ronv/sidey will likely be my main theme to start with...:
 # it's quite bare, reads like an e-reader, yet has all the essentials
 # one-page sites can use either the default theme minima or ronv/ultra
-remote_theme: rahil627/sidey # seems updated as of recently (01/2022), so try to fetch updats
+remote_theme: rahil627/sidey-customized # seems updated as of recently (01/2022), so try to fetch updats
 
 # stanrdard vars
 title: the mind of rathewolf
