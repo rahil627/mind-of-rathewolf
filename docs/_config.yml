@@ -1,11 +1,18 @@
+# github pages hasn't updated to jekyll 4.0, which uses the theme's config file by default
+# so, for now, you must copy the theme's config file's content into here
+
+# ronv/sidey will likely be my main theme to start with...:
+# it's quite bare, reads like an e-reader, yet has all the essentials
+# one-page sites can use either the default theme minima or ronv/ultra
+remote_theme: rahil627/sidey # seems updated as of recently (01/2022), so try to fetch updats
+
+# stanrdard vars
 title: the mind of rathewolf
 description: thoughts, philosophies, writings, expressions
 
-remote_theme: ronv/sidey
-
 # theme specific stuff
 site: the mind of rathewolf
-url: mind.rathewolf.com # full url?
+url: mind.rathewolf.com # todo: full url?
 #twitter:
 #  username: #yourusername
 #  card: summary
@@ -26,14 +33,15 @@ baseurl: ""
 exclude:
   - .jekyll-cache
   
-#compress_html:
-#  clippings: all
-#  comments: ["<!-- ", " -->"]
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-#sass:
-#  sass_dir:          _sass
-#  style:            :compressed
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
+# note: remember to add to add to the gemfile too
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
@@ -47,9 +55,22 @@ collections:
     output: true
     permalink: /:slug
 
-defaults:
+#defaults:
+   -
+    scope:
+      path: ""
+    values:
+      layout: "default" # i'm not sure how this works.., only works on .md files?
+
+# it might be better to stick to jekyll's defaults `_posts` 'n `_pages` for the sake of plugins 'n themes
 #  -
 #    scope:
-#      path: ""
+#      path: "/posts"
 #    values:
-#      layout: "default"
+#      layout: "posts"
+
+#  -
+#    scope:
+#      path: "pages"
+#    values:
+#      layout: "pages"
