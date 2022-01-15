@@ -57,7 +57,7 @@ plugins:
 
   # theme's custom plugins in the gemfile
   - jekyll-paginate # standard if not official plugin
-  - jekyll-titles-from-headings
+  #- jekyll-titles-from-headings
 
 collections:
   pages:
