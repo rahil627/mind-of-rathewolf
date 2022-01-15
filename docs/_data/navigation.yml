@@ -3,6 +3,8 @@
 links:
 - title: herro
   url: /index
+- title: old-herro
+  url: /index-old
 - title: organized # categorized?, selected?, annotated
   url: /valuable-things-ive-written #need to keep the old link, referenced a lot in my portfolio
 - title: list
