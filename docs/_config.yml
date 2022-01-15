@@ -59,13 +59,13 @@ plugins:
   - jekyll-paginate # standard if not official plugin
   - jekyll-titles-from-headings
 
-#collections:
-#  pages:
-#    output: true
-#    permalink: /:name
-#  posts:
-#    output: true
-#    permalink: /:slug
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
 
 defaults:
    -
