@@ -1,6 +1,7 @@
 ---
 id: 2
-title: Herro
+title: Herro #the permalink seems to come from the name of the file, not the title
+# the file should be titled index-old, but oh well...
 date: 2010-12-11T22:22:51-05:00
 author: Rahil
 layout: page
