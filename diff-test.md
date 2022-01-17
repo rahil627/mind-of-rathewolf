@@ -1,4 +1,16 @@
-todo:
+
+in addition to front matter differneces,  
+the jekyll-importer (via xml) might correctly add <br /> where needed
+  - todo, test a few pages
+
+
+front matter diff:
+jekyll-importer adds '/blog' to the permalink :(
+wordpress plugin stores the original link name, which might be useful
+
+jekyll-importer has more data: published, status, tags
+  - check if i ever used tags
+
 
 #### import
 
