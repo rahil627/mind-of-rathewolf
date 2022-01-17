@@ -21,8 +21,10 @@ the current `_pages` folder was imported from the wordpress plugin, then possibl
   - herro might have two links changed, but that's all
   - archives ?
 
+
 - see diff.txt file in root to see differences between the different importers
-- still need to import via database (last one!!!)
+  - still need to import via database (last one!!!)
+  - if i use the xml one, then i need to find a way to remove the 'blog' from the permalink key in the front matter
 - check this commit for when i replaced the exported files [remove toc](https://github.com/rahil627/mind-of-rathewolf/commit/dd4f9e13cba174a94e385ee18b71bb5bb83cf886)
 - currently: the posts and drafts come from jekyll export dated 11-01-2022, but, i don't think it exported pages...? re-check this. i think the current pages come from the older jekyll export (2020?)
   - eh, i trashed that older jekyll import... oops?
