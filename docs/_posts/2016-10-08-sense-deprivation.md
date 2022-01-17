@@ -2,10 +2,10 @@
 id: 7985
 title: Sense-Deprivation
 date: 2016-10-08T01:47:59-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=7985
-permalink: /sense-deprivation
+permalink: /sense-deprivation/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:74:"https://cdn-images-1.medium.com/fit/c/200/200/1*dmbNkD5D-u45r44go_cf0g.png";s:10:"author_url";s:28:"https://medium.com/@rahil627";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"65fc3d742734";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"7a04709b0155";s:6:"status";s:6:"public";s:3:"url";s:59:"https://medium.com/@rahil627/sense-deprivation-65fc3d742734";}'
 categories:
@@ -15,8 +15,8 @@ categories:
 ---
 a note from perhaps yesterday, or the day before when I tried to watch Into the Forest of Fireflies Light in a rather sense-deprived room in a library:
 
-> keep traveling, keep living, keep reality in view.  
-> too boring, seen already.
+<blockquote>keep traveling, keep living, keep reality in view.
+too boring, seen already.</blockquote>
 
 [unnecessary content: And that’s the truth. There’s no desire of re-experiencing something I’ve recently experienced, except perhaps as some sort of further philosophical investigation.]
 
@@ -30,5 +30,5 @@ Even furthermore, the habit of going to, commuting to, or living in such an envi
 
 Thus, another argument for nomadism? [Or for the human need to experience {feel one is experiencing}?]
 
-Further reading:  
-[en.wikipedia.org/wiki/Sensory_deprivation](https://en.wikipedia.org/wiki/Sensory_deprivation){.autohyperlink}
+Further reading:
+https://en.wikipedia.org/wiki/Sensory_deprivation

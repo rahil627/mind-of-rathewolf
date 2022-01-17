@@ -2,17 +2,17 @@
 id: 4046
 title: All Products Should Have a Face
 date: 2015-01-20T17:39:48-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4046
-permalink: /all-products-should-have-a-face
+permalink: /all-products-should-have-a-face/
 categories:
   - Ethics
   - Thoughts
 ---
 [Product Ethics?]
 
-In my parent&#8217;s large suburban home, there are a multitude of things. Those that I cherish most are either of most utility, [likely in my backpack](http://www.rahilpatel.com/blog/everything-i-own "Everything I Own") (some of which are from small companies whom I am able to contact), or an art object by someone I at least know by name or stage name.
+In my parent's large suburban home, there are a multitude of things. Those that I cherish most are either of most utility, <a href="http://www.rahilpatel.com/blog/everything-i-own" title="Everything I Own">likely in my backpack</a> (some of which are from small companies whom I am able to contact), or an art object by someone I at least know by name or stage name.
 
 But of the products in the house, this creates a very disproportionate amount of people I am aware of.
 
@@ -26,7 +26,7 @@ Surely these thoughts become unconscious or never conscious or eventually lost i
 
 In the developed world, people often buy things from the person who created it via crafting, farming, or just putting tea in a cup. The gratitude is wholehearted and leaves a positive feeling to both.
 
-The hope is that perhaps when one sits in their home and cut their favorite fruit, with their favorite knife, that they don&#8217;t love just the knife, but are able to be thankful to those Latin Americans factory workers that materialized it with a little picture. The house would be full of little pictures. Perhaps it would add a bit more connection in such an isolated environment, or more disgust. Both are positive outcomes.
+The hope is that perhaps when one sits in their home and cut their favorite fruit, with their favorite knife, that they don't love just the knife, but are able to be thankful to those Latin Americans factory workers that materialized it with a little picture. The house would be full of little pictures. Perhaps it would add a bit more connection in such an isolated environment, or more disgust. Both are positive outcomes.
 
 Until the developed world adopts this standard, it is up to people to create tiny photos of the creators, and post it on every object that they own.
 

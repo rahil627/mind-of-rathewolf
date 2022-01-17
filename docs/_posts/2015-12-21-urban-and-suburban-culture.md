@@ -2,10 +2,10 @@
 id: 5833
 title: Urban and Suburban Culture
 date: 2015-12-21T11:05:10-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=5833
-permalink: /urban-and-suburban-culture
+permalink: /urban-and-suburban-culture/
 categories:
   - Environmental Psychology
   - Humanities
@@ -14,5 +14,4 @@ categories:
   - Thoughts
 ---
 21/12/15
-
-> City culture has space as a factor. Suburban culture does not, [therefore] it relies on media.
+<blockquote>City culture has space as a factor. Suburban culture does not, [therefore] it relies on media.</blockquote>

@@ -2,7 +2,7 @@
 id: 6834
 title: The Desire to Alter the Environment
 date: 2016-06-01T01:49:57-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=6834
 permalink: /?p=6834
@@ -11,5 +11,7 @@ medium_post:
 categories:
   - Uncategorized
 ---
-> In nature, or village like settlements, there is freedom because there is space, to build and accumulate. In the city, there is not. Instead, one spends more time restructuring [altering] the [existing] natural and space, instead of building. That \*\*is\*\* the creative replacement. To rethink space within an already built environment, because the city currently is the best form it can be.  
-> <cite>from a paper before 5/2016, perhaps several months before</cite>
+<blockquote>In nature, or village like settlements, there is freedom because there is space, to build and accumulate. In the city, there is not. Instead, one spends more time restructuring [altering] the [existing] natural and space, instead of building. That **is** the creative replacement. To rethink space within an already built environment, because the city currently is the best form it can be.
+<cite>from a paper before 5/2016, perhaps several months before</cite>
+</blockquote>
+

@@ -2,10 +2,10 @@
 id: 5839
 title: The Organization of the World
 date: 2015-12-21T08:47:25-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=5839
-permalink: /the-organization-of-the-world
+permalink: /the-organization-of-the-world/
 categories:
   - Humanities
   - Personal

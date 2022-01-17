@@ -2,10 +2,10 @@
 id: 3848
 title: Epicureanism in the Suburbs
 date: 2014-12-28T20:09:25-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=3848
-permalink: /epicureanism-in-the-suburbs
+permalink: /epicureanism-in-the-suburbs/
 categories:
   - Ethics
   - Social Philosophy
@@ -19,7 +19,7 @@ The commute lacks experience. Entering a car, getting outside of a neighborhood,
 
 Therefore, to have an experience with people and the environment become less efficient.
 
-Media becomes a more effective option. Of course, at the cost of a real experience &#8212; observing reality and being a part of society.
+Media becomes a more effective option. Of course, at the cost of a real experience -- observing reality and being a part of society.
 
 Sole use of media is a less effective method of gaining knowledge than real experience.
 

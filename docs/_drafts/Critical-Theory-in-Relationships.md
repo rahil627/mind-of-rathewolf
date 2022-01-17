@@ -2,7 +2,7 @@
 id: 6109
 title: Critical Theory in Relationships
 date: 2016-06-01T00:54:42-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=6109
 permalink: /?p=6109
@@ -15,9 +15,9 @@ I recently had a good conversation with a good friend. When thinking about what 
 
 There is no gift-giving, the gift is human development.
 
-When I spend time in a relationship, I want to learn from that person&#8217;s experience, share my own, guide the person to the right direction in knowledge and in space. This is probably why I enjoy social organizing: by connecting people with the right wisdom, through material (media, urban material) and people, I push them in directions they desire or perhaps will desire.
+When I spend time in a relationship, I want to learn from that person's experience, share my own, guide the person to the right direction in knowledge and in space. This is probably why I enjoy social organizing: by connecting people with the right wisdom, through material (media, urban material) and people, I push them in directions they desire or perhaps will desire.
 
-definitions from Wikipedia:  
-Critical Theory &#8211; &#8220;to liberate human beings from the circumstances that enslave them&#8230;Critical theory maintains that ideology is the principal obstacle to human liberation.&#8221;
+definitions from Wikipedia:
+Critical Theory -  "to liberate human beings from the circumstances that enslave them...Critical theory maintains that ideology is the principal obstacle to human liberation."
 
-Altruism &#8211; &#8220;or selflessness is the principle or practice of concern for the welfare of others.&#8221;
+Altruism - "or selflessness is the principle or practice of concern for the welfare of others."

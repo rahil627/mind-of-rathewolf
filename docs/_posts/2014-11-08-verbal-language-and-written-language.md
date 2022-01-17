@@ -2,10 +2,10 @@
 id: 2891
 title: Verbal Language and Written Language
 date: 2014-11-08T07:49:06-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2891
-permalink: /verbal-language-and-written-language
+permalink: /verbal-language-and-written-language/
 categories:
   - Communication
   - Media
@@ -20,9 +20,9 @@ When living a less sedentary lifestyle, one gets into a habit of using more audi
 
 It feels as if the world was constructed around books, and now with technology, feels rather ancient.
 
-Perhaps in a future, instead of office buildings, people would just gather in public areas and do their work while walking around and talking; If it&#8217;s cold, there could be a fireplace.
+Perhaps in a future, instead of office buildings, people would just gather in public areas and do their work while walking around and talking; If it's cold, there could be a fireplace.
 
-readings todo:  
-[en.wikipedia.org/wiki/Understanding\_Media:\_The\_Extensions\_of_Man](http://en.wikipedia.org/wiki/Understanding_Media:_The_Extensions_of_Man){.autohyperlink}  
-[en.wikipedia.org/wiki/Technology\_and\_society](http://en.wikipedia.org/wiki/Technology_and_society){.autohyperlink}  
-[en.wikipedia.org/wiki/Technoculture](http://en.wikipedia.org/wiki/Technoculture){.autohyperlink}
+readings todo:
+http://en.wikipedia.org/wiki/Understanding_Media:_The_Extensions_of_Man
+http://en.wikipedia.org/wiki/Technology_and_society
+http://en.wikipedia.org/wiki/Technoculture

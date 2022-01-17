@@ -2,10 +2,10 @@
 id: 2134
 title: An Attempt to Write Everything I Know
 date: 2014-06-27T17:11:19-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2134
-permalink: /an-attempt-to-write-everything-i-know
+permalink: /an-attempt-to-write-everything-i-know/
 categories:
   - Personal
 ---

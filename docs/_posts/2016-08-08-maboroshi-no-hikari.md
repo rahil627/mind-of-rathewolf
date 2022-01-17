@@ -2,10 +2,10 @@
 id: 7777
 title: '幻の光 (~Will-o&#8217;-wisp )'
 date: 2016-08-08T12:17:45-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=7777
-permalink: /maboroshi-no-hikari
+permalink: /maboroshi-no-hikari/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:74:"https://cdn-images-1.medium.com/fit/c/200/200/1*dmbNkD5D-u45r44go_cf0g.png";s:10:"author_url";s:28:"https://medium.com/@rahil627";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"bdf645a6244b";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"7a04709b0155";s:6:"status";s:6:"public";s:3:"url";s:89:"https://medium.com/@rahil627/%E5%B9%BB%E3%81%AE%E5%85%89-maboroshi-no-hikari-bdf645a6244b";}'
 categories:
@@ -14,19 +14,18 @@ categories:
   - Films
   - Humanities
 ---
-Japanese title: 幻の光  
-romanization: Maboroshi no Hikari  
-literal translation: phantasmic light  
-meaningful translation: a trick of light, will-o&#8217;-the-wisp  
+Japanese title: 幻の光
+romanization: Maboroshi no Hikari
+literal translation: phantasmic light
+meaningful translation: a trick of light, will-o'-the-wisp
 English title: Maborosi
 
-Well, that&#8217;s quite confusing, ain&#8217;t it?
+Well, that's quite confusing, ain't it?
 
-From [Yahoo Answers](https://answers.yahoo.com/question/index?qid=20100112083031AA1feLj):
+From <a href="https://answers.yahoo.com/question/index?qid=20100112083031AA1feLj">Yahoo Answers</a>:
+<blockquote>幻 is more often used as a metaphor for things that are troubling you, ie. spectres from the past, things that are hard to grasp, etc. (ex. 幻の名物 - phantom souvenir - people say it is available, but you cannot find it) This is also often used when describing thinking about those who have died, especially those close to us, but less as a ghostbusters ghost and more as a ghost of the mind.</blockquote>
 
-> 幻 is more often used as a metaphor for things that are troubling you, ie. spectres from the past, things that are hard to grasp, etc. (ex. 幻の名物 &#8211; phantom souvenir &#8211; people say it is available, but you cannot find it) This is also often used when describing thinking about those who have died, especially those close to us, but less as a ghostbusters ghost and more as a ghost of the mind.
-
-## notes from second viewing: 
+<h2> notes from second viewing: </h2>
 
 Written the day after watching it, skimming through the video, like my old film-watching days:
 
@@ -42,7 +41,7 @@ After the news of her husbands suicide, she bikes, ruminating. I do the same.
 
 At a later time, she dwells on past photos. I do the same.
 
-Strange match-making service. Quite similar to Indians. Is having a partner that important? Or is it merely cultural? I can imagine an American getting on fine without a partner, but I’d guess an Asian would rather \*want\* to share the experience.
+Strange match-making service. Quite similar to Indians. Is having a partner that important? Or is it merely cultural? I can imagine an American getting on fine without a partner, but I’d guess an Asian would rather *want* to share the experience.
 
 Japan’s geography is much like Taiwan. The coast is similar to the coast I’m currently near, on the southern tip of Taiwan, with a coral coast; quiet, small towns.
 
@@ -92,16 +91,16 @@ The new husband is great, spending time with the kid, helping the son ride his b
 
 It’s during the winter humans ruminate, and during the spring and summer that humans take action. She decided to leave.
 
-obvious screenplay bits:  
-new husband as a shadow  
-she says “you nut” to her new husband, which was something her husband said to her  
-her grandmother disappear into the cold and dies, the new grandmother figure disappears but comes back  
-like her, the new husband senses something wrong, but perhaps feels it’s small  
-son wants to buy a green bicycle with a bell like his father had  
-Ozu ending  
-&#8211; season change  
-&#8211; position of her a little behind  
-[probably missed a bunch, such as cleaning the floors, empty rooms, and more]  
+obvious screenplay bits:
+new husband as a shadow
+she says “you nut” to her new husband, which was something her husband said to her
+her grandmother disappear into the cold and dies, the new grandmother figure disappears but comes back
+like her, the new husband senses something wrong, but perhaps feels it’s small
+son wants to buy a green bicycle with a bell like his father had
+Ozu ending
+  - season change
+  - position of her a little behind
+[probably missed a bunch, such as cleaning the floors, empty rooms, and more]
 —
 
 When I saw this during my film-consuming younger years, I thought it was great. Maybe it was the lack of words, emphasis on visuals, human gesture, and ideas.
@@ -112,5 +111,6 @@ It is strange when the camera sits on her husband, in the factory, then again, w
 
 In a realistic analysis now: I know East Asian cultures tend to put blame on themselves, thus resulting in suicide, as opposed to Americans, who may find optimism in other motives (art, work, media), move on more easily (more shallow relationships), blame it on others, or some other method of coping.
 
-Indeed, Japan’s culture seems to be on the extreme end of the family-community spectrum. There is so much emphasis on family. So much so that memories, mementos, time, seem to create a whole different mindset [todo: perhaps add Our Little Sister thoughts here too]. Every object in a house has a reason or meaning. Any change in the family relationship is considered a paradigm shift. Every family decision is thought about deeply, decided formally. This is what frightens me about Japanese culture, because I’m on other extreme end — community and playing / exploration.  
+Indeed, Japan’s culture seems to be on the extreme end of the family-community spectrum. There is so much emphasis on family. So much so that memories, mementos, time, seem to create a whole different mindset [todo: perhaps add Our Little Sister thoughts here too]. Every object in a house has a reason or meaning. Any change in the family relationship is considered a paradigm shift. Every family decision is thought about deeply, decided formally. This is what frightens me about Japanese culture, because I’m on other extreme end — community and playing / exploration.
 — (end of first writing session)
+

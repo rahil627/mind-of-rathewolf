@@ -2,10 +2,10 @@
 id: 3704
 title: Create for Survival
 date: 2014-12-04T19:47:09-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=3704
-permalink: /create-for-survival
+permalink: /create-for-survival/
 categories:
   - Action
   - Ethics
@@ -19,7 +19,7 @@ Act for survival.
 
 After one is able to survive, discontentment arises.
 
-To cure the discontent, humans create (or sometimes consumption, heavily exercises, or a negative passion &#8212; war).
+To cure the discontent, humans create (or sometimes consumption, heavily exercises, or a negative passion -- war).
 
 The nature of a human in the developed world is to create.
 

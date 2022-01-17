@@ -2,10 +2,10 @@
 id: 4914
 title: おもひでぽろぽろ (~Memories Drip-drop)
 date: 2015-10-10T15:43:50-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4914
-permalink: /only-yesterday
+permalink: /only-yesterday/
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:74:"https://cdn-images-1.medium.com/fit/c/200/200/1*dmbNkD5D-u45r44go_cf0g.png";s:10:"author_url";s:28:"https://medium.com/@rahil627";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"8bb98a9bf50f";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"7a04709b0155";s:6:"status";s:6:"public";s:3:"url";s:56:"https://medium.com/@rahil627/only-yesterday-8bb98a9bf50f";}'
 categories:
@@ -14,36 +14,19 @@ categories:
   - Films
   - Humanities
 ---
-Japanese: おもひでぽろぽろ  
-romanization: Omoide Poro Poro  
-literal: memories drip-drop  
+Japanese: おもひでぽろぽろ
+romanization: Omoide Poro Poro
+literal: memories drip-drop
 English: Only Yesterday
 
-<div id="toc_container" class="toc_transparent have_bullets">
-  <p class="toc_title">
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#9202016_and_the_few_days_before">9/20/2016 and the few days before</a>
-    </li>
-    <li>
-      <a href="#992016_daytime">9/9/2016 daytime</a>
-    </li>
-    <li>
-      <a href="#10102015">10/10/2015</a>
-    </li>
-  </ul>
-</div>
+<h2>9/20/2016 and the few days before</h2>
 
-## <span id="9202016_and_the_few_days_before">9/20/2016 and the few days before</span>
+I've watched the ending of the film a few times recently:
+Such a great end to the film. I can't think of other animated films that can match.
 
-I&#8217;ve watched the ending of the film a few times recently:  
-Such a great end to the film. I can&#8217;t think of other animated films that can match.
+<blockquote>Just shake hands?</blockquote>
 
-> Just shake hands?
-
-Taeko imagines a life as a farmer, with Toshio. The idea is there. The [ideal](http://www.rahilpatel.com/blog/a-japanese-ideal) is there. Then next day, she acts upon it.
+Taeko imagines a life as a farmer, with Toshio. The idea is there. The <a href="http://www.rahilpatel.com/blog/a-japanese-ideal">ideal</a> is there. Then next day, she acts upon it.
 
 When one leaves a place, a person, a society, that one loves, the reaction is that of Taeko sticking outside the train window, looking back: a mildly surprised blank expression — What now? It happens every time for me too, an awkward good-bye, then thinking while leaving. Or, a lack of thinking, emptiness. I usually take a nap being tired of packing and good-byes, and only begin thinking and living the day I arrive at the destination. Taeko, instead, stays up, with a blank expression, thinking, as the wonderful scenery passes: what now?
 
@@ -53,18 +36,17 @@ That, compounded with the fact she felt love for the first time, makes the decis
 
 The younger Taeko tugs at her older self’s arm — C’mon! And from a blank expression to realization, she decides, and acts upon the decision.
 
-And that’s another example of **socialization in a Takahata film**.
+And that’s another example of <strong>socialization in a Takahata film</strong>.
 
-## <span id="992016_daytime">9/9/2016 daytime</span>
-
+<h2>9/9/2016 daytime</h2>
 [todo: review thoughts]
 
-> ”Thanks to you, I finally have family in the countryside&#8221;
+<blockquote>”Thanks to you, I finally have family in the countryside"</blockquote>
 
 Oh such memories of people I’ve met or lived with in the countryside. The hostels and countryside houses make me so happy. Such a good life. Such sweet, good-hearted people.
 
-”As the memories came flooding back.&#8221;  
-&#8212;
+”As the memories came flooding back."
+--
 
 The family gets together to eat a pineapple. So much sharing and conserving of food. Wasting food goes against culture in a huge way, perhaps due to war and history. Though now, with the industrial revolution, it’s strange to see. And it still exists. It’s irrational now, yet the culture still exists.
 
@@ -88,12 +70,12 @@ Chrysalis stage? I don’t remember this scene.
 
 But when one stops working, the mind wanders, dreams, desires, an ideal life?
 
-**Flexing female strength (ability, mind) then giving in to culture.**
+<strong>Flexing female strength (ability, mind) then giving in to culture.</strong>
 
-Memory and then sleep. Yep. That’s actually how it works. The mind wanders then contemplates.  
-&#8212;
+Memory and then sleep. Yep. That’s actually how it works. The mind wanders then contemplates.
+--
 
-Continued from the next day:  
+Continued from the next day:
 Mmm, thinking of stealing a bag is a cultural problem from the city. The interaction between city and rural changes, to being more physical, without worry. Like Jon said, in India a stranger grabbed a kid’s arm to get him on the train, without asking. It’s normal, in the culture of that place.
 
 Toshio likes his car. Rural people like their materials. As do I. It’s a possessive thing, habituation. And music. Zombie-like rural life. Less thinking, routine action.
@@ -114,11 +96,11 @@ He says that the farmers didn’t make money from safflower. And also in the pas
 
 Barbecue on the mountain. I recently had a barbecue under a bridge in Lanyu.
 
-> &#8220;Fewer people live for their work&#8221;
-> 
-> ”I don’t live for my job, but I don’t hate it either&#8221;
-> 
-> ”I could farm for 24 hours a day&#8221;
+<blockquote>"Fewer people live for their work"
+
+”I don’t live for my job, but I don’t hate it either"
+
+”I could farm for 24 hours a day"</blockquote>
 
 His ethics are unbelievably good-hearted.
 
@@ -142,7 +124,7 @@ Rain doesn’t stop people from working, even if the work is done outside. Just 
 
 As a smarter city person, she thinks of history of the society.
 
-> “If I could’ve worked like this as a child, my school essays would’ve been really interesting”
+<blockquote>“If I could’ve worked like this as a child, my school essays would’ve been really interesting”</blockquote>
 
 Need experience to write.
 
@@ -176,30 +158,28 @@ Good move by Toshio, paralleling the math problem. “We farmers give up too eas
 
 As they walk and talk, tourism exists in the background.
 
-> “I could never give up to it completely.”
-
+<blockquote>“I could never give up to it completely.”</blockquote>
 That is exactly how I feel.
 
 Haha ski instructor, kind of like how I want to be a diving instructor in Lanyu. Physical prowess of rural people.
 
-**The history of an area** is almost philosophical! Haven’t seen that in an anime before, or any film. Love it. Observant.
+<strong>The history of an area</strong> is almost philosophical! Haven’t seen that in an anime before, or any film. Love it. Observant.
 
-> “That’s why I felt so at home. Although I didn’t grow up here, my soul was at home here. So that’s it.”
+<blockquote>“That’s why I felt so at home. Although I didn’t grow up here, my soul was at home here. So that’s it.”</blockquote>
 
-[Takahata romanticized nature, farmer life.](http://www.rahilpatel.com/blog/a-japanese-ideal) Depicts it real, as a struggle, with history, but the main character also has this romantic view.
+<a href="http://www.rahilpatel.com/blog/a-japanese-ideal">Takahata romanticized nature, farmer life.</a> Depicts it real, as a struggle, with history, but the main character also has this romantic view.
 
-Toshio says in theory it’s good, but in reality it’s hard work. It’s repeated, but worth repeating, as it does seem great as an idea, but very few go back.  
-&#8211; [It&#8217;s a choice in lifestyle](http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants), to live as a farmer. Under global capitalism it doesn&#8217;t make much money, as mentioned many times. Is it even considered progress for humankind? Why not eat industrially-created dry foods and use industrially-create artificial dye, as opposed to using one&#8217;s own body to struggle to inefficiently extract commodities from nature? The two jobs result in a vastly different experience, and as always, it&#8217;s the experience that matters. Driving through those fields, thinking of the history of the area, thinking broadly of lifestyles (/ all the ways people live in all societies) in all points in history. Sure, it&#8217;s more materially efficient for Taeko to be a an office bee in a company&#8217;s hive, but there, she won&#8217;t have experiences that deviate from other city bees. There, she can only experience through media, such as Basho, or virtual reality. The current iteration of the modern city becomes habituated as the reality of the world for many people in the world, but what about all of other possible ways to live? What could those experiences lead to?
+Toshio says in theory it’s good, but in reality it’s hard work. It’s repeated, but worth repeating, as it does seem great as an idea, but very few go back.
+  - <a href="http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants">It's a choice in lifestyle</a>, to live as a farmer. Under global capitalism it doesn't make much money, as mentioned many times. Is it even considered progress for humankind? Why not eat industrially-created dry foods and use industrially-create artificial dye, as opposed to using one's own body to struggle to inefficiently extract commodities from nature? The two jobs result in a vastly different experience, and as always, it's the experience that matters. Driving through those fields, thinking of the history of the area, thinking broadly of lifestyles (/ all the ways people live in all societies) in all points in history. Sure, it's more materially efficient for Taeko to be a an office bee in a company's hive, but there, she won't have experiences that deviate from other city bees. There, she can only experience through media, such as Basho, or virtual reality. The current iteration of the modern city becomes habituated as the reality of the world for many people in the world, but what about all of other possible ways to live? What could those experiences lead to?
 
 She tries country life. A guy helped her live it.
 
 Haha essays and creativity through a rehearsed play. She realized she could do anything. That’s creativity. :) I think some of these dreams may be from Takahata’s past too, as he’s quite studious too.
 
-## <span id="10102015">10/10/2015</span>
-
+<h2>10/10/2015</h2>
 [todo: review thoughts]
 
-只有昨天:  
+只有昨天:
 Miyazaki是製片人。takahata是導演。
 
 mmm，開始在城市，想要去自然。
@@ -272,15 +252,15 @@ mmm，全人物是女生的。媽媽對他們擔憂，他們想要快結婚。
 
 這個電影太容易。太平常。可是這是小孩的電影。
 
-好人，好風景，比城市好。  
-&#8211; 可是，有費，需要很多工作，industrial revolution and time not mentioned.
+好人，好風景，比城市好。
+- 可是，有費，需要很多工作，industrial revolution and time not mentioned.
 
 The problem with narratives is that they show life, instead of showing a method to improve society. Narratives will only deeply affect those who have experienced similar times as the characters have, which is often limited to the society the characters live in.
 
-For example, here, I am reminded of farmers in Taiwan, Taiwan&#8217;s rural areas such as Yilan county which I am currently residing in and the east coast, which I have travelled recently.
+For example, here, I am reminded of farmers in Taiwan, Taiwan's rural areas such as Yilan county which I am currently residing in and the east coast, which I have travelled recently.
 
 Other than that, nothing to the film applies to my life, and is therefore impractical to me.
 
-General themes exist. The special ones here are the fakeness of short-term tourism, the difficulty of socialization, and a female&#8217;s perspective in contemporary society.
+General themes exist. The special ones here are the fakeness of short-term tourism, the difficulty of socialization, and a female's perspective in contemporary society.
 
 But as usual, narratives are just consumables, not reality, nothing to react to. Quite different from a practical handbook, a workshop, or a social experience.

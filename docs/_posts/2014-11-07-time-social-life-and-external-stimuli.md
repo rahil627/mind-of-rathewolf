@@ -2,18 +2,19 @@
 id: 2688
 title: Time, Social Life, and External Stimuli
 date: 2014-11-07T01:30:25-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2688
-permalink: /time-social-life-and-external-stimuli
+permalink: /time-social-life-and-external-stimuli/
 categories:
   - Psychology
   - Social Philosophy
   - Thoughts
   - Time Perception
 ---
-> 10/3  
-> Should life be based on some kind of time? Why? Why not just live according to one&#8217;s body time? Time depends on current interest. If one needs to talk to people, than one likely should wake up with those people. If one&#8217;s friends wake up at the same time as you, then the time of others does not matter.
+<blockquote>
+10/3
+Should life be based on some kind of time? Why? Why not just live according to one's body time? Time depends on current interest. If one needs to talk to people, than one likely should wake up with those people. If one's friends wake up at the same time as you, then the time of others does not matter.</blockquote>
 
 There are two factors in time. Personal interest and the sun.
 

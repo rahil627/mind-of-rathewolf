@@ -2,10 +2,10 @@
 id: 2918
 title: Social Life in Proximity
 date: 2014-11-10T06:37:12-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2918
-permalink: /social-life-in-proximity
+permalink: /social-life-in-proximity/
 categories:
   - Psychology
   - Schizoid Personality Disorder
@@ -23,10 +23,10 @@ If I live in a house with several roommates, I will talk to those people more th
 
 If I live in another country, then I do not talk to the people in the last country.
 
-I believe I do this because I have no control of my social impulses. If someone is nearby, I talk. If there is a delicious piece of foodstuffs nearby, I eat it. It&#8217;s not much different. It&#8217;s a pleasure to talk, as it is to eat. The proximity of pleasures result in action. Perhaps that makes me [hedonistic](http://www.rahilpatel.com/blog/hedonism "Hedonism").
+I believe I do this because I have no control of my social impulses. If someone is nearby, I talk. If there is a delicious piece of foodstuffs nearby, I eat it. It's not much different. It's a pleasure to talk, as it is to eat. The proximity of pleasures result in action. Perhaps that makes me <a href="http://www.rahilpatel.com/blog/hedonism" title="Hedonism">hedonistic</a>.
 
-This trait alone causes destruction of relationships, makes me prone to [social determinism](http://www.rahilpatel.com/blog/social-determinism "Social Determinism"), and eventually leads to severe [adaptation](http://www.rahilpatel.com/blog/adaptation "Adaptation") to different societies.
+This trait alone causes destruction of relationships, makes me prone to <a href="http://www.rahilpatel.com/blog/social-determinism" title="Social Determinism">social determinism</a>, and eventually leads to severe <a href="http://www.rahilpatel.com/blog/adaptation" title="Adaptation">adaptation</a> to different societies.
 
 The only way to make me work is to put me in a work place. The only way to make me talk is to place me in a place filled with people. The only way for me to make art is to place me in a place where many people make art. The only way for me to work for charity is to place me in a place that requires charity.
 
-Sure, I make decisions, sometimes getting out of society and therefore escaping social determinism, but, for the most part, it seems my life has almost entirely depended on where I place myself. Therefore, [the placement](http://www.rahilpatel.com/blog/the-ideal-neighborhood "The Ideal Neighborhood") of myself is of utmost importance.
+Sure, I make decisions, sometimes getting out of society and therefore escaping social determinism, but, for the most part, it seems my life has almost entirely depended on where I place myself. Therefore, <a href="http://www.rahilpatel.com/blog/the-ideal-neighborhood" title="The Ideal Neighborhood">the placement</a> of myself is of utmost importance.

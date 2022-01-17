@@ -2,18 +2,18 @@
 id: 4637
 title: Will to Experience
 date: 2015-09-06T15:49:47-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4637
-permalink: /will-to-experience
+permalink: /will-to-experience/
 categories:
   - Experience
   - Philosophy
   - Thoughts
 ---
-A bit contrasting to [Will to Make](http://www.rahilpatel.com/blog/will-to-make).
+A bit contrasting to <a href="http://www.rahilpatel.com/blog/will-to-make">Will to Make</a>.
 
-It&#8217;s not about organizing, it&#8217;s about experiencing.
+It's not about organizing, it's about experiencing.
 
 Things that are considered experiences, but not making: talking, performing, physical movement.
 

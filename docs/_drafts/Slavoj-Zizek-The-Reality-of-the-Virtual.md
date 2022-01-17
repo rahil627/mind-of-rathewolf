@@ -2,7 +2,7 @@
 id: 5998
 title: 'Slavoj Zizek: The Reality of the Virtual'
 date: 2015-12-29T15:19:00-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=5998
 permalink: /?p=5998
@@ -18,8 +18,8 @@ categories:
 ---
 My notes during a viewing of the film.
 
-29-30/12/15  
-Slavoj Zizek &#8211; Reality of the Virtual  
+29-30/12/15
+Slavoj Zizek - Reality of the Virtual
 People think virtual reality is interesting, but Zizek is interested on how reality is affected by virtual things.
 
 Lacan: Imaginary, Symbolic, Real.
@@ -32,13 +32,13 @@ Beliefs are virtual. Nobody really believes, we just have to presupposes another
 
 Our beliefs must remain virtual, because if we were to believe too virtually, because then it would be too self-destructive. We no longer appear normal, but as idiots. For example when a person actually takes religion or politics too seriously, there is something quite monstrous with that person, a puppet.
 
-Real virtual:  
+Real virtual:
 To understand the Real virtual, one must go over the triad again, because each node is affected by three nodes:
 
 Imaginary Real: Images that are so traumatic, real, but too strong to be perceived. Examples, catastrophes, The Thing from horror and science fiction. Nonetheless it is imaginary.
 
-Symbolic Real: Example: scientific discourse, scientific formulas, like quantum physics. Why is this real? Because it resists symbolization. It is real but unable to think of it in everyday life. [The feeling I got after reading A Short History of Nearly Everything and Bertrand Russell’s Problems in Philosophy. Ontology.] It just works, but if you try to build an ontology on it, it doesn’t work, it’s meaningless.  
-&#8211; [I found this interesting, because people must have the memory of symbols in the mind, using it a lens to reality, a kind of ideological goggles. For example, sometimes I think at the level of materials for creativity, materials for economics a la Marx, micro-level for science thoughts, using critical theorist ideas as a lens to describe reality.*]
+Symbolic Real: Example: scientific discourse, scientific formulas, like quantum physics. Why is this real? Because it resists symbolization. It is real but unable to think of it in everyday life. [The feeling I got after reading A Short History of Nearly Everything and Bertrand Russell’s Problems in Philosophy. Ontology.] It just works, but if you try to build an ontology on it, it doesn’t work, it’s meaningless.
+  - [I found this interesting, because people must have the memory of symbols in the mind, using it a lens to reality, a kind of ideological goggles. For example, sometimes I think at the level of materials for creativity, materials for economics a la Marx, micro-level for science thoughts, using critical theorist ideas as a lens to describe reality.*]
 
 Real Real: Example: the chants that soldiers give during war — “I don’t know but I was told, Eskimos blah blah blah”. So, a descriptive detail? In the film Sound of Music, it depicts the nazi invasion of Austria, but in the film, nazis are dressed not much different from decadent Jews and the Austrians act not much different than fascists. So the narrative depicts one thing, but at another level, the micro-sense, there is a different message. In this case, it depicts an ideology of democracy while secretly displaying our fascist dreams [whoa]. [Deconstruction? The problem often is that Zizek relies on communication as his test case, as opposed to reality.]
 
@@ -50,7 +50,7 @@ The problem with American politics is just that: that they are not aware of unkn
 
 Virtual Real [finally!]: Example metaphor: attractors of a magnetic field, iron filaments being attracted to a magnetic field? The magnetic field doesn’t exist, but it has an effect: it actually structures the elements around it [again, ideas embedded into the mind or culture but unaware or unconscious of, actually effect reality].
 
-The shift: Example metaphor: There is a shift in Freud similar to Einstein, that, from special to general, in the theory of relativity and in the psychoanalysis of Volfman. That, it isn’t a piece of matter being traumatically affected by another real force (space or traumatic event), but, the reality is that the force already exists, a kind of formal imbalance, and it traumatically affects reality [whoa!]. [So one must shift their focus from the symbolic real to the real real {a reference to the real} to really understand reality. The problems are within culture, ideas, etc., not the symbols of reality.\*****]
+The shift: Example metaphor: There is a shift in Freud similar to Einstein, that, from special to general, in the theory of relativity and in the psychoanalysis of Volfman. That, it isn’t a piece of matter being traumatically affected by another real force (space or traumatic event), but, the reality is that the force already exists, a kind of formal imbalance, and it traumatically affects reality [whoa!]. [So one must shift their focus from the symbolic real to the real real {a reference to the real} to really understand reality. The problems are within culture, ideas, etc., not the symbols of reality.*****]
 
 What does this mean for politics? How to use this to serve us in the analysis of political ideological phenomenon? Example: anti-semitism, the figure of the Jew, is an external trauma that intrudes social balance, curving social space. Class struggle, or more generally, social antagonism comes first. Social space is already curved, imbalanced. In order to account for it, we invent the figure of the Jew.
 

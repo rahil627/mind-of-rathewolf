@@ -2,16 +2,16 @@
 id: 2665
 title: Contemporary Philosophy Books are too Bulky
 date: 2014-11-06T03:43:03-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2665
-permalink: /contemporary-philosophy-books-are-too-bulky
+permalink: /contemporary-philosophy-books-are-too-bulky/
 categories:
   - Literature
   - Philosophy
   - Thoughts
 ---
-It&#8217;s natural for people to have an idea of the nature of the world, but I find it unnecessary for such lengthy proofs.
+It's natural for people to have an idea of the nature of the world, but I find it unnecessary for such lengthy proofs.
 
 If one is presenting a new proposition, then it should be just that. No book required. The proposition will likely be invalidated soon.
 

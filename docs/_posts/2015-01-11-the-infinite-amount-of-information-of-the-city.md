@@ -2,16 +2,16 @@
 id: 4496
 title: The Infinite Amount of Information of the City
 date: 2015-01-11T23:26:20-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4496
-permalink: /the-infinite-amount-of-information-of-the-city
+permalink: /the-infinite-amount-of-information-of-the-city/
 categories:
   - Mind and Matter
   - New York
   - Philosophy
 ---
-A digression from the end of [The Limits of my Language](http://www.rahilpatel.com/blog/the-limits-of-my-language).
+A digression from the end of <a href="http://www.rahilpatel.com/blog/the-limits-of-my-language">The Limits of my Language</a>.
 
 When I think of New York City. I think of an infinite amount of information that I actually have, of ethnic enclaves, buildings, waterways, shops, streets, people, interactions, technology, places of art, places of education, districts, and so on.
 

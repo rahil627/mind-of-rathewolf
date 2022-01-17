@@ -2,25 +2,25 @@
 id: 3960
 title: Large and Small Communities
 date: 2015-01-13T00:14:43-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=3960
-permalink: /large-and-small-communities
+permalink: /large-and-small-communities/
 categories:
   - Social Philosophy
 ---
-A thought from a paper:  
-Shouldn&#8217;t one be in the place where the largest decisions that affect the world are? The cities? Where post-politics exist?
+A thought from a paper:
+Shouldn't one be in the place where the largest decisions that affect the world are? The cities? Where post-politics exist?
 
 New York? You could build a protest against imperial wars on several countries, or just block wall st., and destroy the global market.
 
-Post-politics exist in small communities too &#8212; artist colonies, shared dwellings, rural communities, small towns. Is that enough?
+Post-politics exist in small communities too -- artist colonies, shared dwellings, rural communities, small towns. Is that enough?
 
-It&#8217;s enough for the community; It&#8217;s self-sufficient. What about the rest of the world?
+It's enough for the community; It's self-sufficient. What about the rest of the world?
 
 Is a larger community better than a smaller one?
 
-It&#8217;s more diverse, has more materials, has more population density.
+It's more diverse, has more materials, has more population density.
 
 Diversity combines disciplines, leading to more creativity.
 

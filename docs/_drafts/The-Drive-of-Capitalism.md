@@ -2,7 +2,7 @@
 id: 4559
 title: The Drive of Capitalism
 date: 2015-09-03T16:21:41-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4559
 permalink: /?p=4559

@@ -2,10 +2,10 @@
 id: 4624
 title: Working Memory and Community
 date: 2015-09-08T17:04:44-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4624
-permalink: /working-memory-and-community
+permalink: /working-memory-and-community/
 categories:
   - Human Geography
   - Humanities

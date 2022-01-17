@@ -2,7 +2,7 @@
 id: 6845
 title: Being Political in an Apolitical Society
 date: 2016-06-01T02:03:08-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=6845
 permalink: /?p=6845
@@ -11,5 +11,6 @@ medium_post:
 categories:
   - Uncategorized
 ---
-> today&#8217;s good feelings. shower, bike, summer weather, holiday, kids play. Love it. A different world from Xizhi. Eating at the church felt fine because the weather [is great] and [because] my body is fine. I think less of others.  
-> <cite>written after intense writing of <a href="http://www.rahilpatel.com/blog/a-study-plan">a study plan</a> in Xizhi, whilst being homeless at Taida</cite>
+<blockquote>today's good feelings. shower, bike, summer weather, holiday, kids play. Love it. A different world from Xizhi. Eating at the church felt fine because the weather [is great] and [because] my body is fine. I think less of others.
+<cite>written after intense writing of <a href="http://www.rahilpatel.com/blog/a-study-plan">a study plan</a> in Xizhi, whilst being homeless at Taida</cite>
+</blockquote>

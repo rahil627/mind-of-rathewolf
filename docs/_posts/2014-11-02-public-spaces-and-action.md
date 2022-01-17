@@ -2,10 +2,10 @@
 id: 2530
 title: Public Spaces and Action
 date: 2014-11-02T06:12:35-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=2530
-permalink: /public-spaces-and-action
+permalink: /public-spaces-and-action/
 categories:
   - Art
   - Essays
@@ -14,7 +14,7 @@ categories:
 ---
 I feel there is an association to public spaces and action.
 
-By public spaces I&#8217;m mostly thinking of anywhere outside of a building, inside of a city: streets, parks, and plazas.
+By public spaces I'm mostly thinking of anywhere outside of a building, inside of a city: streets, parks, and plazas.
 
 The lack of private space, lack of media, vicinity of people and nature, and the resulting stimulation from the two, is all conducive action.
 

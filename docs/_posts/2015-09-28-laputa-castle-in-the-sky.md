@@ -2,10 +2,10 @@
 id: 4872
 title: '天空の城ラピュタ (Laputa: Castle in the Sky)'
 date: 2015-09-28T09:25:51-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4872
-permalink: /laputa-castle-in-the-sky
+permalink: /laputa-castle-in-the-sky/
 categories:
   - Art
   - Film Reviews
@@ -16,7 +16,7 @@ categories:
 
 Thoughts during a viewing of Laputa: Castle in the Sky (Japanese: 天空の城ラピュタ, romanization: Tenkū no Shiro Rapyuta):
 
-Beautiful intro production. Feels like Leonardo Da Vinci&#8217;s notebooks. Perhaps Takahata helped here.
+Beautiful intro production. Feels like Leonardo Da Vinci's notebooks. Perhaps Takahata helped here.
 
 Physical work, in tune with reality, the material world.
 
@@ -28,42 +28,42 @@ Exploration.
 
 Childhood ambitions.
 
-Always interested in flying. Even the stone allows one to float.  
-Far less realistic and cartoon like than The Wind Rises and Kaguya.  
+Always interested in flying. Even the stone allows one to float.
+Far less realistic and cartoon like than The Wind Rises and Kaguya.
 The characters eat egg, will that disappear as civilization progesses?
 
 Created new species of cows.
 
 Always grows up in nature.
 
-In the cave they drink from the river and cook their own meal.  
+In the cave they drink from the river and cook their own meal.
 The exploration of the underground is equivalent to the exploration of space.
 
 The rocks underground in harmony with the sky.
 
 A nice old rugged single traveler.
 
-Characters in Miyazaki&#8217;s films are never afraid to meet strangers, shows many forms of humanity
+Characters in Miyazaki's films are never afraid to meet strangers, shows many forms of humanity
 
 Sublime clouds.
 
-A castle in the sea is of the army. It includes a prison.  
+A castle in the sea is of the army. It includes a prison.
 Organization of humans to explore Laputa, sounds like the space program.
 
-The army, pirates, and government in search of treasure, alike.  
+The army, pirates, and government in search of treasure, alike.
 Like Kaguya, the princess suddenly came into the world, from another, but grew up on Earth.
 
 Can one go back into habit of life and forget the past?
 
 Pirates, guerrilla warfare.
 
-The boy&#8217;s pets are birds. Care shown through caring of pets, as the characters don&#8217;t have younger siblings.
+The boy's pets are birds. Care shown through caring of pets, as the characters don't have younger siblings.
 
 Destructive science, useless war machines.
 
-Lol, material jobs given to kids, indeed such a pain. Though, a bit generalizing of women&#8217;s work, quite in contrast with the grandma pirate.
+Lol, material jobs given to kids, indeed such a pain. Though, a bit generalizing of women's work, quite in contrast with the grandma pirate.
 
-Like JRPGs, Miyazaki&#8217;s a one&#8217;s are a good way to explore the world, it&#8217;s nature, people, places.
+Like JRPGs, Miyazaki's a one's are a good way to explore the world, it's nature, people, places.
 
 The pirate engineer looks like Wiley from Megaman.
 
@@ -75,21 +75,21 @@ Doing work and contributing to a community with whatever skills you have.
 
 The father pirate is good with systems, mechanical, chess, and social.
 
-Waking up from bed to another&#8217;s voice.
+Waking up from bed to another's voice.
 
-&#8220;Airships are improving, someone will find it.&#8221;
+"Airships are improving, someone will find it."
 
 Robots are strange, but peaceful, like a good human society, with their own language.
 
-&#8220;You can climb trees can&#8217;t you?&#8221;
+"You can climb trees can't you?"
 
-Army &#8220;no better than thieves&#8221;.
+Army "no better than thieves".
 
 Same family, nurtured by different habitats, nature and city.
 
-Laputa died because it couldn&#8217;t survive without the earth.
+Laputa died because it couldn't survive without the earth.
 
-Perhaps the most theme-rich of Miyazaki&#8217;s films.
+Perhaps the most theme-rich of Miyazaki's films.
 
 Some humans strive for organization, some strive to live peacefully with disorganization. The choice depends on the nurture of people. People must be nurtured with nature for a good future.
 

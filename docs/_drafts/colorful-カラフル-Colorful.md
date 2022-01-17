@@ -2,7 +2,7 @@
 id: 7980
 title: カラフル (Colorful)
 date: 2016-10-09T05:59:14-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=7980
 permalink: /?p=7980

@@ -2,10 +2,10 @@
 id: 3319
 title: Creativity as Organization from Chaos
 date: 2014-11-26T03:55:14-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=3319
-permalink: /creativity-as-organization-from-chaos
+permalink: /creativity-as-organization-from-chaos/
 categories:
   - Aesthetics
   - Mind and Matter
@@ -20,18 +20,18 @@ Why?
 
 It is the distance between disorganization and organization that determines the level of aesthetic beauty.
 
-It is up to the mind to organize chaos.  
-&#8212;
+It is up to the mind to organize chaos.
+--
 
-Seems to be a repeat of an old thought:  
-&#8212;
+Seems to be a repeat of an old thought:
+--
 
-If this is the case, then it is best to [live on the edge of society](http://www.rahilpatel.com/blog/living-on-the-edge-of-society-ethics "Living on the Edge of Society Ethics"). Cities are the most potent area of human organization. One needs distance, surround oneself with less common materials, then create. It will also lead to a more creatively efficient lifestyle, as the mind struggle to piece together the world into new designs and ideas.
+If this is the case, then it is best to <a title="Living on the Edge of Society Ethics" href="http://www.rahilpatel.com/blog/living-on-the-edge-of-society-ethics">live on the edge of society</a>. Cities are the most potent area of human organization. One needs distance, surround oneself with less common materials, then create. It will also lead to a more creatively efficient lifestyle, as the mind struggle to piece together the world into new designs and ideas.
 
-It used to be in order to have social connections, display work, one had to live in cities. With the internet, it is no more.  
-&#8212;
+It used to be in order to have social connections, display work, one had to live in cities. With the internet, it is no more.
+--
 
-During certain points in travel I came with these ideas:  
+During certain points in travel I came with these ideas:
 A public vending machine for barter. The machine allows a user to place one item inside and take one item out.
 
 GPS track a pigeon and/or a dancer to get flight pattern data for a robotic dodo bird.
@@ -46,8 +46,8 @@ An art installation dealing with video game memory cards.
 
 A multi-player game installation in which the game installations are physically separated, but have a map to one other installation.
 
-A smartphone application that allows users to create things in real space, allowing people to interact with a digital world atop a real one.  
-&#8212;
+A smartphone application that allows users to create things in real space, allowing people to interact with a digital world atop a real one.
+--
 
-update from 8/25/2015:  
-Organizing materials into different forms does indeed seem to define creativity. It&#8217;s the artistic version of materials science. It&#8217;s not about organizing a functional world. It&#8217;s about organizing a vision.
+update from 8/25/2015:
+Organizing materials into different forms does indeed seem to define creativity. It's the artistic version of materials science. It's not about organizing a functional world. It's about organizing a vision.

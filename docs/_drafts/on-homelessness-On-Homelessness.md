@@ -2,7 +2,7 @@
 id: 6847
 title: On Homelessness
 date: 2016-06-01T01:51:46-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=6847
 permalink: /?p=6847
@@ -11,11 +11,13 @@ medium_post:
 categories:
   - Uncategorized
 ---
-> need shower  
-> <cite>written after showering after a few days and feeling great</cite> 
+<blockquote>need shower
+<cite>written after showering after a few days and feeling great</cite>
+</blockquote>
 
-> need material for flooring
 
+<blockquote>need material for flooring</blockquote>
 With it, everywhere becomes sleepable. As a person who sleeps in the baby-position, and often only sleeps well in that position, I need to sleep on the floor, therefore, I need material to sleep on, so that my sides are comfortable.
 
-> Sleeping at night absolutely useless. Only the hours from 7-12pm felt good. At the not so cold air conditioned OK Mart and outside in the park. That park and NTU sports being the best places to sleep.
+
+<blockquote>Sleeping at night absolutely useless. Only the hours from 7-12pm felt good. At the not so cold air conditioned OK Mart and outside in the park. That park and NTU sports being the best places to sleep.</blockquote>

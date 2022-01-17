@@ -2,7 +2,7 @@
 id: 7746
 title: Organizing People vs Organizing Material
 date: 2016-06-22T00:25:03-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=7746
 permalink: /?p=7746

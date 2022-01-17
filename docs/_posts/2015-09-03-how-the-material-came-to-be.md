@@ -2,10 +2,10 @@
 id: 4557
 title: How the Material Came to Be
 date: 2015-09-03T11:55:10-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4557
-permalink: /how-the-material-came-to-be
+permalink: /how-the-material-came-to-be/
 categories:
   - History
   - Human Geography
@@ -26,5 +26,5 @@ How people, especially laborers, become spatially and habitually trapped.
 
 And so on.
 
-[en.wikipedia.org/wiki/Emergence#Spontaneous_order](https://en.wikipedia.org/wiki/Emergence#Spontaneous_order){.autohyperlink}  
-[en.wikipedia.org/wiki/Emergence#Organization\_of\_life](https://en.wikipedia.org/wiki/Emergence#Organization_of_life){.autohyperlink}
+https://en.wikipedia.org/wiki/Emergence#Spontaneous_order
+https://en.wikipedia.org/wiki/Emergence#Organization_of_life

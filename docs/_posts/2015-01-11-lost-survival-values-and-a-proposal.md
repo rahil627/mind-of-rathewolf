@@ -2,16 +2,16 @@
 id: 3936
 title: Lost Survival Values and a Proposal
 date: 2015-01-11T22:44:32-05:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=3936
-permalink: /lost-survival-values-and-a-proposal
+permalink: /lost-survival-values-and-a-proposal/
 categories:
   - Social Philosophy
 ---
-I&#8217;ve been having a recurring daydream in the suburbs of getting in a car crash. I should really get of this place&#8230;
+I've been having a recurring daydream in the suburbs of getting in a car crash. I should really get of this place...
 
-If people generally [tend to go from survival to self-expression values](http://en.wikipedia.org/wiki/World_Values_Survey), matching the notion of tending to self-organize toward more specific interests, then there is a loss of survival values.
+If people generally <a href="http://en.wikipedia.org/wiki/World_Values_Survey">tend to go from survival to self-expression values</a>, matching the notion of tending to self-organize toward more specific interests, then there is a loss of survival values.
 
 I the TV show Connections, our dependence on the history of science and technology is clearly shown.
 

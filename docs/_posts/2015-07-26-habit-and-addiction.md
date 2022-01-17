@@ -2,10 +2,10 @@
 id: 4108
 title: Habit and Addiction
 date: 2015-07-26T14:33:56-04:00
-author: Rahil
+author: rahil627
 layout: post
 guid: http://www.rahilpatel.com/blog/?p=4108
-permalink: /habit-and-addiction
+permalink: /habit-and-addiction/
 categories:
   - Human Geography
   - Humanities
