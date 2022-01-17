@@ -8,26 +8,6 @@ guid: http://www.rahilpatel.com/blog/?page_id=761
 ---
 These things could help make finding things more easy.
 
-<div id="toc_container" class="toc_transparent have_bullets">
-  <p class="toc_title">
-  </p>
-  
-  <ul class="toc_list">
-    <li>
-      <a href="#things_that_i_often_change_or_keep_up_to_date_or_should">Things that I often change or keep up to date, or should</a>
-    </li>
-    <li>
-      <a href="#things_that_can_be_searched">Things that can be searched</a>
-    </li>
-    <li>
-      <a href="#things_that_have_been_archived">Things that have been archived</a>
-    </li>
-    <li>
-      <a href="#things_that_have_been_categorized">Things that have been categorized</a>
-    </li>
-  </ul>
-</div>
-
 ## <span id="things_that_i_often_change_or_keep_up_to_date_or_should">Things that I often change or keep up to date, or should</span>
 
 [A Curriculum of Experience](http://www.rahilpatel.com/blog/a-curriculum-of-experience)  
