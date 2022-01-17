@@ -11,6 +11,10 @@ implementation:
 the main web-site folder should be linked to a folder in the rathewolf repo, which itself generates the web-site on rathewolf.com (using GitHub Pages)
 
 todo:
+
+#### import from wordpress
+- see diff.txt file in root to see differences between the different importers
+- still need to import via database (last one!!!)
 - check this commit for when i replaced the exported files [remove toc](https://github.com/rahil627/mind-of-rathewolf/commit/dd4f9e13cba174a94e385ee18b71bb5bb83cf886)
 - currently: the posts and drafts come from jekyll export dated 11-01-2022, but, i don't think it exported pages...? re-check this. i think the current pages come from the older jekyll export (2020?)
   - eh, i trashed that older jekyll import... oops?
