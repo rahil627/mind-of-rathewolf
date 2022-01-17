@@ -13,6 +13,14 @@ the main web-site folder should be linked to a folder in the rathewolf repo, whi
 todo:
 
 #### import from wordpress
+currently:
+the current `_posts, _drafts, _attachments`, etc folders were imported from the xml file
+the current `_pages` folder was imported from the wordpress plugin, then possibly edited, so may need to merge carefully
+  - resume is copy paste, so no worries
+  - portfolio might have some new junk on the top, but that's about it
+  - herro might have two links changed, but that's all
+  - archives ?
+
 - see diff.txt file in root to see differences between the different importers
 - still need to import via database (last one!!!)
 - check this commit for when i replaced the exported files [remove toc](https://github.com/rahil627/mind-of-rathewolf/commit/dd4f9e13cba174a94e385ee18b71bb5bb83cf886)
