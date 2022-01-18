@@ -23,7 +23,8 @@ the current `_pages` folder was imported from the wordpress plugin, then possibl
 
 
 - see diff.txt file in root to see differences between the different importers
-  - still need to import via database (last one!!!)
+  - still need to import via database (should be easy!)
+  - this importer tool looks easy too!: https://github.com/some-programs/exitwp
   - if i use the xml one (because it preserves endlines with breakline tag), then i need to find a way to remove the 'blog' from the permalink key in the front matter
     - a simple script that checks the front matter for 'permalink' key, then remove the blog part
     - https://unix.stackexchange.com/questions/432499/find-a-pattern-and-replace-its-value-in-shell-script
