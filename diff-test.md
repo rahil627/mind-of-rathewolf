@@ -2,10 +2,11 @@
 there was no difference between the linted xml (using xmllint) and original xml import, using the exitwp.py script
 
 in general:
-the python script is the best, content only, no html, perfect front matter, only problem is that it destroyed the newlines
-  - uses htmltotxt python program; maybe can check how that handles <br>?
+**the python script is the best, content only, no html, perfect front matter, only problem is that it destroyed the newlines**
+  - uses html2txt python program; maybe can check how that handles <br>?
   - edit the config file, at the end, there's a spot for replace expressions
     - https://github.com/some-programs/exitwp/blob/master/config.yaml
+    - nah, the problem is that there are no <br>! need to maybe edit how the script runs html2txt
 the jekyll-importer (via xml) correctly adds <br /> where needed
 the wordpress-plugin, although is html, still messes up the newlines?
 
