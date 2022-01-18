@@ -1,0 +1,38 @@
+---
+layout: post
+title: My Notes
+date: 2007-06-01 06:38:53.000000000 +00:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Organization
+- Personal
+tags:
+- notes
+meta:
+  _edit_last: '1'
+  _wp_old_slug: ''
+  _wplp_post_front: '1'
+author:
+  login: rahil627
+  email: rahil627@gmail.com
+  display_name: rahil627
+  first_name: Rahil
+  last_name: Patel
+permalink: "/blog/my-notes/"
+---
+<p>					<?php require_once("functions.php");</p>
+<p>					if(isset($_GET['file']))<br />
+					{<br />
+						$file=$_GET['file'];<br />
+						$filename = "files/my_notes/$file";<br />
+						$content_array = file($filename); //array file ( string $filename [, int $flags = 0 [, resource $context ]] ) - returns the file in an array, each element corresponds to a line<br />
+						$content = implode("", $content_array); //string implode ( string $glue , array $pieces ) - implode glues together the array<br />
+						print nl2br($content); //new line to break line<br />
+					}<br />
+					else<br />
+						ListFolder("files/my_notes", 1); </p>
+<p>					?></p>
