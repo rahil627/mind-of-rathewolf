@@ -9,18 +9,20 @@ inline_featured_image:
   - "0"
 # todo: if you update the page here, then check the revisions for changes
 ---
-TODO: if you update the page here, then check the revisions for changes 
-
-A shout out to the great history games:
-
-todo: temp:
-todo: need to put these in the right place  
+todo: leave updates on the top of the pages for now
 [能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3   
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
-  - note: the page is private now
+  - note: the page is private now  
   - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
 [背包客星球 Backpackers / Planet](https://www.facebook.com/背包客星球-Backpackers-Planet-193307484153566). <3  
-[https://github.com/rahil627/Dance-Battle](dance battle)
+[dance battle](https://github.com/rahil627/Dance-Battle)
+todo: update ancient links to gitub (school, sourceforge, etc.)
+
+---
+
+
+
+A shout out to the great history games:
 
 ## <span id="age_of_empires_iv">Age of Empires IV</span>
 
