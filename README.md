@@ -23,10 +23,12 @@ the current `_pages` folder was imported from the wordpress plugin, then possibl
 
 
 - see diff.txt file in root to see differences between the different importers
-  - still need to import via database (should be easy!)
+  - still need to try import via database (should be easy!)
   - this importer tool looks easy too!: https://github.com/some-programs/exitwp
-  - https://import.jekyllrb.com/docs/wordpressdotcom/ has a link to a good tutorial with lots of code snippets
-  - if i use the xml one (because it preserves endlines with breakline tag), then i need to find a way to remove the 'blog' from the permalink key in the front matter
+    - one of the above should be perfect...?
+  - https://import.jekyllrb.com/docs/wordpressdotcom/ has a link to a good tutorial with lots of code snippets too
+
+  - **for now, use the xml one because it preserves endlines with breakline tag, then i need to find a way to remove the 'blog' from the permalink key in the front matter, and that would be good enough!**, then, though not needed, can replace the breakline html tag with two spaces (for markdown breakline)
     - a simple script that checks the front matter for 'permalink' key, then remove the blog part
     - https://unix.stackexchange.com/questions/432499/find-a-pattern-and-replace-its-value-in-shell-script
     - just use sed, figure out regular expressions, replace, git push, check changes of the commit
