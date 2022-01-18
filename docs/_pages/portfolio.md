@@ -9,6 +9,7 @@ inline_featured_image:
   - "0"
 # todo: if you update the page here, then check the revisions for changes
 ---
+## temporary updates
 todo: leave updates on the top of the pages for now  
 [能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3  
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
