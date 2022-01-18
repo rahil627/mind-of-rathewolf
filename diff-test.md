@@ -1,4 +1,6 @@
 
+there was no difference between the linted xml (using xmllint) and original xml import, using the exitwp.py script
+
 in addition to front matter differneces,  
 the jekyll-importer (via xml) might correctly add <br /> where needed
   - todo, test a few pages
