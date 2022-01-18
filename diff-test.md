@@ -16,7 +16,27 @@ jekyll-importer has more data: published, status, tags
 
 #### import
 
-this is from the wordpress plugin:
+##### python script:
+---
+author: rahil627
+comments: true
+date: 2013-09-19 10:24:09+00:00
+layout: post
+link: http://rahilpatel.com/blog/japanese-arcades/
+slug: japanese-arcades
+title: Japanese Arcades
+wordpress_id: 2139
+categories:
+- Game Design
+- Games
+- Japan
+- Thoughts
+- Travel
+---
+
+
+
+##### wordpress plugin:
 id: 8034
 title: Japan
 date: 2016-11-30T09:12:30-05:00
@@ -51,7 +71,7 @@ categories:
 ---
 
 
-this is form the wordpress importer via xml:
+##### importer via xml:
 ---
 layout: post
 title: Japan
