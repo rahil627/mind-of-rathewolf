@@ -13,6 +13,8 @@ the main web-site folder should be linked to a folder in the rathewolf repo, whi
 todo:
 
 #### import from wordpress
+ho. ly. shit. that one bad decision of using wordpress instead of writing my own site generator costed me. :(
+
 currently:
 the current `_posts, _drafts, _attachments`, etc folders were imported from the xml file
 the current `_pages` folder was imported from the wordpress plugin, then possibly edited, so may need to merge carefully
