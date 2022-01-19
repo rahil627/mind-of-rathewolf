@@ -1,22 +1,55 @@
 
-there was no difference between the linted xml (using xmllint) and original xml import, using the exitwp.py script
 
-in general:
-**the python script is the best, content only, no html, perfect front matter, only problem is that it destroyed the newlines**
-  - uses html2txt python program; maybe can check how that handles <br>?
-  - edit the config file, at the end, there's a spot for replace expressions
+
+# conclusion
+1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file. And, the script is so simple, you can edit it yourself (probably just have to change some flags for html2text and markdownify...).
+2. the wordpress plugin is really good, but would still have to get rid of some extra front matter. Only extra newlines are lost.
+3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, though adding breaklines correctly in case of single newlines, and preserving way too much front-matter; but good to keep for the sake of preservation of data. I'm not sure if it can be configured...
+
+
+# body diff
+python script
+  - converts html into text (via html2text) then
+  - converts text into markdown (via markdownify?)
+  - yet it **preserves all original new lines** (although, they will not display corectly in markdown)
+  - can possibly eat a few tags that were in the original post (my `<cite>` is missing)
+  - **provides options in the config file**, including a little spot to replace patterns
     - https://github.com/some-programs/exitwp/blob/master/config.yaml
-    - nah, the problem is that there are no <br>! need to maybe edit how the script runs html2txt
-the jekyll-importer (via xml) correctly adds <br /> where needed
-the wordpress-plugin, although is html, still messes up the newlines?
+  - xmllint changed nothing for me
 
 
-front matter diff:
-jekyll-importer adds '/blog' to the permalink :(
-wordpress plugin stores the original link name, which might be useful
+# jekyll-importer (via xml)
+  - **converts content into html** (no matter what it originally was)
+  - adds `<p>` and `<h>` everywhere (even if it wasn't in the original post!!)
+  - correctly converts single newlines into `<br />` where needed, which displays nicely in markdwon
+  - squashes all content, removing all of the vertical space
 
-jekyll-importer has more data: published, status, tags
-  - check if i ever used tags
+# jekyll-importer via database
+  - todo
+
+
+# the wordpress-plugin
+  - **no html, but it preserves html that was originally in the post**
+  - **generally preserves newlines, but removes them if there's more than 3 newlines**, like "prettiying" code
+  - doesn't convert text into markdown, so the links are still in html
+
+
+
+
+
+
+
+# front matter diff:
+python exitwp
+  - **preserves whats essential and names them nicely**, including the slug and complete link
+
+ruby jekyll-importer
+  - preserves the most data including: published, status, *all* of the `meta` stuff
+
+php(?))wordpress plugin
+  - preserves a good amount of data, just excludes the meta crap
+  - preserves the original link name (p=1343), which might be useful, in case of old links
+  - removed the `/blog` in the permalink key (which is nice for me!)
 
 
 #### import
@@ -121,4 +154,116 @@ author:
   last_name: Patel
 permalink: "/blog/japan/" # BAD
 ---
+
+
+
+
+
+
+
+
+
+#CONTENTS
+
+## official jekyll xml importer (wordpress.com importer)
+<p>[exported from a markdown text file]<br />
+[todo: still copying from notebook]<br />
+[todo: need to fix #content blockquote p {<br />
+    /* padding: 0px 0px 0px 0px; */<br />
+}<br />
+]</p>
+<h2>Fuck Japan</h2>
+<p>Fuck Japan.</p>
+<p>That&#8217;s all I got.</p>
+<p>Fuck Japan.</p>
+<p>Perhaps the reason I never thought to talk to others when I lived in suburban America, anyone nearby, as I did during much of my 20s [and perhaps childhood], is because I simply wasn&#8217;t interested in the others. Japan [Japanese culture] has altered my behavior to not be interested in other people. As I [just earlier] peered through the express train&#8217;s window as it was rushing me toward the airport, perhaps the first time I&#8217;ve taken an express transport whilst having time, I didn&#8217;t care what is inside those buildings, those giant apartment complexes, the curtained shops, or traditionally-achitected homes.</p>
+<p>Fuck &#8217;em.</p>
+<h2>And here&#8217;s why</h2>
+
+
+
+
+
+
+
+## plugin
+[exported from a markdown text file]
+[todo: still copying from notebook]
+[todo: need to fix #content blockquote p {
+    /* padding: 0px 0px 0px 0px; */
+}
+]
+
+<h2>Fuck Japan</h2>
+
+<p>Fuck Japan.</p>
+
+<p>That&#8217;s all I got.</p>
+
+<p>Fuck Japan.</p>
+
+<p>Perhaps the reason I never thought to talk to others when I lived in suburban America, anyone nearby, as I did during much of my 20s [and perhaps childhood], is because I simply wasn&#8217;t interested in the others. Japan [Japanese culture] has altered my behavior to not be interested in other people. As I [just earlier] peered through the express train&#8217;s window as it was rushing me toward the airport, perhaps the first time I&#8217;ve taken an express transport whilst having time, I didn&#8217;t care what is inside those buildings, those giant apartment complexes, the curtained shops, or traditionally-achitected homes.</p>
+
+<p>Fuck &#8217;em.</p>
+
+<h2>And here&#8217;s why</h2>
+
+<p>And here&#8217;s why:</p>
+
+
+
+
+
+
+# python
+[exported from a markdown text file]
+[todo: still copying from notebook]
+[todo: need to fix #content blockquote p {
+    /* padding: 0px 0px 0px 0px; */
+}
+]
+
+## Fuck Japan
+
+
+
+
+
+Fuck Japan.
+
+
+
+
+
+That's all I got.
+
+
+
+
+
+Fuck Japan.
+
+
+
+
+
+Perhaps the reason I never thought to talk to others when I lived in suburban America, anyone nearby, as I did during much of my 20s [and perhaps childhood], is because I simply wasn't interested in the others. Japan [Japanese culture] has altered my behavior to not be interested in other people. As I [just earlier] peered through the express train's window as it was rushing me toward the airport, perhaps the first time I've taken an express transport whilst having time, I didn't care what is inside those buildings, those giant apartment complexes, the curtained shops, or traditionally-achitected homes.
+
+
+
+
+
+Fuck 'em.
+
+
+
+
+
+## And here's why
+
+
+
+
+
+And here's why:
 
