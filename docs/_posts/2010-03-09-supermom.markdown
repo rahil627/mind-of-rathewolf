@@ -1,0 +1,17 @@
+---
+author: rahil627
+comments: true
+date: 2010-03-09 15:03:45+00:00
+layout: post
+link: http://rahilpatel.com/blog/supermom/
+slug: supermom
+title: Supermom
+wordpress_id: 6524
+categories:
+- Personal
+- Thoughts
+---
+
+<blockquote>Mom makes tea for 4 people (including herself) at seperate times, then makes lunch and cooks it 3-4 seperate times, then makes dinner and cooks it 3-4 seperate times. total: makes/cooks 14-16 times? wtf?
+09/03/2010
+</blockquote>
