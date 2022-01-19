@@ -7,7 +7,7 @@ links:
   url: /herro
 - title: organized # categorized?, selected?, annotated
   url: /valuable-things-ive-written #need to keep the old link, referenced a lot in my portfolio
-- title: list
+- title: main-list
   url: /posts-list
 - title: search
   url: /search
@@ -21,14 +21,16 @@ links:
   url: /resume
 - title: portfolio
   url: /portfolio
+  - title: '-' #just to add some space
+  url: {{ page.url }}
+- title: portfolio2
+  url: /portfolio2
+- title: old-herro2
+  url: /herro2  
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
 - title: by <u>rathewolf</u> #non-characters get stripped somewhere
   url: https://rathewolf.com
-- title: portfolio2
-  url: /portfolio2
-- title: old-herro2
-  url: /herro2
 
