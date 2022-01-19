@@ -7,21 +7,18 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 - - -
 
 ### notes
-implementation:  
-the main web-site folder should be linked to a folder in the rathewolf repo, which itself generates the web-site on rathewolf.com (using GitHub Pages)
-
-todo:
 
 #### import from wordpress
 ho. ly. shit. that one bad decision of using wordpress instead of writing my own site generator costed me. :(
 
 currently:
-the current `_posts, _drafts, _attachments`, etc folders were imported from the xml file
-the current `_pages` folder was imported from the wordpress plugin, then possibly edited, so may need to merge carefully
-  - resume is copy paste, so no worries
-  - portfolio might have some new junk on the top, but that's about it
-  - herro might have two links changed, but that's all
-  - archives ?
+the current `_posts` are from the python script
+  - the python script didn't spit out a `_drafts` folder... hmmmmm, can use the one by the wordpress plugin...?
+the current `_pages` folder was imported from the wordpress plugin, then edited, so merge carefully
+  - resume is copy paste, so no worries there
+  - portfolio has some new junk on the top, but that's about it
+  - herro was preserved as is
+  - archives was sorta merged, no worries though
 
 
 - see diff.txt file in root to see differences between the different importers
