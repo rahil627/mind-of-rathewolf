@@ -6,7 +6,7 @@
 # one-page sites can use either the default theme minima or ronv/ultra
 remote_theme: rahil627/sidey-customized # seems updated as of recently (01/2022), so try to fetch updats
 
-# stanrdard vars
+# standard vars
 title: the mind of rathewolf
 description: thoughts, philosophies, writings, expressions
 
@@ -20,6 +20,12 @@ author:
 #  avatar:
 #  email: #youremail
   url: https://rathewolf.com 
+  
+# custom
+# try to convert newlines properly
+kramdown:
+  input: GFM
+  hard_wrap: false
   
 # theme specific vars
 #twitter:
