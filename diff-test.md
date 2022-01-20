@@ -3,8 +3,8 @@
 
 # conclusion
 1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file. And, the script is so simple, you can edit it yourself (probably just have to change some flags for html2text and markdownify...).
-2. the wordpress plugin is really good, but would still have to get rid of some extra front matter. Only extra newlines are lost.
-3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, though adding breaklines correctly in case of single newlines, and preserving way too much front-matter; but good to keep for the sake of preservation of data. I'm not sure if it can be configured...
+2. the wordpress plugin is really good, but would still have to get rid of some extra front matter (medium plugin). Only extra newlines are lost.
+3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, though adding breaklines for the single newline case (which looks good, but still adds unwanted html to content), and preserving wayyy too much front-matter (seo plugins??); but good to keep for the sake of preservation of data. I'm not sure if it can be configured...
 
 
 # body diff
