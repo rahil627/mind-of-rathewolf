@@ -1,3 +1,6 @@
+---
+layout: page
+---
 [todo: rename philosophy to filosophy. Will it break anchors?]
 
 This post started as a tool for gauging direction using past thoughts, but with some organization (to the discontent of WordPress&#8217;s organization), it now resembles a philosophical corpus of a child.
