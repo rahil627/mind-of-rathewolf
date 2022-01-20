@@ -1,24 +1,24 @@
+okay okay, last update: i ended up going with a third solution! the very simple ‘n straightforward python exitwp.py script (if you can use a command line), also listed in the official jekyll import page for wordpress.
 
-
+here are my concluding thoughts, and if i don’t move the file, you can [see my complete diff test here](https://github.com/rahil627/mind-of-rathewolf/blob/main/wordpress-imports/diff-test.md).
 
 # conclusion
-1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file. And, the script is so simple, you can edit it yourself (probably just have to change some flags for html2text and markdownify...).
-2. the wordpress plugin is really good, but would still have to get rid of some extra front matter (medium plugin). Only extra newlines are lost.
-3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, though adding breaklines for the single newline case (which looks good, but still adds unwanted html to content), and preserving wayyy too much front-matter (seo plugins??); but good to keep for the sake of preservation of data. I'm not sure if it can be configured...
+1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file to easily edit options. And, the script is so simple, you can edit it yourself (probably just have to change some options for html2text and markdownify libs it uses...).
+2. the wordpress plugin is also really really good. You’d just have to get rid of some extra front matter (medium plugin), and use a markdown converter for things like links. Only extra newlines are lost.
+3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, and preserving wayyy too much front-matter (seo plugins??); but maybe useful to keep just for the sake of preservation of data, as a kinda last backup. I'm not sure if it can be configured because jekyll’s docs are so sparse..
 
 
 # body diff
-python script
+## python script
   - converts html into text (via html2text) then
   - converts text into markdown (via markdownify?)
   - yet it **preserves all original new lines** (although, they will not display corectly in markdown)
   - can possibly eat a few tags that were in the original post (my `<cite>` is missing)
   - **provides options in the config file**, including a little spot to replace patterns
     - https://github.com/some-programs/exitwp/blob/master/config.yaml
-  - xmllint changed nothing for me
+  - xmllint changed nothing for me, but it says to use it
 
-
-# jekyll-importer (via xml)
+## jekyll-importer (via xml)
   - **converts content into html** (no matter what it originally was)
   - adds `<p>` and `<h>` everywhere (even if it wasn't in the original post!!)
   - correctly converts single newlines into `<br />` where needed, which displays nicely in markdwon
@@ -27,26 +27,21 @@ python script
 # jekyll-importer via database
   - todo
 
-
-# the wordpress-plugin
+## the wordpress-plugin
   - **no html, but it preserves html that was originally in the post**
   - **generally preserves newlines, but removes them if there's more than 3 newlines**, like "prettiying" code
   - doesn't convert text into markdown, so the links are still in html
 
 
 
-
-
-
-
 # front matter diff:
-python exitwp
+## python exitwp
   - **preserves whats essential and names them nicely**, including the slug and complete link
 
-ruby jekyll-importer
+## ruby jekyll-importer
   - preserves the most data including: published, status, *all* of the `meta` stuff
 
-php(?))wordpress plugin
+## php(?))wordpress plugin
   - preserves a good amount of data, just excludes the meta crap
   - preserves the original link name (p=1343), which might be useful, in case of old links
   - removed the `/blog` in the permalink key (which is nice for me!)
