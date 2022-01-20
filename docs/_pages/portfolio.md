@@ -11,7 +11,7 @@ description: This page contains a partial list of things I've made, and is now s
 ---
 
 ## temporary updates
-todo: put these in the right place
+todo: put these in the right place  
 [能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3 <3  
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
   - note: the page is private now
