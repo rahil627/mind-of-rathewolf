@@ -6,7 +6,7 @@ layout: posts-list
 #link: http://rahilpatel.com/blog/blog/
 slug: list
 #title: Recent Things
-title: list of complete works
+title: complete list of contents
 wordpress_id: 496
 
 guid: http://www.rahilpatel.com/blog/?page_id=496
