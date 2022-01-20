@@ -1,6 +1,4 @@
-okay okay, last update: i ended up going with a third solution! the very simple ‘n straightforward python exitwp.py script (if you can use a command line), also listed in the official jekyll import page for wordpress.
 
-here are my concluding thoughts, and if i don’t move the file, you can [see my complete diff test here](https://github.com/rahil627/mind-of-rathewolf/blob/main/wordpress-imports/diff-test.md).
 
 # conclusion
 1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file to easily edit options. And, the script is so simple, you can edit it yourself (probably just have to change some options for html2text and markdownify libs it uses...).
