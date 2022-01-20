@@ -11,6 +11,8 @@ wordpress_id: 8206
 guid: http://rahilpatel.com/blog/?page_id=8206
 inline_featured_image:
   - "0"
+
+#this page is from the wordpress plugin, i just accidentally merged the front matter
 ---
 <!-- wp:paragraph -->
 <p>[todo: rename philosophy to filosophy. Will it break anchors?]</p>
