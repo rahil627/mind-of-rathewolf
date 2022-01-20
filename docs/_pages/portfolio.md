@@ -178,7 +178,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 ### Castle Age, Rise and Decline of Empires / San Francisco II
 
 
-[Finger Skating: Battle](https://github.com/rahil627/finger-skating-battle)
+[Finger Skating: Battle](https://github.com/rahil627/finger-skating-battle), a local 1v1 iPad battle game inspired by dance yet with the playfulness of HORSE, the playground game
 [Doodle Tangle](http://www.youtube.com/watch?v=1vE86QNWoFI), a multiplayer iPad game prototype that explores physical problems (pardon the terrible video)
 [Pinkies Up](http://cargocollective.com/jonstoked/pinkies-up), a local multiplayer iPad game with some quirky characters, made with love from Jon. SHOULD BE CONTINUED!
 
