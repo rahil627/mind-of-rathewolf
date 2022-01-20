@@ -1,9 +1,13 @@
 ---
-id: 8206
-title: Things I’ve Written
-date: 2021-12-31T15:12:17-05:00
 author: rahil627
+comments: false
+date: 2021-12-31 20:12:17+00:00
 layout: page
+link: http://rahilpatel.com/blog/valueable-things-ive-written/
+slug: valueable-things-ive-written
+title: Things I’ve Written
+wordpress_id: 8206
+
 guid: http://rahilpatel.com/blog/?page_id=8206
 inline_featured_image:
   - "0"
