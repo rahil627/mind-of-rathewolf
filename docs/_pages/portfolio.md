@@ -12,9 +12,9 @@ description: This page contains a partial list of things I've made, and is now s
 
 ## temporary updates
 todo: put these in the right place
-[能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3 <3
+[能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3 <3  
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
-  - note: the page is private now  
+  - note: the page is private now
   - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
 [背包客星球 Backpackers / Planet](https://www.facebook.com/背包客星球-Backpackers-Planet-193307484153566). <3  
 
