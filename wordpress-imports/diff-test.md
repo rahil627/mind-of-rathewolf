@@ -48,9 +48,10 @@ here are my concluding thoughts, and if i don’t move the file, you can [see my
 
 
 
-#### import
+# tests
+## FRONT MATTER
 
-##### python script:
+### python script:
 ---
 author: rahil627
 comments: true
@@ -70,7 +71,7 @@ categories:
 
 
 
-##### wordpress plugin:
+### wordpress plugin:
 id: 8034
 title: Japan
 date: 2016-11-30T09:12:30-05:00
@@ -105,7 +106,7 @@ categories:
 ---
 
 
-##### importer via xml:
+### importer via xml:
 ---
 layout: post
 title: Japan
@@ -159,9 +160,9 @@ permalink: "/blog/japan/" # BAD
 
 
 
-#CONTENTS
+## CONTENTS
 
-## official jekyll xml importer (wordpress.com importer)
+### official jekyll xml importer (wordpress.com importer)
 <p>[exported from a markdown text file]<br />
 [todo: still copying from notebook]<br />
 [todo: need to fix #content blockquote p {<br />
@@ -182,7 +183,7 @@ permalink: "/blog/japan/" # BAD
 
 
 
-## plugin
+### plugin
 [exported from a markdown text file]
 [todo: still copying from notebook]
 [todo: need to fix #content blockquote p {
@@ -211,7 +212,7 @@ permalink: "/blog/japan/" # BAD
 
 
 
-# python
+### python
 [exported from a markdown text file]
 [todo: still copying from notebook]
 [todo: need to fix #content blockquote p {
