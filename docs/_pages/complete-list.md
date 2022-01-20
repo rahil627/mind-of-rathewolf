@@ -1,3 +1,8 @@
+--
+# needed
+layout: page
+--
+
 ## <span id="complete_writings_auto-generated">complete writings (auto-generated)</span>
 
 [todo: the plugin only allows to list by month and year or year, can&#8217;t select between two exact dates]
