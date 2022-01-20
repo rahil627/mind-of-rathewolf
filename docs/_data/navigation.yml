@@ -12,7 +12,7 @@ links:
 - title: search
   url: /search
 - title: old-archive
-  url: /archive
+  url: /archives
 - title: todo-rss
   url: /atom.xml
 - title: '-' #just to add some space
