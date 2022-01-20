@@ -7,8 +7,10 @@ links:
   url: /herro
 - title: corpus # categorized?, selected?, annotated
   url: /valueable-things-ive-written #need to keep the old link, referenced a lot in my portfolio, SPELLED WRONG LOL
-- title: complete-list
+- title: main-list
   url: /posts-list
+- title: complete-old
+  url: /complete-list
 - title: search
   url: /search
 - title: old-archive
@@ -24,9 +26,7 @@ links:
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: debug
-  url: /pages-list  
-- title: complete
-  url: /complete
+  url: /pages-list
 - title: drafts
   url: /drafts-list
 - title: '-' #just to add some space
