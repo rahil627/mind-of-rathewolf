@@ -23,8 +23,11 @@ links:
   url: /portfolio
 - title: '-' #just to add some space
   url: {{ page.url }}
+- title: pages-list-debug
+  url: pages-list
+- title: '-' #just to add some space
+  url: {{ page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
 - title: by <u>rathewolf</u> #non-characters get stripped somewhere
   url: https://rathewolf.com
-
