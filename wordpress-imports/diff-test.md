@@ -45,6 +45,19 @@
 
 
 
+# last update? / drafts
+damn! turns out those three ways extracted a different amount of drafts: 5, ~30(?), and ~80. (the posts count were equal though)
+
+the python script only caught 5, and uses the published: false tag, but left it in the _posts folder. :frowning: i had to use a grep ‘n mv script. :confused:
+
+the wordpress plugin caught a lot more
+
+jekyll’s own ruby program though caught the most, including revisions and auto-saves…
+
+so… just in case anyone ever does this, just try to finish those drafts before exporting! THEN can easily use that wordpress plugin or python script.
+
+
+
 # tests
 ## FRONT MATTER
 
