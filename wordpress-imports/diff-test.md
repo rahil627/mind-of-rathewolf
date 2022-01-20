@@ -38,13 +38,14 @@ here are my concluding thoughts, and if i don’t move the file, you can [see my
 ## python exitwp
   - **preserves whats essential and names them nicely**, including the slug and complete link
 
-## ruby jekyll-importer
-  - preserves the most data including: published, status, *all* of the `meta` stuff
-
-## php(?))wordpress plugin
-  - preserves a good amount of data, just excludes the meta crap
-  - preserves the original link name (p=1343), which might be useful, in case of old links
+## php(?) wordpress plugin
+  - preserves a good amount of data, just excludes the “meta” crap
+  - preserves the original link name (baseurl/p=1343), which might be useful, in case of old links
   - removed the `/blog` in the permalink key (which is nice for me!)
+
+## ruby jekyll-importer
+  - preserves the most data including: published, status, *all* of the “meta” stuff including seo plugins
+
 
 
 #### import
