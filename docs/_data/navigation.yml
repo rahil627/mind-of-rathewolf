@@ -23,12 +23,12 @@ links:
   url: /portfolio
 - title: '-' #just to add some space
   url: {{ page.url }}
-- title: complete-old
-  url: /complete-old
+- title: debug
+  url: /pages-list  
+- title: complete
+  url: /complete
 - title: drafts
   url: /drafts-list
-- title: debug
-  url: /pages-list
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
