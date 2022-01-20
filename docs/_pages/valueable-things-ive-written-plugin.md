@@ -5,7 +5,7 @@ date: 2014-01-19T07:17:27-05:00
 author: Rahil
 layout: page
 guid: http://www.rahilpatel.com/blog/?p=3501
-permalink: /valuable-things-ive-written
+#permalink: /valuable-things-ive-written
 medium_post:
   - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:74:"https://cdn-images-1.medium.com/fit/c/200/200/1*dmbNkD5D-u45r44go_cf0g.png";s:10:"author_url";s:28:"https://medium.com/@rahil627";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"122fbba35cf6";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:2:"-1";s:6:"status";s:6:"public";s:3:"url";s:70:"https://medium.com/@rahil627/organized-things-ive-written-122fbba35cf6";}'
 categories:
