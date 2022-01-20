@@ -7,6 +7,8 @@ link: http://rahilpatel.com/blog/valueable-things-ive-written/
 slug: valueable-things-ive-written
 title: Things I’ve Written
 wordpress_id: 8206
+
+description: This page contains many of my thoughts in the form of a written language, and is now starting to resemble a philosophical corpus of a child. # copied from /blog posts-list page
 ---
 
 
