@@ -52,6 +52,7 @@ here are my concluding thoughts, and if i don’t move the file, you can [see my
 ## FRONT MATTER
 
 ### python script:
+```
 ---
 author: rahil627
 comments: true
@@ -68,10 +69,11 @@ categories:
 - Thoughts
 - Travel
 ---
-
+```
 
 
 ### wordpress plugin:
+```
 id: 8034
 title: Japan
 date: 2016-11-30T09:12:30-05:00
@@ -104,9 +106,10 @@ categories:
   - Thoughts
   - Travel
 ---
-
+```
 
 ### importer via xml:
+```
 ---
 layout: post
 title: Japan
@@ -151,7 +154,7 @@ author:
   last_name: Patel
 permalink: "/blog/japan/" # BAD
 ---
-
+```
 
 
 
@@ -163,6 +166,7 @@ permalink: "/blog/japan/" # BAD
 ## CONTENTS
 
 ### official jekyll xml importer (wordpress.com importer)
+```
 <p>[exported from a markdown text file]<br />
 [todo: still copying from notebook]<br />
 [todo: need to fix #content blockquote p {<br />
@@ -176,7 +180,7 @@ permalink: "/blog/japan/" # BAD
 <p>Perhaps the reason I never thought to talk to others when I lived in suburban America, anyone nearby, as I did during much of my 20s [and perhaps childhood], is because I simply wasn&#8217;t interested in the others. Japan [Japanese culture] has altered my behavior to not be interested in other people. As I [just earlier] peered through the express train&#8217;s window as it was rushing me toward the airport, perhaps the first time I&#8217;ve taken an express transport whilst having time, I didn&#8217;t care what is inside those buildings, those giant apartment complexes, the curtained shops, or traditionally-achitected homes.</p>
 <p>Fuck &#8217;em.</p>
 <h2>And here&#8217;s why</h2>
-
+```
 
 
 
@@ -184,6 +188,7 @@ permalink: "/blog/japan/" # BAD
 
 
 ### plugin
+```
 [exported from a markdown text file]
 [todo: still copying from notebook]
 [todo: need to fix #content blockquote p {
@@ -206,13 +211,14 @@ permalink: "/blog/japan/" # BAD
 <h2>And here&#8217;s why</h2>
 
 <p>And here&#8217;s why:</p>
-
+```
 
 
 
 
 
 ### python
+```
 [exported from a markdown text file]
 [todo: still copying from notebook]
 [todo: need to fix #content blockquote p {
@@ -263,4 +269,4 @@ Fuck 'em.
 
 
 And here's why:
-
+```
