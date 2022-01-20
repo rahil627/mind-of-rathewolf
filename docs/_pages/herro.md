@@ -16,21 +16,13 @@ Herro. I'm Rahil. And this is my web-site.
 
 It's kinda like my bedroom: an organized mess. On this site you can see [things I've made](http://www.rahilpatel.com/blog/portfolio) and [things I've written](http://www.rahilpatel.com/blog/valuable-things-ive-written). On this page you can see what I try to do, how I try to do them, and what I like or like to do.
 
-It&#8217;s kinda like my actual bed-room: an organized mess. On this site you can see [things I&#8217;ve made](http://www.rahilpatel.com/blog/portfolio), [organized things I&#8217;ve written](http://www.rahilpatel.com/blog/valuable-things-ive-written), [things I&#8217;ve recently written](http://www.rahilpatel.com/blog/blog), and even [more things](http://www.rahilpatel.com/blog/archives)&#8230; One day I’m going to add some rooms, one for [my spirit](http://rathewolf.com) and one for my [my will](http://willowolf.com)!
-
-
-_Warning:_ I’ve been out of the digital world for several years. During that time, I’ve lost my server thrice and very-likely lost my hard-drives too; When I hastily recovered this site the second time, I used the latest version of software, a four year difference, so, _beware_. My new site is at [rathewolf.com](https://www.rathewolf.com).
-
-
-
 On this page, you can see what I try to do, how I try to do them, and what I like or like to do.
 
 
+_Warning:_ I’ve been out of the digital world for several years now. During that time, I’ve lost my server thrice and very-likely lost my hard-drives too; When I hastily recovered this site the second time, I used the latest version of software, a four year difference, so, _beware_.
 
 
 ## What I try to do
-
-
 
 Ideal:
 To influence people to consistently interact with people nearby, as opposed to exclusive social networks and media, as a method of gaining wisdom by creating new social experiences, resulting in an increase of physical awareness in local society (and therefore better decision-making and increase of sharing), knowledge embedded in public [urban] material, and generally healthier communities / cultures and better places.
