@@ -8,7 +8,7 @@ slug: portfolio
 title: Things I've Made
 wordpress_id: 22
 
-yoast_wpseo_metadesc: This page contains many of my thoughts in the form of a written language, and is now starting to resemble a philosophical corpus of a child. # copied from /blog posts-list page
+yoast_wpseo_metadesc: This page contains a partial list of things I've made, and is now starting to resemble an artist's portfolio.
 ---
 
 ## temporary updates
