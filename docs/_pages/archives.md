@@ -1,9 +1,12 @@
 ---
-id: 761
-title: More Things
-date: 2012-04-25T04:43:09-04:00
-author: Rahil
+author: rahil627
+comments: false
+date: 2012-04-25 08:43:09+00:00
 layout: page
+link: http://rahilpatel.com/blog/archives/
+slug: archives
+title: Extra Things
+wordpress_id: 761
 guid: http://www.rahilpatel.com/blog/?page_id=761
 ---
 These things could help make finding things more easy.
