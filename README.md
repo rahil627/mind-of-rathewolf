@@ -14,9 +14,12 @@ ho. ly. shit. that one bad decision of using wordpress instead of writing my own
 currently:
 the current `_posts` are from the python script
 the current `_drafts_ are from the python script
-  - TODO: only 5 were scraped, need to merge with the other two imports
+  - TODO: only 5 drafts were exported, need to merge with the other two imports (about 80?)
 the current `_pages` folder were imported from the wordpress plugin (with toc), then edited, so merge carefully
   - TODO: merge all pages
+    - merged the headers of the miscellenous pages: blog 'n archives
+    - merged the herro.md
+    - only portfolio and valuable things written are left
   - resume is copy paste, so no worries there
   - portfolio has some new junk on the top, but that's about it
   - herro was preserved as is
