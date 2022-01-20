@@ -25,7 +25,7 @@ author:
 # try to convert newlines properly
 kramdown:
   input: GFM
-  hard_wrap: false
+  #hard_wrap: false
   
 # theme specific vars
 #twitter:
