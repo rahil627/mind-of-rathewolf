@@ -18,20 +18,19 @@ here are my concluding thoughts, and if i don’t move the file, you can [see my
     - https://github.com/some-programs/exitwp/blob/master/config.yaml
   - xmllint changed nothing for me, but it says to use it
 
+## the wordpress-plugin
+  - **no html, but it preserves html that was originally in the post**
+  - newlines are srota *prettified* (like when you tell a text editor to clean / re-format your code), you know, consistently two newlines between everything
+  - doesn't convert text into markdown, so the links are still in html, which is a pretty good ideae for the sake of preservation, as things can get eaten up by markdown converters
+
 ## jekyll-importer (via xml)
   - **converts content into html** (no matter what it originally was)
   - adds `<p>` and `<h>` everywhere (even if it wasn't in the original post!!)
   - correctly converts single newlines into `<br />` where needed, which displays nicely in markdwon
   - squashes all content, removing all of the vertical space
 
-# jekyll-importer via database
+## jekyll-importer via database
   - todo
-
-## the wordpress-plugin
-  - **no html, but it preserves html that was originally in the post**
-  - **generally preserves newlines, but removes them if there's more than 3 newlines**, like "prettiying" code
-  - doesn't convert text into markdown, so the links are still in html
-
 
 
 # front matter diff:
