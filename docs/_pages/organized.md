@@ -15,6 +15,9 @@ categories:
   - Personal
   - Self-assessment
   - Thoughts
+
+yoast_wpseo_metadesc: This page contains many of my thoughts in the form of a written language, and is now starting to resemble a philosophical corpus of a child. # copied from /blog posts-list page
+
 ---
 [todo: rename philosophy to filosophy. Will it break anchors?]
 
