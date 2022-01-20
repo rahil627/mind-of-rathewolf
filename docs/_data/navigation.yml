@@ -23,6 +23,8 @@ links:
   url: /portfolio
 - title: '-' #just to add some space
   url: {{ page.url }}
+- title: complete-old
+  url: /complete-old
 - title: drafts
   url: /drafts-list
 - title: debug
