@@ -12,8 +12,6 @@ description: I'm Rahil, and this is my website. On this site you can see things 
 
 Herro. I'm Rahil. And this is my web-site.
 
-... welll, my _old_ web-site, at least. My new site is at [rathewolf.com](https://www.rathewolf.com).
-
 It's kinda like my bedroom: an organized mess. On this site you can see [things I've made](http://www.rahilpatel.com/blog/portfolio) and [things I've written](http://www.rahilpatel.com/blog/valuable-things-ive-written). On this page you can see what I try to do, how I try to do them, and what I like or like to do.
 
 On this page, you can see what I try to do, how I try to do them, and what I like or like to do.
