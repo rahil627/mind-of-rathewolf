@@ -12,8 +12,8 @@ yoast_wpseo_metadesc: This page contains a partial list of things I've made, and
 ---
 
 ## temporary updates
-todo: leave updates on the top of the pages for now  
-[能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3  
+todo: put these in the right place
+[能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3 <3
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
   - note: the page is private now  
   - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
