@@ -24,9 +24,9 @@ links:
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: drafts
-  url: drafts-list
+  url: /drafts-list
 - title: debug
-  url: pages-list
+  url: /pages-list
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
