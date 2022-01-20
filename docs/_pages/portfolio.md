@@ -222,7 +222,7 @@ It was feudal yo! Peasants don't get free time.
 
 [Final Philosophy 0](http://www.rahilpatel.com/blog/valuable-things-ive-written#final_philosophy_0), media studies (film criticism, game criticism, etc.), early formal writings, inception of blog
 Iron Element, a t-shirt design for threadless
-[Important Feed](http://apps.facebook.com/important_feed/), a Facebook application that allows users to mark their post as _important_
-[Splyce](https://sourceforge.net/projects/splyce/), a cross-platform HTML editor/previewer with FTP
-[CrossCalc](https://sourceforge.net/projects/crosscalc/), a cross-platform calculator similar to Microsoft's Power Calculator
-[source code from college](https://www.dropbox.com/sh/vkwek7rtzn6zc2q/AABbduy02teJFqKuxEIP7uHba?dl=0), have fun rummaging through that
+[Important Feed](https://github.com/rahil627/important-facebook-feed), a Facebook application that allows users to mark their post as _important_
+[Splyce](https://github.com/rahil627/splyce), a cross-platform HTML editor/previewer with FTP
+[CrossCalc](https://github.com/rahil627/crosscalc), a cross-platform calculator similar to Microsoft's Power Calculator
+[my code from school projects](https://github.com/rahil627/my-school-crap), have fun rummaging through that sh\*\*
