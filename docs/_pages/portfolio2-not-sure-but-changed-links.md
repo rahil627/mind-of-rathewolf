@@ -1,13 +1,3 @@
----
-id: 22
-title: 'Things I&#8217;ve Made'
-date: 2010-12-17T07:19:22-05:00
-author: rahil627
-layout: page
-guid: https://www.rathewolf.com/?page_id=22
-inline_featured_image:
-  - "0"
----
 A shout out to the great history games:
 <h2>Age of Empires IV</h2>
 The long awaited return. But can I return?...
