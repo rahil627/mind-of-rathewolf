@@ -7,8 +7,7 @@ link: http://rahilpatel.com/blog/portfolio/
 slug: portfolio
 title: Things I've Made
 wordpress_id: 22
-
-yoast_wpseo_metadesc: This page contains a partial list of things I've made, and is now starting to resemble an artist's portfolio.
+#description: This page contains a partial list of things I've made, and is now starting to resemble an artist's portfolio.
 ---
 
 ## temporary updates
