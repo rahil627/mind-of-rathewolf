@@ -21,7 +21,7 @@ links:
   url: /resume
 - title: portfolio
   url: /portfolio
-  - title: '-' #just to add some space
+- title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
