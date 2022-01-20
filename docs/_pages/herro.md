@@ -1,5 +1,4 @@
 ---
-# the file should be titled index-old, but oh well...
 author: rahil627
 comments: false
 date: 2010-12-12 03:22:51+00:00
