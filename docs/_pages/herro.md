@@ -7,7 +7,7 @@ link: http://rahilpatel.com/blog/
 slug: herro
 title: Herro #the permalink seems to come from the name of the file, not the title
 wordpress_id: 2
-#description: I'm Rahil, and this is my website. On this site you can see things I've made, substantially, things I've written.
+description: I'm Rahil, and this is my website. On this site you can see things I've made, substantially, things I've written.
 ---
 
 Herro. I'm Rahil. And this is my web-site.
