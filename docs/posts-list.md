@@ -1,13 +1,17 @@
 ---
-id: 496
-title: Recent Things
-date: 2012-02-07T02:32:59-05:00
+---
 author: rahil627
-layout: page
+comments: false
+date: 2012-02-07 07:32:59+00:00
+layout: posts-list
+link: http://rahilpatel.com/blog/blog/
+slug: blog
+title: Recent Things
+wordpress_id: 496
+
 guid: http://www.rahilpatel.com/blog/?page_id=496
 inline_featured_image:
   - "0"
-layout: posts-list
 ---
 
 hello
