@@ -7,7 +7,7 @@ link: http://rahilpatel.com/blog/archives/
 slug: archives
 title: Extra Things
 wordpress_id: 761
-guid: http://www.rahilpatel.com/blog/?page_id=761
+yoast_wpseo_metadesc: On this page you can use tools to help find things on my website, and perhaps more things will be added here.
 ---
 These things could help make finding things more easy.
 
