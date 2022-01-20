@@ -18,12 +18,6 @@ todo: leave updates on the top of the pages for now
   - note: the page is private now  
   - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
 [背包客星球 Backpackers / Planet](https://www.facebook.com/背包客星球-Backpackers-Planet-193307484153566). <3  
-[dance battle](https://github.com/rahil627/Dance-Battle)  
-todo: update ancient links to gitub (school, sourceforge, etc.)
-  - [important facebook feed](https://github.com/rahil627/important-facebook-feed)
-  - [crosscalc](https://github.com/rahil627/crosscalc)
-  - [my school crap](https://github.com/rahil627/my-school-crap)
-  - [splyce](https://github.com/rahil627/splyce)
 
 ---
 
@@ -184,7 +178,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 ### Castle Age, Rise and Decline of Empires / San Francisco II
 
 
-
+[dance battle](https://github.com/rahil627/Dance-Battle)  
 [Doodle Tangle](http://www.youtube.com/watch?v=1vE86QNWoFI), a multiplayer iPad game prototype that explores physical problems (pardon the terrible video)
 [Pinkies Up](http://cargocollective.com/jonstoked/pinkies-up), a local multiplayer iPad game with some quirky characters, made with love from Jon. SHOULD BE CONTINUED!
 
