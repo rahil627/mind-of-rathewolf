@@ -21,12 +21,6 @@ links:
   url: /resume
 - title: portfolio
   url: /portfolio
-  - title: '-' #just to add some space
-  url: {{ page.url }}
-- title: portfolio2
-  url: /portfolio2
-- title: old-herro2
-  url: /herro2  
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
