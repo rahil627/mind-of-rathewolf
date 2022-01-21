@@ -1,31 +1,30 @@
-
-
 # conclusion
 1. the python script is nearly perfect, for both parsing the body content and front mattter, just have to be careful of anything the markdown parser ate up. It also provides a config file to easily edit options. And, the script is so simple, you can edit it yourself (probably just have to change some options for html2text and markdownify libs it uses...).
-2. the wordpress plugin is also really really good. You’d just have to get rid of some extra front matter (medium plugin), and use a markdown converter for things like links. Only extra newlines are lost.
-3. the jekyll-importer via xml was the worst, adding html tags, removing extra newlines, and preserving wayyy too much front-matter (seo plugins??); but maybe useful to keep just for the sake of preservation of data, as a kinda last backup. I'm not sure if it can be configured because jekyll’s docs are so sparse..
+2. the wordpress plugin is also really really good. You’d just have to get rid of some extra front matter (extra plugins), and use a markdown converter for things like links. Only extra newlines are lost. This method is special because it captures the final content, *after* it is processed by wordpress. So, if you’ve got a bunch of a plugins changing up the content, this is probably the way to go.
+3. the jekyll-importer via xml was the worst, adding html tags everywhere, removing extra newlines, and preserving wayyy too much front-matter (meta seo plugins); but maybe useful to keep just for the sake of preservation of data, as a kinda last backup. After that, you’d have to throw it into a markdown parser and find some way to clean up the front matter (surely there’s a program for that...?). I'm not sure if it can be configured because jekyll’s docs are so sparse..
 
 
 # body diff
 ## python script
-  - converts html into text (via html2text) then
-  - converts text into markdown (via markdownify?)
-  - yet it **preserves all original new lines** (although, they will not display corectly in markdown)
-  - can possibly eat a few tags that were in the original post (my `<cite>` is missing)
-  - **provides options in the config file**, including a little spot to replace patterns
+  - converts html into text (via html2text python program) then
+  - converts text into markdown (via markdownify? python program)
+  - yet it **preserves all original new lines**
+  - can possibly eat a few tags that were in the original post (for example: my `<cite>` is missing)
+  - **provides options in the config file**, including a little spot to write replace text patterns
     - https://github.com/some-programs/exitwp/blob/master/config.yaml
-  - xmllint changed nothing for me, but it says to use it
+  - the script says to run xmllint, but it didn’t make any changes for me. It might be for fixing xml errors... not sure
 
 ## the wordpress-plugin
-  - **no html, but it preserves html that was originally in the post**
-  - newlines are srota *prettified* (like when you tell a text editor to clean / re-format your code), you know, consistently two newlines between everything
-  - doesn't convert text into markdown, so the links are still in html, which is a pretty good ideae for the sake of preservation, as things can get eaten up by markdown converters
-
+  - **it preserves the content that was *displayed* by the post**. Unlike the python script which converts it into markdown, and unlike the ruby program which converts it into html, So, if there was any html in the original content of the post, it will show up here. If there wasn’t, it won’t add any either. It *preserves* the best.
+    - the content, however, is the final content, processed through wordpress
+    - this is better for the sake of preservation, as things can get eaten up by markdown converters (parsers?)
+  - newlines are sorta *prettified*, like when you tell a text editor to clean / re-format your code, you know, consistently two newlines between everything
+  
 ## jekyll-importer (via xml)
   - **converts content into html** (no matter what it originally was)
-  - adds `<p>` and `<h>` everywhere (even if it wasn't in the original post!!)
-  - correctly converts single newlines into `<br />` where needed, which displays nicely in markdwon
-  - squashes all content, removing all of the vertical space
+    - adds `<p>` and `<h>` everywhere (even if it wasn't in the original post!!)
+    - converts single newlines into `<br />` where needed, which displays nicely in markdown... but using html
+  - squashes all content, removing all of the vertical space :(
 
 ## jekyll-importer via database
   - todo
@@ -33,29 +32,28 @@
 
 # front matter diff:
 ## python exitwp
-  - **preserves whats essential and names them nicely**, including the slug and complete link
+  - **preserves what’s essential and names them nicely**, including the slug and complete link
 
 ## php(?) wordpress plugin
-  - preserves a good amount of data, just excludes the “meta” crap
+  - preserves a good amount of data, just excludes the “meta” plugins crap
   - preserves the original link name (baseurl/p=1343), which might be useful, in case of old links
   - removed the `/blog` in the permalink key (which is nice for me!)
 
 ## ruby jekyll-importer
   - preserves the most data including: published, status, *all* of the “meta” stuff including seo plugins
-
+    - though, it’s probably good if you had special meta content, like page-specific meta `description`
 
 
 # last update? / drafts
 damn! turns out those three ways extracted a different amount of drafts: 5, ~30(?), and ~80. (the posts count were equal though)
 
-the python script only caught 5, and uses the published: false tag, but left it in the _posts folder. :frowning: i had to use a grep ‘n mv script. :confused:
+the python script only caught 5, and uses the `published: false` tag, but it left them hiding in _posts folder. :( i had to use a `grep` ‘n `mv` script. :/
 
-the wordpress plugin caught a lot more
+the wordpress plugin caught a lot more, probably the true drafts
 
-jekyll’s own ruby program though caught the most, including revisions and auto-saves…
+jekyll’s own ruby program though caught the most, including various revisions and auto-saves...
 
-so… just in case anyone ever does this, just try to finish those drafts before exporting! THEN can easily use that wordpress plugin or python script.
-
+so... just in case anyone ever does this, just try to finish those drafts before exporting! THEN can easily use that wordpress plugin or python script.
 
 
 # tests
