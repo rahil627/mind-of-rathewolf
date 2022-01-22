@@ -1,7 +1,7 @@
 #todo: should get from config file
 # don't generate this automatically because it's simpler to maintain the order this way
 links:
-- title: welcome
+- title: yo
   url: /index
 - title: old-herro
   url: /herro
@@ -9,11 +9,11 @@ links:
   url: /valuable-things-ive-written #need to keep the old link, referenced a lot in my portfolio, SPELLED WRONG LOL
 - title: main-list
   url: /posts-list
-- title: main-old
+- title: old-main
   url: /complete-list
 - title: search
   url: /search
-- title: old-archive
+- title: old-archives
   url: /archives
 - title: feed
   url: /feed
