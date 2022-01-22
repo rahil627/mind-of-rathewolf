@@ -3,8 +3,8 @@ author: rahil627
 comments: false
 date: 2021-12-31 20:12:17+00:00
 layout: page
-link: https://mind.rathewolf.com/valueable-things-ive-written/
-slug: valueable-things-ive-written
+link: https://mind.rathewolf.com/valuable-things-ive-written/
+slug: valuable-things-ive-written
 title: Things I’ve Written
 # selected
 wordpress_id: 8206

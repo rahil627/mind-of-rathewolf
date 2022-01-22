@@ -71,8 +71,8 @@ A return to more primitive ways of living.
 
 
 Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. This may be the end of written philosophy, the end of merely transforming implicit knowledge to explicit, and the beginning of another age. I hope it's more romantic, more transcendental, more physical, and most of all, warm.
-[Final Philosophy IX](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
-[Final Philosophy VIII](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
+[Final Philosophy IX](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_vii)
+[Final Philosophy VIII](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_vii)
 
 
 
@@ -86,7 +86,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy VII](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii), the discovery of ancient sources and histories, making sense of books, the worlds within books, tracing contemporary culture
+[Final Philosophy VII](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_vii), the discovery of ancient sources and histories, making sense of books, the worlds within books, tracing contemporary culture
 
 
 
@@ -94,7 +94,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy VI](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vi), women, being political (critical), experiencing exclusion and disillusionment, becoming apolitical (non-critical)
+[Final Philosophy VI](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_vi), women, being political (critical), experiencing exclusion and disillusionment, becoming apolitical (non-critical)
 
 
 
@@ -114,7 +114,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy V](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_v), towards sociology of space, human geography, and environmental psychology
+[Final Philosophy V](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_v), towards sociology of space, human geography, and environmental psychology
 
 
 
@@ -122,7 +122,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy IV](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_iv), criticism of capitalism, communication, and rationality
+[Final Philosophy IV](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_iv), criticism of capitalism, communication, and rationality
 
 
 
@@ -130,7 +130,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy III](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_iii), civil society, decision-making, city neighborhood community building, countering cultural / ideological problems, autonomous ideals
+[Final Philosophy III](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_iii), civil society, decision-making, city neighborhood community building, countering cultural / ideological problems, autonomous ideals
 
 
 
@@ -144,7 +144,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy II](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_ii), philosophy continued, mostly of cities, technology, future directions, and ideals
+[Final Philosophy II](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_ii), philosophy continued, mostly of cities, technology, future directions, and ideals
 [A few design ideas thought in a few minutes](https://mind.rathewolf.com/category/art-2/new-media), my mind during a week at Parson's
 
 
@@ -153,7 +153,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy I](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_i), travel writings, philosophical writings, and the discovery of philosophy
+[Final Philosophy I](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_i), travel writings, philosophical writings, and the discovery of philosophy
 [Humans of Taiwan](https://www.facebook.com/TaiwanesePeople), an ongoing photo-essay of Taiwan, inspired by Humans of New York
 
 
@@ -213,7 +213,7 @@ It was feudal yo! Peasants don't get free time.
 
 
 
-[Final Philosophy 0](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_0), media studies (film criticism, game criticism, etc.), early formal writings, inception of blog
+[Final Philosophy 0](https://mind.rathewolf.com/valuable-things-ive-written#final_philosophy_0), media studies (film criticism, game criticism, etc.), early formal writings, inception of blog
 Iron Element, a t-shirt design for threadless
 [Important Feed](https://github.com/rahil627/important-facebook-feed), a Facebook application that allows users to mark their post as _important_ \*_incomplete_
 [Splyce](https://github.com/rahil627/splyce), a cross-platform HTML editor/previewer with FTP
