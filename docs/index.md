@@ -15,4 +15,4 @@ i have philosopher personality, and sometimes i express myself through writing, 
 
 i have my own unique thoughts, ideas, concepts. Those concepts build up to make my own language, or at least patterns: "a pattern language". Anyway, it's worth keeping my own view of the world in tact
 
-perhaps [this copy](/herro) of my old home-page is a good start to the journey toward my mind..?
+perhaps [this copy](/herro) of my old home-page is a good start to the journey into my mind..?
