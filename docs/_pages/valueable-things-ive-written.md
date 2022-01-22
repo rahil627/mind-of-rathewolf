@@ -3,7 +3,7 @@ author: rahil627
 comments: false
 date: 2021-12-31 20:12:17+00:00
 layout: page
-link: http://rahilpatel.com/blog/valueable-things-ive-written/
+link: https://mind.rathewolf.com/valueable-things-ive-written/
 slug: valueable-things-ive-written
 title: Things I’ve Written
 # selected
@@ -68,9 +68,9 @@ These are posts I felt either are aiming at ideals, are ongoing, or are worth th
 [todo: stopped re-reading (for idea extraction or judging quality by adding asterisks) somewhere in here]  
 [todo: maybe break this up into I, II, III...)  
 Home:  
-- [Why have a personal blog?](http://www.rahilpatel.com/blog/why-have-a-personal-blog)  
-- [A thought about creative careers and the influence of money](http://www.rahilpatel.com/blog/a-thought-about-creative-careers-and-the-influence-of-money)  
-- [Overcoming the internal conflicts of an artist](http://www.rahilpatel.com/blog/overcoming-the-internal-conflicts-of-an-artist)
+- [Why have a personal blog?](https://mind.rathewolf.com/why-have-a-personal-blog)  
+- [A thought about creative careers and the influence of money](https://mind.rathewolf.com/a-thought-about-creative-careers-and-the-influence-of-money)  
+- [Overcoming the internal conflicts of an artist](https://mind.rathewolf.com/overcoming-the-internal-conflicts-of-an-artist)
 
 
 
@@ -79,10 +79,10 @@ Home:
 
 
 NY:  
-- [Film Socialisme](http://www.rahilpatel.com/blog/film-socialisme)  
-- [My Justification of Art in Video Games](http://www.rahilpatel.com/blog/my-justification-of-art-in-video-games)  
-- [a List of Game Ideas](http://www.rahilpatel.com/blog/list-of-game-ideas)  
-- [What makes a game meaningful and how innovative mechanics aren't enough](http://www.rahilpatel.com/blog/what-makes-a-game-meaningful-and-how-innovative-mechanics-arent-enough)
+- [Film Socialisme](https://mind.rathewolf.com/film-socialisme)  
+- [My Justification of Art in Video Games](https://mind.rathewolf.com/my-justification-of-art-in-video-games)  
+- [a List of Game Ideas](https://mind.rathewolf.com/list-of-game-ideas)  
+- [What makes a game meaningful and how innovative mechanics aren't enough](https://mind.rathewolf.com/what-makes-a-game-meaningful-and-how-innovative-mechanics-arent-enough)
 
 
 
@@ -91,8 +91,8 @@ NY:
 
 
 Home (between NY and SF pt. II):  
-- [The Choice between Career and Exploration](http://www.rahilpatel.com/blog/the-choice-between-career-and-exploration)  
-- [Inspired by Films (and everything else)](http://www.rahilpatel.com/blog/inspired-by-films-and-everything-else)
+- [The Choice between Career and Exploration](https://mind.rathewolf.com/the-choice-between-career-and-exploration)  
+- [Inspired by Films (and everything else)](https://mind.rathewolf.com/inspired-by-films-and-everything-else)
 
 
 
@@ -101,10 +101,10 @@ Home (between NY and SF pt. II):
 
 
 SF pt. II:  
-- [Designing Educational Games: The Indie Way](http://www.rahilpatel.com/blog/designing-educational-games-the-indie-way)  
-- [Universalism in Art](http://www.rahilpatel.com/blog/universalism-in-art)*  
-- [Creative Programming](http://www.rahilpatel.com/blog/creative-programming)**  
-- [Life and Technology](http://www.rahilpatel.com/blog/life-and-technology)
+- [Designing Educational Games: The Indie Way](https://mind.rathewolf.com/designing-educational-games-the-indie-way)  
+- [Universalism in Art](https://mind.rathewolf.com/universalism-in-art)*  
+- [Creative Programming](https://mind.rathewolf.com/creative-programming)**  
+- [Life and Technology](https://mind.rathewolf.com/life-and-technology)
 
 
 
@@ -114,20 +114,20 @@ SF pt. II:
 
 travel:  
 [todo: stopped here]  
-- [Creativity Derives from Nothing](http://www.rahilpatel.com/blog/creativity-derives-from-nothing)***  
-- [Life and Education](http://www.rahilpatel.com/blog/life-and-education)*  
-- [Life and Technology](http://www.rahilpatel.com/blog/life-and-technology)**  
+- [Creativity Derives from Nothing](https://mind.rathewolf.com/creativity-derives-from-nothing)***  
+- [Life and Education](https://mind.rathewolf.com/life-and-education)*  
+- [Life and Technology](https://mind.rathewolf.com/life-and-technology)**  
 - [todo: should finish travel observations series. Hong Kong and Seoul are published here.]  
-- [Creativity Derives from Nothing](http://www.rahilpatel.com/blog/creativity-derives-from-nothing)**  
-- [Flexibility and Immigration](http://www.rahilpatel.com/blog/flexibility-and-immigration)  
-- [Time and Value](http://www.rahilpatel.com/blog/time-and-value)  
-- [Flexibility and Learning](http://www.rahilpatel.com/blog/flexibility-and-learning)  
-- [a Self-assessment](http://www.rahilpatel.com/blog/a-self-assessment)  
-- [Distance](http://www.rahilpatel.com/blog/distance)  
-- [Organized Things I've Written](http://www.rahilpatel.com/blog/valuable-things-ive-written)****  
-- [A Personal Statement for Design and Technology](http://www.rahilpatel.com/blog/a-personal-statement-for-design-and-technology)*  
-- [A Personal Statement for Game Design](http://www.rahilpatel.com/blog/a-personal-statement-for-game-design)  
-- [A Critical Analysis of Super Smash Bros. Melee](http://www.rahilpatel.com/blog/a-critical-analysis-of-super-smash-bros-melee)
+- [Creativity Derives from Nothing](https://mind.rathewolf.com/creativity-derives-from-nothing)**  
+- [Flexibility and Immigration](https://mind.rathewolf.com/flexibility-and-immigration)  
+- [Time and Value](https://mind.rathewolf.com/time-and-value)  
+- [Flexibility and Learning](https://mind.rathewolf.com/flexibility-and-learning)  
+- [a Self-assessment](https://mind.rathewolf.com/a-self-assessment)  
+- [Distance](https://mind.rathewolf.com/distance)  
+- [Organized Things I've Written](https://mind.rathewolf.com/valuable-things-ive-written)****  
+- [A Personal Statement for Design and Technology](https://mind.rathewolf.com/a-personal-statement-for-design-and-technology)*  
+- [A Personal Statement for Game Design](https://mind.rathewolf.com/a-personal-statement-for-game-design)  
+- [A Critical Analysis of Super Smash Bros. Melee](https://mind.rathewolf.com/a-critical-analysis-of-super-smash-bros-melee)
 
 
 
@@ -145,10 +145,10 @@ travel:
 
 (posts between 2014/03/23 - 2014/8/3):  
 - in retrospect, because I was trying to write while thinking fast, the writings lack vocabulary or use other words to encompass other meanings. I think much of the content is still good, if not better, because they are a closer reflection of my experiences -- in the duration of time between experience and thought (and writing), and in the distance between sensory experience and rationalizing.  
-- from [An Attempt to Write Everything I Know](http://www.rahilpatel.com/blog/an-attempt-to-write-everything-i-know) and then on, I began writing some, blogging some, using and quoting my thoughts file to gain topics from very recent personal experiences, surprisingly similar to Montaigne. My thoughts file is endless, and it may be impossible to philosophize all of my experiences, but, for the time, I tried.  
-- [A Self-assessment II](http://www.rahilpatel.com/blog/a-self-assessment-ii)  
-- [The Effects of Weather](http://www.rahilpatel.com/blog/the-effects-of-weather)*  
-- [Sleeping Problems](http://www.rahilpatel.com/blog/sleeping-problems)*
+- from [An Attempt to Write Everything I Know](https://mind.rathewolf.com/an-attempt-to-write-everything-i-know) and then on, I began writing some, blogging some, using and quoting my thoughts file to gain topics from very recent personal experiences, surprisingly similar to Montaigne. My thoughts file is endless, and it may be impossible to philosophize all of my experiences, but, for the time, I tried.  
+- [A Self-assessment II](https://mind.rathewolf.com/a-self-assessment-ii)  
+- [The Effects of Weather](https://mind.rathewolf.com/the-effects-of-weather)*  
+- [Sleeping Problems](https://mind.rathewolf.com/sleeping-problems)*
 
 
 
@@ -156,31 +156,31 @@ travel:
 
 
 
-  * [A Foreigner Crashes at the Legislative Yuan's Slumber Party](http://www.rahilpatel.com/blog/a-foreigner-crashes-at-the-legislative-yuans-slumber-party)**  
-- [Nomadism, Culture, and The Playful Quest for Knowledge](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge)**
-  * [Lone Work and Depression](http://www.rahilpatel.com/blog/lone-work-and-depression)
+  * [A Foreigner Crashes at the Legislative Yuan's Slumber Party](https://mind.rathewolf.com/a-foreigner-crashes-at-the-legislative-yuans-slumber-party)**  
+- [Nomadism, Culture, and The Playful Quest for Knowledge](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge)**
+  * [Lone Work and Depression](https://mind.rathewolf.com/lone-work-and-depression)
 
 
 
 
 
 
-- [The Apex of Mania and Creativity in Taipei](http://www.rahilpatel.com/blog/the-apex-of-mania-and-creativity-in-taipei)*  
-- [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs)***  
-- [Taiwan and Japan: Active and Passive Lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles)*  
-- [The Ideal Method of Learning](http://www.rahilpatel.com/blog/the-ideal-method-of-learning)**  
-- [Prose is Superfluous: Active Communication through Play and Art](http://www.rahilpatel.com/blog/prose-is-superfluous-active-communication-through-play-and-art)****  
-- [Books, Passive Media, and The Internet](http://www.rahilpatel.com/blog/books-passive-media-and-the-internet)*  
-- [Island Nations and Globalization](http://www.rahilpatel.com/blog/island-nations-and-globalization)*  
-- [Okinawa is Inhospitable](http://www.rahilpatel.com/blog/okinawana-is-inhospitable)*  
-- [My Creative Process, Honing Theory, and Nomadism](http://www.rahilpatel.com/blog/my-creative-process-honing-theory-and-nomadism)*  
-- [Methods of Sustaining Creativity in The Same Place](http://www.rahilpatel.com/blog/methods-of-sustaining-creativity-in-the-same-place)*  
-- [Creativity and Exercise](http://www.rahilpatel.com/blog/creativity-and-exercise)*  
-- [Two Phases in Life](http://www.rahilpatel.com/blog/two-phases-in-life)**  
-- [Lateral Thinking, External Stimuli, and Self-Control](http://www.rahilpatel.com/blog/lateral-thinking-external-stimuli-and-self-control)*  
-- [Learning via Empericism](http://www.rahilpatel.com/blog/learning-via-empericism)**  
-- [Game Philosophy](http://www.rahilpatel.com/blog/game-philosophy)  
-- [A Sequential List of Game Experiences that I Remember](http://www.rahilpatel.com/blog/a-sequential-list-of-game-experiences-that-i-remember)
+- [The Apex of Mania and Creativity in Taipei](https://mind.rathewolf.com/the-apex-of-mania-and-creativity-in-taipei)*  
+- [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs)***  
+- [Taiwan and Japan: Active and Passive Lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles)*  
+- [The Ideal Method of Learning](https://mind.rathewolf.com/the-ideal-method-of-learning)**  
+- [Prose is Superfluous: Active Communication through Play and Art](https://mind.rathewolf.com/prose-is-superfluous-active-communication-through-play-and-art)****  
+- [Books, Passive Media, and The Internet](https://mind.rathewolf.com/books-passive-media-and-the-internet)*  
+- [Island Nations and Globalization](https://mind.rathewolf.com/island-nations-and-globalization)*  
+- [Okinawa is Inhospitable](https://mind.rathewolf.com/okinawana-is-inhospitable)*  
+- [My Creative Process, Honing Theory, and Nomadism](https://mind.rathewolf.com/my-creative-process-honing-theory-and-nomadism)*  
+- [Methods of Sustaining Creativity in The Same Place](https://mind.rathewolf.com/methods-of-sustaining-creativity-in-the-same-place)*  
+- [Creativity and Exercise](https://mind.rathewolf.com/creativity-and-exercise)*  
+- [Two Phases in Life](https://mind.rathewolf.com/two-phases-in-life)**  
+- [Lateral Thinking, External Stimuli, and Self-Control](https://mind.rathewolf.com/lateral-thinking-external-stimuli-and-self-control)*  
+- [Learning via Empericism](https://mind.rathewolf.com/learning-via-empericism)**  
+- [Game Philosophy](https://mind.rathewolf.com/game-philosophy)  
+- [A Sequential List of Game Experiences that I Remember](https://mind.rathewolf.com/a-sequential-list-of-game-experiences-that-i-remember)
 
 
 
@@ -188,15 +188,15 @@ travel:
 
 
 
-  * [Why I Love Tsai-Ming Liang’s Films](http://www.rahilpatel.com/blog/why-i-love-tsai-ming-liangs-films)*
-  * [Philosophy of Literature: What’s left?](http://www.rahilpatel.com/blog/philosophy-of-literature-whats-left)
-  * [Social Life as Lifetime](http://www.rahilpatel.com/blog/social-life-as-lifetime)
-  * [Extrovert and Introvert Learning](http://www.rahilpatel.com/blog/extrovert-and-introvert-learning)
-  * [Hedonism and Wisdom](http://www.rahilpatel.com/blog/hedonism-and-wisdom)
-  * [Hypomania and Creativity](http://www.rahilpatel.com/blog/hypomania-and-creativity)
-  * [Philosophy from Media versus Life; New York versus the World](http://www.rahilpatel.com/blog/philosophy-from-media-versus-life-new-york-versus-the-world)**
-  * [Inaction in a Bookshop in Taipei](http://www.rahilpatel.com/blog/inaction-in-a-bookshop-in-taipei)*
-  * [An Attempt to Write Everything I Know](http://www.rahilpatel.com/blog/an-attempt-to-write-everything-i-know)**
+  * [Why I Love Tsai-Ming Liang’s Films](https://mind.rathewolf.com/why-i-love-tsai-ming-liangs-films)*
+  * [Philosophy of Literature: What’s left?](https://mind.rathewolf.com/philosophy-of-literature-whats-left)
+  * [Social Life as Lifetime](https://mind.rathewolf.com/social-life-as-lifetime)
+  * [Extrovert and Introvert Learning](https://mind.rathewolf.com/extrovert-and-introvert-learning)
+  * [Hedonism and Wisdom](https://mind.rathewolf.com/hedonism-and-wisdom)
+  * [Hypomania and Creativity](https://mind.rathewolf.com/hypomania-and-creativity)
+  * [Philosophy from Media versus Life; New York versus the World](https://mind.rathewolf.com/philosophy-from-media-versus-life-new-york-versus-the-world)**
+  * [Inaction in a Bookshop in Taipei](https://mind.rathewolf.com/inaction-in-a-bookshop-in-taipei)*
+  * [An Attempt to Write Everything I Know](https://mind.rathewolf.com/an-attempt-to-write-everything-i-know)**
 
 
 
@@ -204,16 +204,16 @@ travel:
 
 
 [todo: stopped reorganization here]  
-- [Autonomy of Taiwan](http://www.rahilpatel.com/blog/autonomy-of-taiwan)***  
-- [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)****  
+- [Autonomy of Taiwan](https://mind.rathewolf.com/autonomy-of-taiwan)***  
+- [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)****  
 [todo: stopped cosmetic cleaning of blockquote tags (use cite tag, remove quotes) here]  
-- [Why read the Western philosophy canon?](http://www.rahilpatel.com/blog/why-read-the-western-philosophy-canon)  
-- [Conciseness in Art](http://www.rahilpatel.com/blog/conciseness-in-art)**  
-- [The Obsolescence of Literature and the Future of Education](http://www.rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education)  
-- [How and When to Write, and the Impossibility of a Solitary Life](http://www.rahilpatel.com/blog/how-and-when-to-write-and-the-impossibility-of-a-solitary-life)*  
-- [The Purpose of a Blog: A Medium for Essays and Self-Assessments](http://www.rahilpatel.com/blog/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments)  
-- [Hypomania](http://www.rahilpatel.com/blog/hypomania)  
-- [In Praise of Experimental Art Communities](http://www.rahilpatel.com/blog/in-praise-of-experimental-art-communities)**
+- [Why read the Western philosophy canon?](https://mind.rathewolf.com/why-read-the-western-philosophy-canon)  
+- [Conciseness in Art](https://mind.rathewolf.com/conciseness-in-art)**  
+- [The Obsolescence of Literature and the Future of Education](https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education)  
+- [How and When to Write, and the Impossibility of a Solitary Life](https://mind.rathewolf.com/how-and-when-to-write-and-the-impossibility-of-a-solitary-life)*  
+- [The Purpose of a Blog: A Medium for Essays and Self-Assessments](https://mind.rathewolf.com/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments)  
+- [Hypomania](https://mind.rathewolf.com/hypomania)  
+- [In Praise of Experimental Art Communities](https://mind.rathewolf.com/in-praise-of-experimental-art-communities)**
 
 
 
@@ -221,7 +221,7 @@ travel:
 
 
 
-  * [JRPGs Emulate Travel](http://www.rahilpatel.com/blog/jrpgs-emulate-travel)*
+  * [JRPGs Emulate Travel](https://mind.rathewolf.com/jrpgs-emulate-travel)*
 
 
 
@@ -237,52 +237,52 @@ travel:
 
 
   * 2014/9/19 - 2015/1/22
-  * [Information Organization, Mediums, Creativity, and Experience](http://www.rahilpatel.com/blog/information-organization-mediums-creativity-and-experience)*****
-  * [Information, Media, and Education](http://www.rahilpatel.com/blog/information-media-and-education)***
-  * [No more writing](http://www.rahilpatel.com/blog/no-more-writing)****
-  * [Public Places](http://www.rahilpatel.com/blog/public-places)***
-  * [A Design Strategy for Data](http://www.rahilpatel.com/blog/a-design-strategy-for-data)****
-  * [A Liberal Arts Self Study Curriculum](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum)**
-  * [Life and Action](http://www.rahilpatel.com/blog/life-and-action)*
-  * [A Few Design Ideas](http://www.rahilpatel.com/blog/category/art-2/new-media)****
-  * [What makes a classic, classic?](http://www.rahilpatel.com/blog/what-makes-a-classic-classic)
-  * [Hippie Ethics](http://www.rahilpatel.com/blog/hippie-ethics)**
-  * [The Ideal Public Space](http://www.rahilpatel.com/blog/the-ideal-public-space)*****
-  * [Korea and the Apex of SPD](http://www.rahilpatel.com/blog/korea-and-the-apex-of-spd)**
-  * [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)****
-  * [Happiness and Public Spaces](http://www.rahilpatel.com/blog/happiness-and-public-spaces)***
-  * [My Education](http://www.rahilpatel.com/blog/my-education)*
-  * [Wolf Children](http://www.rahilpatel.com/blog/wolf-children)**
-  * [I Think of Dean Moriarty](http://www.rahilpatel.com/blog/i-think-of-dean-moriarty)*
-  * [Teaching in Poor Places](http://www.rahilpatel.com/blog/teaching-in-poor-places)
-  * [Start from Nothing](http://www.rahilpatel.com/blog/start-from-nothing)
-  * [The Ideal Household](http://www.rahilpatel.com/blog/the-ideal-household)
-  * [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)**
-  * [Social Life in Proximity](http://www.rahilpatel.com/blog/social-life-in-proximity)**
-  * [The Most Powerful Forms of Art](http://www.rahilpatel.com/blog/the-most-powerful-forms-of-art)***
-  * [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blog/searching-for-the-greatest-environment-ethics)***
-  * [New York and Taiwan](http://www.rahilpatel.com/blog/new-york-and-taiwan)*****
-  * [http://www.rahilpatel.com/blog/epicureanism-and-location](http://www.rahilpatel.com/blog/epicureanism-and-location)
-  * [Survival and Self-expression](http://www.rahilpatel.com/blog/survival-and-self-expression)
-  * [Chaos and Organization](http://www.rahilpatel.com/blog/chaos-and-organization)*
-  * [Creativity as Organization from Chaos](http://www.rahilpatel.com/blog/creativity-as-organization-from-chaos)
-  * [Solitude and Depression](http://www.rahilpatel.com/blog/solitude-and-depression)
-  * [賈樟柯’s (Jia Zhangke) Trilogy](http://www.rahilpatel.com/blog/jia-zhangkes-trilogy)***
-  * [The Limits of Digital Work](http://www.rahilpatel.com/blog/the-limits-of-digital-work)
-  * [Epicureanism in the Suburbs](http://www.rahilpatel.com/blog/epicureanism-in-the-suburbs)*
-  * [The Distance between Humans](http://www.rahilpatel.com/blog/the-distance-between-humans)******
-  * [Tools for Organizing](http://www.rahilpatel.com/blog/tools-for-organizing)***
-  * [Tools for Disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing)**
-  * [Epicureanism and Media](http://www.rahilpatel.com/blog/epicureanism-and-media)*
-  * [Mapping Grammar](http://www.rahilpatel.com/blog/mapping-grammar)**
-  * [The Failures of Self-Expression as Charity](http://www.rahilpatel.com/blog/the-failures-of-self-expression-as-charity)***
-  * [Materials and Media](http://www.rahilpatel.com/blog/materials-and-media)**
-  * [Decision-making, Civics, and Technology](http://www.rahilpatel.com/blog/decision-making-civics-and-technology)****
-  * [Urban Planning for Solidarity](http://www.rahilpatel.com/blog/urban-planning-for-solidarity)***
-  * [DIY Ethics in Developing Countries](http://www.rahilpatel.com/blog/diy-ethics-in-developing-countries)***
-  * [Large and Small Communities](http://www.rahilpatel.com/blog/large-and-small-communities)
-  * [The Speed of Decision-making](http://www.rahilpatel.com/blog/the-speed-of-decision-making)*
-  * [Oral Culture and the Speed of Decision-making](http://www.rahilpatel.com/blog/oral-culture-and-the-speed-of-decision-making)****
+  * [Information Organization, Mediums, Creativity, and Experience](https://mind.rathewolf.com/information-organization-mediums-creativity-and-experience)*****
+  * [Information, Media, and Education](https://mind.rathewolf.com/information-media-and-education)***
+  * [No more writing](https://mind.rathewolf.com/no-more-writing)****
+  * [Public Places](https://mind.rathewolf.com/public-places)***
+  * [A Design Strategy for Data](https://mind.rathewolf.com/a-design-strategy-for-data)****
+  * [A Liberal Arts Self Study Curriculum](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum)**
+  * [Life and Action](https://mind.rathewolf.com/life-and-action)*
+  * [A Few Design Ideas](https://mind.rathewolf.com/category/art-2/new-media)****
+  * [What makes a classic, classic?](https://mind.rathewolf.com/what-makes-a-classic-classic)
+  * [Hippie Ethics](https://mind.rathewolf.com/hippie-ethics)**
+  * [The Ideal Public Space](https://mind.rathewolf.com/the-ideal-public-space)*****
+  * [Korea and the Apex of SPD](https://mind.rathewolf.com/korea-and-the-apex-of-spd)**
+  * [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)****
+  * [Happiness and Public Spaces](https://mind.rathewolf.com/happiness-and-public-spaces)***
+  * [My Education](https://mind.rathewolf.com/my-education)*
+  * [Wolf Children](https://mind.rathewolf.com/wolf-children)**
+  * [I Think of Dean Moriarty](https://mind.rathewolf.com/i-think-of-dean-moriarty)*
+  * [Teaching in Poor Places](https://mind.rathewolf.com/teaching-in-poor-places)
+  * [Start from Nothing](https://mind.rathewolf.com/start-from-nothing)
+  * [The Ideal Household](https://mind.rathewolf.com/the-ideal-household)
+  * [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)**
+  * [Social Life in Proximity](https://mind.rathewolf.com/social-life-in-proximity)**
+  * [The Most Powerful Forms of Art](https://mind.rathewolf.com/the-most-powerful-forms-of-art)***
+  * [Searching for the Greatest Environment Ethics](https://mind.rathewolf.com/searching-for-the-greatest-environment-ethics)***
+  * [New York and Taiwan](https://mind.rathewolf.com/new-york-and-taiwan)*****
+  * [https://mind.rathewolf.com/epicureanism-and-location](https://mind.rathewolf.com/epicureanism-and-location)
+  * [Survival and Self-expression](https://mind.rathewolf.com/survival-and-self-expression)
+  * [Chaos and Organization](https://mind.rathewolf.com/chaos-and-organization)*
+  * [Creativity as Organization from Chaos](https://mind.rathewolf.com/creativity-as-organization-from-chaos)
+  * [Solitude and Depression](https://mind.rathewolf.com/solitude-and-depression)
+  * [賈樟柯’s (Jia Zhangke) Trilogy](https://mind.rathewolf.com/jia-zhangkes-trilogy)***
+  * [The Limits of Digital Work](https://mind.rathewolf.com/the-limits-of-digital-work)
+  * [Epicureanism in the Suburbs](https://mind.rathewolf.com/epicureanism-in-the-suburbs)*
+  * [The Distance between Humans](https://mind.rathewolf.com/the-distance-between-humans)******
+  * [Tools for Organizing](https://mind.rathewolf.com/tools-for-organizing)***
+  * [Tools for Disorganizing](https://mind.rathewolf.com/tools-for-disorganizing)**
+  * [Epicureanism and Media](https://mind.rathewolf.com/epicureanism-and-media)*
+  * [Mapping Grammar](https://mind.rathewolf.com/mapping-grammar)**
+  * [The Failures of Self-Expression as Charity](https://mind.rathewolf.com/the-failures-of-self-expression-as-charity)***
+  * [Materials and Media](https://mind.rathewolf.com/materials-and-media)**
+  * [Decision-making, Civics, and Technology](https://mind.rathewolf.com/decision-making-civics-and-technology)****
+  * [Urban Planning for Solidarity](https://mind.rathewolf.com/urban-planning-for-solidarity)***
+  * [DIY Ethics in Developing Countries](https://mind.rathewolf.com/diy-ethics-in-developing-countries)***
+  * [Large and Small Communities](https://mind.rathewolf.com/large-and-small-communities)
+  * [The Speed of Decision-making](https://mind.rathewolf.com/the-speed-of-decision-making)*
+  * [Oral Culture and the Speed of Decision-making](https://mind.rathewolf.com/oral-culture-and-the-speed-of-decision-making)****
 
 
 
@@ -298,25 +298,25 @@ travel:
 
 
 [todo: some of the posts may exist under a category but not listed here]  
-- [The Ideology of Taiwan](http://www.rahilpatel.com/blog/the-ideology-of-taiwan)[*****]  
-- [Space, Time, and People](http://www.rahilpatel.com/blog/space-time-and-people)**  
+- [The Ideology of Taiwan](https://mind.rathewolf.com/the-ideology-of-taiwan)[*****]  
+- [Space, Time, and People](https://mind.rathewolf.com/space-time-and-people)**  
 etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):  
-- [Self-service Housing](http://www.rahilpatel.com/blog/self-service-housing)  
-- [Self-service Work](http://www.rahilpatel.com/blog/self-service-work)  
-- [A Thought about Quality](http://www.rahilpatel.com/blog/a-thought-about-quality)  
-- [Awareness and Consciousness](http://www.rahilpatel.com/blog/awareness-and-consciousness)**  
-- [The Speed of Ideas](http://www.rahilpatel.com/blog/the-speed-of-ideas)**_[_]  
-- [A Curriculum of Experience](http://www.rahilpatel.com/blog/a-curriculum-of-experience)****  
-- [How the Material Came to Be](http://www.rahilpatel.com/blog/how-the-material-came-to-be)[***** potential stars!]  
-- [The Revolution Will Not Be in the Bedroom](http://www.rahilpatel.com/blog/the-revolution-will-not-be-in-the-bedroom)***  
-- [Tools for Autodidacts](http://www.rahilpatel.com/blog/tools-for-autodidacts)***  
-- [Is Continental Philosophy a Dead End?](http://www.rahilpatel.com/blog/is-continental-philosophy-a-dead-end)*  
-- [Will to Take Care of Locality](http://www.rahilpatel.com/blog/will-to-take-care-of-locality)**  
-- [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)****  
-- [The Affects of Audio](http://www.rahilpatel.com/blog/the-affects-of-audio)*  
-- [Why are [the] arts segregated?](http://www.rahilpatel.com/blog/why-are-arts-segregated)***  
-- [Working Memory and Community](http://www.rahilpatel.com/blog/working-memory-and-community)**  
-- [Working Memory and Creativity](http://www.rahilpatel.com/blog/working-memory-and-creativity)**
+- [Self-service Housing](https://mind.rathewolf.com/self-service-housing)  
+- [Self-service Work](https://mind.rathewolf.com/self-service-work)  
+- [A Thought about Quality](https://mind.rathewolf.com/a-thought-about-quality)  
+- [Awareness and Consciousness](https://mind.rathewolf.com/awareness-and-consciousness)**  
+- [The Speed of Ideas](https://mind.rathewolf.com/the-speed-of-ideas)**_[_]  
+- [A Curriculum of Experience](https://mind.rathewolf.com/a-curriculum-of-experience)****  
+- [How the Material Came to Be](https://mind.rathewolf.com/how-the-material-came-to-be)[***** potential stars!]  
+- [The Revolution Will Not Be in the Bedroom](https://mind.rathewolf.com/the-revolution-will-not-be-in-the-bedroom)***  
+- [Tools for Autodidacts](https://mind.rathewolf.com/tools-for-autodidacts)***  
+- [Is Continental Philosophy a Dead End?](https://mind.rathewolf.com/is-continental-philosophy-a-dead-end)*  
+- [Will to Take Care of Locality](https://mind.rathewolf.com/will-to-take-care-of-locality)**  
+- [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)****  
+- [The Affects of Audio](https://mind.rathewolf.com/the-affects-of-audio)*  
+- [Why are [the] arts segregated?](https://mind.rathewolf.com/why-are-arts-segregated)***  
+- [Working Memory and Community](https://mind.rathewolf.com/working-memory-and-community)**  
+- [Working Memory and Creativity](https://mind.rathewolf.com/working-memory-and-creativity)**
 
 
 
@@ -324,7 +324,7 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 
 
-## - [Material Organizations and Autonomy](http://www.rahilpatel.com/blog/material-organizations-and-autonomy)****
+## - [Material Organizations and Autonomy](https://mind.rathewolf.com/material-organizations-and-autonomy)****
 
 
 
@@ -333,15 +333,15 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 
   * pondering directions in Yilan, Taiwan, 2015/9/30 - 2015/12/6
-  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)***
-  * [Into the Wild](http://www.rahilpatel.com/blog/into-the-wild)
+  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)***
+  * [Into the Wild](https://mind.rathewolf.com/into-the-wild)
 
 
 
 
 
 
-## - [Talking to Myself to Create a Statement Objective](http://www.rahilpatel.com/blog/talking-to-myself-to-create-a-statement-objective)***
+## - [Talking to Myself to Create a Statement Objective](https://mind.rathewolf.com/talking-to-myself-to-create-a-statement-objective)***
 
 
 
@@ -359,17 +359,17 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 criticism of capitalism, communication, and rationality  
 - Yilan, Taiwan, 2015/11/18 - 2015/10/10:  
-- [Silicon Valley and Capitalism](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism)**  
-- [Talking to Myself During a Late Night from an Isolated Place](http://www.rahilpatel.com/blog/talking-to-myself-during-a-late-night-from-an-isolated-place)**  
-- [Why did I Read?](http://www.rahilpatel.com/blog/why-did-i-read)*****  
-- [Free from Capitalism](http://www.rahilpatel.com/blog/free-from-capitalism)****  
-- [Awareness and Communication](http://www.rahilpatel.com/blog/awareness-and-communication)*  
-- [Communication, Social Action, and Cities](http://www.rahilpatel.com/blog/communication-social-action-and-cities)_[_]  
-- [Criticism of Innovative Urban Areas](http://www.rahilpatel.com/blog/criticism-of-innovative-urban-areas)**  
-- [Communication and Rationality](http://www.rahilpatel.com/blog/communication-and-rationality)[*]  
-- [The Distance between Communication and Reality](http://www.rahilpatel.com/blog/the-distance-between-communication-and-reality)***  
-- [Why I Did What I Did](http://www.rahilpatel.com/blog/why-i-did-what-i-did)***  
-- [I Can Almost See the Sun](http://www.rahilpatel.com/blog/i-can-almost-see-the-sun)***
+- [Silicon Valley and Capitalism](https://mind.rathewolf.com/silicon-valley-and-capitalism)**  
+- [Talking to Myself During a Late Night from an Isolated Place](https://mind.rathewolf.com/talking-to-myself-during-a-late-night-from-an-isolated-place)**  
+- [Why did I Read?](https://mind.rathewolf.com/why-did-i-read)*****  
+- [Free from Capitalism](https://mind.rathewolf.com/free-from-capitalism)****  
+- [Awareness and Communication](https://mind.rathewolf.com/awareness-and-communication)*  
+- [Communication, Social Action, and Cities](https://mind.rathewolf.com/communication-social-action-and-cities)_[_]  
+- [Criticism of Innovative Urban Areas](https://mind.rathewolf.com/criticism-of-innovative-urban-areas)**  
+- [Communication and Rationality](https://mind.rathewolf.com/communication-and-rationality)[*]  
+- [The Distance between Communication and Reality](https://mind.rathewolf.com/the-distance-between-communication-and-reality)***  
+- [Why I Did What I Did](https://mind.rathewolf.com/why-i-did-what-i-did)***  
+- [I Can Almost See the Sun](https://mind.rathewolf.com/i-can-almost-see-the-sun)***
 
 
 
@@ -377,7 +377,7 @@ criticism of capitalism, communication, and rationality
 
 
 
-## - [On Humanism](http://www.rahilpatel.com/blog/on-humanism)**_[_]
+## - [On Humanism](https://mind.rathewolf.com/on-humanism)**_[_]
 
 
 
@@ -394,16 +394,16 @@ criticism of capitalism, communication, and rationality
 
 
 towards sociology of space, human geography, and environmental psychology:  
-- [The Categorization of Knowledge](http://www.rahilpatel.com/blog/the-classification-of-knowledge)***  
-- [Time and Space in Anthropology](http://www.rahilpatel.com/blog/time-and-space-in-anthropology)***  
-- [The Organization of the World](http://www.rahilpatel.com/blog/the-organization-of-the-world)*  
-- [Forms and Design](http://www.rahilpatel.com/blog/forms-and-design)**[_]  
-- [The Metropolis and Mental Life by Georg Simmel](http://www.rahilpatel.com/blog/the-metropolis-and-mental-life)_[_]  
-- [The Practice of Life](http://www.rahilpatel.com/blog/the-practice-of-life)_**[**]  
-- [An Interview with Chris Marker](http://www.rahilpatel.com/blog/an-interview-with-chris-marker)***[*]  
+- [The Categorization of Knowledge](https://mind.rathewolf.com/the-classification-of-knowledge)***  
+- [Time and Space in Anthropology](https://mind.rathewolf.com/time-and-space-in-anthropology)***  
+- [The Organization of the World](https://mind.rathewolf.com/the-organization-of-the-world)*  
+- [Forms and Design](https://mind.rathewolf.com/forms-and-design)**[_]  
+- [The Metropolis and Mental Life by Georg Simmel](https://mind.rathewolf.com/the-metropolis-and-mental-life)_[_]  
+- [The Practice of Life](https://mind.rathewolf.com/the-practice-of-life)_**[**]  
+- [An Interview with Chris Marker](https://mind.rathewolf.com/an-interview-with-chris-marker)***[*]  
 The Constitution of Space by Martina Löw [draft]  
 Action and Determinism [draft]  
-[Railroad Space and Railroad Time](http://www.rahilpatel.com/blog/railroad-space-and-railroad-time)
+[Railroad Space and Railroad Time](https://mind.rathewolf.com/railroad-space-and-railroad-time)
 
 
 
@@ -431,7 +431,7 @@ Critical Theory in Relationships [draft]
 
 
 
-## [Girl Talk](http://www.rahilpatel.com/blog/girl-talk) [draft, private]
+## [Girl Talk](https://mind.rathewolf.com/girl-talk) [draft, private]
 
 
 
@@ -471,9 +471,9 @@ A List of Ideologies in Taiwanese Culture [pre-draft][*****]
 
 critical theory: inclusion / exclusion:  
 - at Gaoxiong and West Taiwan  
-[A Study Plan](http://www.rahilpatel.com/blog/a-study-plan)*****  
-[School vs City](http://www.rahilpatel.com/blog/school-vs-city)***  
-[Creating Comfortable Spaces](http://www.rahilpatel.com/blog/creating-comfortable-places)
+[A Study Plan](https://mind.rathewolf.com/a-study-plan)*****  
+[School vs City](https://mind.rathewolf.com/school-vs-city)***  
+[Creating Comfortable Spaces](https://mind.rathewolf.com/creating-comfortable-places)
 
 
 
@@ -481,7 +481,7 @@ critical theory: inclusion / exclusion:
 
 
 
-## [The Way of Including](http://www.rahilpatel.com/blog/the-way-of-including)****
+## [The Way of Including](https://mind.rathewolf.com/the-way-of-including)****
 
 
 
@@ -491,7 +491,7 @@ critical theory: inclusion / exclusion:
 
 media, dialectics, and action:  
 - at Xizhi  
-[Thoughts, Highlights, Notes, and Dialectics with Media](http://www.rahilpatel.com/blog/thoughts-highlights-notes-and-dialectics-with-media)
+[Thoughts, Highlights, Notes, and Dialectics with Media](https://mind.rathewolf.com/thoughts-highlights-notes-and-dialectics-with-media)
 
 
 
@@ -499,7 +499,7 @@ media, dialectics, and action:
 
 
 
-## [Media and Action](http://www.rahilpatel.com/blog/media-and-action)
+## [Media and Action](https://mind.rathewolf.com/media-and-action)
 
 
 
@@ -508,8 +508,8 @@ media, dialectics, and action:
 
 
 politics and capitalism (a continuation of culture of Taiwan):  
-[Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making)****  
-[Capitalistic Behavior](http://www.rahilpatel.com/blog/capitalistic-behavior)[*****]
+[Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making)****  
+[Capitalistic Behavior](https://mind.rathewolf.com/capitalistic-behavior)[*****]
 
 
 
@@ -517,7 +517,7 @@ politics and capitalism (a continuation of culture of Taiwan):
 
 
 
-## [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)[*****]
+## [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)[*****]
 
 
 
@@ -527,8 +527,8 @@ politics and capitalism (a continuation of culture of Taiwan):
 
 urban planning, pattern languages:  
 - at Taida  
-[Noisy Transportation Destroys [Social] Atmosphere](http://www.rahilpatel.com/blog/noisy-transportation-destroys-social-atmosphere)***  
-[Transportation Disrupts Sense of Space](http://www.rahilpatel.com/blog/transportation-disrupts-sense-of-space)****
+[Noisy Transportation Destroys [Social] Atmosphere](https://mind.rathewolf.com/noisy-transportation-destroys-social-atmosphere)***  
+[Transportation Disrupts Sense of Space](https://mind.rathewolf.com/transportation-disrupts-sense-of-space)****
 
 
 
@@ -536,7 +536,7 @@ urban planning, pattern languages:
 
 
 
-## [My Blog Contains a Pattern Language](http://www.rahilpatel.com/blog/my-blog-contains-a-pattern-language)
+## [My Blog Contains a Pattern Language](https://mind.rathewolf.com/my-blog-contains-a-pattern-language)
 
 
 
@@ -544,7 +544,7 @@ urban planning, pattern languages:
 
 
 
-## [The Boy and the Beast](http://www.rahilpatel.com/blog/the-boy-and-the-beast)
+## [The Boy and the Beast](https://mind.rathewolf.com/the-boy-and-the-beast)
 
 
 
@@ -554,7 +554,7 @@ urban planning, pattern languages:
 
 meditations, being political in an apolitical society, ethics:  
 - at Taida in isolation  
-[a continuation of politics and capitalism, especially second part of [Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making) and [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)]
+[a continuation of politics and capitalism, especially second part of [Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making) and [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)]
 
 
 
@@ -562,7 +562,7 @@ meditations, being political in an apolitical society, ethics:
 
 
 
-## [On Stoicism](http://www.rahilpatel.com/blog/on-stoicism)***
+## [On Stoicism](https://mind.rathewolf.com/on-stoicism)***
 
 
 
@@ -579,13 +579,13 @@ meditations, being political in an apolitical society, ethics:
 
 
 history, historiography, what is worth reading, kinds of literature (book formats, publishers), the search for ideal societies in the past:  
-[Translations of Laozi and Zuhangzi: A Translation Hell](http://www.rahilpatel.com/blog/translations-of-laozi-and-zhuangzi-a-translation-hell)  
-[Translations of Lives of the Noble Greeks and Romans [Parallel Lives]](http://www.rahilpatel.com/blog/translations-of-parallel-lives)  
-[Notes on Translations of Ancient Literature](http://www.rahilpatel.com/blog/notes-on-translations-of-ancient-literature)  
-[Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time)  
-[The Kinds of Literature and the Extraction of Ideas](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)  
-[In Search of a Past Time](http://www.rahilpatel.com/blog/in-search-of-a-past-time)  
-[Reading Political History](http://www.rahilpatel.com/blog/reading-political-history)  
+[Translations of Laozi and Zuhangzi: A Translation Hell](https://mind.rathewolf.com/translations-of-laozi-and-zhuangzi-a-translation-hell)  
+[Translations of Lives of the Noble Greeks and Romans [Parallel Lives]](https://mind.rathewolf.com/translations-of-parallel-lives)  
+[Notes on Translations of Ancient Literature](https://mind.rathewolf.com/notes-on-translations-of-ancient-literature)  
+[Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time)  
+[The Kinds of Literature and the Extraction of Ideas](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)  
+[In Search of a Past Time](https://mind.rathewolf.com/in-search-of-a-past-time)  
+[Reading Political History](https://mind.rathewolf.com/reading-political-history)  
 Why Academia is Insular[***] [draft, physical paper]
 
 
@@ -602,7 +602,7 @@ Education and Communication [draft, physical paper]
 
 
 
-[My Workflow for Written Expression](http://www.rahilpatel.com/blog/my-workflow-for-written-expression)
+[My Workflow for Written Expression](https://mind.rathewolf.com/my-workflow-for-written-expression)
 
 
 
@@ -619,10 +619,10 @@ Education and Communication [draft, physical paper]
 
 
 meditations (continued), society and action:  
-[Philosophy of Music](http://www.rahilpatel.com/blog/philosophy-of-music)  
-[Childhood and Media and This Recent Lonely Phase](http://www.rahilpatel.com/blog/childhood-and-media-and-this-recent-lonely-phase)****  
-[Action, Attention, and Space](http://www.rahilpatel.com/blog/action-attention-and-space)*****  
-[Book-shops and Learning](http://www.rahilpatel.com/blog/book-shops-and-learning)**
+[Philosophy of Music](https://mind.rathewolf.com/philosophy-of-music)  
+[Childhood and Media and This Recent Lonely Phase](https://mind.rathewolf.com/childhood-and-media-and-this-recent-lonely-phase)****  
+[Action, Attention, and Space](https://mind.rathewolf.com/action-attention-and-space)*****  
+[Book-shops and Learning](https://mind.rathewolf.com/book-shops-and-learning)**
 
 
 
@@ -640,19 +640,19 @@ meditations (continued), society and action:
 
 [todo: many of the film reviews are old, re-listed here, some re-watched and re-reviewed]  
 possible ways to live in the current world, anime:  
-[おおかみこどもの雨と雪 (~Wolf Children Ame and Yuki)](http://www.rahilpatel.com/blog/wolf-children)  
-[おもひでぽろぽろ (~Memories Drip-drop)](http://www.rahilpatel.com/blog/only-yesterday)  
-[幻の光 (~Will-o’-the-wisp)](http://www.rahilpatel.com/blog/maboroshi-no-hikari)  
-[蛍火の杜へ (~Into the Forest of Fireflies’ Light)](http://www.rahilpatel.com/blog/into-the-forest-of-fireflies-light)  
+[おおかみこどもの雨と雪 (~Wolf Children Ame and Yuki)](https://mind.rathewolf.com/wolf-children)  
+[おもひでぽろぽろ (~Memories Drip-drop)](https://mind.rathewolf.com/only-yesterday)  
+[幻の光 (~Will-o’-the-wisp)](https://mind.rathewolf.com/maboroshi-no-hikari)  
+[蛍火の杜へ (~Into the Forest of Fireflies’ Light)](https://mind.rathewolf.com/into-the-forest-of-fireflies-light)  
 - [todo: maybe content doesn't fit category]  
-[歸途列車 (Last Train Home)](http://www.rahilpatel.com/blog/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home)  
-[A Japanese Ideal](http://www.rahilpatel.com/blog/a-japanese-ideal)  
-[Creativity, What Society Needs, and What Society Wants](http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants)[****]  
-[Culture and [Social?] Development](http://www.rahilpatel.com/blog/culture-and-development)[****]  
-[The Ideal Way to Experience](http://www.rahilpatel.com/blog/the-ideal-way-to-experience)***  
-[Sense Deprivation](http://www.rahilpatel.com/blog/sense-deprivation)  
+[歸途列車 (Last Train Home)](https://mind.rathewolf.com/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home)  
+[A Japanese Ideal](https://mind.rathewolf.com/a-japanese-ideal)  
+[Creativity, What Society Needs, and What Society Wants](https://mind.rathewolf.com/creativity-what-society-needs-and-what-society-wants)[****]  
+[Culture and [Social?] Development](https://mind.rathewolf.com/culture-and-development)[****]  
+[The Ideal Way to Experience](https://mind.rathewolf.com/the-ideal-way-to-experience)***  
+[Sense Deprivation](https://mind.rathewolf.com/sense-deprivation)  
 [note: skipped a few posts]  
-[Film Lists, Watching Life, and Letting the Beauty Emerge](http://www.rahilpatel.com/blog/film-lists-watching-life-and-letting-beauty-emerge)
+[Film Lists, Watching Life, and Letting the Beauty Emerge](https://mind.rathewolf.com/film-lists-watching-life-and-letting-beauty-emerge)
 
 
 
@@ -668,7 +668,7 @@ possible ways to live in the current world, anime:
 
 
 
-[Japan](http://www.rahilpatel.com/blog/japan)
+[Japan](https://mind.rathewolf.com/japan)
 
 
 
@@ -707,14 +707,14 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Categorization of Knowledge](http://www.rahilpatel.com/blog/the-categorization-of-knowledge)*** (from Philosophy V)
-  * [Time and Space in Anthropology](http://www.rahilpatel.com/blog/time-and-space-in-anthropology)*** (from Philosophy V)
-  * [School vs City](http://www.rahilpatel.com/blog/school-vs-city)*** (from Philosophy VI)
-  * [The Way of Including](http://www.rahilpatel.com/blog/the-way-of-including)**** (from Philosophy VI)
-  * [Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making)**** (from Philosophy VI)
-  * [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)***** (from Philosophy VI)
+  * [The Categorization of Knowledge](https://mind.rathewolf.com/the-categorization-of-knowledge)*** (from Philosophy V)
+  * [Time and Space in Anthropology](https://mind.rathewolf.com/time-and-space-in-anthropology)*** (from Philosophy V)
+  * [School vs City](https://mind.rathewolf.com/school-vs-city)*** (from Philosophy VI)
+  * [The Way of Including](https://mind.rathewolf.com/the-way-of-including)**** (from Philosophy VI)
+  * [Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making)**** (from Philosophy VI)
+  * [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)***** (from Philosophy VI)
   * Why Academia is Insular[***] (from Philosophy VI)
-  * [The Ideal Way to Experience](http://www.rahilpatel.com/blog/the-ideal-way-to-experience)*** (from Philosophy IX)
+  * [The Ideal Way to Experience](https://mind.rathewolf.com/the-ideal-way-to-experience)*** (from Philosophy IX)
 
 
 
@@ -729,18 +729,18 @@ possible ways to live in the current world, anime:
 
 
 
-  * [Lost Survival Values and a Proposal](http://www.rahilpatel.com/blog/lost-survival-values-and-a-proposal) (from Philosophy II)
-  * [DIY Ethics in Developing Countries](http://www.rahilpatel.com/blog/diy-ethics-in-developing-countries)*** (from Philosophy II)
-  * [Materials and Media](http://www.rahilpatel.com/blog/materials-and-media)** (from Philosophy II)
-  * [A Design Strategy for Data](http://www.rahilpatel.com/blog/a-design-strategy-for-data)**** (from Philosophy II)
-  * [Decision-making, Civics, and Technology](http://www.rahilpatel.com/blog/decision-making-civics-and-technology)**** (from Philosophy II)
-  * [Tools for Organizing](http://www.rahilpatel.com/blog/tools-for-organizing)*** (from Philosophy II)
-  * [Tools for Disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing)** (from Philosophy II)  
-- [Tools for Autodidacts](http://www.rahilpatel.com/blog/tools-for-autodidacts)*** (from Philosophy III)
-  * [Mapping Grammar](http://www.rahilpatel.com/blog/mapping-grammar)** (from Philosophy II)
-  * [Talking to Myself to Create a Statement Objective](http://www.rahilpatel.com/blog/talking-to-myself-to-create-a-statement-objective)***
-  * [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)**** (from Philosophy III)
-  * [A Study Plan](http://www.rahilpatel.com/blog/a-study-plan)***** (from Philosophy VI)
+  * [Lost Survival Values and a Proposal](https://mind.rathewolf.com/lost-survival-values-and-a-proposal) (from Philosophy II)
+  * [DIY Ethics in Developing Countries](https://mind.rathewolf.com/diy-ethics-in-developing-countries)*** (from Philosophy II)
+  * [Materials and Media](https://mind.rathewolf.com/materials-and-media)** (from Philosophy II)
+  * [A Design Strategy for Data](https://mind.rathewolf.com/a-design-strategy-for-data)**** (from Philosophy II)
+  * [Decision-making, Civics, and Technology](https://mind.rathewolf.com/decision-making-civics-and-technology)**** (from Philosophy II)
+  * [Tools for Organizing](https://mind.rathewolf.com/tools-for-organizing)*** (from Philosophy II)
+  * [Tools for Disorganizing](https://mind.rathewolf.com/tools-for-disorganizing)** (from Philosophy II)  
+- [Tools for Autodidacts](https://mind.rathewolf.com/tools-for-autodidacts)*** (from Philosophy III)
+  * [Mapping Grammar](https://mind.rathewolf.com/mapping-grammar)** (from Philosophy II)
+  * [Talking to Myself to Create a Statement Objective](https://mind.rathewolf.com/talking-to-myself-to-create-a-statement-objective)***
+  * [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)**** (from Philosophy III)
+  * [A Study Plan](https://mind.rathewolf.com/a-study-plan)***** (from Philosophy VI)
 
 
 
@@ -755,18 +755,18 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Ideal Environment](http://www.rahilpatel.com/blog/cities-as-the-ideal-environment-for-artists) (from pre-Philosophy)
-  * [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)**** (from Philosophy I)
-  * [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blog/searching-for-the-greatest-environment-ethics)*** (from Philosophy II)
-  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)*** (from Philosophy III)
-  * [The Distance between Humans](http://www.rahilpatel.com/blog/the-distance-between-humans)****** (from Philosophy II)
-  * [New York and Taiwan](http://www.rahilpatel.com/blog/new-york-and-taiwan)***** (from Philosophy II)
-  * [Will to Take Care of Locality](http://www.rahilpatel.com/blog/will-to-take-care-of-locality)** (from Philosophy III)
-  * [Urban Planning for Solidarity](http://www.rahilpatel.com/blog/urban-planning-for-solidarity)*** (from Philosophy II)
-  * [Large and Small Communities](http://www.rahilpatel.com/blog/large-and-small-communities) (from Philosophy II)
-  * [The Ideal Public Space](http://www.rahilpatel.com/blog/the-ideal-public-space)***** (from Philosophy II)
-  * [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)** (from Philosophy II)
-  * [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)***** (from Philosophy VI)
+  * [The Ideal Environment](https://mind.rathewolf.com/cities-as-the-ideal-environment-for-artists) (from pre-Philosophy)
+  * [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)**** (from Philosophy I)
+  * [Searching for the Greatest Environment Ethics](https://mind.rathewolf.com/searching-for-the-greatest-environment-ethics)*** (from Philosophy II)
+  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)*** (from Philosophy III)
+  * [The Distance between Humans](https://mind.rathewolf.com/the-distance-between-humans)****** (from Philosophy II)
+  * [New York and Taiwan](https://mind.rathewolf.com/new-york-and-taiwan)***** (from Philosophy II)
+  * [Will to Take Care of Locality](https://mind.rathewolf.com/will-to-take-care-of-locality)** (from Philosophy III)
+  * [Urban Planning for Solidarity](https://mind.rathewolf.com/urban-planning-for-solidarity)*** (from Philosophy II)
+  * [Large and Small Communities](https://mind.rathewolf.com/large-and-small-communities) (from Philosophy II)
+  * [The Ideal Public Space](https://mind.rathewolf.com/the-ideal-public-space)***** (from Philosophy II)
+  * [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)** (from Philosophy II)
+  * [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)***** (from Philosophy VI)
   * The Ideal City
   * The Ideal Economy
   * The Ideal Society
@@ -784,12 +784,12 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)**** (from Early Philosophy I)  
-- [Autonomy of Taiwan](http://www.rahilpatel.com/blog/autonomy-of-taiwan)*** (from Philosophy I)  
-- [Self-service Housing](http://www.rahilpatel.com/blog/self-service-housing) (from Philosophy III)  
-- [Self-service Work](http://www.rahilpatel.com/blog/self-service-work) (from Philosophy III)
-  * [Material Organizations and Autonomy](http://www.rahilpatel.com/blog/material-organizations-and-autonomy)**** (from Philosophy III)
-  * [Creating Comfortable Spaces](http://www.rahilpatel.com/blog/creating-comfortable-places) (from Philosophy VI)
+  * [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)**** (from Early Philosophy I)  
+- [Autonomy of Taiwan](https://mind.rathewolf.com/autonomy-of-taiwan)*** (from Philosophy I)  
+- [Self-service Housing](https://mind.rathewolf.com/self-service-housing) (from Philosophy III)  
+- [Self-service Work](https://mind.rathewolf.com/self-service-work) (from Philosophy III)
+  * [Material Organizations and Autonomy](https://mind.rathewolf.com/material-organizations-and-autonomy)**** (from Philosophy III)
+  * [Creating Comfortable Spaces](https://mind.rathewolf.com/creating-comfortable-places) (from Philosophy VI)
 
 
 
@@ -1147,9 +1147,9 @@ These are posts I felt either are aiming at ideals, are ongoing, or are worth th
 [todo: stopped re-reading (for idea extraction or judging quality by adding asterisks) somewhere in here]  
 [todo: maybe break this up into I, II, III...)  
 Home:  
-- [Why have a personal blog?](http://www.rahilpatel.com/blog/why-have-a-personal-blog)  
-- [A thought about creative careers and the influence of money](http://www.rahilpatel.com/blog/a-thought-about-creative-careers-and-the-influence-of-money)  
-- [Overcoming the internal conflicts of an artist](http://www.rahilpatel.com/blog/overcoming-the-internal-conflicts-of-an-artist)
+- [Why have a personal blog?](https://mind.rathewolf.com/why-have-a-personal-blog)  
+- [A thought about creative careers and the influence of money](https://mind.rathewolf.com/a-thought-about-creative-careers-and-the-influence-of-money)  
+- [Overcoming the internal conflicts of an artist](https://mind.rathewolf.com/overcoming-the-internal-conflicts-of-an-artist)
 
 
 
@@ -1158,10 +1158,10 @@ Home:
 
 
 NY:  
-- [Film Socialisme](http://www.rahilpatel.com/blog/film-socialisme)  
-- [My Justification of Art in Video Games](http://www.rahilpatel.com/blog/my-justification-of-art-in-video-games)  
-- [a List of Game Ideas](http://www.rahilpatel.com/blog/list-of-game-ideas)  
-- [What makes a game meaningful and how innovative mechanics aren't enough](http://www.rahilpatel.com/blog/what-makes-a-game-meaningful-and-how-innovative-mechanics-arent-enough)
+- [Film Socialisme](https://mind.rathewolf.com/film-socialisme)  
+- [My Justification of Art in Video Games](https://mind.rathewolf.com/my-justification-of-art-in-video-games)  
+- [a List of Game Ideas](https://mind.rathewolf.com/list-of-game-ideas)  
+- [What makes a game meaningful and how innovative mechanics aren't enough](https://mind.rathewolf.com/what-makes-a-game-meaningful-and-how-innovative-mechanics-arent-enough)
 
 
 
@@ -1170,8 +1170,8 @@ NY:
 
 
 Home (between NY and SF pt. II):  
-- [The Choice between Career and Exploration](http://www.rahilpatel.com/blog/the-choice-between-career-and-exploration)  
-- [Inspired by Films (and everything else)](http://www.rahilpatel.com/blog/inspired-by-films-and-everything-else)
+- [The Choice between Career and Exploration](https://mind.rathewolf.com/the-choice-between-career-and-exploration)  
+- [Inspired by Films (and everything else)](https://mind.rathewolf.com/inspired-by-films-and-everything-else)
 
 
 
@@ -1180,10 +1180,10 @@ Home (between NY and SF pt. II):
 
 
 SF pt. II:  
-- [Designing Educational Games: The Indie Way](http://www.rahilpatel.com/blog/designing-educational-games-the-indie-way)  
-- [Universalism in Art](http://www.rahilpatel.com/blog/universalism-in-art)*  
-- [Creative Programming](http://www.rahilpatel.com/blog/creative-programming)**  
-- [Life and Technology](http://www.rahilpatel.com/blog/life-and-technology)
+- [Designing Educational Games: The Indie Way](https://mind.rathewolf.com/designing-educational-games-the-indie-way)  
+- [Universalism in Art](https://mind.rathewolf.com/universalism-in-art)*  
+- [Creative Programming](https://mind.rathewolf.com/creative-programming)**  
+- [Life and Technology](https://mind.rathewolf.com/life-and-technology)
 
 
 
@@ -1193,20 +1193,20 @@ SF pt. II:
 
 travel:  
 [todo: stopped here]  
-- [Creativity Derives from Nothing](http://www.rahilpatel.com/blog/creativity-derives-from-nothing)***  
-- [Life and Education](http://www.rahilpatel.com/blog/life-and-education)*  
-- [Life and Technology](http://www.rahilpatel.com/blog/life-and-technology)**  
+- [Creativity Derives from Nothing](https://mind.rathewolf.com/creativity-derives-from-nothing)***  
+- [Life and Education](https://mind.rathewolf.com/life-and-education)*  
+- [Life and Technology](https://mind.rathewolf.com/life-and-technology)**  
 - [todo: should finish travel observations series. Hong Kong and Seoul are published here.]  
-- [Creativity Derives from Nothing](http://www.rahilpatel.com/blog/creativity-derives-from-nothing)**  
-- [Flexibility and Immigration](http://www.rahilpatel.com/blog/flexibility-and-immigration)  
-- [Time and Value](http://www.rahilpatel.com/blog/time-and-value)  
-- [Flexibility and Learning](http://www.rahilpatel.com/blog/flexibility-and-learning)  
-- [a Self-assessment](http://www.rahilpatel.com/blog/a-self-assessment)  
-- [Distance](http://www.rahilpatel.com/blog/distance)  
-- [Organized Things I've Written](http://www.rahilpatel.com/blog/valuable-things-ive-written)****  
-- [A Personal Statement for Design and Technology](http://www.rahilpatel.com/blog/a-personal-statement-for-design-and-technology)*  
-- [A Personal Statement for Game Design](http://www.rahilpatel.com/blog/a-personal-statement-for-game-design)  
-- [A Critical Analysis of Super Smash Bros. Melee](http://www.rahilpatel.com/blog/a-critical-analysis-of-super-smash-bros-melee)
+- [Creativity Derives from Nothing](https://mind.rathewolf.com/creativity-derives-from-nothing)**  
+- [Flexibility and Immigration](https://mind.rathewolf.com/flexibility-and-immigration)  
+- [Time and Value](https://mind.rathewolf.com/time-and-value)  
+- [Flexibility and Learning](https://mind.rathewolf.com/flexibility-and-learning)  
+- [a Self-assessment](https://mind.rathewolf.com/a-self-assessment)  
+- [Distance](https://mind.rathewolf.com/distance)  
+- [Organized Things I've Written](https://mind.rathewolf.com/valuable-things-ive-written)****  
+- [A Personal Statement for Design and Technology](https://mind.rathewolf.com/a-personal-statement-for-design-and-technology)*  
+- [A Personal Statement for Game Design](https://mind.rathewolf.com/a-personal-statement-for-game-design)  
+- [A Critical Analysis of Super Smash Bros. Melee](https://mind.rathewolf.com/a-critical-analysis-of-super-smash-bros-melee)
 
 
 
@@ -1224,10 +1224,10 @@ travel:
 
 (posts between 2014/03/23 - 2014/8/3):  
 - in retrospect, because I was trying to write while thinking fast, the writings lack vocabulary or use other words to encompass other meanings. I think much of the content is still good, if not better, because they are a closer reflection of my experiences -- in the duration of time between experience and thought (and writing), and in the distance between sensory experience and rationalizing.  
-- from [An Attempt to Write Everything I Know](http://www.rahilpatel.com/blog/an-attempt-to-write-everything-i-know) and then on, I began writing some, blogging some, using and quoting my thoughts file to gain topics from very recent personal experiences, surprisingly similar to Montaigne. My thoughts file is endless, and it may be impossible to philosophize all of my experiences, but, for the time, I tried.  
-- [A Self-assessment II](http://www.rahilpatel.com/blog/a-self-assessment-ii)  
-- [The Effects of Weather](http://www.rahilpatel.com/blog/the-effects-of-weather)*  
-- [Sleeping Problems](http://www.rahilpatel.com/blog/sleeping-problems)*
+- from [An Attempt to Write Everything I Know](https://mind.rathewolf.com/an-attempt-to-write-everything-i-know) and then on, I began writing some, blogging some, using and quoting my thoughts file to gain topics from very recent personal experiences, surprisingly similar to Montaigne. My thoughts file is endless, and it may be impossible to philosophize all of my experiences, but, for the time, I tried.  
+- [A Self-assessment II](https://mind.rathewolf.com/a-self-assessment-ii)  
+- [The Effects of Weather](https://mind.rathewolf.com/the-effects-of-weather)*  
+- [Sleeping Problems](https://mind.rathewolf.com/sleeping-problems)*
 
 
 
@@ -1235,31 +1235,31 @@ travel:
 
 
 
-  * [A Foreigner Crashes at the Legislative Yuan's Slumber Party](http://www.rahilpatel.com/blog/a-foreigner-crashes-at-the-legislative-yuans-slumber-party)**  
-- [Nomadism, Culture, and The Playful Quest for Knowledge](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge)**
-  * [Lone Work and Depression](http://www.rahilpatel.com/blog/lone-work-and-depression)
+  * [A Foreigner Crashes at the Legislative Yuan's Slumber Party](https://mind.rathewolf.com/a-foreigner-crashes-at-the-legislative-yuans-slumber-party)**  
+- [Nomadism, Culture, and The Playful Quest for Knowledge](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge)**
+  * [Lone Work and Depression](https://mind.rathewolf.com/lone-work-and-depression)
 
 
 
 
 
 
-- [The Apex of Mania and Creativity in Taipei](http://www.rahilpatel.com/blog/the-apex-of-mania-and-creativity-in-taipei)*  
-- [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs)***  
-- [Taiwan and Japan: Active and Passive Lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles)*  
-- [The Ideal Method of Learning](http://www.rahilpatel.com/blog/the-ideal-method-of-learning)**  
-- [Prose is Superfluous: Active Communication through Play and Art](http://www.rahilpatel.com/blog/prose-is-superfluous-active-communication-through-play-and-art)****  
-- [Books, Passive Media, and The Internet](http://www.rahilpatel.com/blog/books-passive-media-and-the-internet)*  
-- [Island Nations and Globalization](http://www.rahilpatel.com/blog/island-nations-and-globalization)*  
-- [Okinawa is Inhospitable](http://www.rahilpatel.com/blog/okinawana-is-inhospitable)*  
-- [My Creative Process, Honing Theory, and Nomadism](http://www.rahilpatel.com/blog/my-creative-process-honing-theory-and-nomadism)*  
-- [Methods of Sustaining Creativity in The Same Place](http://www.rahilpatel.com/blog/methods-of-sustaining-creativity-in-the-same-place)*  
-- [Creativity and Exercise](http://www.rahilpatel.com/blog/creativity-and-exercise)*  
-- [Two Phases in Life](http://www.rahilpatel.com/blog/two-phases-in-life)**  
-- [Lateral Thinking, External Stimuli, and Self-Control](http://www.rahilpatel.com/blog/lateral-thinking-external-stimuli-and-self-control)*  
-- [Learning via Empericism](http://www.rahilpatel.com/blog/learning-via-empericism)**  
-- [Game Philosophy](http://www.rahilpatel.com/blog/game-philosophy)  
-- [A Sequential List of Game Experiences that I Remember](http://www.rahilpatel.com/blog/a-sequential-list-of-game-experiences-that-i-remember)
+- [The Apex of Mania and Creativity in Taipei](https://mind.rathewolf.com/the-apex-of-mania-and-creativity-in-taipei)*  
+- [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs)***  
+- [Taiwan and Japan: Active and Passive Lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles)*  
+- [The Ideal Method of Learning](https://mind.rathewolf.com/the-ideal-method-of-learning)**  
+- [Prose is Superfluous: Active Communication through Play and Art](https://mind.rathewolf.com/prose-is-superfluous-active-communication-through-play-and-art)****  
+- [Books, Passive Media, and The Internet](https://mind.rathewolf.com/books-passive-media-and-the-internet)*  
+- [Island Nations and Globalization](https://mind.rathewolf.com/island-nations-and-globalization)*  
+- [Okinawa is Inhospitable](https://mind.rathewolf.com/okinawana-is-inhospitable)*  
+- [My Creative Process, Honing Theory, and Nomadism](https://mind.rathewolf.com/my-creative-process-honing-theory-and-nomadism)*  
+- [Methods of Sustaining Creativity in The Same Place](https://mind.rathewolf.com/methods-of-sustaining-creativity-in-the-same-place)*  
+- [Creativity and Exercise](https://mind.rathewolf.com/creativity-and-exercise)*  
+- [Two Phases in Life](https://mind.rathewolf.com/two-phases-in-life)**  
+- [Lateral Thinking, External Stimuli, and Self-Control](https://mind.rathewolf.com/lateral-thinking-external-stimuli-and-self-control)*  
+- [Learning via Empericism](https://mind.rathewolf.com/learning-via-empericism)**  
+- [Game Philosophy](https://mind.rathewolf.com/game-philosophy)  
+- [A Sequential List of Game Experiences that I Remember](https://mind.rathewolf.com/a-sequential-list-of-game-experiences-that-i-remember)
 
 
 
@@ -1267,15 +1267,15 @@ travel:
 
 
 
-  * [Why I Love Tsai-Ming Liang’s Films](http://www.rahilpatel.com/blog/why-i-love-tsai-ming-liangs-films)*
-  * [Philosophy of Literature: What’s left?](http://www.rahilpatel.com/blog/philosophy-of-literature-whats-left)
-  * [Social Life as Lifetime](http://www.rahilpatel.com/blog/social-life-as-lifetime)
-  * [Extrovert and Introvert Learning](http://www.rahilpatel.com/blog/extrovert-and-introvert-learning)
-  * [Hedonism and Wisdom](http://www.rahilpatel.com/blog/hedonism-and-wisdom)
-  * [Hypomania and Creativity](http://www.rahilpatel.com/blog/hypomania-and-creativity)
-  * [Philosophy from Media versus Life; New York versus the World](http://www.rahilpatel.com/blog/philosophy-from-media-versus-life-new-york-versus-the-world)**
-  * [Inaction in a Bookshop in Taipei](http://www.rahilpatel.com/blog/inaction-in-a-bookshop-in-taipei)*
-  * [An Attempt to Write Everything I Know](http://www.rahilpatel.com/blog/an-attempt-to-write-everything-i-know)**
+  * [Why I Love Tsai-Ming Liang’s Films](https://mind.rathewolf.com/why-i-love-tsai-ming-liangs-films)*
+  * [Philosophy of Literature: What’s left?](https://mind.rathewolf.com/philosophy-of-literature-whats-left)
+  * [Social Life as Lifetime](https://mind.rathewolf.com/social-life-as-lifetime)
+  * [Extrovert and Introvert Learning](https://mind.rathewolf.com/extrovert-and-introvert-learning)
+  * [Hedonism and Wisdom](https://mind.rathewolf.com/hedonism-and-wisdom)
+  * [Hypomania and Creativity](https://mind.rathewolf.com/hypomania-and-creativity)
+  * [Philosophy from Media versus Life; New York versus the World](https://mind.rathewolf.com/philosophy-from-media-versus-life-new-york-versus-the-world)**
+  * [Inaction in a Bookshop in Taipei](https://mind.rathewolf.com/inaction-in-a-bookshop-in-taipei)*
+  * [An Attempt to Write Everything I Know](https://mind.rathewolf.com/an-attempt-to-write-everything-i-know)**
 
 
 
@@ -1283,16 +1283,16 @@ travel:
 
 
 [todo: stopped reorganization here]  
-- [Autonomy of Taiwan](http://www.rahilpatel.com/blog/autonomy-of-taiwan)***  
-- [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)****  
+- [Autonomy of Taiwan](https://mind.rathewolf.com/autonomy-of-taiwan)***  
+- [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)****  
 [todo: stopped cosmetic cleaning of blockquote tags (use cite tag, remove quotes) here]  
-- [Why read the Western philosophy canon?](http://www.rahilpatel.com/blog/why-read-the-western-philosophy-canon)  
-- [Conciseness in Art](http://www.rahilpatel.com/blog/conciseness-in-art)**  
-- [The Obsolescence of Literature and the Future of Education](http://www.rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education)  
-- [How and When to Write, and the Impossibility of a Solitary Life](http://www.rahilpatel.com/blog/how-and-when-to-write-and-the-impossibility-of-a-solitary-life)*  
-- [The Purpose of a Blog: A Medium for Essays and Self-Assessments](http://www.rahilpatel.com/blog/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments)  
-- [Hypomania](http://www.rahilpatel.com/blog/hypomania)  
-- [In Praise of Experimental Art Communities](http://www.rahilpatel.com/blog/in-praise-of-experimental-art-communities)**
+- [Why read the Western philosophy canon?](https://mind.rathewolf.com/why-read-the-western-philosophy-canon)  
+- [Conciseness in Art](https://mind.rathewolf.com/conciseness-in-art)**  
+- [The Obsolescence of Literature and the Future of Education](https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education)  
+- [How and When to Write, and the Impossibility of a Solitary Life](https://mind.rathewolf.com/how-and-when-to-write-and-the-impossibility-of-a-solitary-life)*  
+- [The Purpose of a Blog: A Medium for Essays and Self-Assessments](https://mind.rathewolf.com/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments)  
+- [Hypomania](https://mind.rathewolf.com/hypomania)  
+- [In Praise of Experimental Art Communities](https://mind.rathewolf.com/in-praise-of-experimental-art-communities)**
 
 
 
@@ -1300,7 +1300,7 @@ travel:
 
 
 
-  * [JRPGs Emulate Travel](http://www.rahilpatel.com/blog/jrpgs-emulate-travel)*
+  * [JRPGs Emulate Travel](https://mind.rathewolf.com/jrpgs-emulate-travel)*
 
 
 
@@ -1316,52 +1316,52 @@ travel:
 
 
   * 2014/9/19 - 2015/1/22
-  * [Information Organization, Mediums, Creativity, and Experience](http://www.rahilpatel.com/blog/information-organization-mediums-creativity-and-experience)*****
-  * [Information, Media, and Education](http://www.rahilpatel.com/blog/information-media-and-education)***
-  * [No more writing](http://www.rahilpatel.com/blog/no-more-writing)****
-  * [Public Places](http://www.rahilpatel.com/blog/public-places)***
-  * [A Design Strategy for Data](http://www.rahilpatel.com/blog/a-design-strategy-for-data)****
-  * [A Liberal Arts Self Study Curriculum](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum)**
-  * [Life and Action](http://www.rahilpatel.com/blog/life-and-action)*
-  * [A Few Design Ideas](http://www.rahilpatel.com/blog/category/art-2/new-media)****
-  * [What makes a classic, classic?](http://www.rahilpatel.com/blog/what-makes-a-classic-classic)
-  * [Hippie Ethics](http://www.rahilpatel.com/blog/hippie-ethics)**
-  * [The Ideal Public Space](http://www.rahilpatel.com/blog/the-ideal-public-space)*****
-  * [Korea and the Apex of SPD](http://www.rahilpatel.com/blog/korea-and-the-apex-of-spd)**
-  * [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)****
-  * [Happiness and Public Spaces](http://www.rahilpatel.com/blog/happiness-and-public-spaces)***
-  * [My Education](http://www.rahilpatel.com/blog/my-education)*
-  * [Wolf Children](http://www.rahilpatel.com/blog/wolf-children)**
-  * [I Think of Dean Moriarty](http://www.rahilpatel.com/blog/i-think-of-dean-moriarty)*
-  * [Teaching in Poor Places](http://www.rahilpatel.com/blog/teaching-in-poor-places)
-  * [Start from Nothing](http://www.rahilpatel.com/blog/start-from-nothing)
-  * [The Ideal Household](http://www.rahilpatel.com/blog/the-ideal-household)
-  * [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)**
-  * [Social Life in Proximity](http://www.rahilpatel.com/blog/social-life-in-proximity)**
-  * [The Most Powerful Forms of Art](http://www.rahilpatel.com/blog/the-most-powerful-forms-of-art)***
-  * [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blog/searching-for-the-greatest-environment-ethics)***
-  * [New York and Taiwan](http://www.rahilpatel.com/blog/new-york-and-taiwan)*****
-  * [http://www.rahilpatel.com/blog/epicureanism-and-location](http://www.rahilpatel.com/blog/epicureanism-and-location)
-  * [Survival and Self-expression](http://www.rahilpatel.com/blog/survival-and-self-expression)
-  * [Chaos and Organization](http://www.rahilpatel.com/blog/chaos-and-organization)*
-  * [Creativity as Organization from Chaos](http://www.rahilpatel.com/blog/creativity-as-organization-from-chaos)
-  * [Solitude and Depression](http://www.rahilpatel.com/blog/solitude-and-depression)
-  * [賈樟柯’s (Jia Zhangke) Trilogy](http://www.rahilpatel.com/blog/jia-zhangkes-trilogy)***
-  * [The Limits of Digital Work](http://www.rahilpatel.com/blog/the-limits-of-digital-work)
-  * [Epicureanism in the Suburbs](http://www.rahilpatel.com/blog/epicureanism-in-the-suburbs)*
-  * [The Distance between Humans](http://www.rahilpatel.com/blog/the-distance-between-humans)******
-  * [Tools for Organizing](http://www.rahilpatel.com/blog/tools-for-organizing)***
-  * [Tools for Disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing)**
-  * [Epicureanism and Media](http://www.rahilpatel.com/blog/epicureanism-and-media)*
-  * [Mapping Grammar](http://www.rahilpatel.com/blog/mapping-grammar)**
-  * [The Failures of Self-Expression as Charity](http://www.rahilpatel.com/blog/the-failures-of-self-expression-as-charity)***
-  * [Materials and Media](http://www.rahilpatel.com/blog/materials-and-media)**
-  * [Decision-making, Civics, and Technology](http://www.rahilpatel.com/blog/decision-making-civics-and-technology)****
-  * [Urban Planning for Solidarity](http://www.rahilpatel.com/blog/urban-planning-for-solidarity)***
-  * [DIY Ethics in Developing Countries](http://www.rahilpatel.com/blog/diy-ethics-in-developing-countries)***
-  * [Large and Small Communities](http://www.rahilpatel.com/blog/large-and-small-communities)
-  * [The Speed of Decision-making](http://www.rahilpatel.com/blog/the-speed-of-decision-making)*
-  * [Oral Culture and the Speed of Decision-making](http://www.rahilpatel.com/blog/oral-culture-and-the-speed-of-decision-making)****
+  * [Information Organization, Mediums, Creativity, and Experience](https://mind.rathewolf.com/information-organization-mediums-creativity-and-experience)*****
+  * [Information, Media, and Education](https://mind.rathewolf.com/information-media-and-education)***
+  * [No more writing](https://mind.rathewolf.com/no-more-writing)****
+  * [Public Places](https://mind.rathewolf.com/public-places)***
+  * [A Design Strategy for Data](https://mind.rathewolf.com/a-design-strategy-for-data)****
+  * [A Liberal Arts Self Study Curriculum](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum)**
+  * [Life and Action](https://mind.rathewolf.com/life-and-action)*
+  * [A Few Design Ideas](https://mind.rathewolf.com/category/art-2/new-media)****
+  * [What makes a classic, classic?](https://mind.rathewolf.com/what-makes-a-classic-classic)
+  * [Hippie Ethics](https://mind.rathewolf.com/hippie-ethics)**
+  * [The Ideal Public Space](https://mind.rathewolf.com/the-ideal-public-space)*****
+  * [Korea and the Apex of SPD](https://mind.rathewolf.com/korea-and-the-apex-of-spd)**
+  * [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)****
+  * [Happiness and Public Spaces](https://mind.rathewolf.com/happiness-and-public-spaces)***
+  * [My Education](https://mind.rathewolf.com/my-education)*
+  * [Wolf Children](https://mind.rathewolf.com/wolf-children)**
+  * [I Think of Dean Moriarty](https://mind.rathewolf.com/i-think-of-dean-moriarty)*
+  * [Teaching in Poor Places](https://mind.rathewolf.com/teaching-in-poor-places)
+  * [Start from Nothing](https://mind.rathewolf.com/start-from-nothing)
+  * [The Ideal Household](https://mind.rathewolf.com/the-ideal-household)
+  * [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)**
+  * [Social Life in Proximity](https://mind.rathewolf.com/social-life-in-proximity)**
+  * [The Most Powerful Forms of Art](https://mind.rathewolf.com/the-most-powerful-forms-of-art)***
+  * [Searching for the Greatest Environment Ethics](https://mind.rathewolf.com/searching-for-the-greatest-environment-ethics)***
+  * [New York and Taiwan](https://mind.rathewolf.com/new-york-and-taiwan)*****
+  * [https://mind.rathewolf.com/epicureanism-and-location](https://mind.rathewolf.com/epicureanism-and-location)
+  * [Survival and Self-expression](https://mind.rathewolf.com/survival-and-self-expression)
+  * [Chaos and Organization](https://mind.rathewolf.com/chaos-and-organization)*
+  * [Creativity as Organization from Chaos](https://mind.rathewolf.com/creativity-as-organization-from-chaos)
+  * [Solitude and Depression](https://mind.rathewolf.com/solitude-and-depression)
+  * [賈樟柯’s (Jia Zhangke) Trilogy](https://mind.rathewolf.com/jia-zhangkes-trilogy)***
+  * [The Limits of Digital Work](https://mind.rathewolf.com/the-limits-of-digital-work)
+  * [Epicureanism in the Suburbs](https://mind.rathewolf.com/epicureanism-in-the-suburbs)*
+  * [The Distance between Humans](https://mind.rathewolf.com/the-distance-between-humans)******
+  * [Tools for Organizing](https://mind.rathewolf.com/tools-for-organizing)***
+  * [Tools for Disorganizing](https://mind.rathewolf.com/tools-for-disorganizing)**
+  * [Epicureanism and Media](https://mind.rathewolf.com/epicureanism-and-media)*
+  * [Mapping Grammar](https://mind.rathewolf.com/mapping-grammar)**
+  * [The Failures of Self-Expression as Charity](https://mind.rathewolf.com/the-failures-of-self-expression-as-charity)***
+  * [Materials and Media](https://mind.rathewolf.com/materials-and-media)**
+  * [Decision-making, Civics, and Technology](https://mind.rathewolf.com/decision-making-civics-and-technology)****
+  * [Urban Planning for Solidarity](https://mind.rathewolf.com/urban-planning-for-solidarity)***
+  * [DIY Ethics in Developing Countries](https://mind.rathewolf.com/diy-ethics-in-developing-countries)***
+  * [Large and Small Communities](https://mind.rathewolf.com/large-and-small-communities)
+  * [The Speed of Decision-making](https://mind.rathewolf.com/the-speed-of-decision-making)*
+  * [Oral Culture and the Speed of Decision-making](https://mind.rathewolf.com/oral-culture-and-the-speed-of-decision-making)****
 
 
 
@@ -1377,25 +1377,25 @@ travel:
 
 
 [todo: some of the posts may exist under a category but not listed here]  
-- [The Ideology of Taiwan](http://www.rahilpatel.com/blog/the-ideology-of-taiwan)[*****]  
-- [Space, Time, and People](http://www.rahilpatel.com/blog/space-time-and-people)**  
+- [The Ideology of Taiwan](https://mind.rathewolf.com/the-ideology-of-taiwan)[*****]  
+- [Space, Time, and People](https://mind.rathewolf.com/space-time-and-people)**  
 etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):  
-- [Self-service Housing](http://www.rahilpatel.com/blog/self-service-housing)  
-- [Self-service Work](http://www.rahilpatel.com/blog/self-service-work)  
-- [A Thought about Quality](http://www.rahilpatel.com/blog/a-thought-about-quality)  
-- [Awareness and Consciousness](http://www.rahilpatel.com/blog/awareness-and-consciousness)**  
-- [The Speed of Ideas](http://www.rahilpatel.com/blog/the-speed-of-ideas)**_[_]  
-- [A Curriculum of Experience](http://www.rahilpatel.com/blog/a-curriculum-of-experience)****  
-- [How the Material Came to Be](http://www.rahilpatel.com/blog/how-the-material-came-to-be)[***** potential stars!]  
-- [The Revolution Will Not Be in the Bedroom](http://www.rahilpatel.com/blog/the-revolution-will-not-be-in-the-bedroom)***  
-- [Tools for Autodidacts](http://www.rahilpatel.com/blog/tools-for-autodidacts)***  
-- [Is Continental Philosophy a Dead End?](http://www.rahilpatel.com/blog/is-continental-philosophy-a-dead-end)*  
-- [Will to Take Care of Locality](http://www.rahilpatel.com/blog/will-to-take-care-of-locality)**  
-- [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)****  
-- [The Affects of Audio](http://www.rahilpatel.com/blog/the-affects-of-audio)*  
-- [Why are [the] arts segregated?](http://www.rahilpatel.com/blog/why-are-arts-segregated)***  
-- [Working Memory and Community](http://www.rahilpatel.com/blog/working-memory-and-community)**  
-- [Working Memory and Creativity](http://www.rahilpatel.com/blog/working-memory-and-creativity)**
+- [Self-service Housing](https://mind.rathewolf.com/self-service-housing)  
+- [Self-service Work](https://mind.rathewolf.com/self-service-work)  
+- [A Thought about Quality](https://mind.rathewolf.com/a-thought-about-quality)  
+- [Awareness and Consciousness](https://mind.rathewolf.com/awareness-and-consciousness)**  
+- [The Speed of Ideas](https://mind.rathewolf.com/the-speed-of-ideas)**_[_]  
+- [A Curriculum of Experience](https://mind.rathewolf.com/a-curriculum-of-experience)****  
+- [How the Material Came to Be](https://mind.rathewolf.com/how-the-material-came-to-be)[***** potential stars!]  
+- [The Revolution Will Not Be in the Bedroom](https://mind.rathewolf.com/the-revolution-will-not-be-in-the-bedroom)***  
+- [Tools for Autodidacts](https://mind.rathewolf.com/tools-for-autodidacts)***  
+- [Is Continental Philosophy a Dead End?](https://mind.rathewolf.com/is-continental-philosophy-a-dead-end)*  
+- [Will to Take Care of Locality](https://mind.rathewolf.com/will-to-take-care-of-locality)**  
+- [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)****  
+- [The Affects of Audio](https://mind.rathewolf.com/the-affects-of-audio)*  
+- [Why are [the] arts segregated?](https://mind.rathewolf.com/why-are-arts-segregated)***  
+- [Working Memory and Community](https://mind.rathewolf.com/working-memory-and-community)**  
+- [Working Memory and Creativity](https://mind.rathewolf.com/working-memory-and-creativity)**
 
 
 
@@ -1403,7 +1403,7 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 
 
-## - [Material Organizations and Autonomy](http://www.rahilpatel.com/blog/material-organizations-and-autonomy)****
+## - [Material Organizations and Autonomy](https://mind.rathewolf.com/material-organizations-and-autonomy)****
 
 
 
@@ -1412,15 +1412,15 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 
   * pondering directions in Yilan, Taiwan, 2015/9/30 - 2015/12/6
-  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)***
-  * [Into the Wild](http://www.rahilpatel.com/blog/into-the-wild)
+  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)***
+  * [Into the Wild](https://mind.rathewolf.com/into-the-wild)
 
 
 
 
 
 
-## - [Talking to Myself to Create a Statement Objective](http://www.rahilpatel.com/blog/talking-to-myself-to-create-a-statement-objective)***
+## - [Talking to Myself to Create a Statement Objective](https://mind.rathewolf.com/talking-to-myself-to-create-a-statement-objective)***
 
 
 
@@ -1438,17 +1438,17 @@ etching out autonomous ideals (Yilan, Taiwan 2015/7? - 2015/9?):
 
 criticism of capitalism, communication, and rationality  
 - Yilan, Taiwan, 2015/11/18 - 2015/10/10:  
-- [Silicon Valley and Capitalism](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism)**  
-- [Talking to Myself During a Late Night from an Isolated Place](http://www.rahilpatel.com/blog/talking-to-myself-during-a-late-night-from-an-isolated-place)**  
-- [Why did I Read?](http://www.rahilpatel.com/blog/why-did-i-read)*****  
-- [Free from Capitalism](http://www.rahilpatel.com/blog/free-from-capitalism)****  
-- [Awareness and Communication](http://www.rahilpatel.com/blog/awareness-and-communication)*  
-- [Communication, Social Action, and Cities](http://www.rahilpatel.com/blog/communication-social-action-and-cities)_[_]  
-- [Criticism of Innovative Urban Areas](http://www.rahilpatel.com/blog/criticism-of-innovative-urban-areas)**  
-- [Communication and Rationality](http://www.rahilpatel.com/blog/communication-and-rationality)[*]  
-- [The Distance between Communication and Reality](http://www.rahilpatel.com/blog/the-distance-between-communication-and-reality)***  
-- [Why I Did What I Did](http://www.rahilpatel.com/blog/why-i-did-what-i-did)***  
-- [I Can Almost See the Sun](http://www.rahilpatel.com/blog/i-can-almost-see-the-sun)***
+- [Silicon Valley and Capitalism](https://mind.rathewolf.com/silicon-valley-and-capitalism)**  
+- [Talking to Myself During a Late Night from an Isolated Place](https://mind.rathewolf.com/talking-to-myself-during-a-late-night-from-an-isolated-place)**  
+- [Why did I Read?](https://mind.rathewolf.com/why-did-i-read)*****  
+- [Free from Capitalism](https://mind.rathewolf.com/free-from-capitalism)****  
+- [Awareness and Communication](https://mind.rathewolf.com/awareness-and-communication)*  
+- [Communication, Social Action, and Cities](https://mind.rathewolf.com/communication-social-action-and-cities)_[_]  
+- [Criticism of Innovative Urban Areas](https://mind.rathewolf.com/criticism-of-innovative-urban-areas)**  
+- [Communication and Rationality](https://mind.rathewolf.com/communication-and-rationality)[*]  
+- [The Distance between Communication and Reality](https://mind.rathewolf.com/the-distance-between-communication-and-reality)***  
+- [Why I Did What I Did](https://mind.rathewolf.com/why-i-did-what-i-did)***  
+- [I Can Almost See the Sun](https://mind.rathewolf.com/i-can-almost-see-the-sun)***
 
 
 
@@ -1456,7 +1456,7 @@ criticism of capitalism, communication, and rationality
 
 
 
-## - [On Humanism](http://www.rahilpatel.com/blog/on-humanism)**_[_]
+## - [On Humanism](https://mind.rathewolf.com/on-humanism)**_[_]
 
 
 
@@ -1473,16 +1473,16 @@ criticism of capitalism, communication, and rationality
 
 
 towards sociology of space, human geography, and environmental psychology:  
-- [The Categorization of Knowledge](http://www.rahilpatel.com/blog/the-classification-of-knowledge)***  
-- [Time and Space in Anthropology](http://www.rahilpatel.com/blog/time-and-space-in-anthropology)***  
-- [The Organization of the World](http://www.rahilpatel.com/blog/the-organization-of-the-world)*  
-- [Forms and Design](http://www.rahilpatel.com/blog/forms-and-design)**[_]  
-- [The Metropolis and Mental Life by Georg Simmel](http://www.rahilpatel.com/blog/the-metropolis-and-mental-life)_[_]  
-- [The Practice of Life](http://www.rahilpatel.com/blog/the-practice-of-life)_**[**]  
-- [An Interview with Chris Marker](http://www.rahilpatel.com/blog/an-interview-with-chris-marker)***[*]  
+- [The Categorization of Knowledge](https://mind.rathewolf.com/the-classification-of-knowledge)***  
+- [Time and Space in Anthropology](https://mind.rathewolf.com/time-and-space-in-anthropology)***  
+- [The Organization of the World](https://mind.rathewolf.com/the-organization-of-the-world)*  
+- [Forms and Design](https://mind.rathewolf.com/forms-and-design)**[_]  
+- [The Metropolis and Mental Life by Georg Simmel](https://mind.rathewolf.com/the-metropolis-and-mental-life)_[_]  
+- [The Practice of Life](https://mind.rathewolf.com/the-practice-of-life)_**[**]  
+- [An Interview with Chris Marker](https://mind.rathewolf.com/an-interview-with-chris-marker)***[*]  
 The Constitution of Space by Martina Löw [draft]  
 Action and Determinism [draft]  
-[Railroad Space and Railroad Time](http://www.rahilpatel.com/blog/railroad-space-and-railroad-time)
+[Railroad Space and Railroad Time](https://mind.rathewolf.com/railroad-space-and-railroad-time)
 
 
 
@@ -1510,7 +1510,7 @@ Critical Theory in Relationships [draft]
 
 
 
-## [Girl Talk](http://www.rahilpatel.com/blog/girl-talk) [draft, private]
+## [Girl Talk](https://mind.rathewolf.com/girl-talk) [draft, private]
 
 
 
@@ -1550,9 +1550,9 @@ A List of Ideologies in Taiwanese Culture [pre-draft][*****]
 
 critical theory: inclusion / exclusion:  
 - at Gaoxiong and West Taiwan  
-[A Study Plan](http://www.rahilpatel.com/blog/a-study-plan)*****  
-[School vs City](http://www.rahilpatel.com/blog/school-vs-city)***  
-[Creating Comfortable Spaces](http://www.rahilpatel.com/blog/creating-comfortable-places)
+[A Study Plan](https://mind.rathewolf.com/a-study-plan)*****  
+[School vs City](https://mind.rathewolf.com/school-vs-city)***  
+[Creating Comfortable Spaces](https://mind.rathewolf.com/creating-comfortable-places)
 
 
 
@@ -1560,7 +1560,7 @@ critical theory: inclusion / exclusion:
 
 
 
-## [The Way of Including](http://www.rahilpatel.com/blog/the-way-of-including)****
+## [The Way of Including](https://mind.rathewolf.com/the-way-of-including)****
 
 
 
@@ -1570,7 +1570,7 @@ critical theory: inclusion / exclusion:
 
 media, dialectics, and action:  
 - at Xizhi  
-[Thoughts, Highlights, Notes, and Dialectics with Media](http://www.rahilpatel.com/blog/thoughts-highlights-notes-and-dialectics-with-media)
+[Thoughts, Highlights, Notes, and Dialectics with Media](https://mind.rathewolf.com/thoughts-highlights-notes-and-dialectics-with-media)
 
 
 
@@ -1578,7 +1578,7 @@ media, dialectics, and action:
 
 
 
-## [Media and Action](http://www.rahilpatel.com/blog/media-and-action)
+## [Media and Action](https://mind.rathewolf.com/media-and-action)
 
 
 
@@ -1587,8 +1587,8 @@ media, dialectics, and action:
 
 
 politics and capitalism (a continuation of culture of Taiwan):  
-[Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making)****  
-[Capitalistic Behavior](http://www.rahilpatel.com/blog/capitalistic-behavior)[*****]
+[Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making)****  
+[Capitalistic Behavior](https://mind.rathewolf.com/capitalistic-behavior)[*****]
 
 
 
@@ -1596,7 +1596,7 @@ politics and capitalism (a continuation of culture of Taiwan):
 
 
 
-## [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)[*****]
+## [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)[*****]
 
 
 
@@ -1606,8 +1606,8 @@ politics and capitalism (a continuation of culture of Taiwan):
 
 urban planning, pattern languages:  
 - at Taida  
-[Noisy Transportation Destroys [Social] Atmosphere](http://www.rahilpatel.com/blog/noisy-transportation-destroys-social-atmosphere)***  
-[Transportation Disrupts Sense of Space](http://www.rahilpatel.com/blog/transportation-disrupts-sense-of-space)****
+[Noisy Transportation Destroys [Social] Atmosphere](https://mind.rathewolf.com/noisy-transportation-destroys-social-atmosphere)***  
+[Transportation Disrupts Sense of Space](https://mind.rathewolf.com/transportation-disrupts-sense-of-space)****
 
 
 
@@ -1615,7 +1615,7 @@ urban planning, pattern languages:
 
 
 
-## [My Blog Contains a Pattern Language](http://www.rahilpatel.com/blog/my-blog-contains-a-pattern-language)
+## [My Blog Contains a Pattern Language](https://mind.rathewolf.com/my-blog-contains-a-pattern-language)
 
 
 
@@ -1623,7 +1623,7 @@ urban planning, pattern languages:
 
 
 
-## [The Boy and the Beast](http://www.rahilpatel.com/blog/the-boy-and-the-beast)
+## [The Boy and the Beast](https://mind.rathewolf.com/the-boy-and-the-beast)
 
 
 
@@ -1633,7 +1633,7 @@ urban planning, pattern languages:
 
 meditations, being political in an apolitical society, ethics:  
 - at Taida in isolation  
-[a continuation of politics and capitalism, especially second part of [Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making) and [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)]
+[a continuation of politics and capitalism, especially second part of [Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making) and [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)]
 
 
 
@@ -1641,7 +1641,7 @@ meditations, being political in an apolitical society, ethics:
 
 
 
-## [On Stoicism](http://www.rahilpatel.com/blog/on-stoicism)***
+## [On Stoicism](https://mind.rathewolf.com/on-stoicism)***
 
 
 
@@ -1658,13 +1658,13 @@ meditations, being political in an apolitical society, ethics:
 
 
 history, historiography, what is worth reading, kinds of literature (book formats, publishers), the search for ideal societies in the past:  
-[Translations of Laozi and Zuhangzi: A Translation Hell](http://www.rahilpatel.com/blog/translations-of-laozi-and-zhuangzi-a-translation-hell)  
-[Translations of Lives of the Noble Greeks and Romans [Parallel Lives]](http://www.rahilpatel.com/blog/translations-of-parallel-lives)  
-[Notes on Translations of Ancient Literature](http://www.rahilpatel.com/blog/notes-on-translations-of-ancient-literature)  
-[Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time)  
-[The Kinds of Literature and the Extraction of Ideas](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)  
-[In Search of a Past Time](http://www.rahilpatel.com/blog/in-search-of-a-past-time)  
-[Reading Political History](http://www.rahilpatel.com/blog/reading-political-history)  
+[Translations of Laozi and Zuhangzi: A Translation Hell](https://mind.rathewolf.com/translations-of-laozi-and-zhuangzi-a-translation-hell)  
+[Translations of Lives of the Noble Greeks and Romans [Parallel Lives]](https://mind.rathewolf.com/translations-of-parallel-lives)  
+[Notes on Translations of Ancient Literature](https://mind.rathewolf.com/notes-on-translations-of-ancient-literature)  
+[Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time)  
+[The Kinds of Literature and the Extraction of Ideas](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)  
+[In Search of a Past Time](https://mind.rathewolf.com/in-search-of-a-past-time)  
+[Reading Political History](https://mind.rathewolf.com/reading-political-history)  
 Why Academia is Insular[***] [draft, physical paper]
 
 
@@ -1681,7 +1681,7 @@ Education and Communication [draft, physical paper]
 
 
 
-[My Workflow for Written Expression](http://www.rahilpatel.com/blog/my-workflow-for-written-expression)
+[My Workflow for Written Expression](https://mind.rathewolf.com/my-workflow-for-written-expression)
 
 
 
@@ -1698,10 +1698,10 @@ Education and Communication [draft, physical paper]
 
 
 meditations (continued), society and action:  
-[Philosophy of Music](http://www.rahilpatel.com/blog/philosophy-of-music)  
-[Childhood and Media and This Recent Lonely Phase](http://www.rahilpatel.com/blog/childhood-and-media-and-this-recent-lonely-phase)****  
-[Action, Attention, and Space](http://www.rahilpatel.com/blog/action-attention-and-space)*****  
-[Book-shops and Learning](http://www.rahilpatel.com/blog/book-shops-and-learning)**
+[Philosophy of Music](https://mind.rathewolf.com/philosophy-of-music)  
+[Childhood and Media and This Recent Lonely Phase](https://mind.rathewolf.com/childhood-and-media-and-this-recent-lonely-phase)****  
+[Action, Attention, and Space](https://mind.rathewolf.com/action-attention-and-space)*****  
+[Book-shops and Learning](https://mind.rathewolf.com/book-shops-and-learning)**
 
 
 
@@ -1719,19 +1719,19 @@ meditations (continued), society and action:
 
 [todo: many of the film reviews are old, re-listed here, some re-watched and re-reviewed]  
 possible ways to live in the current world, anime:  
-[おおかみこどもの雨と雪 (~Wolf Children Ame and Yuki)](http://www.rahilpatel.com/blog/wolf-children)  
-[おもひでぽろぽろ (~Memories Drip-drop)](http://www.rahilpatel.com/blog/only-yesterday)  
-[幻の光 (~Will-o’-the-wisp)](http://www.rahilpatel.com/blog/maboroshi-no-hikari)  
-[蛍火の杜へ (~Into the Forest of Fireflies’ Light)](http://www.rahilpatel.com/blog/into-the-forest-of-fireflies-light)  
+[おおかみこどもの雨と雪 (~Wolf Children Ame and Yuki)](https://mind.rathewolf.com/wolf-children)  
+[おもひでぽろぽろ (~Memories Drip-drop)](https://mind.rathewolf.com/only-yesterday)  
+[幻の光 (~Will-o’-the-wisp)](https://mind.rathewolf.com/maboroshi-no-hikari)  
+[蛍火の杜へ (~Into the Forest of Fireflies’ Light)](https://mind.rathewolf.com/into-the-forest-of-fireflies-light)  
 - [todo: maybe content doesn't fit category]  
-[歸途列車 (Last Train Home)](http://www.rahilpatel.com/blog/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home)  
-[A Japanese Ideal](http://www.rahilpatel.com/blog/a-japanese-ideal)  
-[Creativity, What Society Needs, and What Society Wants](http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants)[****]  
-[Culture and [Social?] Development](http://www.rahilpatel.com/blog/culture-and-development)[****]  
-[The Ideal Way to Experience](http://www.rahilpatel.com/blog/the-ideal-way-to-experience)***  
-[Sense Deprivation](http://www.rahilpatel.com/blog/sense-deprivation)  
+[歸途列車 (Last Train Home)](https://mind.rathewolf.com/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home)  
+[A Japanese Ideal](https://mind.rathewolf.com/a-japanese-ideal)  
+[Creativity, What Society Needs, and What Society Wants](https://mind.rathewolf.com/creativity-what-society-needs-and-what-society-wants)[****]  
+[Culture and [Social?] Development](https://mind.rathewolf.com/culture-and-development)[****]  
+[The Ideal Way to Experience](https://mind.rathewolf.com/the-ideal-way-to-experience)***  
+[Sense Deprivation](https://mind.rathewolf.com/sense-deprivation)  
 [note: skipped a few posts]  
-[Film Lists, Watching Life, and Letting the Beauty Emerge](http://www.rahilpatel.com/blog/film-lists-watching-life-and-letting-beauty-emerge)
+[Film Lists, Watching Life, and Letting the Beauty Emerge](https://mind.rathewolf.com/film-lists-watching-life-and-letting-beauty-emerge)
 
 
 
@@ -1747,7 +1747,7 @@ possible ways to live in the current world, anime:
 
 
 
-[Japan](http://www.rahilpatel.com/blog/japan)
+[Japan](https://mind.rathewolf.com/japan)
 
 
 
@@ -1786,14 +1786,14 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Categorization of Knowledge](http://www.rahilpatel.com/blog/the-categorization-of-knowledge)*** (from Philosophy V)
-  * [Time and Space in Anthropology](http://www.rahilpatel.com/blog/time-and-space-in-anthropology)*** (from Philosophy V)
-  * [School vs City](http://www.rahilpatel.com/blog/school-vs-city)*** (from Philosophy VI)
-  * [The Way of Including](http://www.rahilpatel.com/blog/the-way-of-including)**** (from Philosophy VI)
-  * [Language and Decision-making](http://www.rahilpatel.com/blog/language-and-decision-making)**** (from Philosophy VI)
-  * [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)***** (from Philosophy VI)
+  * [The Categorization of Knowledge](https://mind.rathewolf.com/the-categorization-of-knowledge)*** (from Philosophy V)
+  * [Time and Space in Anthropology](https://mind.rathewolf.com/time-and-space-in-anthropology)*** (from Philosophy V)
+  * [School vs City](https://mind.rathewolf.com/school-vs-city)*** (from Philosophy VI)
+  * [The Way of Including](https://mind.rathewolf.com/the-way-of-including)**** (from Philosophy VI)
+  * [Language and Decision-making](https://mind.rathewolf.com/language-and-decision-making)**** (from Philosophy VI)
+  * [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)***** (from Philosophy VI)
   * Why Academia is Insular[***] (from Philosophy VI)
-  * [The Ideal Way to Experience](http://www.rahilpatel.com/blog/the-ideal-way-to-experience)*** (from Philosophy IX)
+  * [The Ideal Way to Experience](https://mind.rathewolf.com/the-ideal-way-to-experience)*** (from Philosophy IX)
 
 
 
@@ -1808,18 +1808,18 @@ possible ways to live in the current world, anime:
 
 
 
-  * [Lost Survival Values and a Proposal](http://www.rahilpatel.com/blog/lost-survival-values-and-a-proposal) (from Philosophy II)
-  * [DIY Ethics in Developing Countries](http://www.rahilpatel.com/blog/diy-ethics-in-developing-countries)*** (from Philosophy II)
-  * [Materials and Media](http://www.rahilpatel.com/blog/materials-and-media)** (from Philosophy II)
-  * [A Design Strategy for Data](http://www.rahilpatel.com/blog/a-design-strategy-for-data)**** (from Philosophy II)
-  * [Decision-making, Civics, and Technology](http://www.rahilpatel.com/blog/decision-making-civics-and-technology)**** (from Philosophy II)
-  * [Tools for Organizing](http://www.rahilpatel.com/blog/tools-for-organizing)*** (from Philosophy II)
-  * [Tools for Disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing)** (from Philosophy II)  
-- [Tools for Autodidacts](http://www.rahilpatel.com/blog/tools-for-autodidacts)*** (from Philosophy III)
-  * [Mapping Grammar](http://www.rahilpatel.com/blog/mapping-grammar)** (from Philosophy II)
-  * [Talking to Myself to Create a Statement Objective](http://www.rahilpatel.com/blog/talking-to-myself-to-create-a-statement-objective)***
-  * [A Project Plan for an Urban Area](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)**** (from Philosophy III)
-  * [A Study Plan](http://www.rahilpatel.com/blog/a-study-plan)***** (from Philosophy VI)
+  * [Lost Survival Values and a Proposal](https://mind.rathewolf.com/lost-survival-values-and-a-proposal) (from Philosophy II)
+  * [DIY Ethics in Developing Countries](https://mind.rathewolf.com/diy-ethics-in-developing-countries)*** (from Philosophy II)
+  * [Materials and Media](https://mind.rathewolf.com/materials-and-media)** (from Philosophy II)
+  * [A Design Strategy for Data](https://mind.rathewolf.com/a-design-strategy-for-data)**** (from Philosophy II)
+  * [Decision-making, Civics, and Technology](https://mind.rathewolf.com/decision-making-civics-and-technology)**** (from Philosophy II)
+  * [Tools for Organizing](https://mind.rathewolf.com/tools-for-organizing)*** (from Philosophy II)
+  * [Tools for Disorganizing](https://mind.rathewolf.com/tools-for-disorganizing)** (from Philosophy II)  
+- [Tools for Autodidacts](https://mind.rathewolf.com/tools-for-autodidacts)*** (from Philosophy III)
+  * [Mapping Grammar](https://mind.rathewolf.com/mapping-grammar)** (from Philosophy II)
+  * [Talking to Myself to Create a Statement Objective](https://mind.rathewolf.com/talking-to-myself-to-create-a-statement-objective)***
+  * [A Project Plan for an Urban Area](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)**** (from Philosophy III)
+  * [A Study Plan](https://mind.rathewolf.com/a-study-plan)***** (from Philosophy VI)
 
 
 
@@ -1834,18 +1834,18 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Ideal Environment](http://www.rahilpatel.com/blog/cities-as-the-ideal-environment-for-artists) (from pre-Philosophy)
-  * [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)**** (from Philosophy I)
-  * [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blog/searching-for-the-greatest-environment-ethics)*** (from Philosophy II)
-  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)*** (from Philosophy III)
-  * [The Distance between Humans](http://www.rahilpatel.com/blog/the-distance-between-humans)****** (from Philosophy II)
-  * [New York and Taiwan](http://www.rahilpatel.com/blog/new-york-and-taiwan)***** (from Philosophy II)
-  * [Will to Take Care of Locality](http://www.rahilpatel.com/blog/will-to-take-care-of-locality)** (from Philosophy III)
-  * [Urban Planning for Solidarity](http://www.rahilpatel.com/blog/urban-planning-for-solidarity)*** (from Philosophy II)
-  * [Large and Small Communities](http://www.rahilpatel.com/blog/large-and-small-communities) (from Philosophy II)
-  * [The Ideal Public Space](http://www.rahilpatel.com/blog/the-ideal-public-space)***** (from Philosophy II)
-  * [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)** (from Philosophy II)
-  * [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)***** (from Philosophy VI)
+  * [The Ideal Environment](https://mind.rathewolf.com/cities-as-the-ideal-environment-for-artists) (from pre-Philosophy)
+  * [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)**** (from Philosophy I)
+  * [Searching for the Greatest Environment Ethics](https://mind.rathewolf.com/searching-for-the-greatest-environment-ethics)*** (from Philosophy II)
+  * [Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)*** (from Philosophy III)
+  * [The Distance between Humans](https://mind.rathewolf.com/the-distance-between-humans)****** (from Philosophy II)
+  * [New York and Taiwan](https://mind.rathewolf.com/new-york-and-taiwan)***** (from Philosophy II)
+  * [Will to Take Care of Locality](https://mind.rathewolf.com/will-to-take-care-of-locality)** (from Philosophy III)
+  * [Urban Planning for Solidarity](https://mind.rathewolf.com/urban-planning-for-solidarity)*** (from Philosophy II)
+  * [Large and Small Communities](https://mind.rathewolf.com/large-and-small-communities) (from Philosophy II)
+  * [The Ideal Public Space](https://mind.rathewolf.com/the-ideal-public-space)***** (from Philosophy II)
+  * [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)** (from Philosophy II)
+  * [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)***** (from Philosophy VI)
   * The Ideal City
   * The Ideal Economy
   * The Ideal Society
@@ -1863,12 +1863,12 @@ possible ways to live in the current world, anime:
 
 
 
-  * [The Home Fallacy or: Nomadism is Normal](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal)**** (from Early Philosophy I)  
-- [Autonomy of Taiwan](http://www.rahilpatel.com/blog/autonomy-of-taiwan)*** (from Philosophy I)  
-- [Self-service Housing](http://www.rahilpatel.com/blog/self-service-housing) (from Philosophy III)  
-- [Self-service Work](http://www.rahilpatel.com/blog/self-service-work) (from Philosophy III)
-  * [Material Organizations and Autonomy](http://www.rahilpatel.com/blog/material-organizations-and-autonomy)**** (from Philosophy III)
-  * [Creating Comfortable Spaces](http://www.rahilpatel.com/blog/creating-comfortable-places) (from Philosophy VI)
+  * [The Home Fallacy or: Nomadism is Normal](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal)**** (from Early Philosophy I)  
+- [Autonomy of Taiwan](https://mind.rathewolf.com/autonomy-of-taiwan)*** (from Philosophy I)  
+- [Self-service Housing](https://mind.rathewolf.com/self-service-housing) (from Philosophy III)  
+- [Self-service Work](https://mind.rathewolf.com/self-service-work) (from Philosophy III)
+  * [Material Organizations and Autonomy](https://mind.rathewolf.com/material-organizations-and-autonomy)**** (from Philosophy III)
+  * [Creating Comfortable Spaces](https://mind.rathewolf.com/creating-comfortable-places) (from Philosophy VI)
 
 
 

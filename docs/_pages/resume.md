@@ -3,7 +3,7 @@ layout: page
 # just paste the markdowned resume below
 ---
 
-Herro. I’m **Rahil**, and *this* is my resume. I initially tried to limit it to experiences that are valuable to me, regardless of economic system, and whose length is at least one month, but over time, it has become something more: a personal assessment of sorts. My portfolio at **rahilpatel.com** is a digital record of my early digital projects and early thoughts / writings. You can e-mail me at **rahil627@gmail.com** or message me at **m.me/rahil627**.
+Herro. I’m **Rahil**, and *this* is my resume. I initially tried to limit it to experiences that are valuable to me, regardless of economic system, and whose length is at least one month, but over time, it has become something more: a personal assessment of sorts. My portfolio at **rathewolf.com/portfolio** is a digital record of my early digital projects and early thoughts / writings. You can e-mail me at **rahil627@gmail.com** or message me at **m.me/rahil627**.
 
 ##### me at home near nature (台灣自然旁邊)
 2012-foreva’ ‘eva?  

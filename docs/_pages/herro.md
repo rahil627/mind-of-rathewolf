@@ -3,7 +3,7 @@ author: rahil627
 comments: false
 date: 2010-12-12 03:22:51+00:00
 layout: page
-link: http://rahilpatel.com/blog/
+link: https://mind.rathewolf.com/
 slug: herro
 title: Herro #the permalink seems to come from the name of the file, not the title
 wordpress_id: 2
@@ -12,7 +12,7 @@ description: I'm Rahil, and this is my website. On this site you can see things 
 
 Herro. I'm Rahil. And this is my web-site.
 
-It's kinda like my bedroom: an organized mess. On this site you can see [things I've made](http://www.rahilpatel.com/blog/portfolio) and [things I've written](http://www.rahilpatel.com/blog/valuable-things-ive-written). On this page you can see what I try to do, how I try to do them, and what I like or like to do.
+It's kinda like my bedroom: an organized mess. On this site you can see [things I've made](https://mind.rathewolf.com/portfolio) and [things I've written](https://mind.rathewolf.com/valuable-things-ive-written). On this page you can see what I try to do, how I try to do them, and what I like or like to do.
 
 On this page, you can see what I try to do, how I try to do them, and what I like or like to do.
 
@@ -41,15 +41,15 @@ Organize:
 Create public spaces with my values, attracting others, then let the values of the people in the space radiate outward, into the public, consistently creating new ideas (social interventions) and designs by combining local material, new media and technology, provoking playfulness from the public, allowing more people to make civil decisions for themselves, increasing the amount of sharing of material, incrementally making a better environment to live in and a better society to participate in? Whoa. That came out kind of beautiful.
 
 Possible lifestyles:
-1. Live in a developing area. Empower people. [Consume local materials and local culture as inspiration to create stuff](http://www.rahilpatel.com/blog/diy-ethics-in-developing-countries), functional and artistic, whilst working.
-2. Live in or near a [developed city](http://www.rahilpatel.com/blog/new-york-and-taiwan). Work toward [creating a better city](http://www.rahilpatel.com/blog/urban-planning-for-solidarity), by creating [tools to help](http://www.rahilpatel.com/blog/decision-making-civics-and-technology), and remember to take trips out of the city!
-3. Keep drifting between [various human settlements](http://www.rahilpatel.com/blog/time-and-space-in-anthropology) and social organizations.
+1. Live in a developing area. Empower people. [Consume local materials and local culture as inspiration to create stuff](https://mind.rathewolf.com/diy-ethics-in-developing-countries), functional and artistic, whilst working.
+2. Live in or near a [developed city](https://mind.rathewolf.com/new-york-and-taiwan). Work toward [creating a better city](https://mind.rathewolf.com/urban-planning-for-solidarity), by creating [tools to help](https://mind.rathewolf.com/decision-making-civics-and-technology), and remember to take trips out of the city!
+3. Keep drifting between [various human settlements](https://mind.rathewolf.com/time-and-space-in-anthropology) and social organizations.
 4. Keep drifting between the aforementioned lifestyles.
 
 Possible next moves:
-Moved to a [temporary post](http://www.rahilpatel.com/blog/possible-next-moves)
-[Self-assesments](http://www.rahilpatel.com/blog/category/personal/self-assessment)
-[Future Paths](http://www.rahilpatel.com/blog/valuable-things-ive-written#future)
+Moved to a [temporary post](https://mind.rathewolf.com/possible-next-moves)
+[Self-assesments](https://mind.rathewolf.com/category/personal/self-assessment)
+[Future Paths](https://mind.rathewolf.com/valuable-things-ive-written#future)
 
 
 
@@ -87,4 +87,4 @@ I went through all of that bullshit just to get back to the beginning: The way i
 
 Want to join me? Holla at me at [m.me/rahil627](http://m.me/rahil627).
 
-![World Trade Center light performance](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/World-Trade-Center-light-performance1.svg)
+![World Trade Center light performance](https://mind.rathewolf.com/wp-content/uploads/2014/09/World-Trade-Center-light-performance1.svg)
