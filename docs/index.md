@@ -1,9 +1,9 @@
 ---
 layout: page #only difference between this and layout is that this adds a h2
-title: welcome
+title: yo
 ---
 
-yo.
+<!-- yo -->
 
 *this* is the new digital space for my mind!
 
