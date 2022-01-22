@@ -3,7 +3,7 @@ author: rahil627
 comments: false
 date: 2010-12-17 12:19:22+00:00
 layout: page
-link: https://rathewolf.com/portfolio/
+link: https://mind.rathewolf.com/portfolio/
 slug: portfolio
 title: Things I've Made
 wordpress_id: 22
@@ -30,8 +30,8 @@ A shout out to the great history games:
 
 The long awaited return. But can I return?...
 
-[Ra the Wolf](https://www.rathewolf.com/), a digital home for my spirit
-- [The Mind of Ra the Wolf](https://www.rathewolf.com/mind), a digital space for my mind’s expressions
+[Ra the Wolf](https://mind.rathewolf.com/), a digital home for my spirit
+- [The Mind of Ra the Wolf](https://mind.rathewolf.com/mind), a digital space for my mind’s expressions
 [Will o’ Wolf](https://willowolf.com/), a digital space for my altruistic desires: my wills
 
 
@@ -71,8 +71,8 @@ A return to more primitive ways of living.
 
 
 Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. This may be the end of written philosophy, the end of merely transforming implicit knowledge to explicit, and the beginning of another age. I hope it's more romantic, more transcendental, more physical, and most of all, warm.
-[Final Philosophy IX](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
-[Final Philosophy VIII](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
+[Final Philosophy IX](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
+[Final Philosophy VIII](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii)
 
 
 
@@ -86,7 +86,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy VII](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_vii), the discovery of ancient sources and histories, making sense of books, the worlds within books, tracing contemporary culture
+[Final Philosophy VII](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vii), the discovery of ancient sources and histories, making sense of books, the worlds within books, tracing contemporary culture
 
 
 
@@ -94,7 +94,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy VI](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_vi), women, being political (critical), experiencing exclusion and disillusionment, becoming apolitical (non-critical)
+[Final Philosophy VI](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_vi), women, being political (critical), experiencing exclusion and disillusionment, becoming apolitical (non-critical)
 
 
 
@@ -114,7 +114,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy V](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_v), towards sociology of space, human geography, and environmental psychology
+[Final Philosophy V](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_v), towards sociology of space, human geography, and environmental psychology
 
 
 
@@ -122,7 +122,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy IV](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_iv), criticism of capitalism, communication, and rationality
+[Final Philosophy IV](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_iv), criticism of capitalism, communication, and rationality
 
 
 
@@ -130,7 +130,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy III](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_iii), civil society, decision-making, city neighborhood community building, countering cultural / ideological problems, autonomous ideals
+[Final Philosophy III](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_iii), civil society, decision-making, city neighborhood community building, countering cultural / ideological problems, autonomous ideals
 
 
 
@@ -144,8 +144,8 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy II](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_ii), philosophy continued, mostly of cities, technology, future directions, and ideals
-[A few design ideas thought in a few minutes](https://www.rathewolf.com/category/art-2/new-media), my mind during a week at Parson's
+[Final Philosophy II](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_ii), philosophy continued, mostly of cities, technology, future directions, and ideals
+[A few design ideas thought in a few minutes](https://mind.rathewolf.com/category/art-2/new-media), my mind during a week at Parson's
 
 
 
@@ -153,7 +153,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-[Final Philosophy I](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_i), travel writings, philosophical writings, and the discovery of philosophy
+[Final Philosophy I](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_i), travel writings, philosophical writings, and the discovery of philosophy
 [Humans of Taiwan](https://www.facebook.com/TaiwanesePeople), an ongoing photo-essay of Taiwan, inspired by Humans of New York
 
 
@@ -189,15 +189,15 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 _note: I’ve since lost my web server twice, losing the game executables in the process, but, I still have _most_ of [the games’ source files](https://www.dropbox.com/sh/1ofcriobsmklhys/AAC6itHkliI24dcWOlOa5kGpa?dl=0)_
 [Flash and FlashPunk libraries](https://github.com/Rahil627/ActionScript-Library), written during this period
-[RGBRGBRGB](https://rathewolf.com/rgbrgbrgb), a minimalist real-time strategy game prototype
+[RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist real-time strategy game prototype
 - 2D Terrain Generator, neato
 [Rollem Gollem](https://globalgamejam.org/2012/rollem-golem), an iterative puzzle platformer game prototype
 [Babycastles at the AMNH](https://babycastles.com/index_amnh.html), a web page to promote an upcoming exhibition
 [Troll Kit](https://github.com/Rahil627/Babycastles-Trollkit), a program that transforms a PC into an independent arcade game machine
-[Poorly Designed Upgrades](https://rathewolf.com/poorly-designed-upgrades), a game prototype with two ideas: the player's drawings affect gameplay and too many upgrades can lead to negative results
-[Can You Imagine Yourself as a Verbal Assassin?](https://rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin), a game prototype in which the player must talk to input actions
-[The Real Ninja](https://rathewolf.com/the-real-ninja), a silly runner/slicer hybrid game prototype
-[The Jack of All Trades](https://rathewolf.com/the-jack-of-all-trades), a game prototype about choosing your own path in life
+[Poorly Designed Upgrades](https://mind.rathewolf.com/poorly-designed-upgrades), a game prototype with two ideas: the player's drawings affect gameplay and too many upgrades can lead to negative results
+[Can You Imagine Yourself as a Verbal Assassin?](https://mind.rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin), a game prototype in which the player must talk to input actions
+[The Real Ninja](https://mind.rathewolf.com/the-real-ninja), a silly runner/slicer hybrid game prototype
+[The Jack of All Trades](https://mind.rathewolf.com/the-jack-of-all-trades), a game prototype about choosing your own path in life
 
 
 
@@ -213,7 +213,7 @@ It was feudal yo! Peasants don't get free time.
 
 
 
-[Final Philosophy 0](https://www.rathewolf.com/valueable-things-ive-written#final_philosophy_0), media studies (film criticism, game criticism, etc.), early formal writings, inception of blog
+[Final Philosophy 0](https://mind.rathewolf.com/valueable-things-ive-written#final_philosophy_0), media studies (film criticism, game criticism, etc.), early formal writings, inception of blog
 Iron Element, a t-shirt design for threadless
 [Important Feed](https://github.com/rahil627/important-facebook-feed), a Facebook application that allows users to mark their post as _important_ \*_incomplete_
 [Splyce](https://github.com/rahil627/splyce), a cross-platform HTML editor/previewer with FTP
