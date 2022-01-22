@@ -21,6 +21,8 @@ the current `_pages` folder used the python script import as a base then merged 
   - just remember to copy/paste resume, and you're good!
 
 todo:
+fix anchor links
+  - **toc (table of contents) plugin**
 uploads and attachments folders
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
