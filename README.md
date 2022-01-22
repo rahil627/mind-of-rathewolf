@@ -1,7 +1,7 @@
 ### the mind of ra the wolf
 a digital form of of my philosophies: my mind. It started as a blog which was a sorta philosophical diary intended for the public, that i started when i was 15
 
-i have philosopher personality, and sometimes i express myself through writing, creating a life-llng philosophical diary.
+i have philosopher personality, and sometimes i express myself through writing, creating a life-long philosophical diary.
 
 i have my own unique thoughts, ideas, concepts. Those concepts build up to make my own language, or at least patterns ( a 'pattern language'?) Anyway, it's worth keeping my own view of the world in tact.
 - - -
@@ -20,14 +20,22 @@ the current `_pages` folder used the python script import as a base then merged 
     - TODO: should be able to re-generate these using jekyll
   - just remember to copy/paste resume, and you're good!
 
+todo:
+uploads and attachments folders
+diff 'n merge posts from all plugins?
+ - uhhhh, some other day...
+re-upload all game jam games?
+  - there used to be html pages that included the game embed and some instructions on the page
+    - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
+    - pages: the jack of all trades, real ninja, can you imagine..., poorly designed upgrades, rgbrgbrgb
+  - maybe can just host it on github.io link, in the repo
+  - for now, re-route the links in the portfolio page to their github repos
+
 
 - see diff.txt file in root to see differences between the different importers
   - still need to try import via database (should be easy!)
   - https://import.jekyllrb.com/docs/wordpressdotcom/ has a link to a good tutorial with lots of code snippets too
 
-
-- https://unix.stackexchange.com/questions/432499/find-a-pattern-and-replace-its-value-in-shell-script
-- just use sed, figure out regular expressions, replace, git push, check changes of the commit
 
 
 - this is one repo that should have an appropriate license...
