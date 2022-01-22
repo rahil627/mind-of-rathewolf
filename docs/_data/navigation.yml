@@ -1,7 +1,7 @@
 #todo: should get from config file
 # don't generate this automatically because it's simpler to maintain the order this way
 links:
-- title: yo
+- title: yo!
   url: /index
 - title: old-herro
   url: /herro
