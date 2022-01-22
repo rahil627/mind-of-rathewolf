@@ -7,4 +7,10 @@ title: yo!
 
 *this* is the new digital space for my mind!
 
-[my old home-page](/herro) can still be spotted tho
+[my old home-page](/herro) and *mayyyyybe* even [my old site](https://www.rahilpatel.com) can still be spotted among the wild internets
+
+this site is a digital form of of my philosophies: my mind. It started as a blog which was a sorta philosophical diary intended for the public, that i started when i was 15
+
+i have philosopher personality, and sometimes i express myself through writing, creating a life-long philosophical diary.
+
+i have my own unique thoughts, ideas, concepts. Those concepts build up to make my own language, or at least patterns (a 'pattern language'?) Anyway, it's worth keeping my own view of the world in tact.
