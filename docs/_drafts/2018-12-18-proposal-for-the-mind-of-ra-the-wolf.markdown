@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2018-12-18 18:28:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/proposal-for-the-mind-of-ra-the-wolf/
+link: https://mind.rathewolf.com/proposal-for-the-mind-of-ra-the-wolf/
 published: false
 slug: proposal-for-the-mind-of-ra-the-wolf
 title: Proposal for The Mind of Ra the Wolf
@@ -26,7 +26,7 @@ I’m a life-long philosophical diarist / conceptual thinker / essayist / human 
 
 After many years of passionate living, it’s come to an end. I’ve recently given up fighting the nearby closed minds to get out of the trap and settled into a little shack on a patch of nature for the winter, just beside a terrible conservative Asian city. Upon planning how to get out, I’ve realized that my writings are all that I have left to share, and I can’t even get them.
 
-**This project is to fund and enable me to search, fetch, transcribe, and organize years of my physical writings, self-“publish” it to [my web-site](http://rahilpatel.com), and update the site’s design and tech. [Yep, I’ll be doing _all_ of the work myself.] These are my written expressions during a hyper-active, nomadic, ideal-seeking period of life. These are my past states of mind. This is _The Mind of Ra the Wolf (2011–18)_**…and I’m the wolf!: Ra.
+**This project is to fund and enable me to search, fetch, transcribe, and organize years of my physical writings, self-“publish” it to [my web-site](https://mind.rathewolf.com), and update the site’s design and tech. [Yep, I’ll be doing _all_ of the work myself.] These are my written expressions during a hyper-active, nomadic, ideal-seeking period of life. These are my past states of mind. This is _The Mind of Ra the Wolf (2011–18)_**…and I’m the wolf!: Ra.
 
 In the process of doing so, I’ll use the money to climb out of the trap and place myself in a good state of organization again: basically, get my shit together, and remember to think about money this time, so that this shit never happens again! Not to me or anyone else I encounter; And, perhaps even prove to y’all that wolves like myself, Patrick Joseph Falterman II, Chris McCandless are/were good animals with pure minds, if only the world could keep it as real as weeee doooo/diiiiid.
 
@@ -61,7 +61,7 @@ Rarararawr!
 American-cultured: keepin’ it real / bein’ real / what is real? (with black media culture), what is a fighting game?, some more thoughts on_Wolf Children_
 philosophy-cultured: expressive vs instrumental modes of life, some thoughts on crowd-funding
 utopian-cultured: sun-day, communal and living spaces, outlines for building care
-](http://www.rahilpatel.com/blog/excerpts-for-the-mind-of-ra-the-wolf)
+](https://mind.rathewolf.com/excerpts-for-the-mind-of-ra-the-wolf)
 
 [1] My writings that I currently have on me, including [2] notebooks #3 and #4. All previous notebooks were written neatly in pencil like notebook #3, but way more concisely, and even more passionately. [3] A mess.
 
@@ -142,7 +142,7 @@ HAVE YOU LOST YOUR MIND?!
 
 That’s it: That’s really the gist of it. I initially wrote a lot lot more, but then decided to move it to my web-site for easier reading and editing. it can be freely skimmed and skipped as you wish. Hopefully it answers any questions that you may have:
 
-[Where was your mind while you wrote all of this? What are some of the writings about? Where does all of my / our money go? Where would extra money go? Why aren’t there any rewards, what do I / we get out of this, and why should I / we care? Can I ask you something else? {todo: missing, can people ask through KS?} What are the risks involved, if any?](http://www.rahilpatel.com/blog/proposal-for-the-mind-of-ra-the-wolf)
+[Where was your mind while you wrote all of this? What are some of the writings about? Where does all of my / our money go? Where would extra money go? Why aren’t there any rewards, what do I / we get out of this, and why should I / we care? Can I ask you something else? {todo: missing, can people ask through KS?} What are the risks involved, if any?](https://mind.rathewolf.com/proposal-for-the-mind-of-ra-the-wolf)
 
 The trick: The more you read, the more we share, and hopefully, the more you will want to fund me. :)
 

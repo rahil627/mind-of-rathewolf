@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-15 20:54:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-list-of-game-ideas/
+link: https://mind.rathewolf.com/a-list-of-game-ideas/
 published: false
 slug: a-list-of-game-ideas
 title: a List of Game Ideas
@@ -19,7 +19,7 @@ tags:
 - game mechanic
 ---
 
-[todo: to add [Pokemon Snap: People are now Pokemon](http://www.rahilpatel.com/blog/pokemon-snap-people-are-now-pokemon), [Playground Maker: The World is now a Playground](http://www.rahilpatel.com/blog/playground-maker-the-world-is-now-a-playground), [A few design ideas thought in a few minutes](http://www.rahilpatel.com/blog/category/art-2/new-media)]
+[todo: to add [Pokemon Snap: People are now Pokemon](https://mind.rathewolf.com/pokemon-snap-people-are-now-pokemon), [Playground Maker: The World is now a Playground](https://mind.rathewolf.com/playground-maker-the-world-is-now-a-playground), [A few design ideas thought in a few minutes](https://mind.rathewolf.com/category/art-2/new-media)]
 
 **Somewhat experimental**
 Games based off of an input device:
@@ -76,7 +76,7 @@ Games based off of a new game mechanic:
 
 
 
-  * A game which uses microphone input to move a character around, which also emits sound waves. Think Metal Gear Solid. The player quietly says "up", and the character moves up whilst emitting a small sound wave. A guard gets closer, the player panics and says "up" with a louder volume, the character moves up and emits an even larger sound wave. The sound wave mechanics can be explored. There could be items within the game that affect the sound waves in different ways: block it entirely, reduce the size, increase the size, rebound, invert. Could even make the game 3D. Devil Tuning Fork? So Pretty. Based off of an [old prototype](http://www.rahilpatel.com/blog/can-you-imagine-yourself-as-a-verbal-assassin). Note to self: MAKE THIS HAPPEN. 2D, likely.
+  * A game which uses microphone input to move a character around, which also emits sound waves. Think Metal Gear Solid. The player quietly says "up", and the character moves up whilst emitting a small sound wave. A guard gets closer, the player panics and says "up" with a louder volume, the character moves up and emits an even larger sound wave. The sound wave mechanics can be explored. There could be items within the game that affect the sound waves in different ways: block it entirely, reduce the size, increase the size, rebound, invert. Could even make the game 3D. Devil Tuning Fork? So Pretty. Based off of an [old prototype](https://mind.rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin). Note to self: MAKE THIS HAPPEN. 2D, likely.
 
 
 

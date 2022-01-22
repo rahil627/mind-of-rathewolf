@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2018-12-18 19:17:19+00:00
 layout: post
-link: http://rahilpatel.com/blog/excerpts-for-the-mind-of-ra-the-wolf/
+link: https://mind.rathewolf.com/excerpts-for-the-mind-of-ra-the-wolf/
 published: false
 slug: excerpts-for-the-mind-of-ra-the-wolf
 title: Excerpts for The Mind of Ra the Wolf
