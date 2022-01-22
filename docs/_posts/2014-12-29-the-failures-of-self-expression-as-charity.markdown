@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-29 00:39:05+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-failures-of-self-expression-as-charity/
+link: https://mind.rathewolf.com/the-failures-of-self-expression-as-charity/
 slug: the-failures-of-self-expression-as-charity
 title: The Failures of Self-Expression as Charity
 wordpress_id: 3843

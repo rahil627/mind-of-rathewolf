@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-12 00:06:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/i-can-almost-see-the-sun/
+link: https://mind.rathewolf.com/i-can-almost-see-the-sun/
 slug: i-can-almost-see-the-sun
 title: I Can Almost See the Sun
 wordpress_id: 5679
@@ -23,7 +23,7 @@ categories:
 - Urban Philosophy
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 This post contains three parts:
 
@@ -36,7 +36,7 @@ Recommended listenings: ["Sun in Your Eyes"](https://www.youtube.com/watch?v=Ws6
 
 I thought of the the sun, dreamed of hopping farms in New Zealand and Australia, checked the weather in southwest Taiwan. It is considerably warmer. Then I realized it.
 
-All of this time I've been communicating through written language because the [weather](http://www.rahilpatel.com/blog/the-effects-of-weather) in Yilan, Taiwan is rainy, and recently, cold. Over time, reading and writing in an isolated dwelling, I lost weight, became habituated to communicating through this medium, prioritizing it over finding and talking to people with similar values. I was unable to fight it, media was easier, my physical condition made it a grudge to commute to the city. It's the same experience I had at home. It stops me from acting, instead writing it down through ideals and directions.
+All of this time I've been communicating through written language because the [weather](https://mind.rathewolf.com/the-effects-of-weather) in Yilan, Taiwan is rainy, and recently, cold. Over time, reading and writing in an isolated dwelling, I lost weight, became habituated to communicating through this medium, prioritizing it over finding and talking to people with similar values. I was unable to fight it, media was easier, my physical condition made it a grudge to commute to the city. It's the same experience I had at home. It stops me from acting, instead writing it down through ideals and directions.
 
 At first, in addition to my physical condition and habituation, I thought it was the lack of money and a lack of desire to follow what capitalism wants. Perhaps they may be factors too, but recently it dawned that an alternate reason, a simple anti-cure exists: a lack of sun. The sun is what powers me to wake up, go out, and socialize.
 
@@ -60,7 +60,7 @@ Excerpts from John Dewey, Art as Experience, end of chapter 1:
 The artist does his thinking in the very qualitative media he works in, and the terms lie so close to the object that he is producing that they merge directly into it</blockquote>
 
 
-This sounds like the [distance between communication and rationality](http://www.rahilpatel.com/blog/the-distance-between-communication-and-reality). Here it's not just spatial distance, it's temporal. The artist "[thinks as he works](http://www.rahilpatel.com/blog/simultaneous-ethics)".
+This sounds like the [distance between communication and rationality](https://mind.rathewolf.com/the-distance-between-communication-and-reality). Here it's not just spatial distance, it's temporal. The artist "[thinks as he works](https://mind.rathewolf.com/simultaneous-ethics)".
 
 Dewey separates the two, artist and scientist. I feel the separation now too, I am definitely not a scientist.
 
@@ -159,7 +159,7 @@ It's strange that scientists can even talk. Perhaps the pertinent question is: *
 
 
 
-I agree with the close position of talents communicating and acting, and the density factor of cites, [though less so in a an exclusive capitalistic culture](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism). I disagree on the fact they have to be big, and I don't think it's ideal either.
+I agree with the close position of talents communicating and acting, and the density factor of cites, [though less so in a an exclusive capitalistic culture](https://mind.rathewolf.com/silicon-valley-and-capitalism). I disagree on the fact they have to be big, and I don't think it's ideal either.
 
 
 

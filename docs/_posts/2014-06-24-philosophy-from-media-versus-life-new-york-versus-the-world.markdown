@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-24 05:08:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/philosophy-from-media-versus-life-new-york-versus-the-world/
+link: https://mind.rathewolf.com/philosophy-from-media-versus-life-new-york-versus-the-world/
 slug: philosophy-from-media-versus-life-new-york-versus-the-world
 title: Philosophy from Media versus Life; New York versus the World
 wordpress_id: 2040

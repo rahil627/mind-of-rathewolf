@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-08 11:37:04+00:00
 layout: post
-link: http://rahilpatel.com/blog/urban-and-rural-feelings/
+link: https://mind.rathewolf.com/urban-and-rural-feelings/
 slug: urban-and-rural-feelings
 title: Urban and Rural Feelings
 wordpress_id: 6129

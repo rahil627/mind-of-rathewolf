@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-12-20 15:03:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-environmental-effects-of-home/
+link: https://mind.rathewolf.com/the-environmental-effects-of-home/
 slug: the-environmental-effects-of-home
 title: The Environmental Effects of Home
 wordpress_id: 6551

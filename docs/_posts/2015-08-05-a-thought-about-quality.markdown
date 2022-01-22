@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-08-05 22:45:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-thought-about-quality/
+link: https://mind.rathewolf.com/a-thought-about-quality/
 slug: a-thought-about-quality
 title: A Thought about Quality
 wordpress_id: 4130

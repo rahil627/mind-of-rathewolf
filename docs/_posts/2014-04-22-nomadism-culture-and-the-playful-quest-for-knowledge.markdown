@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-04-22 19:46:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge/
+link: https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge/
 slug: nomadism-culture-and-the-playful-quest-for-knowledge
 title: Nomadism, Culture, and The Playful Quest for Knowledge
 wordpress_id: 1893

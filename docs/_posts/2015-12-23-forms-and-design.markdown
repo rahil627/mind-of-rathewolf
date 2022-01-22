@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-23 21:40:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/forms-and-design/
+link: https://mind.rathewolf.com/forms-and-design/
 slug: forms-and-design
 title: Forms and Design
 wordpress_id: 5860
@@ -19,7 +19,7 @@ categories:
 
 Reading the Wikipedia article on Plato's theory of Forms reminded me of an old thought.
 
-During more creative, physical times, I often ponder, [how the material in the world came to be](http://www.rahilpatel.com/blog/how-the-material-came-to-be). Often, simultaneously, as an act of creativity and toward creating a better world, I think about how the material can be re-organized.
+During more creative, physical times, I often ponder, [how the material in the world came to be](https://mind.rathewolf.com/how-the-material-came-to-be). Often, simultaneously, as an act of creativity and toward creating a better world, I think about how the material can be re-organized.
 
 The contemporary world is just a possibility. Every man-made material conglomerate is a form, an idea from history.
 

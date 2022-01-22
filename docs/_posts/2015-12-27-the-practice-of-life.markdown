@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-27 15:40:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-practice-of-life/
+link: https://mind.rathewolf.com/the-practice-of-life/
 slug: the-practice-of-life
 title: The Practice of Life
 wordpress_id: 5960
@@ -21,7 +21,7 @@ The theorization of humans and their environments* comes from the desire to unde
 
 The practice of altering human environments** comes from the desire to increase [potential?] human development.
 
-**Altering the environment** is [ the [normative / natural] practice [a mode?] of life](http://www.rahilpatel.com/blog/will-to-take-care-of-locality).***
+**Altering the environment** is [ the [normative / natural] practice [a mode?] of life](https://mind.rathewolf.com/will-to-take-care-of-locality).***
 
 The practice occurs at all scales, from small areas to large areas [the world?]****.
 

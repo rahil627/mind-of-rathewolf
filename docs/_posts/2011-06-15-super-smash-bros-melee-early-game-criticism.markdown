@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-06-15 13:30:36+00:00
 layout: post
-link: http://rahilpatel.com/blog/super-smash-bros-melee-early-game-criticism/
+link: https://mind.rathewolf.com/super-smash-bros-melee-early-game-criticism/
 slug: super-smash-bros-melee-early-game-criticism
 title: Super Smash Bros. Melee (Early Game Criticism)
 wordpress_id: 6537

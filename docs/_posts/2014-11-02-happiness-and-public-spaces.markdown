@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-02 09:35:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/happiness-and-public-spaces/
+link: https://mind.rathewolf.com/happiness-and-public-spaces/
 slug: happiness-and-public-spaces
 title: Happiness and Public Spaces
 wordpress_id: 2595

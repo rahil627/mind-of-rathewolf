@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-21 13:47:25+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-organization-of-the-world/
+link: https://mind.rathewolf.com/the-organization-of-the-world/
 slug: the-organization-of-the-world
 title: The Organization of the World
 wordpress_id: 5839

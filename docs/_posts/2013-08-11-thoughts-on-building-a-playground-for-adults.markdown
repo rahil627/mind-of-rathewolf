@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-08-11 12:44:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/thoughts-on-building-a-playground-for-adults/
+link: https://mind.rathewolf.com/thoughts-on-building-a-playground-for-adults/
 slug: thoughts-on-building-a-playground-for-adults
 title: Thoughts on Building a Playground for Adults
 wordpress_id: 1198

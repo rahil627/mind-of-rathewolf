@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-09-09 12:39:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-japanese-ideal/
+link: https://mind.rathewolf.com/a-japanese-ideal/
 slug: a-japanese-ideal
 title: A Japanese Ideal
 wordpress_id: 7771
@@ -20,9 +20,9 @@ categories:
 - Social Philosophy
 ---
 
-Perhaps thought of after watching [Into the Forest of Fireflies' Light](http://www.rahilpatel.com/blog/into-the-forest-of-fireflies-light).
+Perhaps thought of after watching [Into the Forest of Fireflies' Light](https://mind.rathewolf.com/into-the-forest-of-fireflies-light).
 
-There is an ideal of an idyllic, rustic lifestyle shared in many of my favorite animated films from Japan ([Wolf Children Ame and Yuki](http://www.rahilpatel.com/blog/wolf-children), [Memories Drip-drop](http://www.rahilpatel.com/blog/only-yesterday), and [My Neighbor Totoro](http://www.rahilpatel.com/blog/my-neighbor-totoro) [todo: want to re-watch and review]. Perhaps resembling an actual arable area in Japan.
+There is an ideal of an idyllic, rustic lifestyle shared in many of my favorite animated films from Japan ([Wolf Children Ame and Yuki](https://mind.rathewolf.com/wolf-children), [Memories Drip-drop](https://mind.rathewolf.com/only-yesterday), and [My Neighbor Totoro](https://mind.rathewolf.com/my-neighbor-totoro) [todo: want to re-watch and review]. Perhaps resembling an actual arable area in Japan.
 
 [todo: haven't even started to write about this!]
 

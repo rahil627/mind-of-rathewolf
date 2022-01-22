@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-12 03:26:02+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-limits-of-my-language/
+link: https://mind.rathewolf.com/the-limits-of-my-language/
 slug: the-limits-of-my-language
 title: The Limits of my Language
 wordpress_id: 3932
@@ -16,7 +16,7 @@ categories:
 
 Related Wikipedia article: [Linguistic Determinism](http://en.wikipedia.org/wiki/Linguistic_determinism).
 
-After much travel, and when trying to write, I found it near impossible to write what I understood of the world because my linguistic ability was primitive. But [I believe thought comes before language](http://www.rahilpatel.com/blog/no-more-writing).
+After much travel, and when trying to write, I found it near impossible to write what I understood of the world because my linguistic ability was primitive. But [I believe thought comes before language](https://mind.rathewolf.com/no-more-writing).
 
 And when reading other's writings, I feel the same way. There is too much lost in communication.
 
@@ -24,7 +24,7 @@ Historians go back in time discovering people who had first thought of a certain
 
 Humans are time-limited machines. We are currently better than machines at organizing data.
 
-[This digressed to [The Infinite Amount of Information of the City](http://www.rahilpatel.com/blog/the-infinite-amount-information-of-the-city)]
+[This digressed to [The Infinite Amount of Information of the City](https://mind.rathewolf.com/the-infinite-amount-information-of-the-city)]
 
 --
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-03-23 21:01:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/sleeping-problems/
+link: https://mind.rathewolf.com/sleeping-problems/
 slug: sleeping-problems
 title: Sleeping Problems
 wordpress_id: 1812
@@ -14,7 +14,7 @@ categories:
 - Schizoid Personality Disorder
 ---
 
-This post is part of [a self-assessment II](http://www.rahilpatel.com/blog/a-self-assessment-ii)
+This post is part of [a self-assessment II](https://mind.rathewolf.com/a-self-assessment-ii)
 
 During my first job, I self-diagnosed myself to have [Delayed Sleep Phase Syndrome](http://en.wikipedia.org/wiki/Delayed_sleep_phase_syndrome). The wikipedia article described several problems of my life during school. In retrospect, I now know this is only one comorbidity of a larger problem.
 

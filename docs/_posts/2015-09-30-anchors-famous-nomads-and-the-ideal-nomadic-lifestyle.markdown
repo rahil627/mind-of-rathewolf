@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-30 21:35:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle/
+link: https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle/
 slug: anchors-famous-nomads-and-the-ideal-nomadic-lifestyle
 title: Anchors, Famous Nomads, and The Ideal Nomadic Lifestyle
 wordpress_id: 4863
@@ -66,6 +66,6 @@ Upon being kicked out of the United States, he "chose freedom". He then chose **
 
 Using Erdos's methods, I wonder of the results of it's application to sociopolitical organizing. When one is socially connected to many sociopolitical organizations and people, one can contact any one of these people at anytime, maximizing social progress by allocating the the right problems to the right people.
 
-Hmm, no, it's not quite the same. It works for math because math is already such a specialized field of knowledge. In the case of social, political, and environmental progress, though there are individuals with more experience, the interest exist within many of the people that make up a community. Only allotting problems to pre-existing organizations leads to bureaucracy. The problems should be allocated to anyone who volunteers in the effort. **[The most an individual can do is increase the efficiency of civic progress by providing tools and methods](http://www.rahilpatel.com/blog/decision-making-civics-and-technology), or use the methods of social movements and lead them, or be a saint via consistent direct action**.
+Hmm, no, it's not quite the same. It works for math because math is already such a specialized field of knowledge. In the case of social, political, and environmental progress, though there are individuals with more experience, the interest exist within many of the people that make up a community. Only allotting problems to pre-existing organizations leads to bureaucracy. The problems should be allocated to anyone who volunteers in the effort. **[The most an individual can do is increase the efficiency of civic progress by providing tools and methods](https://mind.rathewolf.com/decision-making-civics-and-technology), or use the methods of social movements and lead them, or be a saint via consistent direct action**.
 
 [forgot to mention Zizek's lifestyle twice, including his Socrates-esque lifestyle and his interest in theory because politics, an implementation of theory, takes too much time]

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 04:06:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/media-as-representation-of-society/
+link: https://mind.rathewolf.com/media-as-representation-of-society/
 slug: media-as-representation-of-society
 title: Media as Representation of Society
 wordpress_id: 3122

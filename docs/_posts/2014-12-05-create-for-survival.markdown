@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-05 00:47:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/create-for-survival/
+link: https://mind.rathewolf.com/create-for-survival/
 slug: create-for-survival
 title: Create for Survival
 wordpress_id: 3704

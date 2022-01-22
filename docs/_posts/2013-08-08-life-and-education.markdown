@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-08-08 11:12:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/life-and-education/
+link: https://mind.rathewolf.com/life-and-education/
 slug: life-and-education
 title: Life and Education
 wordpress_id: 1174

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-07-15 14:03:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/need-a-medium-to-express-yourself/
+link: https://mind.rathewolf.com/need-a-medium-to-express-yourself/
 slug: need-a-medium-to-express-yourself
 title: Need a Medium to Express Yourself
 wordpress_id: 6535

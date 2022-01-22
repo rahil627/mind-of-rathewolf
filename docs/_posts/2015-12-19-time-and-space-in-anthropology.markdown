@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-19 08:48:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/time-and-space-in-anthropology/
+link: https://mind.rathewolf.com/time-and-space-in-anthropology/
 slug: time-and-space-in-anthropology
 title: Time and Space in Anthropology
 wordpress_id: 5786

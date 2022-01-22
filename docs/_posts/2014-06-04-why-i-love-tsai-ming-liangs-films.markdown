@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-04 22:57:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/why-i-love-tsai-ming-liangs-films/
+link: https://mind.rathewolf.com/why-i-love-tsai-ming-liangs-films/
 slug: why-i-love-tsai-ming-liangs-films
 title: Why I Love Tsai-Ming Liang's Films
 wordpress_id: 2088

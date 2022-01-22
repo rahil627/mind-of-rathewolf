@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 15:38:02+00:00
 layout: post
-link: http://rahilpatel.com/blog/korea-and-the-apex-of-spd/
+link: https://mind.rathewolf.com/korea-and-the-apex-of-spd/
 slug: korea-and-the-apex-of-spd
 title: Korea and The Apex of SPD
 wordpress_id: 1361

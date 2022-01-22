@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-08 12:05:49+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-world-is-yours/
+link: https://mind.rathewolf.com/the-world-is-yours/
 slug: the-world-is-yours
 title: The World is Yours
 wordpress_id: 6132

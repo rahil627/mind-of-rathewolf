@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-08 16:39:29+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-creative-process-honing-theory-and-nomadism/
+link: https://mind.rathewolf.com/my-creative-process-honing-theory-and-nomadism/
 slug: my-creative-process-honing-theory-and-nomadism
 title: My Creative Process, Honing Theory, and Nomadism
 wordpress_id: 1942
@@ -13,7 +13,7 @@ categories:
 - Psychology
 ---
 
-Creativity, as I mentioned in a past post (todo: link to Hypomania and Creativity), is linked to dopamine, and greatly enhanced during hypomania. This post's content is similar to a past general empirical post, [The Life of a Nomadic Schizoid](http://www.rahilpatel.com/blog/the-life-of-a-nomadic-schizoid), but focuses on the creative process.
+Creativity, as I mentioned in a past post (todo: link to Hypomania and Creativity), is linked to dopamine, and greatly enhanced during hypomania. This post's content is similar to a past general empirical post, [The Life of a Nomadic Schizoid](https://mind.rathewolf.com/the-life-of-a-nomadic-schizoid), but focuses on the creative process.
 
 Of the theories found on the [Wikipedia article for creativity](http://en.wikipedia.org/wiki/Creativity#Theories_of_creative_processes), [Honing Theory](http://en.wikipedia.org/wiki/Creativity#Honing_theory) seems to be most modern, complex, and the one that best fits to my creative process during my travels.
 
@@ -36,7 +36,7 @@ When I travel to a new place, especially from a place with low external stimuli 
 
 
 
-During this time my values are volatile; It depends entirely on what I consumed recently, and the intensity of it. Perhaps I focus on the poorest of people with intense emotional attachment (artisans in Malaysia [[Roti Delivery](https://vimeo.com/55547982)], slums and servants in India, prostitutes in Southeast Asia, tribal peoples in Laos, Tsai Ming Liang, Kim Ki Duk), wanting to do something with them, despising any higher class. Perhaps I'm deeply curious about what other people are thinking; How or why they do the things that they do -- culture and sociology (in addition to the poor peoples, the public of Taipei [[Humans of Taipei](https://www.facebook.com/TaiwanesePeople)], Humans of New York, Vincent Moon). Perhaps I'm confident, competitive, with extreme high art ideas, and do not wish to lower my standards, like (no particular subject is of inspiration, it's just crazy associations of previous knowledge [[Pokemon Snap](http://www.rahilpatel.com/blog/pinkies-up), [Playground Maker](http://www.rahilpatel.com/blog/playground-maker-the-world-is-now-a-playground)), fine art exhibitions, Banksy, Nam Jun Paik].
+During this time my values are volatile; It depends entirely on what I consumed recently, and the intensity of it. Perhaps I focus on the poorest of people with intense emotional attachment (artisans in Malaysia [[Roti Delivery](https://vimeo.com/55547982)], slums and servants in India, prostitutes in Southeast Asia, tribal peoples in Laos, Tsai Ming Liang, Kim Ki Duk), wanting to do something with them, despising any higher class. Perhaps I'm deeply curious about what other people are thinking; How or why they do the things that they do -- culture and sociology (in addition to the poor peoples, the public of Taipei [[Humans of Taipei](https://www.facebook.com/TaiwanesePeople)], Humans of New York, Vincent Moon). Perhaps I'm confident, competitive, with extreme high art ideas, and do not wish to lower my standards, like (no particular subject is of inspiration, it's just crazy associations of previous knowledge [[Pokemon Snap](https://mind.rathewolf.com/pinkies-up), [Playground Maker](https://mind.rathewolf.com/playground-maker-the-world-is-now-a-playground)), fine art exhibitions, Banksy, Nam Jun Paik].
 
 
 

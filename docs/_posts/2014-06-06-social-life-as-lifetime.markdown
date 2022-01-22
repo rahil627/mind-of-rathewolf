@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-06 00:19:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-life-as-lifetime/
+link: https://mind.rathewolf.com/social-life-as-lifetime/
 slug: social-life-as-lifetime
 title: Social Life as Lifetime
 wordpress_id: 2098

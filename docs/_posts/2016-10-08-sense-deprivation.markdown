@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-10-08 05:47:59+00:00
 layout: post
-link: http://rahilpatel.com/blog/sense-deprivation/
+link: https://mind.rathewolf.com/sense-deprivation/
 slug: sense-deprivation
 title: Sense-Deprivation
 wordpress_id: 7985

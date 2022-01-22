@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-09-08 06:20:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-garden-of-words/
+link: https://mind.rathewolf.com/the-garden-of-words/
 slug: the-garden-of-words
 title: 言の葉の庭 (The Garden of Words)
 wordpress_id: 7992
@@ -24,7 +24,7 @@ English title: The Garden of Words
 ## notes / thoughts
 
 
-desire to do own thing / path, as opposed to [what society wants](http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants) in the form of school and work
+desire to do own thing / path, as opposed to [what society wants](https://mind.rathewolf.com/creativity-what-society-needs-and-what-society-wants) in the form of school and work
 
 goes to nature, drinks beer :). Ahhh, _this_ is natural! Nature and a drink. And chocolate!
 

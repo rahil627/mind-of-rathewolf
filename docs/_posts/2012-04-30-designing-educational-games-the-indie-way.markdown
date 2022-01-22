@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-04-30 08:12:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/designing-educational-games-the-indie-way/
+link: https://mind.rathewolf.com/designing-educational-games-the-indie-way/
 slug: designing-educational-games-the-indie-way
 title: 'Designing Educational Games: The Indie Way'
 wordpress_id: 773

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-29 01:41:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-distance-between-humans/
+link: https://mind.rathewolf.com/the-distance-between-humans/
 slug: the-distance-between-humans
 title: The Distance between Humans
 wordpress_id: 3851
@@ -31,7 +31,7 @@ Though I believe cities should be left to anarchy, this tendency ruins diversity
 Eh, well this thought just came to me while my Dad was doing a meaningless task. I just kept thinking that because one lives in a house in the suburbs, one physically does not see others much, and one doesn't think of allocating time to others.
 --
 
-This thought also is connected to the idea of the [home fallacy](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal). Furthermore, it is a problem with society and the upper class.
+This thought also is connected to the idea of the [home fallacy](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal). Furthermore, it is a problem with society and the upper class.
 
 
 
@@ -65,7 +65,7 @@ This is also linked the whole post-politics thing.
 And the whole post-modern cities thing.
 --
 
-from [Chaos and Organization](http://www.rahilpatel.com/blog/chaos-and-organization):
+from [Chaos and Organization](https://mind.rathewolf.com/chaos-and-organization):
 
 
 <blockquote>Travel provides chaos.

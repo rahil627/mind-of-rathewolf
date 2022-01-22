@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 11:58:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/homeless-asians/
+link: https://mind.rathewolf.com/homeless-asians/
 slug: homeless-asians
 title: Homeless East Asians
 wordpress_id: 3244

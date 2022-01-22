@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-29 01:09:25+00:00
 layout: post
-link: http://rahilpatel.com/blog/epicureanism-in-the-suburbs/
+link: https://mind.rathewolf.com/epicureanism-in-the-suburbs/
 slug: epicureanism-in-the-suburbs
 title: Epicureanism in the Suburbs
 wordpress_id: 3848

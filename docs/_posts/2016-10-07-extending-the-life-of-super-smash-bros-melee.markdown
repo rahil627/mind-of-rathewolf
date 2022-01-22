@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-10-07 17:33:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/extending-the-life-of-super-smash-bros-melee/
+link: https://mind.rathewolf.com/extending-the-life-of-super-smash-bros-melee/
 slug: extending-the-life-of-super-smash-bros-melee
 title: Extending the Life of Super Smash Bros. Melee
 wordpress_id: 7982

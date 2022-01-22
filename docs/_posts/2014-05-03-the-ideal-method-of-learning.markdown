@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-03 04:34:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideal-method-of-learning/
+link: https://mind.rathewolf.com/the-ideal-method-of-learning/
 slug: the-ideal-method-of-learning
 title: The Ideal Method of Learning
 wordpress_id: 1954
@@ -16,7 +16,7 @@ categories:
 
 [Old rambling draft, just posting.]
 
-The posts I've written in the past few days ([Prose is Superfluous: Active Communication through Play and Art](http://www.rahilpatel.com/blog/prose-is-superfluous-active-communication-through-play-and-art), [Taiwan and Japan: Active and Passive Lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles), [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs), [Lone Work and Depression](http://www.rahilpatel.com/blog/lone-work-and-depression), [Nomadism, Culture, and The Playful Quest for Knowledge](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge)), I feel is a search for certain way of living and learning, more specifically, an ideal method of learning, the playful quest for knowledge.
+The posts I've written in the past few days ([Prose is Superfluous: Active Communication through Play and Art](https://mind.rathewolf.com/prose-is-superfluous-active-communication-through-play-and-art), [Taiwan and Japan: Active and Passive Lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles), [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs), [Lone Work and Depression](https://mind.rathewolf.com/lone-work-and-depression), [Nomadism, Culture, and The Playful Quest for Knowledge](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge)), I feel is a search for certain way of living and learning, more specifically, an ideal method of learning, the playful quest for knowledge.
 
 What's actually needed?
 

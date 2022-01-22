@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-10-10 14:07:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/film-lists-watching-life-and-letting-beauty-emerge/
+link: https://mind.rathewolf.com/film-lists-watching-life-and-letting-beauty-emerge/
 slug: film-lists-watching-life-and-letting-beauty-emerge
 title: Film Lists, Watching Life, and Letting Beauty Emerge
 wordpress_id: 8005
@@ -20,7 +20,7 @@ categories:
 ## talk talk talk
 
 
-One of my earliest posts on this blog, circa 2010, was [about saving Netflix ratings](http://www.rahilpatel.com/blog/save-your-netflix-ratings). I still have that file. I found it in my Dropbox. And now, 6 years later, I used it.
+One of my earliest posts on this blog, circa 2010, was [about saving Netflix ratings](https://mind.rathewolf.com/save-your-netflix-ratings). I still have that file. I found it in my Dropbox. And now, 6 years later, I used it.
 
 Netflix previously failed by narrowing their film selection to a small selection of popular films around the time that they created the digital streaming service. Netflix seems to have failed yet again by not giving a simple interface / display of user ratings, allowing the internet free-market to fill in the gap.
 
@@ -32,7 +32,7 @@ Further, [I *liked* a few lists](https://letterboxd.com/rahil627/likes/lists/). 
 
 But, **if your aesthetic judgement finds bits of beauty in the infinitude of audio-video output, then, through the linking of those bits one eventually finds a beauty bit collector! ** ScorpioRising might be one, as his list [As I Was Browsing The Auteurs, Occasionally I Saw Glimpses Of Beauty](https://mubi.com/users/114842/lists) (also copied to letterboxd by another user) seems to be a collection of beautiful bits. Undoubtedly, **beauty (including love) naturally unfolds in those films.** And surely, there are more lists out there like it, such as assasf's list [(((](https://letterboxd.com/affasf/list/filmlist:392365/).
 
-I think that's all I need now as far as film selection goes for the next few years. Gone are those early college days of perusing Metacritic, Roger Ebert's website, BFI's Sight & Sound, big three festival-winners and their specific awards, and other critic-oriented lists which result in similar film canons (though [Kenji's canon](https://letterboxd.com/kenji1/list/kenjis-canon/) is probably darn good), sloppily adding them to a 500 capacity ordered queue on Netflix, or post-Netflix, a text file. Finding Letterboxd reminds me of my experience with 8tracks, where [people discover music and create music playlists](http://www.rahilpatel.com/blog/tools-for-organizing) as opposed to machines or in film lists: critics, and I was able to freely enter countries and listen to the sounds of that country, without a need to really select what to listen to, spending more time experiencing, less time searching. **Now I feel I can continue living life, watching reality at the pace of reality, as I did when I rode my bike when I was a child, and still now, when I ride my scooter. Just watching, nothing in particular, allowing one's attention to see the natural beauty of the world.**
+I think that's all I need now as far as film selection goes for the next few years. Gone are those early college days of perusing Metacritic, Roger Ebert's website, BFI's Sight & Sound, big three festival-winners and their specific awards, and other critic-oriented lists which result in similar film canons (though [Kenji's canon](https://letterboxd.com/kenji1/list/kenjis-canon/) is probably darn good), sloppily adding them to a 500 capacity ordered queue on Netflix, or post-Netflix, a text file. Finding Letterboxd reminds me of my experience with 8tracks, where [people discover music and create music playlists](https://mind.rathewolf.com/tools-for-organizing) as opposed to machines or in film lists: critics, and I was able to freely enter countries and listen to the sounds of that country, without a need to really select what to listen to, spending more time experiencing, less time searching. **Now I feel I can continue living life, watching reality at the pace of reality, as I did when I rode my bike when I was a child, and still now, when I ride my scooter. Just watching, nothing in particular, allowing one's attention to see the natural beauty of the world.**
 
 So, **if my habits become more sedentary, focusing on information (digital or not; mediated communication) rather than reality, as many modern jobs force one to do for several hours per day, and as desired information is easy to obtain, then these films can save me, alter my habits and attention from the mirror of the world that is information to the real world, remind me what life is like in different areas on earth, inspire me, to go out, and live, again.**
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:57:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/time-perception/
+link: https://mind.rathewolf.com/time-perception/
 slug: time-perception
 title: Time Perception
 wordpress_id: 2829
@@ -85,7 +85,7 @@ Time seems to be linked to social time, work, and more.
 
 Time is maximized during new experiences, hence people often feel traveling feels much longer than it is.
 
-Therefore, [is life maximized by maximizing time?](http://www.rahilpatel.com/blog/maximum-time-ethics)
+Therefore, [is life maximized by maximizing time?](https://mind.rathewolf.com/maximum-time-ethics)
 
 
 

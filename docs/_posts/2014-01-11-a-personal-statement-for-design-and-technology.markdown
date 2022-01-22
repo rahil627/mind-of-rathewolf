@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-11 16:20:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-personal-statement-for-design-and-technology/
+link: https://mind.rathewolf.com/a-personal-statement-for-design-and-technology/
 slug: a-personal-statement-for-design-and-technology
 title: A Personal Statement for Design And Technology
 wordpress_id: 2160

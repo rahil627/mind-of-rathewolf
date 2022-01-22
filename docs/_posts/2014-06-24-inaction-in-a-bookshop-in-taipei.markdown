@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-24 19:39:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/inaction-in-a-bookshop-in-taipei/
+link: https://mind.rathewolf.com/inaction-in-a-bookshop-in-taipei/
 slug: inaction-in-a-bookshop-in-taipei
 title: Inaction in a Bookshop in Taipei
 wordpress_id: 2128
@@ -22,6 +22,6 @@ It terrible that I did not know how to further handle the situation, other then 
 
 Out of the 20 or so people in that bookstore within audible distance, only one came on time, one came late, just before the medics did, and throughout the rest of the time, no one even came to see what was going on.
 
-It was frightening. Not the bum bleeding, but the lack of action. Immediately, I felt [reading is absolutely actionless](http://www.rahilpatel.com/blog/reading-is-often-actionless) and hoped to never do work that makes me passive again, afraid I would turn into one of those 20 or so people.
+It was frightening. Not the bum bleeding, but the lack of action. Immediately, I felt [reading is absolutely actionless](https://mind.rathewolf.com/reading-is-often-actionless) and hoped to never do work that makes me passive again, afraid I would turn into one of those 20 or so people.
 
 This is simply an instance of the [bystander effect](https://en.wikipedia.org/wiki/Bystander_effect), which is even more plentiful in the suburbs with car accidents, but the time of it, with me going from an active to passive phase, made the situation highly contemplative.

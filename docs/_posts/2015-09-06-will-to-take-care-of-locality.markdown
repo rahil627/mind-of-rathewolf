@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-06 19:41:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/will-to-take-care-of-locality/
+link: https://mind.rathewolf.com/will-to-take-care-of-locality/
 slug: will-to-take-care-of-locality
 title: Will to Take Care of Locality
 wordpress_id: 4630
@@ -13,7 +13,7 @@ categories:
 - Thoughts
 ---
 
-Related to Working Memory and Community [todo: need link], [Will to Make](http://www.rahilpatel.com/blog/will-to-make), [Will to Experience](http://www.rahilpatel.com/blog/will-to-experience).
+Related to Working Memory and Community [todo: need link], [Will to Make](https://mind.rathewolf.com/will-to-make), [Will to Experience](https://mind.rathewolf.com/will-to-experience).
 
 [todo: should try to complete!]
 

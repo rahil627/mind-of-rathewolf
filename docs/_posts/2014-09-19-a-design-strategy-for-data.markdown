@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-19 06:19:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-design-strategy-for-data/
+link: https://mind.rathewolf.com/a-design-strategy-for-data/
 slug: a-design-strategy-for-data
 title: A Design Strategy for Data
 wordpress_id: 2346
@@ -21,7 +21,7 @@ A neat way design new media (which may be in the form of a game) is to think of 
 I used this strategy in the past for games, where I'd think about all of the inputs the medium has, often an iPad, then create games using them. However, it only dawned to me during the lecture that data is not limited to mediums. Everything is data. In and out.
 
 
-[![design strategy for data](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/design-strategy-for-data.svg)](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/design-strategy-for-data.svg)
+[![design strategy for data](https://mind.rathewolf.com/wp-content/uploads/2014/09/design-strategy-for-data.svg)](https://mind.rathewolf.com/wp-content/uploads/2014/09/design-strategy-for-data.svg)
 
 
 Personal designs:

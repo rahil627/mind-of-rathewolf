@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-11-18 18:28:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/silicon-valley-and-capitalism/
+link: https://mind.rathewolf.com/silicon-valley-and-capitalism/
 slug: silicon-valley-and-capitalism
 title: Silicon Valley and Capitalism
 wordpress_id: 5020
@@ -16,7 +16,7 @@ categories:
 - Rationality
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 An old thought that's come up several times invoked by Taiwan's quick adaptation and prevalent use of AirBnB and Uber, then to an old thought about Yelp, then to eBay.
 

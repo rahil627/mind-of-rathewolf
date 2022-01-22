@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:57:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-strange-moment-during-humans-of-taiwan/
+link: https://mind.rathewolf.com/a-strange-moment-during-humans-of-taiwan/
 slug: a-strange-moment-during-humans-of-taiwan
 title: A Strange Moment during Humans of Taiwan
 wordpress_id: 2775

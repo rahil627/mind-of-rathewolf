@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-04 20:43:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/time-and-value/
+link: https://mind.rathewolf.com/time-and-value/
 slug: time-and-value
 title: Time and Value
 wordpress_id: 1288

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 05:39:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/art-object-ethics/
+link: https://mind.rathewolf.com/art-object-ethics/
 slug: art-object-ethics
 title: Art Object Ethics
 wordpress_id: 3019

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-20 13:59:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-public-sphere-during-the-second-sophistic/
+link: https://mind.rathewolf.com/the-public-sphere-during-the-second-sophistic/
 slug: the-public-sphere-during-the-second-sophistic
 title: The Public Sphere during the Second Sophistic
 wordpress_id: 6936
@@ -157,7 +157,7 @@ Thus, **for those of us that do live in an institutionalized culture (everyone),
 
 
 
-#### [A Few Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time)
+#### [A Few Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time)
 
 
 --

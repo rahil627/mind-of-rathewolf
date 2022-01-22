@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-10 18:47:02+00:00
 layout: post
-link: http://rahilpatel.com/blog/learning-languages-is-difficult-for-narrow-minded-people/
+link: https://mind.rathewolf.com/learning-languages-is-difficult-for-narrow-minded-people/
 slug: learning-languages-is-difficult-for-narrow-minded-people
 title: Learning Languages is Difficult for Narrow-minded People
 wordpress_id: 1324

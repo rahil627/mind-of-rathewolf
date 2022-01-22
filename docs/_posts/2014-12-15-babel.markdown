@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-15 08:56:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/babel/
+link: https://mind.rathewolf.com/babel/
 slug: babel
 title: Babel
 wordpress_id: 3786
@@ -19,7 +19,7 @@ The film was great, but the winter blues got me down, so my brain isn't firing n
 <blockquote>Morocco</blockquote>
 
 
-This country is near the top of my list to go to because it retains such a strong [street culture, and therefore high happiness index](http://www.rahilpatel.com/blog/happiness-and-public-spaces).
+This country is near the top of my list to go to because it retains such a strong [street culture, and therefore high happiness index](https://mind.rathewolf.com/happiness-and-public-spaces).
 
 
 
@@ -100,7 +100,7 @@ It's so rare that I encounter deaf people. Perhaps they are less willing to come
 <blockquote>Societies are too distant to face emotions for(?), only real experience can give to feelings.</blockquote>
 
 
-Perhaps this thought came when a television showing media appeared. [Media just can't compare to reality in inciting action](http://www.rahilpatel.com/blog/experience-and-action).
+Perhaps this thought came when a television showing media appeared. [Media just can't compare to reality in inciting action](https://mind.rathewolf.com/experience-and-action).
 
 
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-21 16:05:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/urban-and-suburban-culture/
+link: https://mind.rathewolf.com/urban-and-suburban-culture/
 slug: urban-and-suburban-culture
 title: Urban and Suburban Culture
 wordpress_id: 5833

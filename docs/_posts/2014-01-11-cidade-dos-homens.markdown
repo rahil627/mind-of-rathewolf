@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-11 22:04:38+00:00
 layout: post
-link: http://rahilpatel.com/blog/cidade-dos-homens/
+link: https://mind.rathewolf.com/cidade-dos-homens/
 slug: cidade-dos-homens
 title: Cidade dos Homens (City of Men)
 wordpress_id: 1501

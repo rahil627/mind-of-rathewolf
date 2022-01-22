@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-20 08:10:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/prince-of-parkour/
+link: https://mind.rathewolf.com/prince-of-parkour/
 slug: prince-of-parkour
 title: Prince of Parkour
 wordpress_id: 2421
@@ -17,4 +17,4 @@ There should be interactive projector games, where people move projectors, and i
 In this game, characters can walk, run, and climb along the walls of buildings.
 
 
-[![prince of parkour](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/prince-of-parkour.svg)](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/prince-of-parkour.svg)
+[![prince of parkour](https://mind.rathewolf.com/wp-content/uploads/2014/09/prince-of-parkour.svg)](https://mind.rathewolf.com/wp-content/uploads/2014/09/prince-of-parkour.svg)

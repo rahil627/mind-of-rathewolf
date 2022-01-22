@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-08 15:35:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-city-is-more/
+link: https://mind.rathewolf.com/the-city-is-more/
 slug: the-city-is-more
 title: The City is More
 wordpress_id: 6122

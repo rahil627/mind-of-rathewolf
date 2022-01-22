@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-02-08 13:41:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/single-page-news/
+link: https://mind.rathewolf.com/single-page-news/
 slug: single-page-news
 title: Single-Page News
 wordpress_id: 6688

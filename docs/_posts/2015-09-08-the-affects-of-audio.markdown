@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-08 18:56:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-affects-of-audio/
+link: https://mind.rathewolf.com/the-affects-of-audio/
 slug: the-affects-of-audio
 title: The Affects of Audio
 wordpress_id: 4650

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-07-26 18:41:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/awareness-and-consciousness/
+link: https://mind.rathewolf.com/awareness-and-consciousness/
 slug: awareness-and-consciousness
 title: Awareness and Consciousness
 wordpress_id: 4110

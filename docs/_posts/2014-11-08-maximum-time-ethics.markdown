@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:59:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/maximum-time-ethics/
+link: https://mind.rathewolf.com/maximum-time-ethics/
 slug: maximum-time-ethics
 title: Maximum Time Ethics
 wordpress_id: 2831
@@ -11,7 +11,7 @@ categories:
 - Ethics
 ---
 
-Related to my thoughts on [time perception]( http://www.rahilpatel.com/blog/time-perception ), is life maximized by maximizing time?
+Related to my thoughts on [time perception]( https://mind.rathewolf.com/time-perception ), is life maximized by maximizing time?
 
 In cities, people experience more social interactions.
 

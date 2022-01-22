@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 09:48:05+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-most-powerful-forms-of-art/
+link: https://mind.rathewolf.com/the-most-powerful-forms-of-art/
 slug: the-most-powerful-forms-of-art
 title: The Most Powerful Forms of Art
 wordpress_id: 3228
@@ -38,7 +38,7 @@ Hmm, is a social experience the end?
 Or the beginning of another?
 --
 
-Also see [Street Artists are Powerful](http://www.rahilpatel.com/blog/street-artists-are-powerful).
+Also see [Street Artists are Powerful](https://mind.rathewolf.com/street-artists-are-powerful).
 --
 
 

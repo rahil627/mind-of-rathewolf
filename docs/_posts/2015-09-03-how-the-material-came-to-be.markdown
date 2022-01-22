@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-03 15:55:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/how-the-material-came-to-be/
+link: https://mind.rathewolf.com/how-the-material-came-to-be/
 slug: how-the-material-came-to-be
 title: How the Material Came to Be
 wordpress_id: 4557

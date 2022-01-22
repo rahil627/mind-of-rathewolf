@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:50:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/mood-swings/
+link: https://mind.rathewolf.com/mood-swings/
 slug: mood-swings
 title: Mood Swings
 wordpress_id: 3051
@@ -23,9 +23,9 @@ What will get me out of depression?</blockquote>
 
 
 
-This is quite common for me. Usually on a high for about 3 months, then a low. I usually struggle getting out of the low. It usually results a change in direction, but that doesn't fit many societies, when a job may have the length of a year. I finish whatever project I'm working on, then move on. This leads to me choosing [small projects](http://www.rahilpatel.com/blog/constant-art-ethics).
+This is quite common for me. Usually on a high for about 3 months, then a low. I usually struggle getting out of the low. It usually results a change in direction, but that doesn't fit many societies, when a job may have the length of a year. I finish whatever project I'm working on, then move on. This leads to me choosing [small projects](https://mind.rathewolf.com/constant-art-ethics).
 
-Mood swings are probably associated to my [schizoid psychology](http://www.rahilpatel.com/blog/the-life-of-a-nomadic-schizoid).
+Mood swings are probably associated to my [schizoid psychology](https://mind.rathewolf.com/the-life-of-a-nomadic-schizoid).
 
 
 

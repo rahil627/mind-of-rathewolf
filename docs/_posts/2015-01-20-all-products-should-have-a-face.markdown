@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-20 22:39:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/all-products-should-have-a-face/
+link: https://mind.rathewolf.com/all-products-should-have-a-face/
 slug: all-products-should-have-a-face
 title: All Products Should Have a Face
 wordpress_id: 4046
@@ -14,7 +14,7 @@ categories:
 
 [Product Ethics?]
 
-In my parent's large suburban home, there are a multitude of things. Those that I cherish most are either of most utility, [likely in my backpack](http://www.rahilpatel.com/blog/everything-i-own) (some of which are from small companies whom I am able to contact), or an art object by someone I at least know by name or stage name.
+In my parent's large suburban home, there are a multitude of things. Those that I cherish most are either of most utility, [likely in my backpack](https://mind.rathewolf.com/everything-i-own) (some of which are from small companies whom I am able to contact), or an art object by someone I at least know by name or stage name.
 
 But of the products in the house, this creates a very disproportionate amount of people I am aware of.
 

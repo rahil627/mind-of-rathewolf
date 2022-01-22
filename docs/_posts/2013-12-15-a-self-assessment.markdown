@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-12-15 13:30:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-self-assessment/
+link: https://mind.rathewolf.com/a-self-assessment/
 slug: a-self-assessment
 title: A Self-assessment
 wordpress_id: 1775

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-21 21:04:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/proteus/
+link: https://mind.rathewolf.com/proteus/
 slug: proteus
 title: Proteus
 wordpress_id: 1583

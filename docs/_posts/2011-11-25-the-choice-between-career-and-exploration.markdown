@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-25 10:38:18+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-choice-between-career-and-exploration/
+link: https://mind.rathewolf.com/the-choice-between-career-and-exploration/
 slug: the-choice-between-career-and-exploration
 title: The Choice between Career and Exploration
 wordpress_id: 396

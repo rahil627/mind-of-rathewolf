@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:40:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/hourly-ethics/
+link: https://mind.rathewolf.com/hourly-ethics/
 slug: hourly-ethics
 title: Hourly Ethics
 wordpress_id: 2768

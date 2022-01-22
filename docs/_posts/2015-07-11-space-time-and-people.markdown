@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-07-11 18:01:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/space-time-and-people/
+link: https://mind.rathewolf.com/space-time-and-people/
 slug: space-time-and-people
 title: Space, Time, and People
 wordpress_id: 4102

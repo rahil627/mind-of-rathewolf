@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-04 12:26:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/is-continental-philosophy-a-dead-end/
+link: https://mind.rathewolf.com/is-continental-philosophy-a-dead-end/
 slug: is-continental-philosophy-a-dead-end
 title: Is Continental Philosophy a Dead End?
 wordpress_id: 4583
@@ -61,9 +61,9 @@ I haven't seen one in a long time because I've been so focused on reality, and o
 
 It's life, and there's a problem with it. It's fascinating. It alters the way we think. We respond with want of social action and distribute the idea. It alters the way society thinks.
 
-The problem isn't the content, it's the form. Few people are able to read a huge book, and really engage with it. [The speed of the transmission of ideas are too slow](http://www.rahilpatel.com/blog/the-speed-of-ideas). For it to be useful, creating a real impact, the idea must be transmitted quickly, into the working memory [todo: link to working memory and creativity], so then the person can take action with these ideas in it.
+The problem isn't the content, it's the form. Few people are able to read a huge book, and really engage with it. [The speed of the transmission of ideas are too slow](https://mind.rathewolf.com/the-speed-of-ideas). For it to be useful, creating a real impact, the idea must be transmitted quickly, into the working memory [todo: link to working memory and creativity], so then the person can take action with these ideas in it.
 
-**Continental Philosophy may not be dead, but [writing sure is](http://www.rahilpatel.com/blog/no-more-writing).**
+**Continental Philosophy may not be dead, but [writing sure is](https://mind.rathewolf.com/no-more-writing).**
 --
 
 The [Wikipedia article on Sociology outlines the central theoretical problems](https://en.wikipedia.org/wiki/Sociology#Central_theoretical_problems): subjectivity and objectivity, structure and agency, and synchrony and diachrony. At least one of these, I feel is important, and make up the core concepts of Continental Philosophy.

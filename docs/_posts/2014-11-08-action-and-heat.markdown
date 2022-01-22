@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:45:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/action-and-heat/
+link: https://mind.rathewolf.com/action-and-heat/
 slug: action-and-heat
 title: Action and Heat
 wordpress_id: 2527

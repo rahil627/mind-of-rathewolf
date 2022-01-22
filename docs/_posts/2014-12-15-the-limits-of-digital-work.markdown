@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-15 08:57:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-limits-of-digital-work/
+link: https://mind.rathewolf.com/the-limits-of-digital-work/
 slug: the-limits-of-digital-work
 title: The Limits of Digital Work
 wordpress_id: 3781
@@ -18,7 +18,7 @@ It seems to me that there is a cognitive bias in developed societies whereby doi
 
 I don't know how the capital from high level organizations reach low level ones, but it's probably through a lot of wasted effort.
 
-I can only think at a community-level, and I don't quite understand why others don't. I believe, this is perhaps linked to the [home fallacy](http://www.rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal).
+I can only think at a community-level, and I don't quite understand why others don't. I believe, this is perhaps linked to the [home fallacy](https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal).
 
 Perhaps another reason to throw everyone who lives in the suburbs of a developed country to a nearby homeless shelter, empowerment organization, or professional aid facility, or, to a developing country, and do some actual work.
 --

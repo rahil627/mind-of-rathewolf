@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-07-31 15:51:26+00:00
 layout: post
-link: http://rahilpatel.com/blog/seoul/
+link: https://mind.rathewolf.com/seoul/
 slug: seoul
 title: Seoul
 wordpress_id: 1109

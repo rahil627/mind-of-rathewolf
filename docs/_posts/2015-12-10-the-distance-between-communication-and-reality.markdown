@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-10 18:07:08+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-distance-between-communication-and-reality/
+link: https://mind.rathewolf.com/the-distance-between-communication-and-reality/
 slug: the-distance-between-communication-and-reality
 title: The Distance between Communication and Reality
 wordpress_id: 5563
@@ -21,9 +21,9 @@ categories:
 - Thoughts
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
-Some thoughts from this morning, which seem to be a continuation of [Why did I read?](http://www.rahilpatel.com/blog/why-did-i-read), probably because I'm physically leaving this abode I've been dwelling in far too long.
+Some thoughts from this morning, which seem to be a continuation of [Why did I read?](https://mind.rathewolf.com/why-did-i-read), probably because I'm physically leaving this abode I've been dwelling in far too long.
 
 The thoughts:
 1. The amount of sense data gathered from real experiences is infinitely larger than those gathered from communication.
@@ -32,8 +32,8 @@ The thoughts:
 [todo: maybe missing some thoughts]
 
 Thought 1:
-1. [The amount of sense data gathered from real experiences is infinitely larger than those gathered from communication](http://www.rahilpatel.com/blog/forms-of-consumption-reality-and-media).
-2. Because of that [I have always prioritized experience above communication.](http://www.rahilpatel.com/blog/prose-is-superfluous-active-communication-through-play-and-art)
+1. [The amount of sense data gathered from real experiences is infinitely larger than those gathered from communication](https://mind.rathewolf.com/forms-of-consumption-reality-and-media).
+2. Because of that [I have always prioritized experience above communication.](https://mind.rathewolf.com/prose-is-superfluous-active-communication-through-play-and-art)
 [todo: could continue this thought]
 
 Thought 2:
@@ -41,7 +41,7 @@ Thought 2:
 2. Because of that, it is not a good idea to communicate isolated from reality, especially for a long period of time, in which memory can fade and awareness may likely focus on communication (often distorted) in the form of media as opposed to reality (direct cinema, observational cinema, and cinema verite may be exceptions).
 2.1. **The distance between communication and reality is a reoccurring problem in decision-making: academia vs city, quantitative vs qualitative, instrumental rationality vs substantial rationality.**
 3. Because of that (2), one must learn to balance real experiences (reality) and communication, though submitting to the fact that their communication will always be distorted.
-3.1 But is communication (perhaps an emphasis on media rather than everyday conversation) even needed (this was perhaps what I going to argue against in [Communication and Rationality](http://www.rahilpatel.com/blog/communication-and-rationality))? Beyond hard sciences, should one believe anything that is communicated (may have some post about skepticism)?
+3.1 But is communication (perhaps an emphasis on media rather than everyday conversation) even needed (this was perhaps what I going to argue against in [Communication and Rationality](https://mind.rathewolf.com/communication-and-rationality))? Beyond hard sciences, should one believe anything that is communicated (may have some post about skepticism)?
 4. As the distance between communication and reality increases, the amount of distortion in communication increases.
 5. In order to maintain a less distorted reality, one must maximize the amount of social time of having an experience.
 5.1. In order to achieve a clearer communication, one must limit  the communication to recent experiences.
@@ -49,4 +49,4 @@ Thought 2:
 [todo: could continue this thought]
 
 Thought 3:
-This thought has been moved to [Why I Did What I Did](http://www.rahilpatel.com/blog/why-i-did-what-i-did).
+This thought has been moved to [Why I Did What I Did](https://mind.rathewolf.com/why-i-did-what-i-did).

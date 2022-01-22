@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-13 05:14:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/large-and-small-communities/
+link: https://mind.rathewolf.com/large-and-small-communities/
 slug: large-and-small-communities
 title: Large and Small Communities
 wordpress_id: 3960

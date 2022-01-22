@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-20 07:00:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/touch-me-not/
+link: https://mind.rathewolf.com/touch-me-not/
 slug: touch-me-not
 title: Touch Me Not
 wordpress_id: 2449
@@ -19,4 +19,4 @@ Some kind of game in which players wear costumes, and parts of their bodies beco
 Probably inspired by Johann Sebastian Joust.
 
 
-[![costume class=](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/costume-game1.svg)](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/costume-game1.svg)
+[![costume class=](https://mind.rathewolf.com/wp-content/uploads/2014/09/costume-game1.svg)](https://mind.rathewolf.com/wp-content/uploads/2014/09/costume-game1.svg)

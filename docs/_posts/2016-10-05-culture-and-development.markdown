@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-10-05 08:34:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/culture-and-development/
+link: https://mind.rathewolf.com/culture-and-development/
 slug: culture-and-development
 title: Culture and [Social] Development
 wordpress_id: 7900

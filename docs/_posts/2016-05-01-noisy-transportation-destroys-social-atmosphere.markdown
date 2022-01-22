@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-01 01:44:14+00:00
 layout: post
-link: http://rahilpatel.com/blog/noisy-transportation-destroys-social-atmosphere/
+link: https://mind.rathewolf.com/noisy-transportation-destroys-social-atmosphere/
 slug: noisy-transportation-destroys-social-atmosphere
 title: Noisy Transportation Destroys [Social] Atmosphere
 wordpress_id: 6569
@@ -15,7 +15,7 @@ categories:
 - Urban Philosophy
 ---
 
-[to [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)?
+[to [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)?
 - can grab a quote from this (not that) post later
 ]
 
@@ -23,16 +23,16 @@ categories:
 
 **Noisy transportation ruins the [social] atmosphere around it.** Wherever there is noisy transportation (petroleum-powered motorcycles and cars), the space around it, in which sound can permeate, is destroyed.
 
-[The body seeks _comfortable spaces_](http://www.rahilpatel.com/blog/creating-comfortable-places). A place where once can sit, talk, and drink some tea. [todo: needs more thinking?]
+[The body seeks _comfortable spaces_](https://mind.rathewolf.com/creating-comfortable-places). A place where once can sit, talk, and drink some tea. [todo: needs more thinking?]
 
 
 
 ## in Taipei
 
 
-All of the streets are a terrible place to be. It is only there to pass by. One way to avoid some of the noise and get by is to take a bus. Another, the subway (but that’s another problem [todo: how subways ignore space]). Walking [todo: urban problems of walking], biking [todo: urban problems of biking], and motorcycling creates a thoughtless, uncomfortable experience that [disrupts one's sense of space](http://www.rahilpatel.com/blog/transportation-disrupts-sense-of-space).
+All of the streets are a terrible place to be. It is only there to pass by. One way to avoid some of the noise and get by is to take a bus. Another, the subway (but that’s another problem [todo: how subways ignore space]). Walking [todo: urban problems of walking], biking [todo: urban problems of biking], and motorcycling creates a thoughtless, uncomfortable experience that [disrupts one's sense of space](https://mind.rathewolf.com/transportation-disrupts-sense-of-space).
 
-When one is stuck on a noisy street, then [an _exclusive comfortable place_](http://www.rahilpatel.com/blog/creating-comfortable-places) is a likely, deterministic choice, such as a convenient store or cafe.
+When one is stuck on a noisy street, then [an _exclusive comfortable place_](https://mind.rathewolf.com/creating-comfortable-places) is a likely, deterministic choice, such as a convenient store or cafe.
 
 One way to ignore all of it is to wear earplugs or headphones. But to ignore space, similar to when one drives an enclosed vehicle, is a dangerous choice, as exemplified by how the suburbs have developed without care for _the space between_.
 
@@ -86,4 +86,4 @@ _Wikipedia_, Christopher Alexander and colleagues, [_A Pattern Language_](https:
 
 So it seems as long as the ideas are general, abstract, one can avoid specific design, and therefore avoid destruction of space from repetition. The set of ideas merely exist as a toolset to hypothetically solve problems that can be solved by altering urban material.
 
-This thought digressed to [My Blog Contains a Pattern Language](http://www.rahilpatel.com/blog/my-blog-contains-a-pattern-language).
+This thought digressed to [My Blog Contains a Pattern Language](https://mind.rathewolf.com/my-blog-contains-a-pattern-language).

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-14 09:16:04+00:00
 layout: post
-link: http://rahilpatel.com/blog/notes-on-crowdsourcing-civil-action/
+link: https://mind.rathewolf.com/notes-on-crowdsourcing-civil-action/
 slug: notes-on-crowdsourcing-civil-action
 title: Notes on Crowdsourcing Civil Action
 wordpress_id: 6825

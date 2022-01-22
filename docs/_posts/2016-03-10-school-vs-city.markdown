@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-10 06:44:01+00:00
 layout: post
-link: http://rahilpatel.com/blog/school-vs-city/
+link: https://mind.rathewolf.com/school-vs-city/
 slug: school-vs-city
 title: School vs City
 wordpress_id: 6196

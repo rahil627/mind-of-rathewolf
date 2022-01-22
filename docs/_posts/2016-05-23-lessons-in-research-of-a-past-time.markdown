@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-23 03:33:52+00:00
 layout: post
-link: http://rahilpatel.com/blog/lessons-in-research-of-a-past-time/
+link: https://mind.rathewolf.com/lessons-in-research-of-a-past-time/
 slug: lessons-in-research-of-a-past-time
 title: Lessons in Research of a Past Time
 wordpress_id: 7011
@@ -21,9 +21,9 @@ categories:
 
 [todo: working title: Lessons in Research of a Past Time via the written medium that is literature (written history?)]
 
-[related writings: [What is Worth Reading?](http://www.rahilpatel.com/blog/what-is-worth-reading), [Notes on Translations of Ancient Literature](http://www.rahilpatel.com/blog/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)]
+[related writings: [What is Worth Reading?](https://mind.rathewolf.com/what-is-worth-reading), [Notes on Translations of Ancient Literature](https://mind.rathewolf.com/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)]
 
-This writing was extracted from [The Public Sphere during the Second Sophistic](http://www.rahilpatel.com/blog/the-public-sphere-during-the-second-sophistic). It developed while fetching books about the Second Sophistic, which occurred between the years 54 and 230.
+This writing was extracted from [The Public Sphere during the Second Sophistic](https://mind.rathewolf.com/the-public-sphere-during-the-second-sophistic). It developed while fetching books about the Second Sophistic, which occurred between the years 54 and 230.
 
 
 
@@ -54,7 +54,7 @@ https://en.wikipedia.org/wiki/Historiography
 - https://en.wikipedia.org/wiki/Historiography#The_Cultural_turn
 - https://en.wikipedia.org/wiki/Historiography#Approaches
 
-[todo: move to [The Kinds of Literature](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)?]
+[todo: move to [The Kinds of Literature](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)?]
 
 
 ## examples of social/cultural topic history writings

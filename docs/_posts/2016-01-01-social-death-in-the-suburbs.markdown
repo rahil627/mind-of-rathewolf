@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-01 09:53:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-death-in-the-suburbs/
+link: https://mind.rathewolf.com/social-death-in-the-suburbs/
 slug: social-death-in-the-suburbs
 title: Social Death in the Suburbs
 wordpress_id: 3883

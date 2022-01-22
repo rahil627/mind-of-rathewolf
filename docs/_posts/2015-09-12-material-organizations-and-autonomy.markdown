@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-12 22:18:33+00:00
 layout: post
-link: http://rahilpatel.com/blog/material-organizations-and-autonomy/
+link: https://mind.rathewolf.com/material-organizations-and-autonomy/
 slug: material-organizations-and-autonomy
 title: Material Organizations and Autonomy
 wordpress_id: 4712
@@ -15,7 +15,7 @@ categories:
 - Social Philosophy
 ---
 
-If [human minds are organizing things](http://www.rahilpatel.com/blog/chaos-and-organization), material organization is one method to satisfy that [desire](http://www.rahilpatel.com/blog/creativity-as-organization-from-chaos). Material includes digital bits, the education of a child, and societies at all scales [todo: does it?]. But for now, let's focus on the material.
+If [human minds are organizing things](https://mind.rathewolf.com/chaos-and-organization), material organization is one method to satisfy that [desire](https://mind.rathewolf.com/creativity-as-organization-from-chaos). Material includes digital bits, the education of a child, and societies at all scales [todo: does it?]. But for now, let's focus on the material.
 
 Humans under capitalism are forced to trade labor for money. [Labor likely ultimately creating a commodity.] When a person gathers enough wealth to survive, it is up to the person to decide whether to become [idle](http://www.zpub.com/notes/idle.html) or [accumulate capital](https://en.wikipedia.org/wiki/Capital_accumulation). Out of the human tendency to fall under habituation, the latter is more likely, especially in less dynamic urban areas. [The accumulated capital then can be saved, spent on commodities, spent on charity, etc.]
 
@@ -48,6 +48,6 @@ At the least, a society should have the characteristic willingness to share. The
 
 Because material organizations have no value, it is the labor that benefits society that does. Not so much in the form of money, but in the recorded history of the individual. When one asks another of their experience, is it labor towards tending society or conspicuous consumption? It's much easier to determine one's value with this spectrum.
 
-With the ability to move from material organization to material organization, one constantly lives in a higher form of awareness, have much in [working memory to be more creative](http://www.rahilpatel.com/blog/working-memory-and-creativity), have more experiences, being able to at first play for the sake of playing, then narrowing work toward one's interests and creative endeavors.
+With the ability to move from material organization to material organization, one constantly lives in a higher form of awareness, have much in [working memory to be more creative](https://mind.rathewolf.com/working-memory-and-creativity), have more experiences, being able to at first play for the sake of playing, then narrowing work toward one's interests and creative endeavors.
 
 [todo: going to sleep]

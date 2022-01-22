@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:33:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/living-on-the-edge-of-society-ethics/
+link: https://mind.rathewolf.com/living-on-the-edge-of-society-ethics/
 slug: living-on-the-edge-of-society-ethics
 title: Living on the Edge of Society Ethics
 wordpress_id: 3040

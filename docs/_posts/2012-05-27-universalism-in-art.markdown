@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-05-27 15:34:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/universalism-in-art/
+link: https://mind.rathewolf.com/universalism-in-art/
 slug: universalism-in-art
 title: Universalism in Art
 wordpress_id: 812

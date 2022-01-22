@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2007-01-03 08:55:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/resume/
+link: https://mind.rathewolf.com/resume/
 slug: resume
 title: Resume
 wordpress_id: 6642
@@ -12,7 +12,7 @@ categories:
 - Self-assessment
 ---
 
-Herro. I’m **Rahil**, and _this_ is my resume. I initially tried to limit it to experiences that are valuable to me, regardless of economic system, and whose length is at least one month, but over time, it has become something more: a personal assessment of sorts. My portfolio at **[rahilpatel.com](http://rahilpatel.com)** is a digital record of my early digital projects and early thoughts ‘n writings. You can e-mail me at **[rahil627@gmail.com](mailto:rahil627@gmail.com)** or message me at **[m.me/rahil627](http://m.me/rahil627**)**.
+Herro. I’m **Rahil**, and _this_ is my resume. I initially tried to limit it to experiences that are valuable to me, regardless of economic system, and whose length is at least one month, but over time, it has become something more: a personal assessment of sorts. My portfolio at **[rahilpatel.com](https://mind.rathewolf.com)** is a digital record of my early digital projects and early thoughts ‘n writings. You can e-mail me at **[rahil627@gmail.com](mailto:rahil627@gmail.com)** or message me at **[m.me/rahil627](http://m.me/rahil627**)**.
 
 
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-22 10:23:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/lateral-thinking-external-stimuli-and-self-control/
+link: https://mind.rathewolf.com/lateral-thinking-external-stimuli-and-self-control/
 slug: lateral-thinking-external-stimuli-and-self-control
 title: Lateral Thinking, External Stimuli, and Self-Control
 wordpress_id: 2033
@@ -12,7 +12,7 @@ categories:
 - Thoughts
 ---
 
-[Old draft. I don't think I got to the self-control part. It's closely related to [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs).]
+[Old draft. I don't think I got to the self-control part. It's closely related to [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs).]
 
 A thought from Ben's post, and my stay at Simon's house.
 

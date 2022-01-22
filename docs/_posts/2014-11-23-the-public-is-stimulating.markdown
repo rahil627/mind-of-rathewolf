@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 08:19:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-public-is-stimulating/
+link: https://mind.rathewolf.com/the-public-is-stimulating/
 slug: the-public-is-stimulating
 title: The Public is Stimulating
 wordpress_id: 3058

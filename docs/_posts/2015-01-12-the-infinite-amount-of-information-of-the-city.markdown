@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-12 04:26:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-infinite-amount-of-information-of-the-city/
+link: https://mind.rathewolf.com/the-infinite-amount-of-information-of-the-city/
 slug: the-infinite-amount-of-information-of-the-city
 title: The Infinite Amount of Information of the City
 wordpress_id: 4496
@@ -13,7 +13,7 @@ categories:
 - Philosophy
 ---
 
-A digression from the end of [The Limits of my Language](http://www.rahilpatel.com/blog/the-limits-of-my-language).
+A digression from the end of [The Limits of my Language](https://mind.rathewolf.com/the-limits-of-my-language).
 
 When I think of New York City. I think of an infinite amount of information that I actually have, of ethnic enclaves, buildings, waterways, shops, streets, people, interactions, technology, places of art, places of education, districts, and so on.
 

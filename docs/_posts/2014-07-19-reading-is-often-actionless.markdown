@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-19 21:57:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/reading-is-often-actionless/
+link: https://mind.rathewolf.com/reading-is-often-actionless/
 slug: reading-is-often-actionless
 title: Reading is often Actionless
 wordpress_id: 2143

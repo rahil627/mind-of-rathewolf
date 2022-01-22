@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 14:57:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideal-public-space/
+link: https://mind.rathewolf.com/the-ideal-public-space/
 slug: the-ideal-public-space
 title: The Ideal Public Space
 wordpress_id: 2983

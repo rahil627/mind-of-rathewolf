@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-08 14:12:04+00:00
 layout: post
-link: http://rahilpatel.com/blog/no-todo-list-ethics/
+link: https://mind.rathewolf.com/no-todo-list-ethics/
 slug: no-todo-list-ethics
 title: No Todo List Ethics
 wordpress_id: 6136

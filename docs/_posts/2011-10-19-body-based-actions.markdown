@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-10-19 14:03:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/body-based-actions/
+link: https://mind.rathewolf.com/body-based-actions/
 slug: body-based-actions
 title: Body-based Actions
 wordpress_id: 6544

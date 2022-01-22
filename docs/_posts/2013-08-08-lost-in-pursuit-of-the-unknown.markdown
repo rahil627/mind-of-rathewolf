@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-08-08 09:27:37+00:00
 layout: post
-link: http://rahilpatel.com/blog/lost-in-pursuit-of-the-unknown/
+link: https://mind.rathewolf.com/lost-in-pursuit-of-the-unknown/
 slug: lost-in-pursuit-of-the-unknown
 title: Lost in Pursuit of the Unknown
 wordpress_id: 1166

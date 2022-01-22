@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-10-14 10:25:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/des-hommes-et-des-dieux/
+link: https://mind.rathewolf.com/des-hommes-et-des-dieux/
 slug: des-hommes-et-des-dieux
 title: Des hommes et des dieux (Of Gods and Men)
 wordpress_id: 2508
@@ -17,7 +17,7 @@ After watching a recent film by my favorite film director, I found on Wikipedia 
 
 I hope to continue to watch the rest of the films in the list, thinking deeply of the actions people take, how they came to decide it, the effects of external forces, and whatever other questions may arise.
 
-Continuing the trend starting from [the last film I had watched](http://www.rahilpatel.com/blog/like-father-like-son) of posting my thoughts, as opposed to reviewing a film, and forcing me to review my thoughts, edits appear in square brackets "[]", what follows are my thoughts during the viewing of Des hommes et des dieux (Of Gods and Men).
+Continuing the trend starting from [the last film I had watched](https://mind.rathewolf.com/like-father-like-son) of posting my thoughts, as opposed to reviewing a film, and forcing me to review my thoughts, edits appear in square brackets "[]", what follows are my thoughts during the viewing of Des hommes et des dieux (Of Gods and Men).
 
 **My Thoughts**:
 How do people form convents? Need a source: evangelists. Is just finding the bible enough for people to teach it? [Reminds me of a short story by Borjes in Ficciones]. This surely must have died in developed countries where internet is prevalent.

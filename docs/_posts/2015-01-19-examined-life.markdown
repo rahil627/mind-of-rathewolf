@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-19 12:29:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/examined-life/
+link: https://mind.rathewolf.com/examined-life/
 slug: examined-life
 title: Examined Life
 wordpress_id: 3989
@@ -155,7 +155,7 @@ alienated from natural environment
 Know, but not act upon it. Should visit sites of catastrophe.* It's unimaginable we are not wired to act on it. Should learn to love the artificial, love trash, oil, animals, etc.
 
 current thought:
-The first thought is the core of all social problems. Related to [the distance between humans](http://www.rahilpatel.com/blog/the-distance-between-humans), it is a basic cognitive bias. Humans will take bad actions, even if they have the knowledge of it [todo: link zizek review, known knowns etc.]. [todo: requires a lot more thought]
+The first thought is the core of all social problems. Related to [the distance between humans](https://mind.rathewolf.com/the-distance-between-humans), it is a basic cognitive bias. Humans will take bad actions, even if they have the knowledge of it [todo: link zizek review, known knowns etc.]. [todo: requires a lot more thought]
 
 Finally a little cognitive science. Indeed the brain tries to abstract detail into digestible ideas. [todo: think more]
 
@@ -181,7 +181,7 @@ Don't think about ???
   - want to organize the world based on all those things
 
 current thoughts:
-I really like that they are walking and rolling (I'm scientific) around San Francisco. Always good to think about urban planning for all people. This lead to my own ideas of [how the material world can socially isolate or bring people together](http://www.rahilpatel.com/blog/urban-planning-for-solidarity).
+I really like that they are walking and rolling (I'm scientific) around San Francisco. Always good to think about urban planning for all people. This lead to my own ideas of [how the material world can socially isolate or bring people together](https://mind.rathewolf.com/urban-planning-for-solidarity).
 
 Far better than whoever that last lady was. Social repression is a huge problem often neglected. Not in the simple feminism, black people stuff, but the more seemingly slighter forms of neglect: being averse to others. To think that all of the blind and deaf people are in deaf and blind schools and probably rarely go far from it because they are socially isolated. I wish they pervaded society. San Francisco probably is the place where I encountered the largest range of people: several forms of disabilities, disabled veterans, bums in the tenderloin, along with the hippies, yuppies, and in-betweens. It's indeed quite a refreshing place to be. New York can sometimes be ruthless in comparison.
 

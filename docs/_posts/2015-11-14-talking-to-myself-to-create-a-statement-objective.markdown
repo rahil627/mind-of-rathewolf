@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-11-14 23:41:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/talking-to-myself-to-create-a-statement-objective/
+link: https://mind.rathewolf.com/talking-to-myself-to-create-a-statement-objective/
 slug: talking-to-myself-to-create-a-statement-objective
 title: Talking to Myself to Create a Statement Objective
 wordpress_id: 4166
@@ -33,13 +33,13 @@ Well, that's probably what will go through my mind once I'm there.
 
 But for now, let's try to figure out some objectives here.
 
-Wait, let me peer into a [past application](http://www.rahilpatel.com/blog/a-personal-statement-for-design-and-technology) for a moment...
+Wait, let me peer into a [past application](https://mind.rathewolf.com/a-personal-statement-for-design-and-technology) for a moment...
 
 Hmm, looks like public and games. I'm guessing I was at a downtime then, in my parent's bedroom in India, and wrote it, thinking fondly of my more game and new media oriented New York former self, and thinking less about the world around me at the time. Perhaps, wanting to escape to my childhood, playful, with less focus on society, and its infinite responsibilities.
 
-But now my objectives are less game-oriented. **Though [using sensors and materials for design](http://www.rahilpatel.com/blog/a-design-strategy-for-data) **is still awesome**, but civics seems to be where it's at. It's about developing communities. Public spaces, public policies, shifting people to make better decisions, sharing, walking, experiencing people and nature, creating a livable environment for all. Creating a better city. And I thought I could facilitate that by [designing things for the city](http://www.rahilpatel.com/blog/decision-making-civics-and-technology), to encourage interaction to further develop communities, to make better decisions, to make a positive impact.**
+But now my objectives are less game-oriented. **Though [using sensors and materials for design](https://mind.rathewolf.com/a-design-strategy-for-data) **is still awesome**, but civics seems to be where it's at. It's about developing communities. Public spaces, public policies, shifting people to make better decisions, sharing, walking, experiencing people and nature, creating a livable environment for all. Creating a better city. And I thought I could facilitate that by [designing things for the city](https://mind.rathewolf.com/decision-making-civics-and-technology), to encourage interaction to further develop communities, to make better decisions, to make a positive impact.**
 
-Another objective, created during my downtime in isolation, as opposed to the uptime I'm engaged in a social networks of a city, I also felt [tools for knowledge and organization](http://www.rahilpatel.com/blog/tools-for-autodidacts) could be useful. But in this case, I was influenced by the need of money, hoping to get an iOS gig to pay off debt quickly, and not hate myself while doing it. Most of these ideas should be left to people in San Francisco trying to create morally good tools under the influence of high land value rent slavery. How the fuck can people mold silicon atoms to transfer information, but not think about why they pay so much to be in the place they are? Hmmm...back to this... Though the tools for knowledge are useful in self-education, it's the tools for organization of peoples that's more needed.
+Another objective, created during my downtime in isolation, as opposed to the uptime I'm engaged in a social networks of a city, I also felt [tools for knowledge and organization](https://mind.rathewolf.com/tools-for-autodidacts) could be useful. But in this case, I was influenced by the need of money, hoping to get an iOS gig to pay off debt quickly, and not hate myself while doing it. Most of these ideas should be left to people in San Francisco trying to create morally good tools under the influence of high land value rent slavery. How the fuck can people mold silicon atoms to transfer information, but not think about why they pay so much to be in the place they are? Hmmm...back to this... Though the tools for knowledge are useful in self-education, it's the tools for organization of peoples that's more needed.
 
 Yes. Urban Planning at the Media Lab. Paradoxical? Media doesn't affect people as real experiences do. One doesn't understand another's life by experiencing the media of another. One understands only by being in their position, at that space and time, which is, impossible.
 
@@ -68,7 +68,7 @@ My first objective mentions creativity from materials (material science?). This 
 My second objective is community development, city development, and, in the context of Taiwan, national development. Which is Civic Media.
 
 Hmmm...sidetraining to more groups:
-Macro Connections - mentions a previous thought: [all products should have a face](http://www.rahilpatel.com/blog/all-products-should-have-a-face). Which is absolutely important in decision-making in a globalized industrial age. Especially in wasteful post-modern societies. I am spoiled with Taiwan's resourcefulness. Nothing goes to waste here, well, nothing materially, of human effort, a lot. Though the statement, transforming data into knowledge is great, the projects seem very data-driven.
+Macro Connections - mentions a previous thought: [all products should have a face](https://mind.rathewolf.com/all-products-should-have-a-face). Which is absolutely important in decision-making in a globalized industrial age. Especially in wasteful post-modern societies. I am spoiled with Taiwan's resourcefulness. Nothing goes to waste here, well, nothing materially, of human effort, a lot. Though the statement, transforming data into knowledge is great, the projects seem very data-driven.
 
 ...More wandering about their projects... It seems maybe one project from each group is of interest. Such as Spotz from Living Mobile or You are Here! from Social Computing. I guess I shouldn't look at the projects, and stick to their group's statement. And for that, Scalable Cooperation seems nice, though, I'm not interested in Kickstarter and the like. Rather, just Action Path. But that's a part of Civic Media.
 
@@ -250,4 +250,4 @@ Beyond Taiwan:
 Though Taiwan is my ideal first area for creating such public spaces for these directions, it is not the limit. I’ve lived somewhat nomadically since college graduation and I try to make a positive social impact wherever I am. The hope is that after MIT I will be more efficient at creating impacts in the right directions in any human settlement.
 
 My Online Portfolio:
-http://www.rahilpatel.com/blog/portfolio
+https://mind.rathewolf.com/portfolio

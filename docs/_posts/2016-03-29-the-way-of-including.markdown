@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-29 19:29:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-way-of-including/
+link: https://mind.rathewolf.com/the-way-of-including/
 slug: the-way-of-including
 title: The Way of Including
 wordpress_id: 6308

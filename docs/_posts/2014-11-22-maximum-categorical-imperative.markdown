@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 05:16:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/maximum-categorical-imperative/
+link: https://mind.rathewolf.com/maximum-categorical-imperative/
 slug: maximum-categorical-imperative
 title: Maximum Categorical Imperative
 wordpress_id: 3008

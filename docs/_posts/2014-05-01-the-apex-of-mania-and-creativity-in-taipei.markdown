@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-01 10:42:01+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-apex-of-mania-and-creativity-in-taipei/
+link: https://mind.rathewolf.com/the-apex-of-mania-and-creativity-in-taipei/
 slug: the-apex-of-mania-and-creativity-in-taipei
 title: The Apex of Mania and Creativity in Taipei
 wordpress_id: 3355

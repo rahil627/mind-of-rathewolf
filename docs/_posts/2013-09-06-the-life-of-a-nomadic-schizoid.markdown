@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-06 07:34:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-life-of-a-nomadic-schizoid/
+link: https://mind.rathewolf.com/the-life-of-a-nomadic-schizoid/
 slug: the-life-of-a-nomadic-schizoid
 title: The Life of a Nomadic Schizoid
 wordpress_id: 1302

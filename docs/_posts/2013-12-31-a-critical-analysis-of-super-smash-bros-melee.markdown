@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-12-31 19:57:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-critical-analysis-of-super-smash-bros-melee/
+link: https://mind.rathewolf.com/a-critical-analysis-of-super-smash-bros-melee/
 slug: a-critical-analysis-of-super-smash-bros-melee
 title: A Critical Analysis of Super Smash Bros. Melee
 wordpress_id: 1417
@@ -12,7 +12,7 @@ categories:
 - Games
 ---
 
-[might be funny to see [a message I sent to a friend on Facebook about the game two years ago](http://www.rahilpatel.com/blog/super-smash-bros-melee-early-game-criticism)]
+[might be funny to see [a message I sent to a friend on Facebook about the game two years ago](https://mind.rathewolf.com/super-smash-bros-melee-early-game-criticism)]
 
 Written for NYU Game Design MFA application.
 

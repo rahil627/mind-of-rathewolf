@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 15:07:59+00:00
 layout: post
-link: http://rahilpatel.com/blog/reading-versus-listening/
+link: https://mind.rathewolf.com/reading-versus-listening/
 slug: reading-versus-listening
 title: Reading versus Listening
 wordpress_id: 2706

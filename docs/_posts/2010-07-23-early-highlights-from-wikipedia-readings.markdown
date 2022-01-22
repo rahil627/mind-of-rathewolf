@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-07-23 13:30:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-highlights-from-wikipedia-readings/
+link: https://mind.rathewolf.com/early-highlights-from-wikipedia-readings/
 slug: early-highlights-from-wikipedia-readings
 title: Early Highlights from Wikipedia Readings
 wordpress_id: 6531

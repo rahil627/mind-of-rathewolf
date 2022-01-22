@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-26 06:12:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/reading-and-listening-to-ebooks/
+link: https://mind.rathewolf.com/reading-and-listening-to-ebooks/
 slug: reading-and-listening-to-ebooks
 title: Reading and Listening to eBooks
 wordpress_id: 3302
@@ -14,7 +14,7 @@ categories:
 - Travel
 ---
 
-After listening to a great lecture series on philosophy from The Great Courses, I thought listening to lectures and books (with the addition of films and games) [surely replaced the ancient knowledge transmission through reading](http://www.rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education). And for the most part, I agree.
+After listening to a great lecture series on philosophy from The Great Courses, I thought listening to lectures and books (with the addition of films and games) [surely replaced the ancient knowledge transmission through reading](https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education). And for the most part, I agree.
 
 But there are still quite a few books I'd like to read, and in the Information Age, it seems the methods to get them are contrarily not so simple. Furthermore if one wanted to do research, then going to the library or building a personal one still seems the best way. Skimming through a bunch of eBooks sucks.
 
@@ -30,4 +30,4 @@ Though this is the best way I've found to read eBooks, I still find it inferior 
 
 It's still quite painful to find ePubs or PDFs. There a quite a bunch of online bookstores, free and not. Googling seems to be the best way to cover them all. Thankfully having access to Dropbox makes organization painless.
 
-[eBooks are important to me as I can't have any books while traveling](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge), they just weigh too much. Furthermore, from my experience in libraries and bookshops in Taipei, most selections are translated to Chinese. My goal was to devise a method of reading and listening while traveling, and it seems an eBook reader [in conjunction of other medias](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum), is the way to go.
+[eBooks are important to me as I can't have any books while traveling](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge), they just weigh too much. Furthermore, from my experience in libraries and bookshops in Taipei, most selections are translated to Chinese. My goal was to devise a method of reading and listening while traveling, and it seems an eBook reader [in conjunction of other medias](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum), is the way to go.

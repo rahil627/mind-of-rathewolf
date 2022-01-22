@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-02-08 13:59:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-steps-to-do-it/
+link: https://mind.rathewolf.com/the-steps-to-do-it/
 slug: the-steps-to-do-it
 title: The Steps to Do It, with Integrity
 wordpress_id: 6692

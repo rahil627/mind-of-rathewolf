@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-28 11:10:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/inspired-by-films-and-everything-else/
+link: https://mind.rathewolf.com/inspired-by-films-and-everything-else/
 slug: inspired-by-films-and-everything-else
 title: Inspired by Films (and everything else)
 wordpress_id: 426

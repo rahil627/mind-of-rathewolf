@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 07:47:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideal-neighborhood/
+link: https://mind.rathewolf.com/the-ideal-neighborhood/
 slug: the-ideal-neighborhood
 title: The Ideal Neighborhood
 wordpress_id: 2731

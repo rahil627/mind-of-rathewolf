@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-08-13 05:49:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/conscription-woes-at-a-jjimjibang/
+link: https://mind.rathewolf.com/conscription-woes-at-a-jjimjibang/
 slug: conscription-woes-at-a-jjimjibang
 title: Conscription Woes at a Jjimjibang
 wordpress_id: 1225
@@ -39,4 +39,4 @@ I go to sleep. I wake up at night often as 찜질방 [jjimjibangs] are quite unc
 
 The next day I enter a cafe to use wifi. I accept his Facebook friend request. Now I must wait 100 days, as with everyone else he knows.
 
-[this experience lead to the creation of the post [Life and Work](http://www.rahilpatel.com/blog/life-and-work)]
+[this experience lead to the creation of the post [Life and Work](https://mind.rathewolf.com/life-and-work)]

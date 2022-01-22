@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:35:59+00:00
 layout: post
-link: http://rahilpatel.com/blog/sight-before-language/
+link: https://mind.rathewolf.com/sight-before-language/
 slug: sight-before-language
 title: Sight before Language
 wordpress_id: 2485

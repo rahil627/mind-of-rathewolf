@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-17 16:50:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/decision-making-in-competitive-video-games/
+link: https://mind.rathewolf.com/decision-making-in-competitive-video-games/
 slug: decision-making-in-competitive-video-games
 title: Decision Making in Competitive Video Games
 wordpress_id: 2247

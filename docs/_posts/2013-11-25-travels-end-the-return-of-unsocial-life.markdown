@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-11-25 11:54:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/travels-end-the-return-of-unsocial-life/
+link: https://mind.rathewolf.com/travels-end-the-return-of-unsocial-life/
 slug: travels-end-the-return-of-unsocial-life
 title: 'Travels End: The Return of Unsocial Life'
 wordpress_id: 1373

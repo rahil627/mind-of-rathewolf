@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-30 09:14:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/tools-for-organizing/
+link: https://mind.rathewolf.com/tools-for-organizing/
 slug: tools-for-organizing
 title: Tools for Organizing
 wordpress_id: 3866
@@ -13,7 +13,7 @@ categories:
 - Philosophy of Education
 ---
 
-If [minds are constantly organizing things](http://www.rahilpatel.com/blog/chaos-and-organization), then the creation of tools for people to organize is necessary to enable people to organize things.
+If [minds are constantly organizing things](https://mind.rathewolf.com/chaos-and-organization), then the creation of tools for people to organize is necessary to enable people to organize things.
 
 I've been listening to 8tracks recently, and am just amazed at the work that people do to organize songs into playlists. No machine (Pandora, etc.) can compete. [This guy](http://8tracks.com/hardlyanywhere) created 52 playlists of amazing, esoteric (to me) songs. People take songs from free online sources, and put them into playlists.
 
@@ -21,11 +21,11 @@ I often search by country to hear music around the world -- folk, mix, whatever.
 
 All of this was created because a tool was created that enabled people to organize.
 
-What organizing tools could be created to do good? I think I mentioned before about some earthquake reporting tool. Anything could be logged with a geolocation. But there needs to be an incentive. [The process of organizing should feel creative](http://www.rahilpatel.com/blog/creativity-as-organization-from-chaos).
+What organizing tools could be created to do good? I think I mentioned before about some earthquake reporting tool. Anything could be logged with a geolocation. But there needs to be an incentive. [The process of organizing should feel creative](https://mind.rathewolf.com/creativity-as-organization-from-chaos).
 
 Instead of playing some silly smartphone game, what if people were using that time to organize something toward something good, and felt good doing it?
 
-[In order for people to take action, one needs to have physical interaction with that thing](http://www.rahilpatel.com/blog/experience-and-action). [Civic engagement is a physical interaction](http://www.rahilpatel.com/blog/decision-making-civics-and-technology), and one way of doing good. But how does one constantly think of the world's poorest nations if one doesn't interact with them?
+[In order for people to take action, one needs to have physical interaction with that thing](https://mind.rathewolf.com/experience-and-action). [Civic engagement is a physical interaction](https://mind.rathewolf.com/decision-making-civics-and-technology), and one way of doing good. But how does one constantly think of the world's poorest nations if one doesn't interact with them?
 
 Media?
 
@@ -35,7 +35,7 @@ One film is not enough. It needs to be a daily interaction. A new poster of a st
 
 Back to tools. Before settling down to write a bunch of my ideas, I chose between a blog and a Wikipedia as my tool for organizing my ideas. Now that I'm a bit more idle, lost of passion, to pass time, I'll use it to organize more thoughts, without really taking an action toward something.
 
-The great thing about technology is that it can affect something somewhere else. The problem is that [it's limited to data](http://www.rahilpatel.com/blog/the-limits-of-digital-work). 
+The great thing about technology is that it can affect something somewhere else. The problem is that [it's limited to data](https://mind.rathewolf.com/the-limits-of-digital-work). 
 
 The aim of an do-good organizing tool is to satisfy those with [self-expression values](http://en.wikipedia.org/wiki/World_Values_Survey) with creativity whose product then results satisfying those with survival values.
 

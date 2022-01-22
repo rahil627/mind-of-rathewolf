@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-06 19:47:08+00:00
 layout: post
-link: http://rahilpatel.com/blog/will-to-make/
+link: https://mind.rathewolf.com/will-to-make/
 slug: will-to-make
 title: Will to Make
 wordpress_id: 4634
@@ -26,4 +26,4 @@ The thought reoccured from Place: A Short Introduction:
 
 Humans will to make material and digital things. To materially put together a better world; To design a better world.
 
-This is a subset of [Will to Experience](http://www.rahilpatel.com/blog/will-to-experience). Making is an experience, but one does not have to make to have an experience.
+This is a subset of [Will to Experience](https://mind.rathewolf.com/will-to-experience). Making is an experience, but one does not have to make to have an experience.

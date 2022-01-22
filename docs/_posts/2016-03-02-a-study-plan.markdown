@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-02 18:30:34+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-study-plan/
+link: https://mind.rathewolf.com/a-study-plan/
 slug: a-study-plan
 title: A Study Plan
 wordpress_id: 6302
@@ -12,7 +12,7 @@ categories:
 - Self-assessment
 ---
 
-Though entering an academic institution, especially an Asian one, is so bureaucratic that any sensible artist will be unwilling to complete it, there is one exercise that is useful: to express what one wants to study (in addition to [one wants to do](http://www.rahilpatel.com/blog/a-project-plan-for-an-urban-area)). This was written for the entrance to Asia's academia:
+Though entering an academic institution, especially an Asian one, is so bureaucratic that any sensible artist will be unwilling to complete it, there is one exercise that is useful: to express what one wants to study (in addition to [one wants to do](https://mind.rathewolf.com/a-project-plan-for-an-urban-area)). This was written for the entrance to Asia's academia:
 
 #### Study Plan
 A note: I did not find any guidelines for this writing, so I will proceed to write without restriction.

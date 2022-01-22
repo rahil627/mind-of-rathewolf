@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-13 04:51:56+00:00
 layout: post
-link: http://rahilpatel.com/blog/diy-ethics-in-developing-countries/
+link: https://mind.rathewolf.com/diy-ethics-in-developing-countries/
 slug: diy-ethics-in-developing-countries
 title: DIY Ethics in Developing Countries
 wordpress_id: 3957
@@ -11,7 +11,7 @@ categories:
 - Ethics
 ---
 
-From [New York and Taiwan](http://www.rahilpatel.com/blog/new-york-and-taiwan):
+From [New York and Taiwan](https://mind.rathewolf.com/new-york-and-taiwan):
 
 
 

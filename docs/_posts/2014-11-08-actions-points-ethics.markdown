@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:31:36+00:00
 layout: post
-link: http://rahilpatel.com/blog/actions-points-ethics/
+link: https://mind.rathewolf.com/actions-points-ethics/
 slug: actions-points-ethics
 title: Actions Points Ethics
 wordpress_id: 2805

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-10-10 19:43:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/only-yesterday/
+link: https://mind.rathewolf.com/only-yesterday/
 slug: only-yesterday
 title: おもひでぽろぽろ (~Memories Drip-drop)
 wordpress_id: 4914
@@ -34,7 +34,7 @@ Such a great end to the film. I can't think of other animated films that can mat
 
 
 
-Taeko imagines a life as a farmer, with Toshio. The idea is there. The [ideal](http://www.rahilpatel.com/blog/a-japanese-ideal) is there. Then next day, she acts upon it.
+Taeko imagines a life as a farmer, with Toshio. The idea is there. The [ideal](https://mind.rathewolf.com/a-japanese-ideal) is there. Then next day, she acts upon it.
 
 When one leaves a place, a person, a society, that one loves, the reaction is that of Taeko sticking outside the train window, looking back: a mildly surprised blank expression — What now? It happens every time for me too, an awkward good-bye, then thinking while leaving. Or, a lack of thinking, emptiness. I usually take a nap being tired of packing and good-byes, and only begin thinking and living the day I arrive at the destination. Taeko, instead, stays up, with a blank expression, thinking, as the wonderful scenery passes: what now?
 
@@ -199,10 +199,10 @@ Haha ski instructor, kind of like how I want to be a diving instructor in Lanyu.
 
 
 
-[Takahata romanticized nature, farmer life.](http://www.rahilpatel.com/blog/a-japanese-ideal) Depicts it real, as a struggle, with history, but the main character also has this romantic view.
+[Takahata romanticized nature, farmer life.](https://mind.rathewolf.com/a-japanese-ideal) Depicts it real, as a struggle, with history, but the main character also has this romantic view.
 
 Toshio says in theory it’s good, but in reality it’s hard work. It’s repeated, but worth repeating, as it does seem great as an idea, but very few go back.
-  - [It's a choice in lifestyle](http://www.rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants), to live as a farmer. Under global capitalism it doesn't make much money, as mentioned many times. Is it even considered progress for humankind? Why not eat industrially-created dry foods and use industrially-create artificial dye, as opposed to using one's own body to struggle to inefficiently extract commodities from nature? The two jobs result in a vastly different experience, and as always, it's the experience that matters. Driving through those fields, thinking of the history of the area, thinking broadly of lifestyles (/ all the ways people live in all societies) in all points in history. Sure, it's more materially efficient for Taeko to be a an office bee in a company's hive, but there, she won't have experiences that deviate from other city bees. There, she can only experience through media, such as Basho, or virtual reality. The current iteration of the modern city becomes habituated as the reality of the world for many people in the world, but what about all of other possible ways to live? What could those experiences lead to?
+  - [It's a choice in lifestyle](https://mind.rathewolf.com/creativity-what-society-needs-and-what-society-wants), to live as a farmer. Under global capitalism it doesn't make much money, as mentioned many times. Is it even considered progress for humankind? Why not eat industrially-created dry foods and use industrially-create artificial dye, as opposed to using one's own body to struggle to inefficiently extract commodities from nature? The two jobs result in a vastly different experience, and as always, it's the experience that matters. Driving through those fields, thinking of the history of the area, thinking broadly of lifestyles (/ all the ways people live in all societies) in all points in history. Sure, it's more materially efficient for Taeko to be a an office bee in a company's hive, but there, she won't have experiences that deviate from other city bees. There, she can only experience through media, such as Basho, or virtual reality. The current iteration of the modern city becomes habituated as the reality of the world for many people in the world, but what about all of other possible ways to live? What could those experiences lead to?
 
 She tries country life. A guy helped her live it.
 

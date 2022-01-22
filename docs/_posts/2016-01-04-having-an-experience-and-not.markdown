@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-04 23:07:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/having-an-experience-and-not/
+link: https://mind.rathewolf.com/having-an-experience-and-not/
 slug: having-an-experience-and-not
 title: Having an Experience and Not
 wordpress_id: 6033
@@ -32,7 +32,7 @@ She was also more creative. Though she doesn't have many outlets to show it thro
 
 Most of her creativity hasn't been captured through media, lost in time and unrecorded, but it surely existed, through her actions. She taught, she had good roommates to share experiences with and talk to, she talked to local people, she had good students to help,  she wandered and thought. She was [having an experience](https://www.marxists.org/reference/subject/philosophy/works/us/an-experience.htm). It's the highest form of creativity: action.
 
-Now, she describes herself as [two people.](http://www.rahilpatel.com/blog/two-phases-in-life) The normal her, and the abnormal her. The normal her is the one from the island -- the constantly acting, creative, often social, one. The abnormal her is the one seen right now as she works, restrained socially and economically, unable to act in the way she desires. She appears less creative, and unable to have an experience.
+Now, she describes herself as [two people.](https://mind.rathewolf.com/two-phases-in-life) The normal her, and the abnormal her. The normal her is the one from the island -- the constantly acting, creative, often social, one. The abnormal her is the one seen right now as she works, restrained socially and economically, unable to act in the way she desires. She appears less creative, and unable to have an experience.
 
 Now, at times, her normal self appears. She sleeps less, does her work while listening to music, is more social, is consuming more (through media and reality), and is more willing to go out. She maximizes time for new experiences and minimizes time for old ones. She climbs mountains with alacrity, fishes for shrimp with great concentration, cooks with whatever ingredients she has available with haste, and manically opens a wine bottle with a knife. She is having an experience.
 

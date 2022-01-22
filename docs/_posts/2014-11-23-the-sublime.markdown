@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 20:08:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-sublime/
+link: https://mind.rathewolf.com/the-sublime/
 slug: the-sublime
 title: The Sublime
 wordpress_id: 3194

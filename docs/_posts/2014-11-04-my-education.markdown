@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-04 11:26:41+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-education/
+link: https://mind.rathewolf.com/my-education/
 slug: my-education
 title: My Education
 wordpress_id: 2384
@@ -12,9 +12,9 @@ categories:
 - Philosophy of Education
 ---
 
-[pending, took one stab at it. Need to combine with [ and ](http://www.rahilpatel.com/blog/a-self-assessment) [self-assessment II](http://www.rahilpatel.com/blog/a-self-assessment-ii).]
+[pending, took one stab at it. Need to combine with [ and ](https://mind.rathewolf.com/a-self-assessment) [self-assessment II](https://mind.rathewolf.com/a-self-assessment-ii).]
 
-Recently, after being awoken by The Great Ideas of Philosophy lecture series by The Great Courses during my time in Taiwan, I became interested in gaining a ["liberal arts education"](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum). It was cut short as I came to the conclusion that [books merely organize my experience into a written language](http://www.rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education). After this conviction, I decided to go over my education historically, to see how my knowledge developed.
+Recently, after being awoken by The Great Ideas of Philosophy lecture series by The Great Courses during my time in Taiwan, I became interested in gaining a ["liberal arts education"](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum). It was cut short as I came to the conclusion that [books merely organize my experience into a written language](https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education). After this conviction, I decided to go over my education historically, to see how my knowledge developed.
 
 Childhood:
 Playing games with friends, biking, exploring neighborhoods, eating, family vacations, family events (Indian marriages), fixing computers, fixing other things, staying up late, waking up late, always doing something.
@@ -60,7 +60,7 @@ After high school, I immediately entered college for a bachelor's in Computer Sc
 
 One class was exceptional for being practical. One where I had to build a web forum. Lame, but it was perhaps one of the few outlets of creativity. Wow, that's crazy to think of now: a single outlet of creativity from four years?
 
-I think the first year I had spent quite some time on World of WarCraft and Team Fortress II. After that, I spent a lot of time playing [Super Smash Bros. Melee](http://www.rahilpatel.com/blog/a-critical-analysis-of-super-smash-bros-melee) with what became a great group of friends.
+I think the first year I had spent quite some time on World of WarCraft and Team Fortress II. After that, I spent a lot of time playing [Super Smash Bros. Melee](https://mind.rathewolf.com/a-critical-analysis-of-super-smash-bros-melee) with what became a great group of friends.
 
 I'd continue to consume media through the internet. Random videos, lots of Wikipedia. Really disjointed. Though, by the second year, perhaps because of the advent of high-speed internet, I consumed _a lot_ of music. It was 2007. I listened to everything on Pitchfork, loving Grizzly Bear and Beach House, and seeing them in concert. Similarly, with the advent of Netflix, I consumed _a lot_ of films. I watched There Will Be Blood, No Country for Old Men, Chungking Express, and a ton of foreign films. I remember watching two films a week, returning them immediately and queueing the next. In no time I reached the classics of films: Tokyo Story, Yi Yi, Harakiri, 400 Blows, Life is Beautiful, Bicycle Thieves, and so on.
 

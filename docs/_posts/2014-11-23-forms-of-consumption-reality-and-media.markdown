@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 02:56:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/forms-of-consumption-reality-and-media/
+link: https://mind.rathewolf.com/forms-of-consumption-reality-and-media/
 slug: forms-of-consumption-reality-and-media
 title: 'Forms of Consumption: Reality and Media'
 wordpress_id: 3095

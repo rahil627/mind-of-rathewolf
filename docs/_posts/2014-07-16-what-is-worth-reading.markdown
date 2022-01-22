@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-16 18:07:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/what-is-worth-reading/
+link: https://mind.rathewolf.com/what-is-worth-reading/
 slug: what-is-worth-reading
 title: What is Worth Reading?
 wordpress_id: 2197
@@ -15,11 +15,11 @@ categories:
 - Philosophy
 ---
 
-[TODO: translate to Chinese, related to [What is Worth Writing](http://www.rahilpatel.com/blog/what-is-worth-writing)]
+[TODO: translate to Chinese, related to [What is Worth Writing](https://mind.rathewolf.com/what-is-worth-writing)]
 
-[related writings: [What is Worth Reading?](http://www.rahilpatel.com/blog/what-is-worth-reading), [Notes on Translations of Ancient Literature](http://www.rahilpatel.com/blog/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)]
+[related writings: [What is Worth Reading?](https://mind.rathewolf.com/what-is-worth-reading), [Notes on Translations of Ancient Literature](https://mind.rathewolf.com/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)]
 
-I've read less books than most elementary school children in my lifetime. I was never able to extract as much value per time with enjoyment factored in in books compared to other mediums, and empericism. Wikipedia was enough. Much recently, [I listened to an audiobook of Great Ideas in Philosophy provided by the Great Courses](http://www.rahilpatel.com/blog/why-read-the-western-philosophy-canon); That was successful. After that, I figured out I had huge gaps in my knowledge, and proceeded to create a list of things I felt could be worth reading (or listening) to.
+I've read less books than most elementary school children in my lifetime. I was never able to extract as much value per time with enjoyment factored in in books compared to other mediums, and empericism. Wikipedia was enough. Much recently, [I listened to an audiobook of Great Ideas in Philosophy provided by the Great Courses](https://mind.rathewolf.com/why-read-the-western-philosophy-canon); That was successful. After that, I figured out I had huge gaps in my knowledge, and proceeded to create a list of things I felt could be worth reading (or listening) to.
 
 Non-fiction:
 
@@ -56,7 +56,7 @@ Natural Sciences:
 -- Similar to biographies, a single book with multiple histories of societies is best, to ease the comparison of societies
 -- Can use Wikipedia
 
-[certain kinds of non-fiction literature](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas):
+[certain kinds of non-fiction literature](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas):
 - anthology
 -- Similar to a single book with multiple biographies or multiple histories, a single book with multiple writings is a much better **experience** than any single book
 -- Similar to History, **to see how cultures have developed**

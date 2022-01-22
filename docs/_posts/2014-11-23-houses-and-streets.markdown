@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 03:03:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/houses-and-streets/
+link: https://mind.rathewolf.com/houses-and-streets/
 slug: houses-and-streets
 title: Houses and Streets
 wordpress_id: 3097

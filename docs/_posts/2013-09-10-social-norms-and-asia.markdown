@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-10 18:13:37+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-norms-and-asia/
+link: https://mind.rathewolf.com/social-norms-and-asia/
 slug: social-norms-and-asia
 title: Social Norms and Asia
 wordpress_id: 1330

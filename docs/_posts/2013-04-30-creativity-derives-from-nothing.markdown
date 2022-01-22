@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-04-30 17:03:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-derives-from-nothing/
+link: https://mind.rathewolf.com/creativity-derives-from-nothing/
 slug: creativity-derives-from-nothing
 title: Creativity Derives from Nothing
 wordpress_id: 1021
@@ -12,7 +12,7 @@ categories:
 - Personal
 ---
 
-Also see [Philosophy from Media versus Life; New York versus the World](http://www.rahilpatel.com/blog/philosophy-from-media-versus-life-new-york-versus-the-world).
+Also see [Philosophy from Media versus Life; New York versus the World](https://mind.rathewolf.com/philosophy-from-media-versus-life-new-york-versus-the-world).
 
 
 

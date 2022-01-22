@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-03-22 20:53:15+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-self-assessment-ii/
+link: https://mind.rathewolf.com/a-self-assessment-ii/
 slug: a-self-assessment-ii
 title: A Self-assessment II
 wordpress_id: 1761
@@ -16,7 +16,7 @@ categories:
 
 The extended winter weather in Taipei has caused my mind to become hallow. No feeling for travel or people, or to be social. Now is a good time to self-assess.
 
-[Last time I assessed myself](http://www.rahilpatel.com/blog/a-self-assessment), it was objective, written to be displayed to the public alongside my portfolio. It hides subjectivity and psychology, which I now want to explore.
+[Last time I assessed myself](https://mind.rathewolf.com/a-self-assessment), it was objective, written to be displayed to the public alongside my portfolio. It hides subjectivity and psychology, which I now want to explore.
 
 To explore this, I must recall the feelings I had during each point in time of my history, observe it, rationalize it.
 
@@ -96,7 +96,7 @@ Was it [self-estrangement](http://en.wikipedia.org/wiki/Social_alienation#Self-e
 
 
 A Psychological Self-assessment [todo: incomplete, maybe sidetracked by Wikipedia]
-There are psychological problems in my life. Of them are Being a Loner (SPD, SZD), [The Effects of Weather](http://www.rahilpatel.com/blog/the-effects-of-weather) (Bipolar), [Sleeping Problems](http://www.rahilpatel.com/blog/sleeping-problems) (SAD)...[more?] 
+There are psychological problems in my life. Of them are Being a Loner (SPD, SZD), [The Effects of Weather](https://mind.rathewolf.com/the-effects-of-weather) (Bipolar), [Sleeping Problems](https://mind.rathewolf.com/sleeping-problems) (SAD)...[more?] 
 
 
 http://creativesomething.net/post/54997033332/why-youre-more-creative-at-night-and-how-to-reproduce
@@ -125,6 +125,6 @@ Psychosis has been traditionally linked to the neurotransmitter dopamine. In par
 http://en.wikipedia.org/wiki/Psychosis
 http://en.wikipedia.org/wiki/Dopamine_hypothesis_of_psychosis
 
-http://www.rahilpatel.com/blog/the-life-of-a-nomadic-schizoid
+https://mind.rathewolf.com/the-life-of-a-nomadic-schizoid
 
 http://en.wikipedia.org/wiki/Dopamine

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-13 21:17:04+00:00
 layout: post
-link: http://rahilpatel.com/blog/replacing-a-hard-disk-drive-with-mac-os-x-and-boot-camp/
+link: https://mind.rathewolf.com/replacing-a-hard-disk-drive-with-mac-os-x-and-boot-camp/
 slug: replacing-a-hard-disk-drive-with-mac-os-x-and-boot-camp
 title: Replacing a Hard Disk Drive with Mac OS X and Boot Camp
 wordpress_id: 504

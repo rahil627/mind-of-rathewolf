@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2007-08-14 18:49:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/overclocking/
+link: https://mind.rathewolf.com/overclocking/
 slug: overclocking
 title: Overclocking a MSI P6N SLI Platinum with a Core 2 Duo E6420
 wordpress_id: 923

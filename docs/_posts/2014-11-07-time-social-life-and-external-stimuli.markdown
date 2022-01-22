@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 06:30:25+00:00
 layout: post
-link: http://rahilpatel.com/blog/time-social-life-and-external-stimuli/
+link: https://mind.rathewolf.com/time-social-life-and-external-stimuli/
 slug: time-social-life-and-external-stimuli
 title: Time, Social Life, and External Stimuli
 wordpress_id: 2688

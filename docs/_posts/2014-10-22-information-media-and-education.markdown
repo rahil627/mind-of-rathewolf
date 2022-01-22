@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-10-22 05:05:27+00:00
 layout: post
-link: http://rahilpatel.com/blog/information-media-and-education/
+link: https://mind.rathewolf.com/information-media-and-education/
 slug: information-media-and-education
 title: Information, Media, Education, and Power
 wordpress_id: 2534
@@ -15,7 +15,7 @@ categories:
 
 aka What Does Media Want?
 
-[todo: grab info from [Learning in the Information Age](http://www.rahilpatel.com/blog/learning-in-the-information-age) and delete it]
+[todo: grab info from [Learning in the Information Age](https://mind.rathewolf.com/learning-in-the-information-age) and delete it]
 
 A random thought.
 
@@ -70,6 +70,6 @@ The closer to real experience, the more powerful the reaction.</blockquote>
 
 
 
-In addition to being more pleasurable, [it is more powerful](http://www.rahilpatel.com/blog/the-most-powerful-forms-of-art), in its ability to incite reaction.
+In addition to being more pleasurable, [it is more powerful](https://mind.rathewolf.com/the-most-powerful-forms-of-art), in its ability to incite reaction.
 
 The more powerful a media, the more influence it has on people.

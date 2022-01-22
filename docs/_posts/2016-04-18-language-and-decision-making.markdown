@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-04-18 04:32:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/language-and-decision-making/
+link: https://mind.rathewolf.com/language-and-decision-making/
 slug: language-and-decision-making
 title: Language and Decision-making
 wordpress_id: 6380
@@ -27,9 +27,9 @@ These might be alleviated: [1.] I can make what I do social, simply by having a 
 
 But when the entirety of society is ignorant, then there are simply two [positive] paths: **do things myself and/or [forcefully?] bring others to do these things with me**. Skip the consensus.
 
-[todo: compare Confucius / Socrates / Bacon and Zhuangzi / Heraclitus / Montaigne lives, which is better? Living in the city, constantly fighting [arguing] to push society toward ideal vs living as a hermit, thinking and creating freely [whether or not society listens or argues]? Compare the outcomes of my personal experience when living in those two modes. What was most effective? Individual communication, group communication through social organizations in the city, or mediated communication through various mediums (essays)? Or a combination of all? Which mode was healthier, happier? Read [my old post about ideal lifestyles](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)]
+[todo: compare Confucius / Socrates / Bacon and Zhuangzi / Heraclitus / Montaigne lives, which is better? Living in the city, constantly fighting [arguing] to push society toward ideal vs living as a hermit, thinking and creating freely [whether or not society listens or argues]? Compare the outcomes of my personal experience when living in those two modes. What was most effective? Individual communication, group communication through social organizations in the city, or mediated communication through various mediums (essays)? Or a combination of all? Which mode was healthier, happier? Read [my old post about ideal lifestyles](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle)]
 
-The verification, justification of social behavior comes with experience. I don't know what I was doing when I first created anything: games, photo essays, written philosophy, work, travel, event organizing, social organizing. It was all nerve-wrecking. First, because, all of these things went against [capitalistic behavior](http://www.rahilpatel.com/blog/capitalistic-behavior). They were feelings, impulses acted upon. Second, because there are infinite things one can always do, and being conscious of this, constantly thinking and choosing what to do results in a roller-coaster of decisions and emotions.
+The verification, justification of social behavior comes with experience. I don't know what I was doing when I first created anything: games, photo essays, written philosophy, work, travel, event organizing, social organizing. It was all nerve-wrecking. First, because, all of these things went against [capitalistic behavior](https://mind.rathewolf.com/capitalistic-behavior). They were feelings, impulses acted upon. Second, because there are infinite things one can always do, and being conscious of this, constantly thinking and choosing what to do results in a roller-coaster of decisions and emotions.
 
 
 [possible quotes:

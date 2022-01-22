@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-06 05:24:18+00:00
 layout: post
-link: http://rahilpatel.com/blog/books-passive-media-and-the-internet/
+link: https://mind.rathewolf.com/books-passive-media-and-the-internet/
 slug: books-passive-media-and-the-internet
 title: Books, Passive Media, and The Internet
 wordpress_id: 1972
@@ -18,7 +18,7 @@ categories:
 - Philosophy of Technology
 ---
 
-[Old draft, posting anyway. I think at the time I was just too adhd to consume any long form media. Contrarily, I still feel books are quite a slow method of transmitting knowledge. I've now [fit books alongside more modern forms of media](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum).]
+[Old draft, posting anyway. I think at the time I was just too adhd to consume any long form media. Contrarily, I still feel books are quite a slow method of transmitting knowledge. I've now [fit books alongside more modern forms of media](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum).]
 
 A continuation of the thoughts from
 

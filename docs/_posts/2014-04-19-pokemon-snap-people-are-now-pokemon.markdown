@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-04-19 17:13:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/pokemon-snap-people-are-now-pokemon/
+link: https://mind.rathewolf.com/pokemon-snap-people-are-now-pokemon/
 slug: pokemon-snap-people-are-now-pokemon
 title: 'Pokemon Snap: People are Now Pokemon'
 wordpress_id: 1891

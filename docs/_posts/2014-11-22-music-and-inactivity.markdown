@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:43:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/music-and-inactivity/
+link: https://mind.rathewolf.com/music-and-inactivity/
 slug: music-and-inactivity
 title: Music and Inactivity
 wordpress_id: 3047

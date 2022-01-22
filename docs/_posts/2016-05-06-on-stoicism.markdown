@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-06 16:49:59+00:00
 layout: post
-link: http://rahilpatel.com/blog/on-stoicism/
+link: https://mind.rathewolf.com/on-stoicism/
 slug: on-stoicism
 title: On Stoicism
 wordpress_id: 6746
@@ -27,7 +27,7 @@ categories:
 
 After what felt like several years of cold, summer finally arrived in Taiwan, with its beautiful shifts of before the storm weather, bursts of typhoons, and sweltering zero entropy humidity. With it, I began to wake up late, lulling to “Summertime” by Girls, and the rest of that half of the album. With the summer laze, I feel I can relax, be apolitical, do some useless professional work for a high rate of capital. So, I thought, it would be an excellent time to read some Stoicism, especially _Meditations_ by Marcus Aurelius.
 
-Here, it seems, I found my childhood’s ethics ([Moderate Ethics](http://www.rahilpatel.com/blog/moderate-ethics), [Early Ethics](http://www.rahilpatel.com/blog/early-ethics), [I’m Fortunate](http://www.rahilpatel.com/blog/im-fortunate)). Be responsible, diligent, do your work, focus on work. But I was a child, Marcus was a Roman Emperor. It seems he never grew up out of these childish ethics. He did his work diligently until death. He lived a rather normal life.
+Here, it seems, I found my childhood’s ethics ([Moderate Ethics](https://mind.rathewolf.com/moderate-ethics), [Early Ethics](https://mind.rathewolf.com/early-ethics), [I’m Fortunate](https://mind.rathewolf.com/im-fortunate)). Be responsible, diligent, do your work, focus on work. But I was a child, Marcus was a Roman Emperor. It seems he never grew up out of these childish ethics. He did his work diligently until death. He lived a rather normal life.
 
 
 

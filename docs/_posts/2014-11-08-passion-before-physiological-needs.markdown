@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:37:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/passion-before-physiological-needs/
+link: https://mind.rathewolf.com/passion-before-physiological-needs/
 slug: passion-before-physiological-needs
 title: Passion before Physiological Needs
 wordpress_id: 2810

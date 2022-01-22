@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-01-02 06:33:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/exit-through-the-gift-shop/
+link: https://mind.rathewolf.com/exit-through-the-gift-shop/
 slug: exit-through-the-gift-shop
 title: Exit Through the Gift Shop
 wordpress_id: 30

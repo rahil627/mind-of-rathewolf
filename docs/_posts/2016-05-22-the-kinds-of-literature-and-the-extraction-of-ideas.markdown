@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-22 22:00:49+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas/
+link: https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas/
 slug: the-kinds-of-literature-and-the-extraction-of-ideas
 title: The Kinds of Literature and the Extraction of Ideas
 wordpress_id: 6969
@@ -21,9 +21,9 @@ categories:
 - Philosophy of Literature
 ---
 
-[related writings: [What is Worth Reading?](http://www.rahilpatel.com/blog/what-is-worth-reading), [Notes on Translations of Ancient Literature](http://www.rahilpatel.com/blog/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas)]
+[related writings: [What is Worth Reading?](https://mind.rathewolf.com/what-is-worth-reading), [Notes on Translations of Ancient Literature](https://mind.rathewolf.com/notes-on-translations-of-ancient-literature), [Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time), [The Kinds of Literature and the Extraction of Ideas](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas)]
 
-[Why Read?](http://www.rahilpatel.com/blog/why-did-i-read) To map words with ideas? To get ideas? To talk about a certain subject? To help me express myself? To argue against how reality works? To compare the theories of reality of others with mine? To understand others' minds? To gain factual historical knowledge?
+[Why Read?](https://mind.rathewolf.com/why-did-i-read) To map words with ideas? To get ideas? To talk about a certain subject? To help me express myself? To argue against how reality works? To compare the theories of reality of others with mine? To understand others' minds? To gain factual historical knowledge?
 
 Whatever the reason, one enters the world of written word. It's worse than the world of gossip, because it's far less fun. But surely there must be an efficient way to get the texts one wants? Find ideas about the things one is interested in?
 
@@ -43,7 +43,7 @@ dictionary/encyclopedia of selected words/concepts/ideas
 - ex. Dino, Franco Felluga - Critical Theory_ The Key Concepts (Routledge, Key Guides, 2015)
 
 **a dictionary/encyclopedia of a history of selected words/concepts/ideas**
-- **[to communicate in a human language, it sometimes helps to use the terms other people created, for mutual understanding. Though, of course, one can just make up words for ideas one desires to express. That's way more creative.](http://www.rahilpatel.com/blog/why-did-i-read)**
+- **[to communicate in a human language, it sometimes helps to use the terms other people created, for mutual understanding. Though, of course, one can just make up words for ideas one desires to express. That's way more creative.](https://mind.rathewolf.com/why-did-i-read)**
 - also quite cool to see how words have changed meaning over time
 - ex. **Williams, Raymond - Keywords_ A Vocabulary of Culture and Society (1985)**
 - ex. Nealon, Jeffrey T._ Giroux, Susan Searlsb - The theory toolbox _ critical concepts for the humanities, arts, and social sciences (Rowman & Littlefield, 2012)
@@ -72,7 +72,7 @@ selected works
 
 - selected writings of a single period of time?
 - **this may be the most efficient way to understand a period of time, or the social development of minds of the time**
-- **there seems to be two kinds: fiction (poetry, [fiction] prose, drama, etc.) and non-fiction (history, biography, philosophy, essay, jouurnal/diary, travelogue, [speeches, dialogues, letters, communicative action: verbal utterances that matter](http://www.rahilpatel.com/blog/the-public-sphere-during-the-second-sophistic)). Of the two, the second kind is superior, because it tells of real communicative actions.** To simply understand: People in the past may have read _Homer_, _Epic of Gilgamesh_, and _Journey to the West_, but that clearly doesn't represent the social reality of the world, and often, doesn't affect the social reality at all, just as media (entertainment) in contemporary society doesn't. The main use of literature to a historian is for the information, and it's up to the historian to decipher what is fictional and what isn't. Even then, **it is better to read a history or biography [than fiction] written in or around that time_ to obtain more information [about that time].**
+- **there seems to be two kinds: fiction (poetry, [fiction] prose, drama, etc.) and non-fiction (history, biography, philosophy, essay, jouurnal/diary, travelogue, [speeches, dialogues, letters, communicative action: verbal utterances that matter](https://mind.rathewolf.com/the-public-sphere-during-the-second-sophistic)). Of the two, the second kind is superior, because it tells of real communicative actions.** To simply understand: People in the past may have read _Homer_, _Epic of Gilgamesh_, and _Journey to the West_, but that clearly doesn't represent the social reality of the world, and often, doesn't affect the social reality at all, just as media (entertainment) in contemporary society doesn't. The main use of literature to a historian is for the information, and it's up to the historian to decipher what is fictional and what isn't. Even then, **it is better to read a history or biography [than fiction] written in or around that time_ to obtain more information [about that time].**
 
 
 
@@ -80,7 +80,7 @@ selected works
 
 
 - ex. the _Viking Portable Library_ series, the ones that have "Reader" in the title
--- I have a bunch of these at home. Although an experience to read, it was probably a one-time experience: to see how language change over time, how minds change over time, what people write, what people were thinking about, history of literature aesthetic, etc. Although the format of the books are wonderfully basic, they are best left in in random locations in one's dwelling. **I don't desire to read any fiction,** just as [I didn't desire to when I first began to read](http://www.rahilpatel.com/blog/reading-is-often-actionless).
+-- I have a bunch of these at home. Although an experience to read, it was probably a one-time experience: to see how language change over time, how minds change over time, what people write, what people were thinking about, history of literature aesthetic, etc. Although the format of the books are wonderfully basic, they are best left in in random locations in one's dwelling. **I don't desire to read any fiction,** just as [I didn't desire to when I first began to read](https://mind.rathewolf.com/reading-is-often-actionless).
 - ex. Mair, Victor H. - The Columbia History of Chinese Literature (Columbia, 2001)
 - ex. many editors - The Norton Anthology of World Literature (W. W. Norton & Company, 2012)
 -- **this seems like quite the feat, [check out the contents](http://media.wwnorton.com/cms/contents/NAWOL_TOC_new.pdf)**
@@ -104,7 +104,7 @@ selected works
 #### non-fiction
 
 
-- As I mention in [Lessons in Research of a Past Time](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time), **there are many kinds of history books, mainly, political (traditional), social (modern), and specific social (modern). Similarly, there are many kinds of sourcebooks, thankfully, they can be divided into the same categories: social (modern) and social topic (modern, specific). A source political history book _is_ the political (traditional) sourcebook.**
+- As I mention in [Lessons in Research of a Past Time](https://mind.rathewolf.com/lessons-in-research-of-a-past-time), **there are many kinds of history books, mainly, political (traditional), social (modern), and specific social (modern). Similarly, there are many kinds of sourcebooks, thankfully, they can be divided into the same categories: social (modern) and social topic (modern, specific). A source political history book _is_ the political (traditional) sourcebook.**
 
 
 
@@ -145,7 +145,7 @@ history of literature (or a kind of literature)
 - ex. Russell, Bertrand - History of Western Philosophy (Routledge, 1945)
 
 other weird things:
-[history](http://www.rahilpatel.com/blog/lessons-in-research-of-a-past-time)
+[history](https://mind.rathewolf.com/lessons-in-research-of-a-past-time)
 - **history books written during the time one is investigating _is_ a source, usually, the best source**
 
 school textbook, or simply, textbook

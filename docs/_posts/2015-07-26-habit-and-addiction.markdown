@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-07-26 18:33:56+00:00
 layout: post
-link: http://rahilpatel.com/blog/habit-and-addiction/
+link: https://mind.rathewolf.com/habit-and-addiction/
 slug: habit-and-addiction
 title: Habit and Addiction
 wordpress_id: 4108

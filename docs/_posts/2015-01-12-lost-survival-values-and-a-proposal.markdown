@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-12 03:44:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/lost-survival-values-and-a-proposal/
+link: https://mind.rathewolf.com/lost-survival-values-and-a-proposal/
 slug: lost-survival-values-and-a-proposal
 title: Lost Survival Values and a Proposal
 wordpress_id: 3936

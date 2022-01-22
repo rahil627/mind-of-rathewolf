@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-06 08:43:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/contemporary-philosophy-books-are-too-bulky/
+link: https://mind.rathewolf.com/contemporary-philosophy-books-are-too-bulky/
 slug: contemporary-philosophy-books-are-too-bulky
 title: Contemporary Philosophy Books are too Bulky
 wordpress_id: 2665

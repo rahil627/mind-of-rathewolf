@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-08-15 16:00:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-speed-of-ideas/
+link: https://mind.rathewolf.com/the-speed-of-ideas/
 slug: the-speed-of-ideas
 title: The Speed of Ideas
 wordpress_id: 4182
@@ -17,7 +17,7 @@ categories:
 I believe this was thought around the time of writing my first post when I went home after my long travels, which was in the form of an illustration because I felt no reason to write as the time to took to record an idea and the speed it conveyed it was so much slower than reality. The following posts were MS Paint quality illustrations of new media ideas, and even that, I felt, was too slow, or not worthwhile, as opposed to executing an idea to reality. Though, in retrospect, the illustrations were quite efficient, in both ways: recording and conveying.
 
 Update 9/3/15:
-Hmm, seems to rehash old ideas: [Information, Media, and Education](http://www.rahilpatel.com/blog/information-media-and-education), [Information Organization, Mediums, Creativity, and Experience](http://www.rahilpatel.com/blog/information-organization-mediums-creativity-and-experience), [The Obsolescence of Literature and the Future of Education](http://www.rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education).
+Hmm, seems to rehash old ideas: [Information, Media, and Education](https://mind.rathewolf.com/information-media-and-education), [Information Organization, Mediums, Creativity, and Experience](https://mind.rathewolf.com/information-organization-mediums-creativity-and-experience), [The Obsolescence of Literature and the Future of Education](https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education).
 
 ~9/17/14:
 

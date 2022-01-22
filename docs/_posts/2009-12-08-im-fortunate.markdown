@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2009-12-08 14:20:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/im-fortunate/
+link: https://mind.rathewolf.com/im-fortunate/
 slug: im-fortunate
 title: I'm Fortunate [Early Ethics]
 wordpress_id: 6513

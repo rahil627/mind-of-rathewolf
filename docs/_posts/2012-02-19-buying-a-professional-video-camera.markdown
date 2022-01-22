@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-02-19 03:08:07+00:00
 layout: post
-link: http://rahilpatel.com/blog/buying-a-professional-video-camera/
+link: https://mind.rathewolf.com/buying-a-professional-video-camera/
 slug: buying-a-professional-video-camera
 title: Buying a Professional Video Camera
 wordpress_id: 513

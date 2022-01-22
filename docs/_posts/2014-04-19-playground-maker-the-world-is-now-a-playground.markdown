@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-04-19 17:04:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/playground-maker-the-world-is-now-a-playground/
+link: https://mind.rathewolf.com/playground-maker-the-world-is-now-a-playground/
 slug: playground-maker-the-world-is-now-a-playground
 title: 'Playground Maker: The World is Now a Playground'
 wordpress_id: 1889

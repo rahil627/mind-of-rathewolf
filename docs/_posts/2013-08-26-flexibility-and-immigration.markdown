@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-08-26 07:41:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/flexibility-and-immigration/
+link: https://mind.rathewolf.com/flexibility-and-immigration/
 slug: flexibility-and-immigration
 title: Flexibility and Immigration
 wordpress_id: 1252
@@ -26,7 +26,7 @@ They cling to their own kin, unable to melt.
 
 The pro is that they retain culture. Ethnic enclaves in western cities do just that. In New York, Chinatowns, an East Asian area (Flushing), A South Asian area (Jackson Heights), a European area (Greenpoint), a Hassidic Jew (between Williamsburg and Clinton Hill) area all exist in the surburbs. It works out really well. Their kids can choose to melt into the city or stay with their kin.
 
-The con is that they are insular, which becomes clearly apparent when one goes to their origin country in which 99% of all people are of their kind. Common cultural behaviors dominate society affecting daily life. [Seoul is a weird DisneyLand](http://www.rahilpatel.com/blog/seoul). India is a mess. Conformism becomes stronger. Divergence becomes harder. Creative people desire some place better.
+The con is that they are insular, which becomes clearly apparent when one goes to their origin country in which 99% of all people are of their kind. Common cultural behaviors dominate society affecting daily life. [Seoul is a weird DisneyLand](https://mind.rathewolf.com/seoul). India is a mess. Conformism becomes stronger. Divergence becomes harder. Creative people desire some place better.
 
 Some people are flexible, some aren't.
 

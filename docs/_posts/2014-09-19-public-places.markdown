@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-19 08:57:58+00:00
 layout: post
-link: http://rahilpatel.com/blog/public-places/
+link: https://mind.rathewolf.com/public-places/
 slug: public-places
 title: Public Places (and Public Spaces?)
 wordpress_id: 2367

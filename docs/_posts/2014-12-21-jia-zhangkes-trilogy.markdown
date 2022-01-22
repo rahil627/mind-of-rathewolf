@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-21 10:55:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/jia-zhangkes-trilogy/
+link: https://mind.rathewolf.com/jia-zhangkes-trilogy/
 slug: jia-zhangkes-trilogy
 title: 賈樟柯's (Jia Zhangke) "The Hometown" Trilogy
 wordpress_id: 3797

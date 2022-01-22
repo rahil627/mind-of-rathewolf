@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-05-01 13:20:52+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-film-criticism/
+link: https://mind.rathewolf.com/early-film-criticism/
 slug: early-film-criticism
 title: Early Film Criticism
 wordpress_id: 6515

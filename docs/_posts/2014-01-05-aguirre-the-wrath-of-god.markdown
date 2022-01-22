@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-05 19:26:56+00:00
 layout: post
-link: http://rahilpatel.com/blog/aguirre-the-wrath-of-god/
+link: https://mind.rathewolf.com/aguirre-the-wrath-of-god/
 slug: aguirre-the-wrath-of-god
 title: Aguirre, der Zorn Gottes (Aguirre, the Wrath of God)
 wordpress_id: 1438

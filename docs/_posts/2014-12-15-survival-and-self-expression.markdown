@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-15 21:48:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/survival-and-self-expression/
+link: https://mind.rathewolf.com/survival-and-self-expression/
 slug: survival-and-self-expression
 title: Survival and Self-expression
 wordpress_id: 3777
@@ -30,7 +30,7 @@ When an old person from a place with survival values goes to a place with self-e
 continued on 9/9/15:
 ...Accumulate capital?
 
-When an old person goes from a place with self-expression values goes to a place with survival values, say exile, do they have the [flexibility](http://www.rahilpatel.com/blog/flexibility) to adapt to survive again? Well, I guess the change of habits to survive will happen quite soon as one needs water and food. But I believe I was thinking of developing countries, not dying. Will a complex businessman do simple craft work? With the factor of time lived practicing one lifestyle, what is the general equation for human minds to alter their ideology?
+When an old person goes from a place with self-expression values goes to a place with survival values, say exile, do they have the [flexibility](https://mind.rathewolf.com/flexibility) to adapt to survive again? Well, I guess the change of habits to survive will happen quite soon as one needs water and food. But I believe I was thinking of developing countries, not dying. Will a complex businessman do simple craft work? With the factor of time lived practicing one lifestyle, what is the general equation for human minds to alter their ideology?
 
 When a young person goes from a place with self-expression values goes to a place with survival values, they similarly seem to develop an appreciation for both. They try to direct their past self-expression values for the good of society. The good travelers I met from developed countries seem to embody this.
 

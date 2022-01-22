@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 05:48:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/medicine-an-alternative-path-to-the-good-life/
+link: https://mind.rathewolf.com/medicine-an-alternative-path-to-the-good-life/
 slug: medicine-an-alternative-path-to-the-good-life
 title: 'Medicine: An Alternative Path to the Good Life'
 wordpress_id: 2676

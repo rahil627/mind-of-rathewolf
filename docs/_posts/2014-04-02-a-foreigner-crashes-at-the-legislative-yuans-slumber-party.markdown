@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-04-02 20:38:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-foreigner-crashes-at-the-legislative-yuans-slumber-party/
+link: https://mind.rathewolf.com/a-foreigner-crashes-at-the-legislative-yuans-slumber-party/
 slug: a-foreigner-crashes-at-the-legislative-yuans-slumber-party
 title: A Foreigner Crashes at the Legislative Yuan's Slumber Party
 wordpress_id: 1857

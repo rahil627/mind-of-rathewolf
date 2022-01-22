@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-05 07:46:27+00:00
 layout: post
-link: http://rahilpatel.com/blog/nuclear-families-and-communities/
+link: https://mind.rathewolf.com/nuclear-families-and-communities/
 slug: nuclear-families-and-communities
 title: Nuclear Families and Communities
 wordpress_id: 3710
@@ -15,7 +15,7 @@ categories:
 - Urban Philosophy
 ---
 
-In a [past post I described Taiwan as active and Japan as inactive](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles):
+In a [past post I described Taiwan as active and Japan as inactive](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles):
 
 
 <blockquote>An active life, that is, one is constantly making decisions before taking action. One thinks to call a friend, cook something, go to a park, embark an adventure, not because they were told to, but because one decided themselves to do so.

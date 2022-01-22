@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-10-05 09:26:16+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideal-way-to-experience/
+link: https://mind.rathewolf.com/the-ideal-way-to-experience/
 slug: the-ideal-way-to-experience
 title: The Ideal Way to Experience
 wordpress_id: 7913
@@ -13,7 +13,7 @@ categories:
 
 alternative titles: The Ideal Way to Travel
 
-Perhaps associated with [Time and Space in Anthropology](http://www.rahilpatel.com/blog/time-and-space-in-anthropology) and [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work).
+Perhaps associated with [Time and Space in Anthropology](https://mind.rathewolf.com/time-and-space-in-anthropology) and [The Ideal Work](https://mind.rathewolf.com/the-ideal-work).
 
 notes:
 from a sheet of paper:

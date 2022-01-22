@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-08 20:16:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/why-are-arts-segregated/
+link: https://mind.rathewolf.com/why-are-arts-segregated/
 slug: why-are-arts-segregated
 title: Why are arts segregated?
 wordpress_id: 3646

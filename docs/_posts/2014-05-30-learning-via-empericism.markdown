@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-30 18:56:27+00:00
 layout: post
-link: http://rahilpatel.com/blog/learning-via-empericism/
+link: https://mind.rathewolf.com/learning-via-empericism/
 slug: learning-via-empericism
 title: Learning via Empericism
 wordpress_id: 1966

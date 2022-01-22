@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-15 10:21:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/poorly-designed-upgrades/
+link: https://mind.rathewolf.com/poorly-designed-upgrades/
 slug: poorly-designed-upgrades
 title: Poorly Designed Upgrades
 wordpress_id: 322
@@ -24,7 +24,7 @@ tags:
 - shoot 'em up
 ---
 
-## [Play the game](http://www.rahilpatel.com/poorly_designed_upgrades.html)
+## [Play the game](https://mind.rathewolf.com/poorly_designed_upgrades.html)
 
 
 

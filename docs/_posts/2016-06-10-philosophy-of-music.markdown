@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-06-10 03:44:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/philosophy-of-music/
+link: https://mind.rathewolf.com/philosophy-of-music/
 slug: philosophy-of-music
 title: Philosophy of Music
 wordpress_id: 7709
@@ -71,7 +71,7 @@ If joy comes from the creation of communication, then the creation of commoidity
 
 [todo: action and music]
 
-Without music I only act toward survival and communication -- the socio-political expressions. Music allows me to live unsocially. It gives energy without people. I _needed_ people during my time in Asia. I was _dependent_ on people. _[I strived to do everything with people](http://www.rahilpatel.com/blog/capitalistic-behavior)_ [todo: need anchor to Taiwan section]. I tried to socio-politically cooperate to strive toward ideals (civic, social, design). I didn't work, I just communicated.
+Without music I only act toward survival and communication -- the socio-political expressions. Music allows me to live unsocially. It gives energy without people. I _needed_ people during my time in Asia. I was _dependent_ on people. _[I strived to do everything with people](https://mind.rathewolf.com/capitalistic-behavior)_ [todo: need anchor to Taiwan section]. I tried to socio-politically cooperate to strive toward ideals (civic, social, design). I didn't work, I just communicated.
 
 
 

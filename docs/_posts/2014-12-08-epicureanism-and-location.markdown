@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-08 21:56:18+00:00
 layout: post
-link: http://rahilpatel.com/blog/epicureanism-and-location/
+link: https://mind.rathewolf.com/epicureanism-and-location/
 slug: epicureanism-and-location
 title: Epicureanism and Location
 wordpress_id: 3754

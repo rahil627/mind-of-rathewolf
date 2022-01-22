@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-07-07 14:03:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/obligated-to-be-an-artist/
+link: https://mind.rathewolf.com/obligated-to-be-an-artist/
 slug: obligated-to-be-an-artist
 title: Obligated to be an Artist
 wordpress_id: 6527

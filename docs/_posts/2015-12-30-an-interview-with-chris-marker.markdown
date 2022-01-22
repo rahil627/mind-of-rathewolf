@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-30 20:05:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/an-interview-with-chris-marker/
+link: https://mind.rathewolf.com/an-interview-with-chris-marker/
 slug: an-interview-with-chris-marker
 title: An Interview with Chris Marker
 wordpress_id: 6005
@@ -26,7 +26,7 @@ Chris Marker: Here’s a good opportunity to get rid of a label that’s been st
 
 1. Marker is not interested in politics (seemingly not of political philosophy / theory), he's only interested in how history shapes contemporary culture; Politics just happens to be a part of history [which often shapes contemporary culture]. [todo: may have to reread a few times more]
 
-2. The [nomadic manic](http://www.rahilpatel.com/blog/hypomania).
+2. The [nomadic manic](https://mind.rathewolf.com/hypomania).
 
 3.1. There was something I wanted to talk about here, about perception into form, especially the urban film-essay style of Chris Marker. Of putting together one's perception of reality into a film; That is, **one's awareness of reality, the history and culture behind each image [and sound?]**. [todo: **should continue elaborating on the process from perception to film and perception of film as knowledge**]
 
@@ -34,11 +34,11 @@ Marker's form of film, the essay film, enables the director to bring out awarene
 
 **When one creates a documentary, wherein the camera-holder is the subject and the view of the camera is the object, reacting to reality, especially apparent in cities, one creates content which is closest in form to human perception.**
 
-That kind of content could be quite useful to [environmental psychology](http://www.rahilpatel.com/blog/the-metropolis-and-mental-life). If people simply had camcorders close to their eyes, one could gather a great amount of data useful for environmental design (urban design, etc.). Though, there may be a problem with treating humans like lab rats; Then again, [aren't cities just a rat race](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism)?
+That kind of content could be quite useful to [environmental psychology](https://mind.rathewolf.com/the-metropolis-and-mental-life). If people simply had camcorders close to their eyes, one could gather a great amount of data useful for environmental design (urban design, etc.). Though, there may be a problem with treating humans like lab rats; Then again, [aren't cities just a rat race](https://mind.rathewolf.com/silicon-valley-and-capitalism)?
 
 Still, even with the eye-level camcorder footage, it may not be as useful as Marker's films, because it lacks a smart subject who has intent to be aware of certain things, and make aware of more things from those things, which brings some order out of the information, [which though not required for an education, saves time,] and creates some direction. Though, at times, not much.
 
-3.2. Camcorder as a tool to give form to one's perception. Perhaps the greatest artistic tool because it produces [a form closest to reality](http://www.rahilpatel.com/blog/information-media-and-education).
+3.2. Camcorder as a tool to give form to one's perception. Perhaps the greatest artistic tool because it produces [a form closest to reality](https://mind.rathewolf.com/information-media-and-education).
 
 3.3. Those who are best placed --  place in society, health, education, good perception, and mean of transport -- now have access to the camcorder.
 

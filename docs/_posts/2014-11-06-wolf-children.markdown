@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-06 01:15:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/wolf-children/
+link: https://mind.rathewolf.com/wolf-children/
 slug: wolf-children
 title: おおかみこどもの雨と雪 (~Wolf Children Ame and Yuki)
 wordpress_id: 2632
@@ -13,7 +13,7 @@ categories:
 - Films
 ---
 
-Though Wolf Children Ame and Yuki (Japanese: おおかみこどもの雨と雪, romanization: Ōkami Kodomo no Ame to Yuki, English: Wolf Children) isn't on the the [Prize of the Ecumenical Jury list](http://en.wikipedia.org/wiki/Prize_of_the_Ecumenical_Jury), it was on my personal list, because I loved Mamoru Hosoda's last two films, Summer Wars and the Girl who Leapt through Time. And after watching the film, I think it belongs to that list. Watching this film and [Like Father Like Son](http://www.rahilpatel.com/blog/like-father-like-son) is good for the brain.
+Though Wolf Children Ame and Yuki (Japanese: おおかみこどもの雨と雪, romanization: Ōkami Kodomo no Ame to Yuki, English: Wolf Children) isn't on the the [Prize of the Ecumenical Jury list](http://en.wikipedia.org/wiki/Prize_of_the_Ecumenical_Jury), it was on my personal list, because I loved Mamoru Hosoda's last two films, Summer Wars and the Girl who Leapt through Time. And after watching the film, I think it belongs to that list. Watching this film and [Like Father Like Son](https://mind.rathewolf.com/like-father-like-son) is good for the brain.
 
 During the viewing of this film, I was sleep deprived, perhaps on my 22nd hour of the day, and in a terrible state: I've imprisoned myself in a house for three months now and lost weight [underweight]. Perhaps because of this long-term isolation, the viewing was more immersive. I left relatively few thoughts.
 
@@ -169,7 +169,7 @@ The plot device indeed is great. I'm sure it was used in past media several time
 
 The last thought, as I said, represents my current poor state. I'm currently in a suburb, not even represented in the film, and not worth being. The city provides people, the farm provides nature. The suburbs provide neither.
 
-I remember watching The Girl Who Leapt Through Time, twice. Once the next day. I even spent some time looking at other people's timelines. I wanted to spend more time with the film. I loved it. Similarly here, I want to watch it again. There is something alluring about Hosada's films. Is it because there is more to learn from it? Is it because it contains [ideals](http://www.rahilpatel.com/blog/a-japanese-ideal), which helps me make better current decisions? Or is it the simple pleasures of life that I desire? I don't know, but it's an exceptional thing. I've only watched a handful of films twice, and Hosada has accomplished in creating this feeling, thrice.
+I remember watching The Girl Who Leapt Through Time, twice. Once the next day. I even spent some time looking at other people's timelines. I wanted to spend more time with the film. I loved it. Similarly here, I want to watch it again. There is something alluring about Hosada's films. Is it because there is more to learn from it? Is it because it contains [ideals](https://mind.rathewolf.com/a-japanese-ideal), which helps me make better current decisions? Or is it the simple pleasures of life that I desire? I don't know, but it's an exceptional thing. I've only watched a handful of films twice, and Hosada has accomplished in creating this feeling, thrice.
 
 
 

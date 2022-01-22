@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-10 14:37:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/hippie-ethics/
+link: https://mind.rathewolf.com/hippie-ethics/
 slug: hippie-ethics
 title: Hippie Ethics
 wordpress_id: 2713
@@ -31,7 +31,7 @@ These kinds of communities exist everywhere; Does it matter which one joins? Sho
 
 New York is indeed at the forefront of intelligence, innovation, technology, aesthetic, and so on. It has several well-developed communities that cooperate to create powerful animals, which themselves cooperate to create more powerful animals, which eventually turn into a big apple.
 
-Nicaragua does not. One would have to rely on the internet and friends abroad to gain information. One would have to educate these ideas to the local. Modern art will not be appreciated by anyone. But to me, there are some really gripping pros: [the proximity of nature](http://www.rahilpatel.com/blog/imitate-nature-or-art), a new culture (which could prevent art from [becoming narrow](http://www.rahilpatel.com/blog/universalism-in-art), or encapsulate the cultural characteristics), and [minimalism](http://www.rahilpatel.com/blog/minimalism-ethics).
+Nicaragua does not. One would have to rely on the internet and friends abroad to gain information. One would have to educate these ideas to the local. Modern art will not be appreciated by anyone. But to me, there are some really gripping pros: [the proximity of nature](https://mind.rathewolf.com/imitate-nature-or-art), a new culture (which could prevent art from [becoming narrow](https://mind.rathewolf.com/universalism-in-art), or encapsulate the cultural characteristics), and [minimalism](https://mind.rathewolf.com/minimalism-ethics).
 
 Minimalism, I feel, is the greatest factor. Though it's very possible to live in New York with hippie ethics, it's easier to become distracted, disgusted, without creating a tiny space where one's mind can keep a more right social construct of the world. In Nicaragua, nature offers space which gives a feeling of freedom. To live in New York one needs strong will. To live in Nicaragua, it's less needed. This affects one's daily life, in the work one does and the things one creates.
 

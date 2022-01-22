@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-01 18:21:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/mapping-grammar/
+link: https://mind.rathewolf.com/mapping-grammar/
 slug: mapping-grammar
 title: Mapping Grammar
 wordpress_id: 3881
@@ -64,7 +64,7 @@ http://en.wikipedia.org/wiki/Finite-state_machine
 
 Unnecessary babbling. Do not read further.
 How this came about:
-These questions come from my loathing of books. I have [a personal history of progressive education](http://www.rahilpatel.com/blog/my-education) which does not involve books. Real experience, films, history, and biographies with Wikipedia by my side is my method of learning. So when it came to a point where I incarcerated myself in my parent's house, I tried reading a bunch of books, which started out as fun, but I could not handle reading someone else's ideas. It didn't provoke thought. I found it difficult to argue with words Without constant experience, consuming media loses value.
+These questions come from my loathing of books. I have [a personal history of progressive education](https://mind.rathewolf.com/my-education) which does not involve books. Real experience, films, history, and biographies with Wikipedia by my side is my method of learning. So when it came to a point where I incarcerated myself in my parent's house, I tried reading a bunch of books, which started out as fun, but I could not handle reading someone else's ideas. It didn't provoke thought. I found it difficult to argue with words Without constant experience, consuming media loses value.
 
 [todo: It seems there are two kinds of media - history and idea.]
 

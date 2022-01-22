@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 13:02:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/struggle-and-convenience/
+link: https://mind.rathewolf.com/struggle-and-convenience/
 slug: struggle-and-convenience
 title: Struggle and Convenience
 wordpress_id: 2724

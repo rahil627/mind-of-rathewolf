@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-16 12:38:16+00:00
 layout: post
-link: http://rahilpatel.com/blog/translations-of-parallel-lives/
+link: https://mind.rathewolf.com/translations-of-parallel-lives/
 slug: translations-of-parallel-lives
 title: Translations of Lives of the Noble Greeks and Romans [Parallel Lives]
 wordpress_id: 6850
@@ -50,7 +50,7 @@ categories:
 ## a lesson
 
 
-**The Oxford and Harvard editions are _"scholarly"_, which for us mortals translates to _less accessible_, which opposes one of the tenets of art, making them detrimental to life. Leave those insular schools and their [publishing] presses to their insular selves. For the future: simply get the Penguin edition, if not, jump into a crusty old translation, more convenient if it's within a [reader or sourcebook](http://www.rahilpatel.com/blog/the-kinds-of-literature-and-the-extraction-of-ideas), if not, _do something else_.**
+**The Oxford and Harvard editions are _"scholarly"_, which for us mortals translates to _less accessible_, which opposes one of the tenets of art, making them detrimental to life. Leave those insular schools and their [publishing] presses to their insular selves. For the future: simply get the Penguin edition, if not, jump into a crusty old translation, more convenient if it's within a [reader or sourcebook](https://mind.rathewolf.com/the-kinds-of-literature-and-the-extraction-of-ideas), if not, _do something else_.**
 
 
 

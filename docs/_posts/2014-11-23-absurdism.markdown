@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 02:48:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/absurdism/
+link: https://mind.rathewolf.com/absurdism/
 slug: absurdism
 title: Absurdism
 wordpress_id: 3090
@@ -27,4 +27,4 @@ I was at my height of senses in Hong Kong because I was transitioning from a dev
 
 
 
-Absurdity is hit often when I go from a developed country to a developing country, and vice versa. For some reason, [my brain takes a lot longer to make sense of society](http://www.rahilpatel.com/blog/adaptation), the role of technology, and just what the heck people are doing.
+Absurdity is hit often when I go from a developed country to a developing country, and vice versa. For some reason, [my brain takes a lot longer to make sense of society](https://mind.rathewolf.com/adaptation), the role of technology, and just what the heck people are doing.

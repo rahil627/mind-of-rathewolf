@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-04-02 13:30:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/moderate-ethics/
+link: https://mind.rathewolf.com/moderate-ethics/
 slug: moderate-ethics
 title: Moderate Ethics [Early Ethics]
 wordpress_id: 6520

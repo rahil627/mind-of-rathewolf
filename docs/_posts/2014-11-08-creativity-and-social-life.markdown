@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 12:57:58+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-and-social-life/
+link: https://mind.rathewolf.com/creativity-and-social-life/
 slug: creativity-and-social-life
 title: Creativity and Social Life
 wordpress_id: 2836

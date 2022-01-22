@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-09-07 12:20:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home/
+link: https://mind.rathewolf.com/%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home/
 slug: '%e6%ad%b8%e9%80%94%e5%88%97%e8%bb%8a-last-train-home'
 title: 歸途列車 (Last Train Home)
 wordpress_id: 7787

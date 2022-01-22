@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-12 13:46:41+00:00
 layout: post
-link: http://rahilpatel.com/blog/translations-of-laozi-and-zhuangzi-a-translation-hell/
+link: https://mind.rathewolf.com/translations-of-laozi-and-zhuangzi-a-translation-hell/
 slug: translations-of-laozi-and-zhuangzi-a-translation-hell
 title: 'Translations of Laozi and Zhuangzi: A Translation Hell / 老子，莊子：翻譯的地獄'
 wordpress_id: 6782
@@ -18,7 +18,7 @@ categories:
 - Philosophy
 ---
 
-I've recently had a stomach-based fever, which gave me some more down-time to continue reading [light meditative material](http://www.rahilpatel.com/blog/on-stoicism), and even watch a Ghibli film!
+I've recently had a stomach-based fever, which gave me some more down-time to continue reading [light meditative material](https://mind.rathewolf.com/on-stoicism), and even watch a Ghibli film!
 
 But before I could read, I had to get through translation decision hell for Laozi's (老子) Dao De Jing (道德經) and Zhuangzi (莊子). For now, here are my notes:
 

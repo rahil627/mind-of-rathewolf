@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 13:34:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/why-make-art/
+link: https://mind.rathewolf.com/why-make-art/
 slug: why-make-art
 title: Why Make Art?
 wordpress_id: 2973

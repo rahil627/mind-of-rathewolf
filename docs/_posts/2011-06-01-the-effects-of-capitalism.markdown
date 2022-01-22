@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-06-01 13:30:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-effects-of-capitalism/
+link: https://mind.rathewolf.com/the-effects-of-capitalism/
 slug: the-effects-of-capitalism
 title: The Effects of Capitalism
 wordpress_id: 6553

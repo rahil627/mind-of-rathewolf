@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:18:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-determinism/
+link: https://mind.rathewolf.com/social-determinism/
 slug: social-determinism
 title: Social Determinism
 wordpress_id: 2795

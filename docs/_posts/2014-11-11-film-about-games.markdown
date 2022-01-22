@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-11 12:18:22+00:00
 layout: post
-link: http://rahilpatel.com/blog/film-about-games/
+link: https://mind.rathewolf.com/film-about-games/
 slug: film-about-games
 title: Film about Games
 wordpress_id: 2965

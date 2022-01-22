@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-14 10:34:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/i-think-of-dean-moriarty/
+link: https://mind.rathewolf.com/i-think-of-dean-moriarty/
 slug: i-think-of-dean-moriarty
 title: I Think of Dean Moriarty
 wordpress_id: 3555
@@ -29,11 +29,11 @@ I didn't mean to write a film review, I actually thought of Dean Moriarty.
 
 Are his ethics wrong?
 
-Dean is embodies [hedonism](http://www.rahilpatel.com/blog/hedonism), yet, he is the main subject of interest. He leads Sal and other artists on adventures. He _is_ the reason the book exists. He may have contributed to the electric Kool-aid experiment too. He continually experiments. He's [constantly acting](http://www.rahilpatel.com/blog/constant-action-ethics). Though his actions and the consequences of his actions are uneven, he [learns more](http://www.rahilpatel.com/blog/hedonism-and-wisdom), and acts with that knowledge.
+Dean is embodies [hedonism](https://mind.rathewolf.com/hedonism), yet, he is the main subject of interest. He leads Sal and other artists on adventures. He _is_ the reason the book exists. He may have contributed to the electric Kool-aid experiment too. He continually experiments. He's [constantly acting](https://mind.rathewolf.com/constant-action-ethics). Though his actions and the consequences of his actions are uneven, he [learns more](https://mind.rathewolf.com/hedonism-and-wisdom), and acts with that knowledge.
 
 What's great about Dean is that he never settles, never gets old. He continues to explore. His understanding of the world and people is immense.
 
-I think Dean is able to bear fruit in experiments because his daily life involves the use of various skills and constant cognitive action. To take trains through America, work part-time jobs, understand modern aesthetics, understand current psyche, naturally leads to dissident thoughts, but it also leads to having great knowledge, and a great mind. A mind quite far from the [society shaped by written language](http://www.rahilpatel.com/blog/verbal-language-and-written-language), yet living in the heart of society, New York. He is a genius inside the body of a working machine. Scientists should have been asking him for answers.
+I think Dean is able to bear fruit in experiments because his daily life involves the use of various skills and constant cognitive action. To take trains through America, work part-time jobs, understand modern aesthetics, understand current psyche, naturally leads to dissident thoughts, but it also leads to having great knowledge, and a great mind. A mind quite far from the [society shaped by written language](https://mind.rathewolf.com/verbal-language-and-written-language), yet living in the heart of society, New York. He is a genius inside the body of a working machine. Scientists should have been asking him for answers.
 
 I think of Dean because I was very close to being or even was Dean.
 

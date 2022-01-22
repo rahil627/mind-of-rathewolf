@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-05 13:59:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/awareness-and-communication/
+link: https://mind.rathewolf.com/awareness-and-communication/
 slug: awareness-and-communication
 title: Awareness and Communication
 wordpress_id: 5248
@@ -18,7 +18,7 @@ categories:
 - Philosophy
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 1. The mind has a bias toward what to be aware of.
 
@@ -26,4 +26,4 @@ This is part of a [series of thoughts that are thematically bounded by a critici
 
 3. Because the mind has a bias toward which medium to be aware of, one's mind may tend to organize communication into that medium. If one has been talking, one may feel like talking. If one has been reading, one may feel like writing. If one has been watching films, one may want to create more visual-oriented films. If one has been traveling, then one may choose a medium or create a medium to communicate in.
 
-Possibly related older post: [Working Memory and Creativity](http://www.rahilpatel.com/blog/working-memory-and-creativity).
+Possibly related older post: [Working Memory and Creativity](https://mind.rathewolf.com/working-memory-and-creativity).

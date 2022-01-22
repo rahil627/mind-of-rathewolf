@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-19 18:04:57+00:00
 layout: post
-link: http://rahilpatel.com/blog/suffering-as-a-constant-motive/
+link: https://mind.rathewolf.com/suffering-as-a-constant-motive/
 slug: suffering-as-a-constant-motive
 title: Suffering as a Constant Motive
 wordpress_id: 4816

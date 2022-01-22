@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-13 20:19:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/chaos-and-organization/
+link: https://mind.rathewolf.com/chaos-and-organization/
 slug: chaos-and-organization
 title: Chaos and Organization
 wordpress_id: 3766
@@ -31,7 +31,7 @@ It seems the goal of academia is to organize information into words, artists org
 
 Media can provide chaos too. It is up to the mind to organize it.
 
-I've said that [the more divergent the data of the unknown product, yet still maintaining an idea the better the aesthetic.](http://www.rahilpatel.com/blog/information-organization-mediums-creativity-and-experience)
+I've said that [the more divergent the data of the unknown product, yet still maintaining an idea the better the aesthetic.](https://mind.rathewolf.com/information-organization-mediums-creativity-and-experience)
 
 I've been reading books lately, so Calvino comes to mind.
 

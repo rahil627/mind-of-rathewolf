@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:26:33+00:00
 layout: post
-link: http://rahilpatel.com/blog/suburbs-are-obsolete/
+link: https://mind.rathewolf.com/suburbs-are-obsolete/
 slug: suburbs-are-obsolete
 title: Suburbs are Obsolete
 wordpress_id: 3038

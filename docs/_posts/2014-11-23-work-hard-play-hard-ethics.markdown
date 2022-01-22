@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 07:30:15+00:00
 layout: post
-link: http://rahilpatel.com/blog/work-hard-play-hard-ethics/
+link: https://mind.rathewolf.com/work-hard-play-hard-ethics/
 slug: work-hard-play-hard-ethics
 title: Work Hard Play Hard Ethics
 wordpress_id: 3169

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:47:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/struggle-ethics/
+link: https://mind.rathewolf.com/struggle-ethics/
 slug: struggle-ethics
 title: Struggle Ethics
 wordpress_id: 2824

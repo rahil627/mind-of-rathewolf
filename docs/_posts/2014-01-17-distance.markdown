@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-17 21:45:19+00:00
 layout: post
-link: http://rahilpatel.com/blog/distance/
+link: https://mind.rathewolf.com/distance/
 slug: distance
 title: Distance
 wordpress_id: 1571

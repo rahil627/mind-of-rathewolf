@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-28 13:25:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/laputa-castle-in-the-sky/
+link: https://mind.rathewolf.com/laputa-castle-in-the-sky/
 slug: laputa-castle-in-the-sky
 title: '天空の城ラピュタ (Laputa: Castle in the Sky)'
 wordpress_id: 4872

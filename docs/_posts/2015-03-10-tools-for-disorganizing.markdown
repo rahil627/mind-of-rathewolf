@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-03-10 19:15:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/tools-for-disorganizing/
+link: https://mind.rathewolf.com/tools-for-disorganizing/
 slug: tools-for-disorganizing
 title: Tools for Disorganizing
 wordpress_id: 4080
@@ -21,7 +21,7 @@ Therefore, there should also be tools for disorganizing, inciting a bit of chaos
 
 Luckily, most people have other humans or even animals around them to create new experiences. But many don't. In a quiet suburban house or office with ancient societal values, they may not exist, and people will get stuck in routine, letting time slip without thought.
 
-People need constant events to shake them, remind them of reality. For me this was [films](http://www.rahilpatel.com/blog/inspired-by-films-and-everything-else), but even that was not enough during a period I was at home at a later age. I nearly stopped thinking, reading, experiencing.
+People need constant events to shake them, remind them of reality. For me this was [films](https://mind.rathewolf.com/inspired-by-films-and-everything-else), but even that was not enough during a period I was at home at a later age. I nearly stopped thinking, reading, experiencing.
 
 I still feel this is a problem of urban planning leading to isolation, and therefore less experiences. If one does not commute via public transportation, they experience far less, requiring more people in their dwelling for them to interact with and have more experiences.
 

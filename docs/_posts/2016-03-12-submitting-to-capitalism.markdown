@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-12 04:43:33+00:00
 layout: post
-link: http://rahilpatel.com/blog/submitting-to-capitalism/
+link: https://mind.rathewolf.com/submitting-to-capitalism/
 slug: submitting-to-capitalism
 title: Submitting to Capitalism
 wordpress_id: 6220

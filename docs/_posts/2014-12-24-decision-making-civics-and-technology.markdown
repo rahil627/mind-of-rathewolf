@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-24 10:23:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/decision-making-civics-and-technology/
+link: https://mind.rathewolf.com/decision-making-civics-and-technology/
 slug: decision-making-civics-and-technology
 title: Decision-making, Civics, and Technology
 wordpress_id: 3827
@@ -45,7 +45,7 @@ Physical interaction is always more powerful than digital. Having a physical sig
 
 Perhaps there just needs to be physical signs everywhere about everything going on in dense places. If a building is going to be demolished, sold, built, there should be a sign that says so, far ahead of the date. That should be the law. If it is the law, then when something abrupt happens, citizens will be able to argue that there was no such sign.
 
-That reminds me of finding apartments in Taiwan. Though there's a ton of websites, just finding a neighborhood one likes, then looking out for a particular red sign that says for rent, a physical bulletin board, and talking to local people turned out to be a [quite effective compared to using apartment websites](http://www.rahilpatel.com/blog/the-apex-of-mania-and-creativity-in-taipei), especially if one cares more about the location than the amenities. Also, it's just more physical, and therefore more fun, at the cost of efficiency.
+That reminds me of finding apartments in Taiwan. Though there's a ton of websites, just finding a neighborhood one likes, then looking out for a particular red sign that says for rent, a physical bulletin board, and talking to local people turned out to be a [quite effective compared to using apartment websites](https://mind.rathewolf.com/the-apex-of-mania-and-creativity-in-taipei), especially if one cares more about the location than the amenities. Also, it's just more physical, and therefore more fun, at the cost of efficiency.
 
 The sign could have a website on it to a digital place. Physical things should lead to digital things, rarely ever the other way around.
 

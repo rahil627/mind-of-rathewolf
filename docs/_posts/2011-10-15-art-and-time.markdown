@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-10-15 14:03:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/art-and-time/
+link: https://mind.rathewolf.com/art-and-time/
 slug: art-and-time
 title: Art and Time
 wordpress_id: 6541

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-04-17 08:53:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/positive-and-negative-methodologies/
+link: https://mind.rathewolf.com/positive-and-negative-methodologies/
 slug: positive-and-negative-methodologies
 title: Positive and Negative methodologies
 wordpress_id: 6376
@@ -15,7 +15,7 @@ categories:
 - Philosophy
 ---
 
-Just some highlights and thoughts from the last chapter of A Short History of Chinese Philosophy by Fung Yu-Lan, edited by Derk Bodde. After reading a few books, it led to [this thought](http://www.rahilpatel.com/blog/language-and-experience).
+Just some highlights and thoughts from the last chapter of A Short History of Chinese Philosophy by Fung Yu-Lan, edited by Derk Bodde. After reading a few books, it led to [this thought](https://mind.rathewolf.com/language-and-experience).
 
 28. Chinese Philosophy in the Modern World (last chapter)
 end (the methodology of metaphysics):

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-10-13 02:55:13+00:00
 layout: post
-link: http://rahilpatel.com/blog/like-father-like-son/
+link: https://mind.rathewolf.com/like-father-like-son/
 slug: like-father-like-son
 title: そして父になる (Like Father Like Son)
 wordpress_id: 2496

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-06 09:53:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/start-from-nothing/
+link: https://mind.rathewolf.com/start-from-nothing/
 slug: start-from-nothing
 title: Start from Nothing
 wordpress_id: 2651

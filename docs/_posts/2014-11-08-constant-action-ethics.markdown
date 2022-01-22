@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 11:06:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/constant-action-ethics/
+link: https://mind.rathewolf.com/constant-action-ethics/
 slug: constant-action-ethics
 title: Constant Action Ethics
 wordpress_id: 2845

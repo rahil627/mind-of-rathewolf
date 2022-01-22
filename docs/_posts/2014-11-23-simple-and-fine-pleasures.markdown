@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 07:11:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/simple-and-fine-pleasures/
+link: https://mind.rathewolf.com/simple-and-fine-pleasures/
 slug: simple-and-fine-pleasures
 title: Simple and Fine Pleasures
 wordpress_id: 3162

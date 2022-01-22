@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-14 18:56:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-choices-in-taiwan-and-initiating-a-cooperative-from-nothing/
+link: https://mind.rathewolf.com/the-choices-in-taiwan-and-initiating-a-cooperative-from-nothing/
 slug: the-choices-in-taiwan-and-initiating-a-cooperative-from-nothing
 title: The Choices in Taiwan and Initiating a Cooperative from Nothing
 wordpress_id: 7222

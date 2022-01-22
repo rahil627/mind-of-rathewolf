@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-30 21:55:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/game-philosophy/
+link: https://mind.rathewolf.com/game-philosophy/
 slug: game-philosophy
 title: Game Philosophy
 wordpress_id: 2058
@@ -23,7 +23,7 @@ And I feel it is important to think about the following:
   - propose (idea or ideas?) to audience at Parson’s once I get there
 
 2. Summarize what experiences imparted some philosophy in games
-  - [list games and experiences](http://www.rahilpatel.com/blog/a-sequential-list-of-times-game-related-experiences-that-affected-me)
+  - [list games and experiences](https://mind.rathewolf.com/a-sequential-list-of-times-game-related-experiences-that-affected-me)
   - create own manifesto
   - see philosophy's of great game designers
   - see old notes and thoughts I wrote

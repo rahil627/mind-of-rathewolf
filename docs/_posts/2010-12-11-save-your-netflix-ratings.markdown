@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-12-11 22:22:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/save-your-netflix-ratings/
+link: https://mind.rathewolf.com/save-your-netflix-ratings/
 slug: save-your-netflix-ratings
 title: Save your Netflix ratings
 wordpress_id: 1
@@ -27,7 +27,7 @@ _LikeMinds also allows you to share your ratings with friends by quickly copying
 
 I signed up and was able to import my Netflix ratings to the LikeMinds server, but I had trouble finding how to import it to a local file. Then I found this [link](http://app.likeminds.com/facebook/user/0/movies/ratings/export/?lmref=lm_blog). I had to log into Facebook for some reason, but it worked!
 
-[![](http://www.rahilpatel.com/blog/wp-content/uploads/2010/12/netflix.png)](http://www.rahilpatel.com/blog/wp-content/uploads/2010/12/netflix.png)
+[![](https://mind.rathewolf.com/wp-content/uploads/2010/12/netflix.png)](https://mind.rathewolf.com/wp-content/uploads/2010/12/netflix.png)
 
 LikeMinds saves your ratings into a CSV file, which can be opened with Excel, then easily manipulated to however you like.
 
@@ -35,6 +35,6 @@ There were some errors. Some foreign movie titles contained weird characters. I 
 
 I went even further adding friends similar to me, which resulted with a list of "movies new to you that your 19 LikeMinds rated highly".
 
-[![](http://www.rahilpatel.com/blog/wp-content/uploads/2010/12/LikeMinds.png)](http://www.rahilpatel.com/blog/wp-content/uploads/2010/12/LikeMinds.png)
+[![](https://mind.rathewolf.com/wp-content/uploads/2010/12/LikeMinds.png)](https://mind.rathewolf.com/wp-content/uploads/2010/12/LikeMinds.png)
 
 This list already seemed far more useful than any recommendations I've received from Netflix! Now if only I rated all of my music...

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2009-10-31 13:20:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-cultural-criticism-and-the-desire-to-live-in-a-better-culture/
+link: https://mind.rathewolf.com/early-cultural-criticism-and-the-desire-to-live-in-a-better-culture/
 slug: early-cultural-criticism-and-the-desire-to-live-in-a-better-culture
 title: Early Cultural Criticism and the Desire to Live in a Better Culture
 wordpress_id: 6508

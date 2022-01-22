@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-08 08:54:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/an-interview-with-rick-roderick-about-critical-theory/
+link: https://mind.rathewolf.com/an-interview-with-rick-roderick-about-critical-theory/
 slug: an-interview-with-rick-roderick-about-critical-theory
 title: An interview with Rick Roderick about critical theory
 wordpress_id: 5371

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-29 00:13:24+00:00
 layout: post
-link: http://rahilpatel.com/blog/consistent-play-ethics/
+link: https://mind.rathewolf.com/consistent-play-ethics/
 slug: consistent-play-ethics
 title: Consistent Play Ethics
 wordpress_id: 3527

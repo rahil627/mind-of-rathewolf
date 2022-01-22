@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-17 00:13:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/oral-culture-and-the-speed-of-decision-making/
+link: https://mind.rathewolf.com/oral-culture-and-the-speed-of-decision-making/
 slug: oral-culture-and-the-speed-of-decision-making
 title: Oral Culture and the Speed of Decision-making
 wordpress_id: 3983
@@ -12,7 +12,7 @@ categories:
 - Philosophy
 ---
 
-Talking is a creative action based on a [decision](http://www.rahilpatel.com/blog/the-speed-of-decision-making). The brain pieces grammar together with words that contain ideas.
+Talking is a creative action based on a [decision](https://mind.rathewolf.com/the-speed-of-decision-making). The brain pieces grammar together with words that contain ideas.
 
 Oral culture is therefore more creative, because one is talking more and reading less. People speak books.
 

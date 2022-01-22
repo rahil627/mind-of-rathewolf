@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 07:28:29+00:00
 layout: post
-link: http://rahilpatel.com/blog/cultural-values-of-households-in-asia/
+link: https://mind.rathewolf.com/cultural-values-of-households-in-asia/
 slug: cultural-values-of-households-in-asia
 title: Cultural Values of Households in Asia
 wordpress_id: 2692

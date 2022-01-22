@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 15:16:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/daydreams/
+link: https://mind.rathewolf.com/daydreams/
 slug: daydreams
 title: Daydreams
 wordpress_id: 2660

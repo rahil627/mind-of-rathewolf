@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 03:28:33+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-life-in-cities-and-suburbs/
+link: https://mind.rathewolf.com/social-life-in-cities-and-suburbs/
 slug: social-life-in-cities-and-suburbs
 title: Social Life in Cities and Suburbs
 wordpress_id: 3111

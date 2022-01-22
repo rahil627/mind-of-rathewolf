@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-15 13:26:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/asceticism-ethics/
+link: https://mind.rathewolf.com/asceticism-ethics/
 slug: asceticism-ethics
 title: Asceticism Ethics
 wordpress_id: 2971

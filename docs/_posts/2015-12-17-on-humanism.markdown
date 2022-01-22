@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-17 15:56:19+00:00
 layout: post
-link: http://rahilpatel.com/blog/on-humanism/
+link: https://mind.rathewolf.com/on-humanism/
 slug: on-humanism
 title: On Humanism
 wordpress_id: 5763
@@ -22,7 +22,7 @@ categories:
 - Social Philosophy
 ---
 
-This began as a digression from [The Categorization of Knowledge](http://www.rahilpatel.com/blog/the-categorization-of-knowledge). It's also relevant to [recent posts about rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality), especially the [anti-humanism Wikipedia article](https://en.wikipedia.org/wiki/Antihumanism), which includes content from past philosophical movements related to humanism.
+This began as a digression from [The Categorization of Knowledge](https://mind.rathewolf.com/the-categorization-of-knowledge). It's also relevant to [recent posts about rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality), especially the [anti-humanism Wikipedia article](https://en.wikipedia.org/wiki/Antihumanism), which includes content from past philosophical movements related to humanism.
 
 
 

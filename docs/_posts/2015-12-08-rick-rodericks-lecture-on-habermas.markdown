@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-08 08:56:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/rick-rodericks-lecture-on-habermas/
+link: https://mind.rathewolf.com/rick-rodericks-lecture-on-habermas/
 slug: rick-rodericks-lecture-on-habermas
 title: Rick Roderick's lecture on Habermas
 wordpress_id: 5369

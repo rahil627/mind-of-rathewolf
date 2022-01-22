@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-16 02:22:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/railroad-space-and-railroad-time/
+link: https://mind.rathewolf.com/railroad-space-and-railroad-time/
 slug: railroad-space-and-railroad-time
 title: Railroad Space and Railroad Time
 wordpress_id: 6232
@@ -18,7 +18,7 @@ categories:
 - Urban Philosophy
 ---
 
-Hmm, perhaps similar to my [film reviews](http://www.rahilpatel.com/blog/category/humanities/art/films/film-reviews), in which I transcribe the thoughts I wrote on my phone to here, then reflect on those thoughts, I could do the same for literature, in which I transcribe the thoughts I wrote in the notes of highlights of readings on Voice Dream, and again, reflect on those thoughts.
+Hmm, perhaps similar to my [film reviews](https://mind.rathewolf.com/category/humanities/art/films/film-reviews), in which I transcribe the thoughts I wrote on my phone to here, then reflect on those thoughts, I could do the same for literature, in which I transcribe the thoughts I wrote in the notes of highlights of readings on Voice Dream, and again, reflect on those thoughts.
 --
 
 Update:
@@ -26,7 +26,7 @@ After writing this, maybe not. It seems to cost too much time. It feels like a c
 --
 
 Related posts:
-[The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood)
+[The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood)
 --
 
 Notes and longer thoughts from Chapter 3 from The Railway Journey: The Industrialization of Time and Space in the Nineteenth Century by Wolfgang Schivelbusch:
@@ -63,7 +63,7 @@ What is publicly accessible becomes public knowledge.
 
 **What can be accessed or experienced publicly, or at least affordably, also becomes the tools or space with and in which people create.** "I recently visited an arts university, after being disappointed by their new media department's graduate student and public rooms, which were simply bland offices and computer labs. I then strolled over to the building next door: the crafts and design department. On the first floor they had a two wood workshops, on the second, a metal workshop, a jewelry workshop, and some other little workshops. **My mind blazed with ideas which involved using them, and bringing friends and hanging out within the spaces.**" (to thoughts.txt)
 
-So then, **to make tools and [spaces public](http://www.rahilpatel.com/blog/public-places), inclusive, results in more uses of those tools and spaces, and therefore more diversity in the people who use them, and therefore more creativity.**
+So then, **to make tools and [spaces public](https://mind.rathewolf.com/public-places), inclusive, results in more uses of those tools and spaces, and therefore more diversity in the people who use them, and therefore more creativity.**
 
 4.
 from thoughts.txt:

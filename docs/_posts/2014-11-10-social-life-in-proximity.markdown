@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-10 11:37:12+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-life-in-proximity/
+link: https://mind.rathewolf.com/social-life-in-proximity/
 slug: social-life-in-proximity
 title: Social Life in Proximity
 wordpress_id: 2918
@@ -25,10 +25,10 @@ If I live in a house with several roommates, I will talk to those people more th
 
 If I live in another country, then I do not talk to the people in the last country.
 
-I believe I do this because I have no control of my social impulses. If someone is nearby, I talk. If there is a delicious piece of foodstuffs nearby, I eat it. It's not much different. It's a pleasure to talk, as it is to eat. The proximity of pleasures result in action. Perhaps that makes me [hedonistic](http://www.rahilpatel.com/blog/hedonism).
+I believe I do this because I have no control of my social impulses. If someone is nearby, I talk. If there is a delicious piece of foodstuffs nearby, I eat it. It's not much different. It's a pleasure to talk, as it is to eat. The proximity of pleasures result in action. Perhaps that makes me [hedonistic](https://mind.rathewolf.com/hedonism).
 
-This trait alone causes destruction of relationships, makes me prone to [social determinism](http://www.rahilpatel.com/blog/social-determinism), and eventually leads to severe [adaptation](http://www.rahilpatel.com/blog/adaptation) to different societies.
+This trait alone causes destruction of relationships, makes me prone to [social determinism](https://mind.rathewolf.com/social-determinism), and eventually leads to severe [adaptation](https://mind.rathewolf.com/adaptation) to different societies.
 
 The only way to make me work is to put me in a work place. The only way to make me talk is to place me in a place filled with people. The only way for me to make art is to place me in a place where many people make art. The only way for me to work for charity is to place me in a place that requires charity.
 
-Sure, I make decisions, sometimes getting out of society and therefore escaping social determinism, but, for the most part, it seems my life has almost entirely depended on where I place myself. Therefore, [the placement](http://www.rahilpatel.com/blog/the-ideal-neighborhood) of myself is of utmost importance.
+Sure, I make decisions, sometimes getting out of society and therefore escaping social determinism, but, for the most part, it seems my life has almost entirely depended on where I place myself. Therefore, [the placement](https://mind.rathewolf.com/the-ideal-neighborhood) of myself is of utmost importance.

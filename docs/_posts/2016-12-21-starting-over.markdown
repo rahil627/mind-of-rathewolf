@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-12-21 21:19:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/starting-over/
+link: https://mind.rathewolf.com/starting-over/
 slug: starting-over
 title: Starting Over
 wordpress_id: 8046
@@ -13,7 +13,7 @@ categories:
 - Thoughts
 ---
 
-related posts: [Being Political and Apolitical](http://www.rahilpatel.com/blog/being-political-and-not) [todo: this post is still a draft], [The Choices in Taiwan](http://www.rahilpatel.com/blog/the-choices-in-taiwan-and-initiating-a-cooperative-from-nothing)
+related posts: [Being Political and Apolitical](https://mind.rathewolf.com/being-political-and-not) [todo: this post is still a draft], [The Choices in Taiwan](https://mind.rathewolf.com/the-choices-in-taiwan-and-initiating-a-cooperative-from-nothing)
 --
 
 The music makes me feel alive, but it’s a fake sensation. How long I lived with music during my suburban life. Without it, I am dead, in need of sensation[, experience], people, nature, love.

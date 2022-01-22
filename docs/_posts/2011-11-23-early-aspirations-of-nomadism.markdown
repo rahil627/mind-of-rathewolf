@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-23 15:03:37+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-aspirations-of-nomadism/
+link: https://mind.rathewolf.com/early-aspirations-of-nomadism/
 slug: early-aspirations-of-nomadism
 title: Early Aspirations of Nomadism
 wordpress_id: 6547
@@ -16,7 +16,7 @@ categories:
 - Thoughts
 ---
 
-[todo: combine with [early ideal lifestyles](http://www.rahilpatel.com/blog/early-ideal-lifestyles)?]
+[todo: combine with [early ideal lifestyles](https://mind.rathewolf.com/early-ideal-lifestyles)?]
 
 
 

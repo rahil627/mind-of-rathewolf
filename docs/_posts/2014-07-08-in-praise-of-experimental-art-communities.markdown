@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-08 14:13:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/in-praise-of-experimental-art-communities/
+link: https://mind.rathewolf.com/in-praise-of-experimental-art-communities/
 slug: in-praise-of-experimental-art-communities
 title: In Praise of Experimental Art Communities
 wordpress_id: 2187

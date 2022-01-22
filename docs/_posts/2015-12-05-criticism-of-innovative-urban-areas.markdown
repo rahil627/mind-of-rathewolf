@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-05 20:00:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/criticism-of-innovative-urban-areas/
+link: https://mind.rathewolf.com/criticism-of-innovative-urban-areas/
 slug: criticism-of-innovative-urban-areas
 title: Criticism of Innovative Urban Areas
 wordpress_id: 5282
@@ -19,11 +19,11 @@ categories:
 - Urban Philosophy
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 [todo: almost complete?]
 
-In the last post, I was trying to figure out "why consensual social action is more frequent in cities than outside of them". Keeping that in mind, this third thought has a more skeptical view of cities. These two thoughts together hark much of yesterday's thought, [Free  from Capitalism](http://www.rahilpatel.com/blog/free-from-capitalism).
+In the last post, I was trying to figure out "why consensual social action is more frequent in cities than outside of them". Keeping that in mind, this third thought has a more skeptical view of cities. These two thoughts together hark much of yesterday's thought, [Free  from Capitalism](https://mind.rathewolf.com/free-from-capitalism).
 
 Let's start with the project summary for Measuring Urban Innovation by MIT Media Lab's Changing Places research group:
 
@@ -51,7 +51,7 @@ There is within me a desire to live in a vibrant neighborhood community, but is 
 
 What is the value of that end? Something merely based on "rates of economic growth and viability"? Some quantitative fiction that overlooks the human condition?
 
-It seems their utopia is [Silicon Valley](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism), as opposed to [a country with a good culture](https://en.wikipedia.org/wiki/Good_Country_Index).
+It seems their utopia is [Silicon Valley](https://mind.rathewolf.com/silicon-valley-and-capitalism), as opposed to [a country with a good culture](https://en.wikipedia.org/wiki/Good_Country_Index).
 
 Although in a "hub for innovation" there are more successful validations of a person's rationality or social consensuses, and subsequently actions, **there is a problem in the validation process: [rationality is validated because the economic and social systems said it was okay](https://en.wikipedia.org/wiki/Universal_pragmatics#Communicative_action). The validation didn't involve an active argumentation.**
 

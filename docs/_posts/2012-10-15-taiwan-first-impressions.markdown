@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-10-15 17:46:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/taiwan-first-impressions/
+link: https://mind.rathewolf.com/taiwan-first-impressions/
 slug: taiwan-first-impressions
 title: 'Taiwan: First Impressions'
 wordpress_id: 874

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 05:36:57+00:00
 layout: post
-link: http://rahilpatel.com/blog/growing-up-with-technology/
+link: https://mind.rathewolf.com/growing-up-with-technology/
 slug: growing-up-with-technology
 title: Growing Up with Technology
 wordpress_id: 2678

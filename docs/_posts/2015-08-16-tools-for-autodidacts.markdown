@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-08-16 15:25:01+00:00
 layout: post
-link: http://rahilpatel.com/blog/tools-for-autodidacts/
+link: https://mind.rathewolf.com/tools-for-autodidacts/
 slug: tools-for-autodidacts
 title: Tools for Autodidacts
 wordpress_id: 4141
@@ -14,7 +14,7 @@ categories:
 - Urban Philosophy
 ---
 
-After writing an e-mail to the creator of Voice Dream, it triggered a thought about tools, which may be an extension of [Tools for Organizing](http://www.rahilpatel.com/blog/tools-for-organizing), probably not [Tools for Disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing), but this time specifically for learning.
+After writing an e-mail to the creator of Voice Dream, it triggered a thought about tools, which may be an extension of [Tools for Organizing](https://mind.rathewolf.com/tools-for-organizing), probably not [Tools for Disorganizing](https://mind.rathewolf.com/tools-for-disorganizing), but this time specifically for learning.
 
 Organizing education? Organizing knowledge. Organizing people.
 
@@ -36,7 +36,7 @@ Though autodidacts were probably historically secluded, it doesn't have to be so
 
 On the tech side, public spaces appear the form in hackerspaces and fablabs, with the appropriate tools and spaces. I happen to know these spaces because I know a bit about tech, but I wonder of the billions of public spaces people convene for whatever their interests are. Taiqi and squaredancing in neighborhood parks, neighborhood development meetups in meeting halls, crafting next to the Han river, illustrating on Yangmingshan mountain, and so on. These spaces really need to be mapped out and thrown on a pretty website. Or should it? Perhaps these past few weeks of seclusion has made me more digitally oriented, and missing out on my physical orientation. If a group wants to be physically inviting, there will be an inviting physical sign. Otherwise, it requires the individual to be active to find and butt into the group.
 
-Just yesterday while hunting Semiotext(e) books on the web, I stumbled upon [The Public School](http://thepublicschool.org/), and [a group had a curriculum that took place at a different location in the city every day](http://www.telic.info/node/35). A side thought: It's nice to see such communities being created in cities across the world, with the community as the core of their philosophies. Anyway, I've thought of this idea before, but it's nice that there is a website for this kind of stuff, as opposed to a messy mix of Facebook, Meetup, Twitter, Google Docs, and whatever else. Though, I'm sure this website has it's limitations too. [Kunal](http://babycastles.com/website/people/) is working on [ a tool for organizing "pop-up collaboration spaces" too](http://better.space/). Actually this kind of tool doubles as a [tool for disorganizing](http://www.rahilpatel.com/blog/tools-for-disorganizing), for ad hoc activism.
+Just yesterday while hunting Semiotext(e) books on the web, I stumbled upon [The Public School](http://thepublicschool.org/), and [a group had a curriculum that took place at a different location in the city every day](http://www.telic.info/node/35). A side thought: It's nice to see such communities being created in cities across the world, with the community as the core of their philosophies. Anyway, I've thought of this idea before, but it's nice that there is a website for this kind of stuff, as opposed to a messy mix of Facebook, Meetup, Twitter, Google Docs, and whatever else. Though, I'm sure this website has it's limitations too. [Kunal](http://babycastles.com/website/people/) is working on [ a tool for organizing "pop-up collaboration spaces" too](http://better.space/). Actually this kind of tool doubles as a [tool for disorganizing](https://mind.rathewolf.com/tools-for-disorganizing), for ad hoc activism.
 
 Any space can work in theory: one's own apartment, a friend's apartment, a gazebo in a park, a public library, a subway station, a trains. Any space with a door fee goes against my values. From personal experience, this can be practically difficult, as landlords may not like it, roommates may not like it, or my air conditioner is not strong enough and outside is unbearable (Taipei problems), the space is too far from the center of the city. To have a calming space in such a loud city really is a commodity, one that people would pay an over-priced coffee. Ah, I miss those small towns I've travelled through. When a town is comfortable, every space has so much more potential.
 

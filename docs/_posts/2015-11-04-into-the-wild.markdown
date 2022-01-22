@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-11-04 18:52:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/into-the-wild/
+link: https://mind.rathewolf.com/into-the-wild/
 slug: into-the-wild
 title: Into the Wild
 wordpress_id: 4982
@@ -16,7 +16,7 @@ categories:
 
 [todo: just copied from from text file. I copied quotes from the book because I wasn't using my e-reader application to read it, and in doing so, I've created my longest post; There's no point of reading this, and therefore posting this? Yet, I want to think about the decisions that McCandless made, because they are similar to some of my own. The notes from the book are also in reverse order, newest on top. Also need to go over thoughts during viewing of film.]
 
-I've written quite a bit recently about searching for an [the ideal nomadic lifestyle, using the lives of successful like-minded people](http://www.rahilpatel.com/blog/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle). This book and film, though both lacking intellectual rigor to understand the protagonist's thoughts, have an ideal nomad as the subject, making it frighteningly good material for self-reflection.
+I've written quite a bit recently about searching for an [the ideal nomadic lifestyle, using the lives of successful like-minded people](https://mind.rathewolf.com/anchors-famous-nomads-and-the-ideal-nomadic-lifestyle). This book and film, though both lacking intellectual rigor to understand the protagonist's thoughts, have an ideal nomad as the subject, making it frighteningly good material for self-reflection.
 
 
 

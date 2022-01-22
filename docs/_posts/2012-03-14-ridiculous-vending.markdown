@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-14 06:28:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/ridiculous-vending/
+link: https://mind.rathewolf.com/ridiculous-vending/
 slug: ridiculous-vending
 title: Ridiculous Vending
 wordpress_id: 591

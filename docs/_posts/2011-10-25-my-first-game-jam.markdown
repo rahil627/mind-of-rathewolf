@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-10-25 00:28:44+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-first-game-jam/
+link: https://mind.rathewolf.com/my-first-game-jam/
 slug: my-first-game-jam
 title: My First Game Jam
 wordpress_id: 635
@@ -15,7 +15,7 @@ tags:
 - horse ebooks
 ---
 
-Here's the story behind [Can You Imagine Yourself as a Verbal Assassin?](http://www.rahilpatel.com/blog/can-you-imagine-yourself-as-a-verbal-assassin).
+Here's the story behind [Can You Imagine Yourself as a Verbal Assassin?](https://mind.rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin).
 
 Well, not the whole story. I've divided the story into two parts as I was involved with two games, one with a team and one personal. The first story is about the development of my personal game. The second story is about my experience at the game jam and the development of the team game. I'll start at the time the theme was given.
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-06 08:30:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/art-objects/
+link: https://mind.rathewolf.com/art-objects/
 slug: art-objects
 title: Art Objects
 wordpress_id: 2663

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-12 09:19:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/fixing-err-3-on-a-1998-acura-integra-car-stereo/
+link: https://mind.rathewolf.com/fixing-err-3-on-a-1998-acura-integra-car-stereo/
 slug: fixing-err-3-on-a-1998-acura-integra-car-stereo
 title: Fixing Err-3 on a 1998 Acura Integra Car Stereo
 wordpress_id: 532

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-02-06 15:14:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/%e6%b2%b3%e6%b5%81/
+link: https://mind.rathewolf.com/%e6%b2%b3%e6%b5%81/
 slug: '%e6%b2%b3%e6%b5%81'
 title: 河流 (The River)
 wordpress_id: 1612

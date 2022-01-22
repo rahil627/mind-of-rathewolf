@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:25:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/constant-art-ethics/
+link: https://mind.rathewolf.com/constant-art-ethics/
 slug: constant-art-ethics
 title: Constant Art Ethics
 wordpress_id: 3036
@@ -50,7 +50,7 @@ Even more creative are those who directly affect others, like educators and good
 
 Fluxus and Zack Gage also come to mind.
 
-When I arrived in New York to attend school, I felt there was no reason to create media, or use computers to do it. This led to ideas like [these](http://www.rahilpatel.com/blog/category/art-2/new-media).
+When I arrived in New York to attend school, I felt there was no reason to create media, or use computers to do it. This led to ideas like [these](https://mind.rathewolf.com/category/art-2/new-media).
 
 Media is an unnecessary step, it felt. Why not directly affect people with public art? Heck, even writing the idea in words felt unnecessary. All I could do was draw the idea to convey it, putting the idea on to digital paper.
 

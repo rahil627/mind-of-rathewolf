@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-26 08:55:14+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-as-organization-from-chaos/
+link: https://mind.rathewolf.com/creativity-as-organization-from-chaos/
 slug: creativity-as-organization-from-chaos
 title: Creativity as Organization from Chaos
 wordpress_id: 3319
@@ -28,7 +28,7 @@ It is up to the mind to organize chaos.
 Seems to be a repeat of an old thought:
 --
 
-If this is the case, then it is best to [live on the edge of society](http://www.rahilpatel.com/blog/living-on-the-edge-of-society-ethics). Cities are the most potent area of human organization. One needs distance, surround oneself with less common materials, then create. It will also lead to a more creatively efficient lifestyle, as the mind struggle to piece together the world into new designs and ideas.
+If this is the case, then it is best to [live on the edge of society](https://mind.rathewolf.com/living-on-the-edge-of-society-ethics). Cities are the most potent area of human organization. One needs distance, surround oneself with less common materials, then create. It will also lead to a more creatively efficient lifestyle, as the mind struggle to piece together the world into new designs and ideas.
 
 It used to be in order to have social connections, display work, one had to live in cities. With the internet, it is no more.
 --

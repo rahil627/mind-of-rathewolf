@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 10:29:07+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-suburbs-still-fail/
+link: https://mind.rathewolf.com/the-suburbs-still-fail/
 slug: the-suburbs-still-fail
 title: The Suburbs Still Fail
 wordpress_id: 2701

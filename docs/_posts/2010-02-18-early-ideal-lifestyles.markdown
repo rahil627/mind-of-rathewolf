@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-02-18 14:30:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-ideal-lifestyles/
+link: https://mind.rathewolf.com/early-ideal-lifestyles/
 slug: early-ideal-lifestyles
 title: Early Ideal Lifestyles
 wordpress_id: 6518

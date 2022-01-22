@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:08:36+00:00
 layout: post
-link: http://rahilpatel.com/blog/indecisiveness/
+link: https://mind.rathewolf.com/indecisiveness/
 slug: indecisiveness
 title: Indecisiveness
 wordpress_id: 2787

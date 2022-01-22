@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-04-23 19:43:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/lone-work-and-depression/
+link: https://mind.rathewolf.com/lone-work-and-depression/
 slug: lone-work-and-depression
 title: Lone Work and Depression
 wordpress_id: 1908

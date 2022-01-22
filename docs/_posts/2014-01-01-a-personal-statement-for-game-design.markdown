@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-01 22:52:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-personal-statement-for-game-design/
+link: https://mind.rathewolf.com/a-personal-statement-for-game-design/
 slug: a-personal-statement-for-game-design
 title: A Personal Statement for Game Design
 wordpress_id: 1424

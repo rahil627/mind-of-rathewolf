@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-02-12 00:30:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/love-and-equality/
+link: https://mind.rathewolf.com/love-and-equality/
 slug: love-and-equality
 title: Love and Equality
 wordpress_id: 6458

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 19:48:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideal-household/
+link: https://mind.rathewolf.com/the-ideal-household/
 slug: the-ideal-household
 title: The Ideal Household
 wordpress_id: 2801
@@ -18,7 +18,7 @@ Perhaps I should live alone in a shitty room in Tonghua.</blockquote>
 
 
 
-Unlike the [neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood), the household doesn't matter much.
+Unlike the [neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood), the household doesn't matter much.
 
 If one is single, it could be just a small space to safely keep belongings and sleep in. If the country doesn't provide cheap and healthy food, then there must be a kitchen.
 

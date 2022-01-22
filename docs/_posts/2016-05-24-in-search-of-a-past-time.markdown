@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-05-24 00:35:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/in-search-of-a-past-time/
+link: https://mind.rathewolf.com/in-search-of-a-past-time/
 slug: in-search-of-a-past-time
 title: In Search of a Past Time
 wordpress_id: 7055
@@ -27,11 +27,11 @@ categories:
 - Urban Philosophy
 ---
 
-[self-note: this was published using markdown, and is a good for testing it. The original text is in a text file in Dropbox. Can either copy the HTML from the text file using an application (Writebox) or use the Wordpress markdown plugin. It seems I may have been playing with the formatting of highlights and notes, using unordered lists (via markdown), which led to some cosmetic updates to the CSS. I don't know how to write a non-html-list in markdown using "\n- text". I really sure hope all this messing with digital bullshit will make expressing thoughts easier during more active times in life... This thought has been proceeded to [My Workflow for Written Expression](http://www.rahilpatel.com/blog/my-workflow-for-written-expression).]
+[self-note: this was published using markdown, and is a good for testing it. The original text is in a text file in Dropbox. Can either copy the HTML from the text file using an application (Writebox) or use the Wordpress markdown plugin. It seems I may have been playing with the formatting of highlights and notes, using unordered lists (via markdown), which led to some cosmetic updates to the CSS. I don't know how to write a non-html-list in markdown using "\n- text". I really sure hope all this messing with digital bullshit will make expressing thoughts easier during more active times in life... This thought has been proceeded to [My Workflow for Written Expression](https://mind.rathewolf.com/my-workflow-for-written-expression).]
 
 [todo: this is a super drafty mess of wanderings exported straight from my phone. It shouldn't have been published. I'm probably not going to touch this again though. But at least it was fun, and therefore maybe fun for others to wander along too. History is so, uh, unreal. Man, I'm done with history!]
 
-[Romantic Periods](http://www.rahilpatel.com/blog/the-public-sphere-during-the-second-sophistic#romantic_periods) continued:
+[Romantic Periods](https://mind.rathewolf.com/the-public-sphere-during-the-second-sophistic#romantic_periods) continued:
 Let's call them _ideal [time] periods_. Ideal being, an ideal in my mind at least.
 
 Continuing the search for a certain period of time where people created the greatest ethical and political philosophies. A time where people focused on these things. A time where people cared for one another.

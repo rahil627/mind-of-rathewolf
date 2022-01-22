@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-07 09:00:49+00:00
 layout: post
-link: http://rahilpatel.com/blog/extrovert-and-introvert-learning/
+link: https://mind.rathewolf.com/extrovert-and-introvert-learning/
 slug: extrovert-and-introvert-learning
 title: Extrovert and Introvert Learning
 wordpress_id: 2109
@@ -44,7 +44,7 @@ Hmm, well that seems to cover the basis of it.
 
 I normally view thought as inaction and talking to people as action. But both can be either passively (lazily) done or actively done. Though, to me, it feels quite contradictory that talking to something is a passive thing. Or, perhaps, I don't know how to talk to people passively, and am always overly-excited like Socrates, inquiring instead of casually talking, wanting every social interaction a progressive one for me.
 
-Therefore, I also often feel [books are passive](http://www.rahilpatel.com/blog/books-passive-media-and-the-internet) and dialog is active.
+Therefore, I also often feel [books are passive](https://mind.rathewolf.com/books-passive-media-and-the-internet) and dialog is active.
 
 How people critically think are from two modes: introspection and dialog.
 
@@ -56,4 +56,4 @@ A balance of the two is healthy, but I often fall to the extremes of either.
 
 
 
-This seems to go along the [two phases of life](http://www.rahilpatel.com/blog/two-phases-in-life).
+This seems to go along the [two phases of life](https://mind.rathewolf.com/two-phases-in-life).

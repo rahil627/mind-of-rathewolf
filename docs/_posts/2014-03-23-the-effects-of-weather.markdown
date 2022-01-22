@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-03-23 20:29:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-effects-of-weather/
+link: https://mind.rathewolf.com/the-effects-of-weather/
 slug: the-effects-of-weather
 title: The Effects of Weather
 wordpress_id: 1810
@@ -15,7 +15,7 @@ categories:
 - Travel
 ---
 
-This post is part of [a self-assessment II](http://www.rahilpatel.com/blog/a-self-assessment-ii)
+This post is part of [a self-assessment II](https://mind.rathewolf.com/a-self-assessment-ii)
 
 A surprisingly great factor in my life.
 

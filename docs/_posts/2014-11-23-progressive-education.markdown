@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 03:38:39+00:00
 layout: post
-link: http://rahilpatel.com/blog/progressive-education/
+link: https://mind.rathewolf.com/progressive-education/
 slug: progressive-education
 title: Progressive Education
 wordpress_id: 2752

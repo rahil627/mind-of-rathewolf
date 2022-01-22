@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 11:48:58+00:00
 layout: post
-link: http://rahilpatel.com/blog/fear-of-solitude-in-america/
+link: https://mind.rathewolf.com/fear-of-solitude-in-america/
 slug: fear-of-solitude-in-america
 title: Fear of Solitude in America
 wordpress_id: 3237
@@ -45,7 +45,7 @@ Over-policing cause the bums to continually move toward other covers from wind f
 
 From my experience in East Asia, I did not see this. A homeless person, and even people with homes -- a drunk university kid, and a businessman, could sleep in a public park. They appear quite alright, perhaps tired from the world, but unagitated.
 
-[Homeless Asians are special](http://www.rahilpatel.com/blog/homeless-asians), especially so when seen in the developed world.
+[Homeless Asians are special](https://mind.rathewolf.com/homeless-asians), especially so when seen in the developed world.
 
 Property is a concept I struggle to understand. To pay an enormous amount of money for space above earth. Does this directly derive from slave and slave-masters? Shouldn't this concept be dead in the Information Age? [todo: read Debt: The First 5000 Years]
 

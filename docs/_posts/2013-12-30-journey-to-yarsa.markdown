@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-12-30 16:43:41+00:00
 layout: post
-link: http://rahilpatel.com/blog/journey-to-yarsa/
+link: https://mind.rathewolf.com/journey-to-yarsa/
 slug: journey-to-yarsa
 title: Journey to Yarsa
 wordpress_id: 1399

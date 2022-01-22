@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-19 10:56:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-liberal-arts-self-study-curriculum/
+link: https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum/
 slug: a-liberal-arts-self-study-curriculum
 title: A Liberal Arts Self Study Curriculum
 wordpress_id: 2379
@@ -11,11 +11,11 @@ categories:
 - Philosophy of Education
 ---
 
-Edit: The book portion of this curriculum has been replaced by [a curriculum of experience](http://www.rahilpatel.com/blog/a-curriculum-of-experience).
+Edit: The book portion of this curriculum has been replaced by [a curriculum of experience](https://mind.rathewolf.com/a-curriculum-of-experience).
 
 I've recently felt I've lacked knowledge in liberal arts. People around me have libraries of books. I have nothing. They're able to speak lucidly about certain subjects referencing a common history, whereas I base my knowledge entirely on personal experiences. I have little knowledge in the domain of history (and how knowledge developed historically to affect the present). Though this doesn't mean I dislike my empirical education, nor do I care to listen to dead old white dudes, rather, I just want to verify some thoughts to better organize all of the thoughts I've empirically gathered over the past 5 years.
 
-After a recent [personal journey through books](http://www.rahilpatel.com/blog/a-personal-journey-through-books), the list has been updated accordingly.
+After a recent [personal journey through books](https://mind.rathewolf.com/a-personal-journey-through-books), the list has been updated accordingly.
 
 
 
@@ -105,4 +105,4 @@ A rather outdated source for philosophy is the [ Great Books](http://en.wikipedi
 
 My greatest concern is philosophy, so the Contemporary Civilization syllabus is a perfect fit for me. To supplement the readings, one can use [The Great Courses](http://www.thegreatcourses.com/) lectures and questions (nearly all can be pirated), after each reading. I personally did not care for literature humanities and would even say that films replace them easily. Their music and art syllabus can be completed in a day each just by experiencing the arts. I have not tried the frontiers of science, but it could be good if one doesn't feel that their knowledge in science is cohesive enough, but again, the BBC TV Series probably do a better job at presenting this.
 
-Actually getting access to the books is quite cumbersome, even in the information age, which is a pity. It seems, going to the library still may be one of the best ways. If one prefers actual books at their own abode, then online bookstores are the way. [eBooks are still quite an odd experience, but there _is_ a good application for it](http://www.rahilpatel.com/blog/ebooks). Googling the book name and "epub" or "pdf" is a pretty good way of getting most of the classics through free libraries such as Project Gutenberg. [Someone even took the time to link the Great Books to free online resources](http://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/). Otherwise, one has to pirate modern books. Currently, nearly every book can be pirated through [Library Genesis](http://gen.lib.rus.ec/).
+Actually getting access to the books is quite cumbersome, even in the information age, which is a pity. It seems, going to the library still may be one of the best ways. If one prefers actual books at their own abode, then online bookstores are the way. [eBooks are still quite an odd experience, but there _is_ a good application for it](https://mind.rathewolf.com/ebooks). Googling the book name and "epub" or "pdf" is a pretty good way of getting most of the classics through free libraries such as Project Gutenberg. [Someone even took the time to link the Great Books to free online resources](http://prodigalnomore.wordpress.com/great-books-of-the-western-world-as-free-ebooks/). Otherwise, one has to pirate modern books. Currently, nearly every book can be pirated through [Library Genesis](http://gen.lib.rus.ec/).

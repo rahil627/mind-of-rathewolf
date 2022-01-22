@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 04:21:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/media-studies-and-reality/
+link: https://mind.rathewolf.com/media-studies-and-reality/
 slug: media-studies-and-reality
 title: Media Studies and Reality
 wordpress_id: 3128

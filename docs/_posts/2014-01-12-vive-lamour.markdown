@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-01-12 18:36:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/vive-lamour/
+link: https://mind.rathewolf.com/vive-lamour/
 slug: vive-lamour
 title: 愛情萬歲 (Vive L'Amour)
 wordpress_id: 1520

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-08 15:17:15+00:00
 layout: post
-link: http://rahilpatel.com/blog/okinawana-is-inhospitable/
+link: https://mind.rathewolf.com/okinawana-is-inhospitable/
 slug: okinawana-is-inhospitable
 title: Okinawana is Inhospitable
 wordpress_id: 1983
@@ -12,7 +12,7 @@ categories:
 - Travel
 ---
 
-Building up on past posts  ([Island Nations and Globalization](http://www.rahilpatel.com/blog/island-nations-and-globalization), [Taiwan and Japan: Active and Passive Lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles), [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs)) about my time in Okinawa, I feel that the inhabitants of Okinawa, in addition to living an extremely suburban lifestyle, are very cold.
+Building up on past posts  ([Island Nations and Globalization](https://mind.rathewolf.com/island-nations-and-globalization), [Taiwan and Japan: Active and Passive Lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles), [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs)) about my time in Okinawa, I feel that the inhabitants of Okinawa, in addition to living an extremely suburban lifestyle, are very cold.
 
 There were several instances during my trip I experienced this.
 

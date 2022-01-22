@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-11 10:46:02+00:00
 layout: post
-link: http://rahilpatel.com/blog/new-experience-ethics/
+link: https://mind.rathewolf.com/new-experience-ethics/
 slug: new-experience-ethics
 title: New Experience Ethics
 wordpress_id: 2958
@@ -22,4 +22,4 @@ I had trouble choosing the middle word of the topic. Experience, stimuli, or ext
 
 There's an interview of Chomsky on the 21st century where he mentioned the effects of modern technology can lead to stimulus addiction (? may not be accurate term).
 
-Stimulus addiction leads to irrational behavior, sure, but [external stimulus invokes creativity](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs), which seems to be lacking from rational intellectuals.
+Stimulus addiction leads to irrational behavior, sure, but [external stimulus invokes creativity](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs), which seems to be lacking from rational intellectuals.

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-06-26 18:21:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/book-shops-and-learning/
+link: https://mind.rathewolf.com/book-shops-and-learning/
 slug: book-shops-and-learning
 title: Book-shops and Learning
 wordpress_id: 8064

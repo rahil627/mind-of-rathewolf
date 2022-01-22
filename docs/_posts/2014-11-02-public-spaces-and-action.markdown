@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-02 11:12:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/public-spaces-and-action/
+link: https://mind.rathewolf.com/public-spaces-and-action/
 slug: public-spaces-and-action
 title: Public Spaces and Action
 wordpress_id: 2530

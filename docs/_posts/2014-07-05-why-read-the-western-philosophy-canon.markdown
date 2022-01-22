@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-05 12:08:01+00:00
 layout: post
-link: http://rahilpatel.com/blog/why-read-the-western-philosophy-canon/
+link: https://mind.rathewolf.com/why-read-the-western-philosophy-canon/
 slug: why-read-the-western-philosophy-canon
 title: Why read the Western philosophy canon?
 wordpress_id: 2146

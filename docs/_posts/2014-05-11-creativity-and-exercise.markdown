@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-11 10:31:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-and-exercise/
+link: https://mind.rathewolf.com/creativity-and-exercise/
 slug: creativity-and-exercise
 title: Creativity and Exercise
 wordpress_id: 2007
@@ -13,7 +13,7 @@ categories:
 - Life
 ---
 
-[Old draft. Did not finish, but just posting anyway. I think it goes well with [Methods of Sustaining Creativity in the Same Place](http://www.rahilpatel.com/blog/methods-of-sustaining-creativity-in-the-same-place). Basically, how does one sustain life while consistently creating?]
+[Old draft. Did not finish, but just posting anyway. I think it goes well with [Methods of Sustaining Creativity in the Same Place](https://mind.rathewolf.com/methods-of-sustaining-creativity-in-the-same-place). Basically, how does one sustain life while consistently creating?]
 
 Exercise! It's kind of needed. But it doesn't have to be routine, or boring.
 

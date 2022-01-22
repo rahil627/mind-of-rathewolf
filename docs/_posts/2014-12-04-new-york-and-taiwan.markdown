@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-04 11:12:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/new-york-and-taiwan/
+link: https://mind.rathewolf.com/new-york-and-taiwan/
 slug: new-york-and-taiwan
 title: New York and Taiwan
 wordpress_id: 3632
@@ -29,7 +29,7 @@ Since my stays in both of them, they've been on my mind, as a place I tell mysel
 
 From personal experience, I know the environment affects me greatly. Whether that's a lack of willpower or responsibilities doesn't matter. It affects my social construction of the world and what I do -- for work and art. Therefore, the choice in environment is the greatest.
 
-In [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blog/searching-for-the-greatest-environment-ethics), I came to the conclusion that:
+In [Searching for the Greatest Environment Ethics](https://mind.rathewolf.com/searching-for-the-greatest-environment-ethics), I came to the conclusion that:
 
 
 <blockquote>A single small community is exclusive (the reason for my apathy of college towns). The community must be inclusive. A community of communities, including public interaction — a city, or even a country.</blockquote>
@@ -37,7 +37,7 @@ In [Searching for the Greatest Environment Ethics](http://www.rahilpatel.com/blo
 
 An inclusive city or country is better than an exclusive institution.
 
-In [Philosophy from Media versus Life; New York versus the World](http://www.rahilpatel.com/blog/philosophy-from-media-versus-life-new-york-versus-the-world) I questioned:
+In [Philosophy from Media versus Life; New York versus the World](https://mind.rathewolf.com/philosophy-from-media-versus-life-new-york-versus-the-world) I questioned:
 
 
 <blockquote>Does America consume more media than the rest of the world? Especially compared to social nations such as those in South East Asia and Taiwan?</blockquote>
@@ -54,7 +54,7 @@ I don't think so. Taiwanese people consume a lot of media too. But the way they 
 
 Now I begin to question this, is a few good relationships really enough to make up for the deficit of good characteristics of the environment?
 
-From [Public Places](http://www.rahilpatel.com/blog/public-places):
+From [Public Places](https://mind.rathewolf.com/public-places):
 
 
 <blockquote>In East Asia, it didn’t matter where I slept; There’s no crime there. I’d sleep when I was tired, or at a friend’s house, or at a park. It cut commute time.
@@ -74,7 +74,7 @@ Public places in cities I think are closely associated to freedom. The sense of 
 
 
 
-Though I've become quite resistant toward commodities and an adherant of [minimalism ethics](http://www.rahilpatel.com/blog/minimalism-ethics), I fear that over time that it may be possible to recondition my mind toward more capitalistic behavior.
+Though I've become quite resistant toward commodities and an adherant of [minimalism ethics](https://mind.rathewolf.com/minimalism-ethics), I fear that over time that it may be possible to recondition my mind toward more capitalistic behavior.
 
 During my short time in New York, just by following the belief of not eating out alienated me of several chances of social interaction.
 
@@ -90,7 +90,7 @@ There is no free wifi in New York. Its age is showing. I don't think modern arch
 A lot of my negative thoughts of New York are based on my visit after traveling, which is kind of unfair. Even worse, I spent quite a bit of time on Manhattan because the school is there. It was quite a suffocating experience. When I used to live in Brooklyn, things seemed much peachier.
 --
 
-From [I Still Don't Understand](http://www.rahilpatel.com/blog/i-still-dont-understand):
+From [I Still Don't Understand](https://mind.rathewolf.com/i-still-dont-understand):
 
 
 <blockquote>To live in a society where one has to constantly, consciously and unconsciously, make decisions to avoid doing wrong, especially in simple daily actions such as buying food and discarding trash, to ignore indoctrination and propaganda, obvious or not, is the result of a failed society.
@@ -113,7 +113,7 @@ Taiwan throws out the trash themselves, know what they're eating and drinking (k
 
 New York suffers greatly from this. It is an entirely artificial world. People throw trash anywhere, nothing is recycled (though it's negligible compared to larger matters), there's over-consumption and over-production, teachers are underpaid and under-appreciated, and the food comes from the top food manufacturers which themselves have awful ethics. Poor ethics exist from the top to bottom.
 
-From [Creativity as Organization from Chaos](http://www.rahilpatel.com/blog/creativity-as-organization-from-chaos):
+From [Creativity as Organization from Chaos](https://mind.rathewolf.com/creativity-as-organization-from-chaos):
 
 
 <blockquote>If this is the case, then it is best to live on the edge of society. Cities are the most potent area of human organization. One needs distance, surround oneself with less common materials, then create. It will also lead to a more creatively efficient lifestyle, as the mind struggle to piece together the world into new designs and idea</blockquote>
@@ -129,7 +129,7 @@ In San Francisco, I also spent quite a bit of time biking around Golden Gate par
 Taiwan feels it goes further though. I can go to other cities, towns, or farms, beautiful natural places. This is because Taiwan has a fantastic train system that goes around the country at every hour, whereas the public transportation of America is limited to the metro system and infrequent buses with no stops on the coasts.The train has a huge enabling effect. I have a friend who works on in one city and commutes to another one-quarter across the island. It was very easy for me to move to another city and work. There's a feeling that one could work anywhere on the island, save the mountains in the middle, because of it, and people do. Many people in Taipei school or work for a short period, or even commute from other cities everyday. Low-cost trains have such a strong effect that I bet if America was linked by trains, the suburbs would have died much quicker, having people move into cities.*
 --
 
-From [The Ideal Neighborhood](http://www.rahilpatel.com/blog/the-ideal-neighborhood):
+From [The Ideal Neighborhood](https://mind.rathewolf.com/the-ideal-neighborhood):
 
 
 
@@ -175,7 +175,7 @@ It's possible to live in a community and ignore anything higher in structure, bu
 
 If a failed government doesn't have the solidarity for successful activism, not just Ferguson, then the I think that the people of the country don't care much for their own country or of others.
 
-To even have morals (and not confused with patriotism and "defense") is new to me. Though I attended John Stewart's march and Occupy Wall St. I didn't have much hope in it. Contrarily, [The Sunflower Movement](http://www.rahilpatel.com/blog/a-foreigner-crashes-at-the-legislative-yuans-slumber-party) was a profound experience.
+To even have morals (and not confused with patriotism and "defense") is new to me. Though I attended John Stewart's march and Occupy Wall St. I didn't have much hope in it. Contrarily, [The Sunflower Movement](https://mind.rathewolf.com/a-foreigner-crashes-at-the-legislative-yuans-slumber-party) was a profound experience.
 --
 
 There's no better way of understanding a country than traveling around it, and any traveller will tell you that like Southeast Asia, Taiwanese people are polite, courteous, and extremely helpful.

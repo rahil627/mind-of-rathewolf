@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-19 20:00:54+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-obsolescence-of-literature-and-the-future-of-education/
+link: https://mind.rathewolf.com/the-obsolescence-of-literature-and-the-future-of-education/
 slug: the-obsolescence-of-literature-and-the-future-of-education
 title: The Obsolescence of Literature and the Future of Education
 wordpress_id: 2294
@@ -20,7 +20,7 @@ Watchmen had great insight into psychology and philosophy (which I didn't know t
 
 So, that left one book and one comic book until the age of 27, after listening to a philosophy lectures series, I found myself in the Western philosophy section of a book store reading away. What a weird experience: to read books.
 
-I was recently going over what I felt would be a [liberal arts education](http://www.rahilpatel.com/blog/a-liberal-arts-self-study-curriculum) through media, books being the main thing to catch up on. After going through some, I confirmed some old beliefs, notably: books _are_ dead.
+I was recently going over what I felt would be a [liberal arts education](https://mind.rathewolf.com/a-liberal-arts-self-study-curriculum) through media, books being the main thing to catch up on. After going through some, I confirmed some old beliefs, notably: books _are_ dead.
 
 In literature there is less content per time. In film, the mind takes it all in. The detail is infinite. If "a picture tells a thousand words" then a film tells millions. This is why I never read books with lengthy descriptions of things; I don't want to read about how a bedpost appears. The ideas are conveyed equally in films, just faster.
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-30 22:01:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-sequential-list-of-game-experiences-that-i-remember/
+link: https://mind.rathewolf.com/a-sequential-list-of-game-experiences-that-i-remember/
 slug: a-sequential-list-of-game-experiences-that-i-remember
 title: A Sequential List of Game Experiences that I Remember
 wordpress_id: 2060

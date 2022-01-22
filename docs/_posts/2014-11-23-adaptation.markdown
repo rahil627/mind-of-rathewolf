@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 02:45:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/adaptation/
+link: https://mind.rathewolf.com/adaptation/
 slug: adaptation
 title: Adaptation
 wordpress_id: 3056
@@ -28,7 +28,7 @@ I adapt to my surroundings. In Seoul I eat what's around me, at that price, and 
 
 
 
-Before adapting to society, I go through an [absurd](http://www.rahilpatel.com/blog/absurdism) phase.
+Before adapting to society, I go through an [absurd](https://mind.rathewolf.com/absurdism) phase.
 
 
 

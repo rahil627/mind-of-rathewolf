@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2007-07-15 19:04:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-custom-built-pc/
+link: https://mind.rathewolf.com/my-custom-built-pc/
 slug: my-custom-built-pc
 title: My Custom Built PC
 wordpress_id: 926

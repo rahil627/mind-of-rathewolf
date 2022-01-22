@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-09-28 13:30:34+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-life-trajectories/
+link: https://mind.rathewolf.com/early-life-trajectories/
 slug: early-life-trajectories
 title: Early Life Trajectories
 wordpress_id: 6539

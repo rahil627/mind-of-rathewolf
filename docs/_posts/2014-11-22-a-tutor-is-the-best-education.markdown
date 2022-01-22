@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:06:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-tutor-is-the-best-education/
+link: https://mind.rathewolf.com/a-tutor-is-the-best-education/
 slug: a-tutor-is-the-best-education
 title: A Tutor is the Best Education
 wordpress_id: 3027

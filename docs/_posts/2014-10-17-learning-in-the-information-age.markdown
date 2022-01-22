@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-10-17 04:46:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/learning-in-the-information-age/
+link: https://mind.rathewolf.com/learning-in-the-information-age/
 slug: learning-in-the-information-age
 title: Learning in the Information Age
 wordpress_id: 2523
@@ -16,7 +16,7 @@ This is just a short thought from today, which rambled into meaningless gibberis
 
 If a person's goal is to gain a lot of knowledge, then an efficient way of quickly gaining it is worth considering.
 
-In the past I made [a personal post about a way of living](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge), progressive education [todo: books are dead], but I this post covers learning fundamentally, the transfer of knowledge.
+In the past I made [a personal post about a way of living](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge), progressive education [todo: books are dead], but I this post covers learning fundamentally, the transfer of knowledge.
 
 Let's start with two methods: boring and fun.
 

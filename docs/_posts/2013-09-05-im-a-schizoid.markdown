@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-05 10:51:41+00:00
 layout: post
-link: http://rahilpatel.com/blog/im-a-schizoid/
+link: https://mind.rathewolf.com/im-a-schizoid/
 slug: im-a-schizoid
 title: I'm a Schizoid
 wordpress_id: 1293

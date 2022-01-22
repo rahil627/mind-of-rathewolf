@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-07 13:59:22+00:00
 layout: post
-link: http://rahilpatel.com/blog/island-nations-and-globalization/
+link: https://mind.rathewolf.com/island-nations-and-globalization/
 slug: island-nations-and-globalization
 title: Island Nations and Globalization
 wordpress_id: 1979
@@ -13,7 +13,7 @@ categories:
 - Travel
 ---
 
-This post along with several others including related posts, [Creativity, External Stimuli, Cities, and Suburbs](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs) and [Taiwan and Japan: Active and Passive Lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles), were all written during my 10 day visa run in Okinawa.
+This post along with several others including related posts, [Creativity, External Stimuli, Cities, and Suburbs](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs) and [Taiwan and Japan: Active and Passive Lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles), were all written during my 10 day visa run in Okinawa.
 
 Okinawa, as I mentioned in past posts is a scary boring suburb. The streets are empty at all times of the day. Well, empty of pedestrians; There's tons of cars. Even the main street in it's largest city is empty. Lone business men dressed in high quality black sacks, black shoes, and an Hawaiian [flower patterned] shirt can be spotted in some neighborhoods with a bag from a nearby convenience store filled with individual sized food and drink. Nobody else is outside. Inside, people laze around passively consuming media on their computers and television. Instead of socializing, people stand outside and smoke. Everyone smokes.
 

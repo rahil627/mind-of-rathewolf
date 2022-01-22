@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-18 10:00:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/underground-music-speaker/
+link: https://mind.rathewolf.com/underground-music-speaker/
 slug: underground-music-speaker
 title: Underground Music Speaker
 wordpress_id: 2334
@@ -16,7 +16,7 @@ Have a speaker in a public place above ground playing music live from a street m
 
 
 
-[![underground music](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/underground-music.svg)](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/underground-music.svg)
+[![underground music](https://mind.rathewolf.com/wp-content/uploads/2014/09/underground-music.svg)](https://mind.rathewolf.com/wp-content/uploads/2014/09/underground-music.svg)
 
 
 

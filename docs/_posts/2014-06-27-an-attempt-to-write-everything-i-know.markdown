@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-27 21:11:19+00:00
 layout: post
-link: http://rahilpatel.com/blog/an-attempt-to-write-everything-i-know/
+link: https://mind.rathewolf.com/an-attempt-to-write-everything-i-know/
 slug: an-attempt-to-write-everything-i-know
 title: An Attempt to Write Everything I Know
 wordpress_id: 2134

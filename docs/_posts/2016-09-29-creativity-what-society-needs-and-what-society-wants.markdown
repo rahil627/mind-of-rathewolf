@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-09-29 04:08:57+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-what-society-needs-and-what-society-wants/
+link: https://mind.rathewolf.com/creativity-what-society-needs-and-what-society-wants/
 slug: creativity-what-society-needs-and-what-society-wants
 title: Creativity, What Society Needs, and What Society Wants
 wordpress_id: 7799

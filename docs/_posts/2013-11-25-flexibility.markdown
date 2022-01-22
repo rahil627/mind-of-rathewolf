@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-11-25 11:17:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/flexibility/
+link: https://mind.rathewolf.com/flexibility/
 slug: flexibility
 title: Flexibility
 wordpress_id: 1254
@@ -11,7 +11,7 @@ categories:
 - Psychology
 ---
 
-[todo: I think I was getting at adaptation in nature and humans, but never completed. Related post: [Flexibility and Immigration](http://www.rahilpatel.com/blog/flexibility-and-immigration)]
+[todo: I think I was getting at adaptation in nature and humans, but never completed. Related post: [Flexibility and Immigration](https://mind.rathewolf.com/flexibility-and-immigration)]
 
 
 

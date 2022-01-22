@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-26 09:41:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/la-planete-sauvage/
+link: https://mind.rathewolf.com/la-planete-sauvage/
 slug: la-planete-sauvage
 title: La Planète Sauvage (Fantastic Planet)
 wordpress_id: 677

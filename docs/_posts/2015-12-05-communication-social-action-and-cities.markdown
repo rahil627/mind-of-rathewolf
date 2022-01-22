@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-05 17:20:33+00:00
 layout: post
-link: http://rahilpatel.com/blog/communication-social-action-and-cities/
+link: https://mind.rathewolf.com/communication-social-action-and-cities/
 slug: communication-social-action-and-cities
 title: Communication, Social Action, and Cities
 wordpress_id: 5268
@@ -19,7 +19,7 @@ categories:
 - Urban Philosophy
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 When one infuses messages into a medium, it does count as communication until someone else extracts the messages.
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-10-19 06:41:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/film-socialisme/
+link: https://mind.rathewolf.com/film-socialisme/
 slug: film-socialisme
 title: Film Socialisme (Film Socialism)
 wordpress_id: 222

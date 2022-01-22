@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-08-13 08:25:52+00:00
 layout: post
-link: http://rahilpatel.com/blog/is-nature-necessary/
+link: https://mind.rathewolf.com/is-nature-necessary/
 slug: is-nature-necessary
 title: Is Nature Necessary?
 wordpress_id: 4195

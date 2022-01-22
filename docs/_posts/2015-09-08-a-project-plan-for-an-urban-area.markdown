@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-08 00:56:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-project-plan-for-an-urban-area/
+link: https://mind.rathewolf.com/a-project-plan-for-an-urban-area/
 slug: a-project-plan-for-an-urban-area
 title: A Project Plan for an Urban Area
 wordpress_id: 4660
@@ -16,7 +16,7 @@ categories:
 - Urban Philosophy
 ---
 
-First written to narrow down my interests for an application for MIT Media Lab, then formalized for the Democracy and Human Rights Service Fellowship by the Taiwan Foundation for Democracy, then rewritten for Open Society Fellowship, it is nearly entirely based on personal desires and ideals, and serves as a good snapshot of my desires and ideals at the time, which is [quite different from two year ago](http://www.rahilpatel.com/blog/a-personal-statement-for-design-and-technology).
+First written to narrow down my interests for an application for MIT Media Lab, then formalized for the Democracy and Human Rights Service Fellowship by the Taiwan Foundation for Democracy, then rewritten for Open Society Fellowship, it is nearly entirely based on personal desires and ideals, and serves as a good snapshot of my desires and ideals at the time, which is [quite different from two year ago](https://mind.rathewolf.com/a-personal-statement-for-design-and-technology).
 
 **written for OSF and TFD (newer)**:
 

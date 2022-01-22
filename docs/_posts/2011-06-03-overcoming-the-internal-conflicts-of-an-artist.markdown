@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-06-03 21:21:40+00:00
 layout: post
-link: http://rahilpatel.com/blog/overcoming-the-internal-conflicts-of-an-artist/
+link: https://mind.rathewolf.com/overcoming-the-internal-conflicts-of-an-artist/
 slug: overcoming-the-internal-conflicts-of-an-artist
 title: Overcoming the Internal Conflicts of an Artist
 wordpress_id: 142

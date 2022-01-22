@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-10 12:27:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/hypomania/
+link: https://mind.rathewolf.com/hypomania/
 slug: hypomania
 title: Hypomania
 wordpress_id: 2119
@@ -14,7 +14,7 @@ categories:
 - Travel
 ---
 
-[Did not read this, but it seems I wrote it during my travels. TODO: need to read and expand. Also see, [SPD in Korea](http://www.rahilpatel.com/blog/korea-and-the-apex-of-spd)]
+[Did not read this, but it seems I wrote it during my travels. TODO: need to read and expand. Also see, [SPD in Korea](https://mind.rathewolf.com/korea-and-the-apex-of-spd)]
 
 During much of my time in Asia (Taipei, Taiwan, Bangkok, Kuala Lumpur, Penang, India, and Taipei again) I experienced high anxiety, loss of reality, and unimaginable happiness.
 

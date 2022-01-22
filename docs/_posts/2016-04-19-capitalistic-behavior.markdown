@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-04-19 13:06:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/capitalistic-behavior/
+link: https://mind.rathewolf.com/capitalistic-behavior/
 slug: capitalistic-behavior
 title: Capitalistic Behavior
 wordpress_id: 6368
@@ -53,7 +53,7 @@ In **Seoul**, one really gets a strong sense of capitalistic behavior. That, the
 
 In **Tokyo**, the capitalistic behavior pervades, but perhaps is weaker in some parts. Of work, it is the same as Seoul: the old bergousie wealth culture, mannerism still exist. But it doesn't extend to entertainment, or their everyday life after work. They have unique arts, though, itself extremely insular. When they have free time, they don't go to malls (well, many do), but they might actually go home and play some video games, or actually go to a park.
 
-In **Taiwan**, the capitalist behavior is the weakest [of East Asia], hence the lack of economic boom. Somewhere in the culture (Confucius?, benevolence is prioritized over 'profit'?) having _an experience_ (a la Dewey) at a good price is prioritized. Every experience is calculated, from snacks to flights. Thus, perhaps, going to Thailand is better than going to a developed country, because there is more experience in Thailand. **Maximizing experience is the categorical imperative.** Strive to make every action a social experience. Try anything. Nothing is looked down upon, instead people _cheer_ you on (加油). It doesn't matter what the direction is, therefore, capital does not affect their actions; It doesn't matter if an action generates capital or not; Just do it for the experience. Go on, _try_ (试试看) riding a skateboard, or hunting wild boars with aboriginals. Who cares. If one fails (which is pathetically often the case), oh well. It was worth trying; **It was worth the experience of trying**. If one runs out of capital, well, one must _work_ (工作) for it, it's one's _duty_ (负责). Playtime (玩) is over. But surely after work, maybe even during work, and after saving a little, one can play again. Thus, **capital here is merely something needed in order to try things, to take actions in desired, natural directions**. Those directions could be to have an experience (try something new: food, travel, art), urbanize a [comfortable place](http://www.rahilpatel.com/blog/creating-comfortable-places), or volunteer to try _to do good_ (热情) for one's society. **Capitalism limits behavior, but only for the time necessary to earn capital.**
+In **Taiwan**, the capitalist behavior is the weakest [of East Asia], hence the lack of economic boom. Somewhere in the culture (Confucius?, benevolence is prioritized over 'profit'?) having _an experience_ (a la Dewey) at a good price is prioritized. Every experience is calculated, from snacks to flights. Thus, perhaps, going to Thailand is better than going to a developed country, because there is more experience in Thailand. **Maximizing experience is the categorical imperative.** Strive to make every action a social experience. Try anything. Nothing is looked down upon, instead people _cheer_ you on (加油). It doesn't matter what the direction is, therefore, capital does not affect their actions; It doesn't matter if an action generates capital or not; Just do it for the experience. Go on, _try_ (试试看) riding a skateboard, or hunting wild boars with aboriginals. Who cares. If one fails (which is pathetically often the case), oh well. It was worth trying; **It was worth the experience of trying**. If one runs out of capital, well, one must _work_ (工作) for it, it's one's _duty_ (负责). Playtime (玩) is over. But surely after work, maybe even during work, and after saving a little, one can play again. Thus, **capital here is merely something needed in order to try things, to take actions in desired, natural directions**. Those directions could be to have an experience (try something new: food, travel, art), urbanize a [comfortable place](https://mind.rathewolf.com/creating-comfortable-places), or volunteer to try _to do good_ (热情) for one's society. **Capitalism limits behavior, but only for the time necessary to earn capital.**
 
 [todo: America. 
 
@@ -65,13 +65,13 @@ In Virginia, the suburbs of which I've come from, corporations have nearly defea
 
 The work in Virginia is either corporate or government, the latter, having a large military presence. Do the engineering for some part of some battleship or spacecraft or secret intelligence program. They're huge enterprises, and the work is a tiny cog (todo: link to Helplessness Blues). My school spit out cogs for SPAWAR, NAVSEA, NASA, and DARPA. But somehow, **no student saw the simple ends: war, wasting capital toward positive science, and building an Orwellian society. That's the American education.** Hurray science! Use a STEM-pack. Ah yeah, that's the stuff!
 
-SF, see [Silicon Valley and Capitalism](http://www.rahilpatel.com/blog/silicon-valley-and-capitalism).
+SF, see [Silicon Valley and Capitalism](https://mind.rathewolf.com/silicon-valley-and-capitalism).
 
 NY?]
 
 [todo: every other society I've experienced]
 
-[very much related to [my posts on criticism of capitalism](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).]
+[very much related to [my posts on criticism of capitalism](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).]
 --
 
 

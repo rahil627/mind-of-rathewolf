@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-07-20 20:51:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/self-service-housing/
+link: https://mind.rathewolf.com/self-service-housing/
 slug: self-service-housing
 title: Self-service Housing
 wordpress_id: 4190

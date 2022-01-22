@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:43:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/self-interest-ethics/
+link: https://mind.rathewolf.com/self-interest-ethics/
 slug: self-interest-ethics
 title: Self-Interest Ethics
 wordpress_id: 2770

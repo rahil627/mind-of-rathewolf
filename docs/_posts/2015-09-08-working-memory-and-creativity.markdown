@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-08 21:07:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/working-memory-and-creativity/
+link: https://mind.rathewolf.com/working-memory-and-creativity/
 slug: working-memory-and-creativity
 title: Working Memory and Creativity
 wordpress_id: 4361

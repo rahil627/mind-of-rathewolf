@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 06:57:26+00:00
 layout: post
-link: http://rahilpatel.com/blog/bland-apartment-buildings/
+link: https://mind.rathewolf.com/bland-apartment-buildings/
 slug: bland-apartment-buildings
 title: Bland Apartment Buildings
 wordpress_id: 2690

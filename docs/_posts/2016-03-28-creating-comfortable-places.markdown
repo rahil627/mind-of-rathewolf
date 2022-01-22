@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-28 12:31:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/creating-comfortable-places/
+link: https://mind.rathewolf.com/creating-comfortable-places/
 slug: creating-comfortable-places
 title: Creating Comfortable Places
 wordpress_id: 6284

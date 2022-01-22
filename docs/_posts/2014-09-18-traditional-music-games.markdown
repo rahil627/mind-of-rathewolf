@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-18 09:24:20+00:00
 layout: post
-link: http://rahilpatel.com/blog/traditional-music-games/
+link: https://mind.rathewolf.com/traditional-music-games/
 slug: traditional-music-games
 title: Traditional Music Games
 wordpress_id: 2319
@@ -18,7 +18,7 @@ Connect Taiko No Tatsujin to tablas using Makey Makey at a Gurudwara.
 
 
 
-![traditional games](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/traditional-games1.svg)
+![traditional games](https://mind.rathewolf.com/wp-content/uploads/2014/09/traditional-games1.svg)
 
 
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-01 12:39:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/talking-to-myself-during-a-late-night-from-an-isolated-place/
+link: https://mind.rathewolf.com/talking-to-myself-during-a-late-night-from-an-isolated-place/
 slug: talking-to-myself-during-a-late-night-from-an-isolated-place
 title: Talking to Myself During a Late Night from an Isolated Place
 wordpress_id: 5196
@@ -13,7 +13,7 @@ categories:
 - Personal
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 Hmmm, I'm guessing I was feeling a bit pooped when I wrote this, saw a video of you, which reminded me of you, and felt like talking it out:
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-08-08 16:17:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/maboroshi-no-hikari/
+link: https://mind.rathewolf.com/maboroshi-no-hikari/
 slug: maboroshi-no-hikari
 title: 幻の光 (~Will-o'-wisp )
 wordpress_id: 7777

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 05:46:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/hedonism/
+link: https://mind.rathewolf.com/hedonism/
 slug: hedonism
 title: Hedonism
 wordpress_id: 3023

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-09-29 06:36:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-jack-of-all-trades/
+link: https://mind.rathewolf.com/the-jack-of-all-trades/
 slug: the-jack-of-all-trades
 title: The Jack of all Trades
 wordpress_id: 173
@@ -23,7 +23,7 @@ tags:
 - independent video game
 ---
 
-[Play the game](http://www.rahilpatel.com/the_jack_of_all_trades.html).
+[Play the game](https://mind.rathewolf.com/the_jack_of_all_trades.html).
 
 This game is my submission for the Experimental Gameplay Project. The theme is [story game.](http://experimentalgameplay.com/blog/2011/09/story-game-in-september-2011/)
 

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-06 08:22:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/teaching-in-poor-places/
+link: https://mind.rathewolf.com/teaching-in-poor-places/
 slug: teaching-in-poor-places
 title: Teaching in Poor Places
 wordpress_id: 2656

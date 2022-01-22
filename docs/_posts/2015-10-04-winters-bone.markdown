@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-10-04 23:36:22+00:00
 layout: post
-link: http://rahilpatel.com/blog/winters-bone/
+link: https://mind.rathewolf.com/winters-bone/
 slug: winters-bone
 title: Winter's Bone
 wordpress_id: 4882

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-05-26 04:52:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-thought-about-creative-careers-and-the-influence-of-money/
+link: https://mind.rathewolf.com/a-thought-about-creative-careers-and-the-influence-of-money/
 slug: a-thought-about-creative-careers-and-the-influence-of-money
 title: A Thought about Creative Careers and the Influence of Money
 wordpress_id: 123

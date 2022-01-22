@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-02 19:57:22+00:00
 layout: post
-link: http://rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs/
+link: https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs/
 slug: creativity-external-stimuli-cities-and-suburbs
 title: Creativity, External Stimuli, Cities, and Suburbs
 wordpress_id: 1922

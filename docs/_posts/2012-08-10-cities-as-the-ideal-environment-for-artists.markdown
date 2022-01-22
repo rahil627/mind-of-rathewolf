@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-08-10 14:03:29+00:00
 layout: post
-link: http://rahilpatel.com/blog/cities-as-the-ideal-environment-for-artists/
+link: https://mind.rathewolf.com/cities-as-the-ideal-environment-for-artists/
 slug: cities-as-the-ideal-environment-for-artists
 title: Cities as the Ideal Environment for Artists
 wordpress_id: 6567

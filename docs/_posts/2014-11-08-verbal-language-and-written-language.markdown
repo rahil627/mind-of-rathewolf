@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 12:49:06+00:00
 layout: post
-link: http://rahilpatel.com/blog/verbal-language-and-written-language/
+link: https://mind.rathewolf.com/verbal-language-and-written-language/
 slug: verbal-language-and-written-language
 title: Verbal Language and Written Language
 wordpress_id: 2891

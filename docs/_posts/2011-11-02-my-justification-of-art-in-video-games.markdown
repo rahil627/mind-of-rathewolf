@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-02 22:46:49+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-justification-of-art-in-video-games/
+link: https://mind.rathewolf.com/my-justification-of-art-in-video-games/
 slug: my-justification-of-art-in-video-games
 title: My Justification of Art in Video Games
 wordpress_id: 306

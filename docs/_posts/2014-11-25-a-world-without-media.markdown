@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 12:42:08+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-world-without-media/
+link: https://mind.rathewolf.com/a-world-without-media/
 slug: a-world-without-media
 title: A World without Media
 wordpress_id: 3061

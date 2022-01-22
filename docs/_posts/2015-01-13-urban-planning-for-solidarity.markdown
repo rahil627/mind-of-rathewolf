@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-13 04:40:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/urban-planning-for-solidarity/
+link: https://mind.rathewolf.com/urban-planning-for-solidarity/
 slug: urban-planning-for-solidarity
 title: Urban Planning for Solidarity
 wordpress_id: 3901

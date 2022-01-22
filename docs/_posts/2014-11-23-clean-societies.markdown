@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-23 03:11:36+00:00
 layout: post
-link: http://rahilpatel.com/blog/clean-societies/
+link: https://mind.rathewolf.com/clean-societies/
 slug: clean-societies
 title: Clean Societies
 wordpress_id: 3101

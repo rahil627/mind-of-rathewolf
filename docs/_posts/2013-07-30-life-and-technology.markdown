@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-07-30 18:10:10+00:00
 layout: post
-link: http://rahilpatel.com/blog/life-and-technology/
+link: https://mind.rathewolf.com/life-and-technology/
 slug: life-and-technology
 title: Life and Technology
 wordpress_id: 1096

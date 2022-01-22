@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-02 21:57:26+00:00
 layout: post
-link: http://rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles/
+link: https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles/
 slug: taiwan-and-japan-active-and-passive-lifestyles
 title: 'Taiwan and Japan: Active and Passive Lifestyles'
 wordpress_id: 1919
@@ -33,7 +33,7 @@ I wouldn't want to live in a country where the most social interaction is readin
 
 Everything in Japan takes place either indoors or at machines. Shopping for groceries, buying snacks, ordering at a restaurant, transportation, before work, working, after-work, having fun, all the time. There's nothing to see on the outside. There is no street culture. The most one can witness is the mass of people commuting to and from work in Tokyo's busy areas.
 
-There's not enough [external stimuli](http://www.rahilpatel.com/blog/creativity-external-stimuli-cities-and-suburbs) for me. And if I can't socialize with the people, then there's no other hope to fulfill my need for it. There's nothing to see or talk to. And I don't enjoy passively consuming, even in the company of others.
+There's not enough [external stimuli](https://mind.rathewolf.com/creativity-external-stimuli-cities-and-suburbs) for me. And if I can't socialize with the people, then there's no other hope to fulfill my need for it. There's nothing to see or talk to. And I don't enjoy passively consuming, even in the company of others.
 
 Taiwanese people, in contrast live a highly active lifestyle. They're talking all of the time. With their friends next to them or through LINE, to the public (food and drink vendors [not machines!], service industry). Far less spend time is spent playing dull games or consuming dull media in the company of others. Perhaps they will play in a subway, but that is because none of their relations are physically around them.
 

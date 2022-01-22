@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2009-12-23 14:26:50+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-music-criticism/
+link: https://mind.rathewolf.com/early-music-criticism/
 slug: early-music-criticism
 title: Early Music Criticism
 wordpress_id: 6704

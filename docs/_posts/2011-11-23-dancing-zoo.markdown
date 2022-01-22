@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-11-23 17:45:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/dancing-zoo/
+link: https://mind.rathewolf.com/dancing-zoo/
 slug: dancing-zoo
 title: 춤추는 동물원 (Dancing Zoo)
 wordpress_id: 349

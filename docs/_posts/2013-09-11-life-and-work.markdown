@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-11 16:47:19+00:00
 layout: post
-link: http://rahilpatel.com/blog/life-and-work/
+link: https://mind.rathewolf.com/life-and-work/
 slug: life-and-work
 title: Life and Work
 wordpress_id: 1341

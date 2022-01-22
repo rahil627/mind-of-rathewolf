@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-04-16 02:45:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/media-and-action/
+link: https://mind.rathewolf.com/media-and-action/
 slug: media-and-action
 title: Media and Action
 wordpress_id: 6353

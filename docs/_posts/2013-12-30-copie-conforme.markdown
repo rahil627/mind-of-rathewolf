@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-12-30 17:08:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/copie-conforme/
+link: https://mind.rathewolf.com/copie-conforme/
 slug: copie-conforme
 title: Copie conforme (Certified Copy)
 wordpress_id: 1401

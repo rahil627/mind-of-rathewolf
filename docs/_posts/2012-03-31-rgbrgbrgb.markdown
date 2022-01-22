@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-03-31 21:34:38+00:00
 layout: post
-link: http://rahilpatel.com/blog/rgbrgbrgb/
+link: https://mind.rathewolf.com/rgbrgbrgb/
 slug: rgbrgbrgb
 title: RGBRGBRGB
 wordpress_id: 702
@@ -18,7 +18,7 @@ tags:
 - rts
 ---
 
-[Play the game](http://rahilpatel.com/rgbrgbrgb.html).
+[Play the game](https://mind.rathewolf.com/rgbrgbrgb.html).
 
 This is my entry [Experimental Gameplay March 2012](http://experimentalgameplay.com/blog/2012/03/economy-in-march-2012/). The theme is economy. It is the result of developing a game without thinking about the core game mechanic first. It is a complete failure.
 

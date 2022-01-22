@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-02-26 20:24:35+00:00
 layout: post
-link: http://rahilpatel.com/blog/an-analysis-of-a-playtest-on-kids/
+link: https://mind.rathewolf.com/an-analysis-of-a-playtest-on-kids/
 slug: an-analysis-of-a-playtest-on-kids
 title: An Analysis of a Playtest on Kids, and Thoughts about Designing Games for a
   Large Audience

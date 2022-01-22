@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-22 07:09:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/post-war-in-post-political-societies/
+link: https://mind.rathewolf.com/post-war-in-post-political-societies/
 slug: post-war-in-post-political-societies
 title: Post-war in Post-political Societies
 wordpress_id: 4052

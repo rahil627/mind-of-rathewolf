@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-07 06:21:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/city-experience-and-media/
+link: https://mind.rathewolf.com/city-experience-and-media/
 slug: city-experience-and-media
 title: City Experience and Media
 wordpress_id: 2686

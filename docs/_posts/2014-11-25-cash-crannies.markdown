@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-25 12:53:36+00:00
 layout: post
-link: http://rahilpatel.com/blog/cash-crannies/
+link: https://mind.rathewolf.com/cash-crannies/
 slug: cash-crannies
 title: Cash Crannies
 wordpress_id: 2985

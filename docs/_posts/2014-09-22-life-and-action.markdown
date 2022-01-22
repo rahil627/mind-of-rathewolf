@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-22 12:12:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/life-and-action/
+link: https://mind.rathewolf.com/life-and-action/
 slug: life-and-action
 title: Life and Action
 wordpress_id: 2490

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-07-21 21:04:59+00:00
 layout: post
-link: http://rahilpatel.com/blog/self-service-work/
+link: https://mind.rathewolf.com/self-service-work/
 slug: self-service-work
 title: Self-service Work
 wordpress_id: 4192
@@ -11,7 +11,7 @@ categories:
 - Urban Philosophy
 ---
 
-Perhaps an idea for more [autonomous societies](http://www.rahilpatel.com/blog/autonomy-of-taiwan) is to create a [self-service house](http://www.rahilpatel.com/blog/self-service-housing) with a job attached to it. It could simply be a space with instructions for work on a sheet of paper inside of it.
+Perhaps an idea for more [autonomous societies](https://mind.rathewolf.com/autonomy-of-taiwan) is to create a [self-service house](https://mind.rathewolf.com/self-service-housing) with a job attached to it. It could simply be a space with instructions for work on a sheet of paper inside of it.
 
 The work is likely something local. Natural resource gathering jobs came to my mind first, for example: gather honey, fishing, cleaning the environment, farming (requires some scheduling), most materialistic jobs, most natural science gathering (material analyzing / data gathering) jobs.
 

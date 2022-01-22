@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-03 23:50:18+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-revolution-will-not-be-in-the-bedroom/
+link: https://mind.rathewolf.com/the-revolution-will-not-be-in-the-bedroom/
 slug: the-revolution-will-not-be-in-the-bedroom
 title: The Revolution Will Not Be in the Bedroom
 wordpress_id: 4576
@@ -54,7 +54,7 @@ The problem occurs when people use their digital devices in solitude. This destr
 
 Perhaps it was the fact that desktop computers were invented first, became prevalent in the homes of those that could afford to, and then, much later, affordable, usable, laptops became available. During this gap in time, a good amount of society may have been clicking away toward their interests, in their isolated bedrooms.
 
-It's natural to be [attracted to knowledge](http://www.rahilpatel.com/blog/jia-zhangkes-trilogy#attracted_to_organized_information), but not at the cost of eyes on the community.
+It's natural to be [attracted to knowledge](https://mind.rathewolf.com/jia-zhangkes-trilogy#attracted_to_organized_information), but not at the cost of eyes on the community.
 
 This period of time was a dark one. Luckily, it didn't take long to change to laptops. Yet, much of America is still stuck in their rooms due to habit, or suburban sprawl (suburban accumulation of capital, lack of public spaces, etc.), a different problem.
 

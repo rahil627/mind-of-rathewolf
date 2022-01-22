@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-05 15:40:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/mental-states-and-determinism/
+link: https://mind.rathewolf.com/mental-states-and-determinism/
 slug: mental-states-and-determinism
 title: Mental States and Determinism
 wordpress_id: 6056

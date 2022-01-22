@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-18 11:24:02+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-home-fallacy-or-nomadism-is-normal/
+link: https://mind.rathewolf.com/the-home-fallacy-or-nomadism-is-normal/
 slug: the-home-fallacy-or-nomadism-is-normal
 title: 'The Home Fallacy or: Nomadism is Normal'
 wordpress_id: 2261

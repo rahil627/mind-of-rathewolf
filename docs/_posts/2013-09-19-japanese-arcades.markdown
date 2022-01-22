@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-09-19 10:24:09+00:00
 layout: post
-link: http://rahilpatel.com/blog/japanese-arcades/
+link: https://mind.rathewolf.com/japanese-arcades/
 slug: japanese-arcades
 title: Japanese Arcades
 wordpress_id: 2139

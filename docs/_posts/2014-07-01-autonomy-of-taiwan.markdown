@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-01 19:16:08+00:00
 layout: post
-link: http://rahilpatel.com/blog/autonomy-of-taiwan/
+link: https://mind.rathewolf.com/autonomy-of-taiwan/
 slug: autonomy-of-taiwan
 title: Autonomy of Taiwan
 wordpress_id: 3199

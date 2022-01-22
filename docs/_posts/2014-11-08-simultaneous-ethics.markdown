@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:23:56+00:00
 layout: post
-link: http://rahilpatel.com/blog/simultaneous-ethics/
+link: https://mind.rathewolf.com/simultaneous-ethics/
 slug: simultaneous-ethics
 title: Simultaneous Ethics
 wordpress_id: 2798

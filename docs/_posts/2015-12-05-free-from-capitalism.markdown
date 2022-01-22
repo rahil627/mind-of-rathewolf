@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-05 11:56:53+00:00
 layout: post
-link: http://rahilpatel.com/blog/free-from-capitalism/
+link: https://mind.rathewolf.com/free-from-capitalism/
 slug: free-from-capitalism
 title: Free from Capitalism
 wordpress_id: 5211
@@ -21,11 +21,11 @@ categories:
 - Thoughts
 ---
 
-This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](http://www.rahilpatel.com/blog/valuable-things-ive-written#criticism_capitalism_communication_rationality).
+This is part of a [series of thoughts that are thematically bounded by a criticism of capitalism, communication, and rationality](https://mind.rathewolf.com/valuable-things-ive-written#criticism_capitalism_communication_rationality).
 
 [todo: incomplete and very important to complete]
 
-Yesterday's post, [Why did I Read?](http://www.rahilpatel.com/blog/why-did-i-read), was a good question.
+Yesterday's post, [Why did I Read?](https://mind.rathewolf.com/why-did-i-read), was a good question.
 
 Yesterday night, I read about half of Fragments of an Anarchist Anthropology by David Graeber. It was reinvigorating. Why? Because it discarded much of modern reality, global capitalism. It talks of a society that exists outside of that infinitely complex system. And just outside of it, lies fresh air.
 
@@ -41,7 +41,7 @@ The desire for socio-political change may take creative forms, which simply depe
 
 **When I live in a city, I tend go in directions all which are opposite of capitalism. The desired end of my creation is the to alter the behavior of people to act more natural**. Examples of past means are: creating critical media -- fine art, game, film, etc. --, creating a public space [place-based community] with DIY or anarchistic values, creating tools to aid the generation of healthy communities and neighborhoods, creating tools to limit conspicuous urbanization, and creating tools to direct people toward making positive and urban impacts.
 
-**When I live outside of a city, I try to philosophize it -- understand it all**. This lead to [the reason I read](http://www.rahilpatel.com/blog/why-did-i-read):
+**When I live outside of a city, I try to philosophize it -- understand it all**. This lead to [the reason I read](https://mind.rathewolf.com/why-did-i-read):
 
 
 
@@ -72,6 +72,6 @@ So why bother with the capitalistic city?** Why not just live on my own, or with
 
 So, what now? It is my responsibility to reverse capitalism? Should I remove them from the place they love too? Or is it okay to ignore those people and live in a separate society (the physical space may not matter that much, though rent is a difficult obstacle) like so many indigenous societies do?
 
-These past few weeks I've also been reminded of the film [Omoide Poro Poro](http://www.rahilpatel.com/blog/only-yesterday) (Only Yesterday, おもひでぽろぽろ), where the main character, after living in the city for her entire life decides to move to a rural area, to live.
+These past few weeks I've also been reminded of the film [Omoide Poro Poro](https://mind.rathewolf.com/only-yesterday) (Only Yesterday, おもひでぽろぽろ), where the main character, after living in the city for her entire life decides to move to a rural area, to live.
 
 [todo: stopped writing that night, publishing now, though incomplete, it's a very important self-assessment. The thought started because Fragments reminded me that I didn't need to live (and worry) under capitalism. I could live in a more anarchic way.]

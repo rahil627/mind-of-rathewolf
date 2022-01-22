@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:40:58+00:00
 layout: post
-link: http://rahilpatel.com/blog/to-do-list-ethics/
+link: https://mind.rathewolf.com/to-do-list-ethics/
 slug: to-do-list-ethics
 title: To Do List Ethics
 wordpress_id: 2812

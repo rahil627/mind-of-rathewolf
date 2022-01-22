@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-10 11:02:04+00:00
 layout: post
-link: http://rahilpatel.com/blog/minimalism-ethics/
+link: https://mind.rathewolf.com/minimalism-ethics/
 slug: minimalism-ethics
 title: Minimalism Ethics
 wordpress_id: 2911
@@ -23,4 +23,4 @@ To live a fully developed life, all one really needs is water, food, dwelling to
 
 Therefore all the material items one needs are: a water filter, food (if grain is rice, then a pot and fire, or, a rice cooker), a personal computer, a tutor or parental figure (if young), and healthcare.
 
-Relevant post: [Everything I Own](http://www.rahilpatel.com/blog/everything-i-own).
+Relevant post: [Everything I Own](https://mind.rathewolf.com/everything-i-own).

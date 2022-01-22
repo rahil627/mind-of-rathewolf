@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-15 00:08:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-categorization-of-knowledge/
+link: https://mind.rathewolf.com/the-categorization-of-knowledge/
 slug: the-categorization-of-knowledge
 title: The Categorization of Knowledge
 wordpress_id: 5725
@@ -15,7 +15,7 @@ categories:
 - Philosophy of Social Science
 ---
 
-The [category hierarchy](http://www.rahilpatel.com/blog/archives) of this blog naturally grew and naturally organized itself as I created more posts. Because I often write philosophically, the categories of my posts reflect the categories of knowledge.
+The [category hierarchy](https://mind.rathewolf.com/archives) of this blog naturally grew and naturally organized itself as I created more posts. Because I often write philosophically, the categories of my posts reflect the categories of knowledge.
 
 The blog started with categories such as "thoughts", "travel", "art", "film reviews". Then, after a some more lengthy writings, more catch-all knowledge categories were thrown, such as "philosophy", "sociology", "experience", and "psychology". I didn't know the meaning of those terms, or even of science at that time. They just made good containers.
 
@@ -46,7 +46,7 @@ _Wikipedia_, [Humanities](https://en.wikipedia.org/wiki/Humanities)</blockquote>
 
 **I guess that makes me a humanist.**
 
-Previously, at this point, this post digressed after reading the Wikipedia article on humanism. That digression has now been moved to [On Humanism](http://www.rahilpatel.com/blog/on-humanism).
+Previously, at this point, this post digressed after reading the Wikipedia article on humanism. That digression has now been moved to [On Humanism](https://mind.rathewolf.com/on-humanism).
 
 It turns out that the term humanist refers to both, a scholar of the humanities and a person who agrees with humanism, so I guess that makes me a humanatee, a manatee of the humanities.
 

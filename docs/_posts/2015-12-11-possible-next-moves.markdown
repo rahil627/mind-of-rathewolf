@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-12-11 19:06:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/possible-next-moves/
+link: https://mind.rathewolf.com/possible-next-moves/
 slug: possible-next-moves
 title: Possible Next Moves
 wordpress_id: 5668
@@ -32,7 +32,7 @@ Possible next moves:
 - x/2. try scholarship for master's in urban planning in a school in an urban area to buy time
 -- apply in late December to March
 -- also limits movement long-term
-- [I wasted time with the above two](http://www.rahilpatel.com/blog/the-ideal-work). Skip to abuse capitalism. Fuck people, politics, and their institutions.
+- [I wasted time with the above two](https://mind.rathewolf.com/the-ideal-work). Skip to abuse capitalism. Fuck people, politics, and their institutions.
 - 3. last resort: independently sell commodities (teach, rent, tea, crafts, short games, short films), as opposed to freelance design and programming, to buy time. Or, exploit capitalism and select more lucrative gigs (ghostwrite college applications for Asian students)
 -- selling Chai was successful, but limited by the town's social limits. Maybe can sell illegally in Taipei? Maybe hit up a freelance gig in a target city.
 - 4. give into the devil that is global capitalism and move to an affluent country and do social or labor work: farming in New Zealand and Australia (doubles as travel, can circle the islands via scooter), social work in New York or cities with sunny weather
@@ -44,7 +44,7 @@ Possible next moves:
 -- focus actions toward impact, avoid non-practical fine art and philosophy
 -- try this with a tent at first. If that's too demanding, then maybe have to first secure a dwelling to begin with a healthy body, then try this again until I am fit enough.
 2. Create a social space, use hostel and street stall financial models for income. Create technology to the benefit of the people and their organizations.
-x/3. Build a house in nature for myself, with very cheap land rent, to distance self from society's problems. Use the experience to build minimalist shelters in the future (and maybe even [minimalist gear](http://www.rahilpatel.com/blog/everything-i-own)).
+x/3. Build a house in nature for myself, with very cheap land rent, to distance self from society's problems. Use the experience to build minimalist shelters in the future (and maybe even [minimalist gear](https://mind.rathewolf.com/everything-i-own)).
 -- Past societies have done since time immemorial, maybe better to just use camping gear more often while traveling around Taiwan and other nearby countries.
 --- I think what I meant by the first line is: there is no point of using time for basic needs, when I could spend less time doing high-wage work, then spending the rest of the time toward my interests.
 -- It's possible to live a simple life anywhere, it just requires more discipline against the convenience of contemporary culture of larger cities. Maybe temporarily hiding out at nearby small town is enough. One adapts to live simply, eating grains and vitamin, and living ascetically.

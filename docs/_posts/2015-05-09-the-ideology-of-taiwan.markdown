@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-05-09 18:55:01+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-ideology-of-taiwan/
+link: https://mind.rathewolf.com/the-ideology-of-taiwan/
 slug: the-ideology-of-taiwan
 title: The Ideology of Taiwan
 wordpress_id: 4086
@@ -16,7 +16,7 @@ categories:
 
 [TODO: mind dump part 1:]
 
-In the past I've professed many characteristics of Taiwan that I enjoy, and even would want in an ideal society: [ Taiwan: First Impressions](http://www.rahilpatel.com/blog/taiwan-first-impressions), [Taiwan and Japan: Active and Passive lifestyles](http://www.rahilpatel.com/blog/taiwan-and-japan-active-and-passive-lifestyles), [Autonomy of Taiwan](http://www.rahilpatel.com/blog/autonomy-of-taiwan).
+In the past I've professed many characteristics of Taiwan that I enjoy, and even would want in an ideal society: [ Taiwan: First Impressions](https://mind.rathewolf.com/taiwan-first-impressions), [Taiwan and Japan: Active and Passive lifestyles](https://mind.rathewolf.com/taiwan-and-japan-active-and-passive-lifestyles), [Autonomy of Taiwan](https://mind.rathewolf.com/autonomy-of-taiwan).
 
 Poke some questions at a Taiwanese person and one will quickly come to the conclusion that Taiwan lacks ideology. Ask them their identity, what they've done, are doing, and want to do, what they like and don't, the common response is "I don't know". But watch for a moment and their ideology comes to view, like cute ants they create incredibly cute mounds for everyone to live in, high quality tools for everyone to use, and still have a soft spot for their traditions: old and new.
 
@@ -25,7 +25,7 @@ Poke some questions at a Taiwanese person and one will quickly come to the concl
 ## Positive Facade
 
 
-Everything is done with a seemingly positive attitude, so it's quite difficult to see the [struggle](http://www.rahilpatel.com/blog/a-foreigner-crashes-at-the-legislative-yuans-slumber-party). During the protests, their struggle expressed itself in the least forceful ways: sunflowers, posters, decorative arts, and sit-ins. Again, ask them how they feel about the protest and the common answer is "The government is bad. I don't know what to do. Taiwan is always struggling." with a cute angry face.
+Everything is done with a seemingly positive attitude, so it's quite difficult to see the [struggle](https://mind.rathewolf.com/a-foreigner-crashes-at-the-legislative-yuans-slumber-party). During the protests, their struggle expressed itself in the least forceful ways: sunflowers, posters, decorative arts, and sit-ins. Again, ask them how they feel about the protest and the common answer is "The government is bad. I don't know what to do. Taiwan is always struggling." with a cute angry face.
 
 Another example of this positive facade: it is common to see people happily working, yet once one reads their Facebook posts, their journals, their LINE messages, struggle appears in the form of sad emoticons from LINE, FB cat emoticons, and short writings.
 

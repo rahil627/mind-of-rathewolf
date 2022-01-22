@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-02 10:01:30+00:00
 layout: post
-link: http://rahilpatel.com/blog/information-organization-mediums-creativity-and-experience/
+link: https://mind.rathewolf.com/information-organization-mediums-creativity-and-experience/
 slug: information-organization-mediums-creativity-and-experience
 title: Information Organization, Mediums, Creativity, and Experience
 wordpress_id: 2593

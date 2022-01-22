@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-06-19 06:01:23+00:00
 layout: post
-link: http://rahilpatel.com/blog/action-attention-and-space/
+link: https://mind.rathewolf.com/action-attention-and-space/
 slug: action-attention-and-space
 title: Action, Attention, and Space
 wordpress_id: 7736
@@ -16,11 +16,11 @@ categories:
 - Thoughts
 ---
 
-[related posts: [The Ideal Work](http://www.rahilpatel.com/blog/the-ideal-work)]
+[related posts: [The Ideal Work](https://mind.rathewolf.com/the-ideal-work)]
 
 [todo: written without editing]
 
-During active times I think about [what I can do within the time and space](http:\\www.rahilpatel.com). But what varies in a large amount, depending on the state of mind, is what can be done (in my mind) and can't, or more precisely, what is not thought of.
+During active times I think about [what I can do within the time and space](http://www.rathewolf.com). But what varies in a large amount, depending on the state of mind, is what can be done (in my mind) and can't, or more precisely, what is not thought of.
 
 What can or cannot be done is a matter of mind. Anything _can_ be done. But the mind creates rules, through state (laws), culture (customs), peers (pressure), and self (ethics). Depending on the state of mind, the rules of mind may change, and therefore, possible actions change.
 

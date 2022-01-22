@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-05 04:33:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/epicureanism-and-media/
+link: https://mind.rathewolf.com/epicureanism-and-media/
 slug: epicureanism-and-media
 title: Epicureanism and Media
 wordpress_id: 3912

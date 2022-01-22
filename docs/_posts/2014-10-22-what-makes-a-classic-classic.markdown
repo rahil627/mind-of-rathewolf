@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-10-22 06:24:17+00:00
 layout: post
-link: http://rahilpatel.com/blog/what-makes-a-classic-classic/
+link: https://mind.rathewolf.com/what-makes-a-classic-classic/
 slug: what-makes-a-classic-classic
 title: What makes a classic, classic?
 wordpress_id: 2540

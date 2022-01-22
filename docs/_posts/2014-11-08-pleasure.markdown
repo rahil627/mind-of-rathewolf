@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 09:09:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/pleasure/
+link: https://mind.rathewolf.com/pleasure/
 slug: pleasure
 title: Pleasure
 wordpress_id: 2746

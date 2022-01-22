@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-09-07 12:08:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/into-the-forest-of-fireflies-light/
+link: https://mind.rathewolf.com/into-the-forest-of-fireflies-light/
 slug: into-the-forest-of-fireflies-light
 title: 蛍火の杜へ (~Into the Forest of Fireflies' Light)
 wordpress_id: 7784

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-16 22:11:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-speed-of-decision-making/
+link: https://mind.rathewolf.com/the-speed-of-decision-making/
 slug: the-speed-of-decision-making
 title: The Speed of Decision-making
 wordpress_id: 3976

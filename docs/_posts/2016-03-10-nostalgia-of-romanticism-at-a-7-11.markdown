@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-03-10 07:21:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/nostalgia-of-romanticism-at-a-7-11/
+link: https://mind.rathewolf.com/nostalgia-of-romanticism-at-a-7-11/
 slug: nostalgia-of-romanticism-at-a-7-11
 title: Nostalgia of Romanticism at a 7-11
 wordpress_id: 6205

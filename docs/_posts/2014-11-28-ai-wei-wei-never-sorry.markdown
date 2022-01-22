@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-28 10:08:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/ai-wei-wei-never-sorry/
+link: https://mind.rathewolf.com/ai-wei-wei-never-sorry/
 slug: ai-wei-wei-never-sorry
 title: '艾未未：道歉你妹 (Ai Wei Wei: Never Sorry)'
 wordpress_id: 3463
@@ -15,7 +15,7 @@ categories:
 This is a review of my thoughts during the viewing of the film.
 
 他也有被遺棄的工廠。
-[Living on the edge of society](http://www.rahilpatel.com/blog/living-on-the-edge-of-society-ethics) to create art. People who are closer to or are idealists must live on the edge of society for their mind to be able to maintain such ideas. Living inside of a city doesn't allow the space to think such a way. There are so many ideas in cities that are different than one's utopia that one must step back, or in this case, out.
+[Living on the edge of society](https://mind.rathewolf.com/living-on-the-edge-of-society-ethics) to create art. People who are closer to or are idealists must live on the edge of society for their mind to be able to maintain such ideas. Living inside of a city doesn't allow the space to think such a way. There are so many ideas in cities that are different than one's utopia that one must step back, or in this case, out.
 
 在奧林匹克的時候他感覺他做不好的東西。他的作品換新中國的政治學，他知道後果。
 I think this point was pivotal for him. He came out of college in New York with design and art on his mind. He participates in a grand project. But aware of the consequences, he became more political after this point.
@@ -38,10 +38,10 @@ Using the blog as a documentary tool. And later, Twitter, which enabled social g
 「網路有力，因為給人機會改變人的意見。」
 The internet enables common people to change the opinion of people.
 
-It's interesting that people didn't use the internet to simply gain knowledge, say reading Wikipedia, instead rely on artists to feed the information to them in a more amusing form. One could easily read the Wikipedia article of the earthquakes in a minute, but it took an hour-long documentary to shove the same information in the minds of people. Though, I'm one of those people. Is it the pathos? Is it because film as a medium offers more information (visual data)? [The closer to real experience, the more powerful the reaction](http://www.rahilpatel.com/blog/information-media-and-education).
+It's interesting that people didn't use the internet to simply gain knowledge, say reading Wikipedia, instead rely on artists to feed the information to them in a more amusing form. One could easily read the Wikipedia article of the earthquakes in a minute, but it took an hour-long documentary to shove the same information in the minds of people. Though, I'm one of those people. Is it the pathos? Is it because film as a medium offers more information (visual data)? [The closer to real experience, the more powerful the reaction](https://mind.rathewolf.com/information-media-and-education).
 
 藝術是今天的語言。*
-Art is modern language. This was quite profound to me. [I struggled in the past having learned art in New York and then being unable to talk about art in other countries](http://www.rahilpatel.com/blog/social-determinism-travel-and-aesthetics). I will talk more about this when he moves from New York to China.
+Art is modern language. This was quite profound to me. [I struggled in the past having learned art in New York and then being unable to talk about art in other countries](https://mind.rathewolf.com/social-determinism-travel-and-aesthetics). I will talk more about this when he moves from New York to China.
 
 At another point he upholds the common view art is communication. Artists communicate by creating art. It is just a form of communication, like written, verbal, and body languages.
 
@@ -84,9 +84,9 @@ He struggled going back to China because there was no modern art, especially not
 
 Now that there's internet, it would seem that this is a moot point, but it is not. In my experience, many countries still uphold very traditional arts, which is promulgated by universities, which itself is likely promulgated by government. Even now in Taiwan there are universities that hold traditional arts higher than contemporary. Though, that is not a criticism of Taiwan, as it has only recently been lifted from martial law.
 
-Whereas Ai was able to create a community and continue creating the way he did in New York, I was unable to create a community of the art I enjoyed (games), and instead diverting my attention toward more universally appreciated modern arts (HONY). I did this because [I couldn't stop I had to keep taking action with the knowledge I had](http://www.rahilpatel.com/blog/constant-art-ethics). I had to keep creating, and consuming, and the people around me must be able to understand it. Why spend the time to educate people people on modern art? I could have gone back to New York, or they could use the internet to see it. I didn't understand why Asia's aesthetics were so far behind the experimental communities of New York.
+Whereas Ai was able to create a community and continue creating the way he did in New York, I was unable to create a community of the art I enjoyed (games), and instead diverting my attention toward more universally appreciated modern arts (HONY). I did this because [I couldn't stop I had to keep taking action with the knowledge I had](https://mind.rathewolf.com/constant-art-ethics). I had to keep creating, and consuming, and the people around me must be able to understand it. Why spend the time to educate people people on modern art? I could have gone back to New York, or they could use the internet to see it. I didn't understand why Asia's aesthetics were so far behind the experimental communities of New York.
 
-"Why spend the time to educate people people on modern art?" is a good question. Is [knowledge of aesthetics](http://www.rahilpatel.com/blog/learning-the-aesthetics-of-art) necessary to create something new? No. I often feel that if one doesn't know what modern art is, one is likely going to be even more creative. Though, from my experience, I don't remember any time where I saw an amazing art by a person away from modern society. The concepts are ancient: writing, painting, crafting, plays. Though, traditional games are awesome.
+"Why spend the time to educate people people on modern art?" is a good question. Is [knowledge of aesthetics](https://mind.rathewolf.com/learning-the-aesthetics-of-art) necessary to create something new? No. I often feel that if one doesn't know what modern art is, one is likely going to be even more creative. Though, from my experience, I don't remember any time where I saw an amazing art by a person away from modern society. The concepts are ancient: writing, painting, crafting, plays. Though, traditional games are awesome.
 
 「藝術是方法發展新的意見。 是藝術人的職責保護。」
 "Art is a way of developing new ideas." I think he meant, art is a way of expressing idea, as opposed to developing new aesthetics.

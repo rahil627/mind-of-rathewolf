@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-06 19:49:47+00:00
 layout: post
-link: http://rahilpatel.com/blog/will-to-experience/
+link: https://mind.rathewolf.com/will-to-experience/
 slug: will-to-experience
 title: Will to Experience
 wordpress_id: 4637
@@ -13,7 +13,7 @@ categories:
 - Thoughts
 ---
 
-A bit contrasting to [Will to Make](http://www.rahilpatel.com/blog/will-to-make).
+A bit contrasting to [Will to Make](https://mind.rathewolf.com/will-to-make).
 
 It's not about organizing, it's about experiencing.
 

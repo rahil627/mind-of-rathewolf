@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-05-15 12:12:45+00:00
 layout: post
-link: http://rahilpatel.com/blog/pinkies-up/
+link: https://mind.rathewolf.com/pinkies-up/
 slug: pinkies-up
 title: Pinkies Up
 wordpress_id: 1406
@@ -17,7 +17,7 @@ categories:
 ## Game Files
 
 
-[pinkies-up.zip](http://www.rahilpatel.com/blog/wp-content/uploads/2012/05/pinkies-up.zip)
+[pinkies-up.zip](https://mind.rathewolf.com/wp-content/uploads/2012/05/pinkies-up.zip)
 
 
 
@@ -51,7 +51,7 @@ To see a play through, see the video below.
 As Jon often describes the game to others, “it’s basically flip-cup for iPad”.
 
 
-[![IMG_8911](http://www.rahilpatel.com/blog/wp-content/uploads/2012/05/IMG_8911-1024x557.jpg)](http://www.rahilpatel.com/blog/wp-content/uploads/2012/05/IMG_8911.jpg)
+[![IMG_8911](https://mind.rathewolf.com/wp-content/uploads/2012/05/IMG_8911-1024x557.jpg)](https://mind.rathewolf.com/wp-content/uploads/2012/05/IMG_8911.jpg)
 
 
 Two teams race, each team having a quirky physics based character code-named Harold. Each player is assigned one button. Each active player group must press their buttons in sequence to add force to Harold. A button pressed out of sequence causes Harold to physically collapse, stopping him for a moment. First Harold to the finish line, which is at the end of the screen of the last device, wins.

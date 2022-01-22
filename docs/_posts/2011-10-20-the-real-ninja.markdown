@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-10-20 06:56:28+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-real-ninja/
+link: https://mind.rathewolf.com/the-real-ninja/
 slug: the-real-ninja
 title: The Real Ninja
 wordpress_id: 226
@@ -23,7 +23,7 @@ tags:
 - runner
 ---
 
-[Play the game](http://www.rahilpatel.com/the_real_ninja.html).
+[Play the game](https://mind.rathewolf.com/the_real_ninja.html).
 
 This game is my submission for this month's Experimental Gameplay Project competition. The theme is [slicing.](http://experimentalgameplay.com/blog/2011/10/october-2011-is-slicing/)
 

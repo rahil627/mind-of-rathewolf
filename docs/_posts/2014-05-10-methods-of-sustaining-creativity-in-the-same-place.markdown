@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-10 08:38:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/methods-of-sustaining-creativity-in-the-same-place/
+link: https://mind.rathewolf.com/methods-of-sustaining-creativity-in-the-same-place/
 slug: methods-of-sustaining-creativity-in-the-same-place
 title: Methods of Sustaining Creativity in The Same Place
 wordpress_id: 1999
@@ -20,4 +20,4 @@ Physical and alone. Another technique to extend hypomania, and creativity, is to
 
 Physical and social. A better method is to create new social experiences. Cook dinner for friends, have picnic at a park, play a game, talk, discuss, do something with other people.
 
-[Constant creativity](http://www.rahilpatel.com/blog/constant-art-ethics) seems to almost require constant consumption.
+[Constant creativity](https://mind.rathewolf.com/constant-art-ethics) seems to almost require constant consumption.

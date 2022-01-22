@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-18 17:37:11+00:00
 layout: post
-link: http://rahilpatel.com/blog/how-and-when-to-write-and-the-impossibility-of-a-solitary-life/
+link: https://mind.rathewolf.com/how-and-when-to-write-and-the-impossibility-of-a-solitary-life/
 slug: how-and-when-to-write-and-the-impossibility-of-a-solitary-life
 title: How and When to Write, and the Impossibility of a Solitary Life
 wordpress_id: 2269

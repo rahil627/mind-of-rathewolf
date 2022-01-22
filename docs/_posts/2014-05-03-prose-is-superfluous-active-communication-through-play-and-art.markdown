@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-05-03 18:17:43+00:00
 layout: post
-link: http://rahilpatel.com/blog/prose-is-superfluous-active-communication-through-play-and-art/
+link: https://mind.rathewolf.com/prose-is-superfluous-active-communication-through-play-and-art/
 slug: prose-is-superfluous-active-communication-through-play-and-art
 title: 'Prose is Superfluous: Active Communication through Play and Art'
 wordpress_id: 1944
@@ -97,4 +97,4 @@ Games, the most active form of the arts thus far mentioned, is a medium that has
 
 The method of communication of life is not prose, it's play. It's the sensory input and response stimuli, the interaction, the resulting affect it has on the mind. Prose cannot interact. Few prose are powerful enough to elicit response on the level of an interaction in real life. And even then, another medium likely could have been chosen to do the same thing in a more efficient manner. Prose is ancient. Passive mediums are old. Learning through prose is directional, but passive, uncreative, and inefficient (requiring skimming). The most practical and efficient use of prose is merely for reference, usually in the form of a Wikipedia article, or a quick Google search (a modern form of skimming).
 
-This ends again with me in [thought of a more ideal method of living and learning](http://www.rahilpatel.com/blog/nomadism-culture-and-the-playful-quest-for-knowledge), without the boring, forgetful, superfluous, prose.
+This ends again with me in [thought of a more ideal method of living and learning](https://mind.rathewolf.com/nomadism-culture-and-the-playful-quest-for-knowledge), without the boring, forgetful, superfluous, prose.

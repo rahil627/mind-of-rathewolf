@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-22 06:45:38+00:00
 layout: post
-link: http://rahilpatel.com/blog/street-artists-are-powerful/
+link: https://mind.rathewolf.com/street-artists-are-powerful/
 slug: street-artists-are-powerful
 title: Street Artists are Powerful
 wordpress_id: 3049

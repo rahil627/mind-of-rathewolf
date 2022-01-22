@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-11-26 10:45:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/flexibility-and-learning/
+link: https://mind.rathewolf.com/flexibility-and-learning/
 slug: flexibility-and-learning
 title: Flexibility and Learning
 wordpress_id: 1265

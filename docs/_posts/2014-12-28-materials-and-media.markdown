@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-12-28 00:49:13+00:00
 layout: post
-link: http://rahilpatel.com/blog/materials-and-media/
+link: https://mind.rathewolf.com/materials-and-media/
 slug: materials-and-media
 title: Materials and Media
 wordpress_id: 3839

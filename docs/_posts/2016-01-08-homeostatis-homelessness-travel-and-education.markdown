@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-01-08 10:38:44+00:00
 layout: post
-link: http://rahilpatel.com/blog/homeostatis-homelessness-travel-and-education/
+link: https://mind.rathewolf.com/homeostatis-homelessness-travel-and-education/
 slug: homeostatis-homelessness-travel-and-education
 title: Homeostatis, Homelessness, Travel, and Education
 wordpress_id: 6120

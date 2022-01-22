@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-01-10 03:25:27+00:00
 layout: post
-link: http://rahilpatel.com/blog/grizzly-man-and-subtropical-solitude/
+link: https://mind.rathewolf.com/grizzly-man-and-subtropical-solitude/
 slug: grizzly-man-and-subtropical-solitude
 title: Grizzly Man and Subtropical Solitude
 wordpress_id: 3917

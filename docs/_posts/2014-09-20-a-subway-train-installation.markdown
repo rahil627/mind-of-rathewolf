@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-09-20 10:46:21+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-subway-train-installation/
+link: https://mind.rathewolf.com/a-subway-train-installation/
 slug: a-subway-train-installation
 title: A Subway Train Installation
 wordpress_id: 2465
@@ -19,7 +19,7 @@ Who knows what treasure one will see?
 
 
 
-[![subway class=](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/subway-light.svg)](http://www.rahilpatel.com/blog/wp-content/uploads/2014/09/subway-light.svg)
+[![subway class=](https://mind.rathewolf.com/wp-content/uploads/2014/09/subway-light.svg)](https://mind.rathewolf.com/wp-content/uploads/2014/09/subway-light.svg)
 
 
 

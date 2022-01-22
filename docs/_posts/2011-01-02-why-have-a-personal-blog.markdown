@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2011-01-02 11:33:22+00:00
 layout: post
-link: http://rahilpatel.com/blog/why-have-a-personal-blog/
+link: https://mind.rathewolf.com/why-have-a-personal-blog/
 slug: why-have-a-personal-blog
 title: Why have a personal blog?
 wordpress_id: 38

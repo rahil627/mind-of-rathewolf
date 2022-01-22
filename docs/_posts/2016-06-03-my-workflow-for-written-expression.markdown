@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-06-03 06:38:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-workflow-for-written-expression/
+link: https://mind.rathewolf.com/my-workflow-for-written-expression/
 slug: my-workflow-for-written-expression
 title: My Workflow for Written Expression
 wordpress_id: 7645
@@ -17,7 +17,7 @@ categories:
 - Thoughts
 ---
 
-Continuing the thought from the [self-note from the last post](http://www.rahilpatel.com/blog/in-search-of-a-past-time):
+Continuing the thought from the [self-note from the last post](https://mind.rathewolf.com/in-search-of-a-past-time):
 
 
 

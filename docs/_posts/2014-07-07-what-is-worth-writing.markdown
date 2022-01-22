@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-07 19:28:58+00:00
 layout: post
-link: http://rahilpatel.com/blog/what-is-worth-writing/
+link: https://mind.rathewolf.com/what-is-worth-writing/
 slug: what-is-worth-writing
 title: What is Worth Writing?
 wordpress_id: 2180
@@ -26,6 +26,6 @@ Other reasons:
 There's probably more good reasons (not practice or traditional blogs), like journalism.
 
 My method:
-I feel the best way is to use my own journal and try to understand my largely empirical history through inquiry and deduction. To do this I think it's best to [organize all thoughts into one digital form a la this blog](http://www.rahilpatel.com/blog/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments). Perhaps keep a page of links to things that I still don't understand, to always know what requires more inquiry. Once I understand everything, I should stop writing, and live more.
+I feel the best way is to use my own journal and try to understand my largely empirical history through inquiry and deduction. To do this I think it's best to [organize all thoughts into one digital form a la this blog](https://mind.rathewolf.com/the-purpose-of-a-blog-a-medium-for-essays-and-self-assessments). Perhaps keep a page of links to things that I still don't understand, to always know what requires more inquiry. Once I understand everything, I should stop writing, and live more.
 
 There is a problem though. I haven't figured out [how to write](how-and-when-to-write-and-the-impossibility-of-a-solitary-life), at least, a substantial amount, consistently.

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2013-07-31 14:41:42+00:00
 layout: post
-link: http://rahilpatel.com/blog/hong-kong/
+link: https://mind.rathewolf.com/hong-kong/
 slug: hong-kong
 title: Hong Kong
 wordpress_id: 1108

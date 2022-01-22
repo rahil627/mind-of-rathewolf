@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-03-03 15:01:08+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-neighbor-totoro/
+link: https://mind.rathewolf.com/my-neighbor-totoro/
 slug: my-neighbor-totoro
 title: となりのトト (My Neighbor Totoro)
 wordpress_id: 6716

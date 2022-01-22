@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2009-10-24 13:20:44+00:00
 layout: post
-link: http://rahilpatel.com/blog/my-first-entry-in-thoughts-txt/
+link: https://mind.rathewolf.com/my-first-entry-in-thoughts-txt/
 slug: my-first-entry-in-thoughts-txt
 title: My first entry in thoughts.txt
 wordpress_id: 6506

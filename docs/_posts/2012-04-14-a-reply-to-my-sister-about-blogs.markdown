@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2012-04-14 15:43:46+00:00
 layout: post
-link: http://rahilpatel.com/blog/a-reply-to-my-sister-about-blogs/
+link: https://mind.rathewolf.com/a-reply-to-my-sister-about-blogs/
 slug: a-reply-to-my-sister-about-blogs
 title: A Reply to My Sister About Blogs
 wordpress_id: 2015

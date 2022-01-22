@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-06-05 00:14:03+00:00
 layout: post
-link: http://rahilpatel.com/blog/philosophy-of-literature-whats-left/
+link: https://mind.rathewolf.com/philosophy-of-literature-whats-left/
 slug: philosophy-of-literature-whats-left
 title: 'Philosophy of Literature: What''s left?'
 wordpress_id: 2094
@@ -16,7 +16,7 @@ categories:
 <blockquote>In single chapter of Invisible Cities by Italo Calvino, I feel satisfied. I consumed enough to trigger my brain to begin contemplating, creating, mixing in with my own thoughts. The power of literature is not in detail, but in imagination.
 
 If imagination is not the goal, I still feel conciseness is powerful. In Francis Bacon's Essays, more about ethics is told in few words. Likewise in Borjes's Ficciones, the stories are told only to display its mechanics; Although, even Borjes wastes space and uses many references.
-_Wikipedia_, [Conciseness in Art](http://www.rahilpatel.com/blog/conciseness-in-art)
+_Wikipedia_, [Conciseness in Art](https://mind.rathewolf.com/conciseness-in-art)
 </blockquote>
 
 

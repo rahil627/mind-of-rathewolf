@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2016-04-11 07:48:38+00:00
 layout: post
-link: http://rahilpatel.com/blog/thoughts-highlights-notes-and-dialectics-with-media/
+link: https://mind.rathewolf.com/thoughts-highlights-notes-and-dialectics-with-media/
 slug: thoughts-highlights-notes-and-dialectics-with-media
 title: Thoughts, Highlights, Notes, and Dialectics with Media
 wordpress_id: 6333

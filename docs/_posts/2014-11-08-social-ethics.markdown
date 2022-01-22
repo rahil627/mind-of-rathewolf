@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 10:06:32+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-ethics/
+link: https://mind.rathewolf.com/social-ethics/
 slug: social-ethics
 title: Maximize Social Time Ethics
 wordpress_id: 2784

@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-08 08:45:51+00:00
 layout: post
-link: http://rahilpatel.com/blog/social-determinism-travel-and-aesthetics/
+link: https://mind.rathewolf.com/social-determinism-travel-and-aesthetics/
 slug: social-determinism-travel-and-aesthetics
 title: Social Determinism, Travel, and Aesthetics
 wordpress_id: 2716
@@ -32,7 +32,7 @@ In India, there was but only a small audience that could afford the leisure or d
 
 Games had loss a bit of interest to me because of this, and I still haven't quite been able to recover interest to it. The ideal thought nagged: why would I bother making things that only a narrow audience could appreciate? (At the time I was more into pushing aesthetics of games, experimenting with mechanics.) Films made much more sense. Indians love Bollywood.
 
-My question, similar to Kevin Kelly's, What Does Technology Want, resulted in [this conclusion](http://www.rahilpatel.com/blog/information-media-and-education).
+My question, similar to Kevin Kelly's, What Does Technology Want, resulted in [this conclusion](https://mind.rathewolf.com/information-media-and-education).
 
 At a later point, I arrived to Taiwan. I had already been nearly a year before. At that time I had 9 days to explore Taipei. As I did in previous cities in East Asia, I searched out all forms of contemporary art. I found that the art institutions of Taipei were quite a bit behind Tokyo, and far behind New York, in aesthetics. The Digital Art Center just had a room full of videos playing. The Museum of Contemporary Arts had a mix of traditional medias. After quite an amazing exhibition at Tokyo's NTT ICC, Taipei disappointed, though I loved Taipei for a billion other reasons, and though far behind in the arts, I still would choose that country over New York as my ideal place to live.
 

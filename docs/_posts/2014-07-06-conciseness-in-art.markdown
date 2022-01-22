@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-07-06 04:20:37+00:00
 layout: post
-link: http://rahilpatel.com/blog/conciseness-in-art/
+link: https://mind.rathewolf.com/conciseness-in-art/
 slug: conciseness-in-art
 title: Conciseness in Art
 wordpress_id: 2163

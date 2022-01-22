@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-20 04:46:55+00:00
 layout: post
-link: http://rahilpatel.com/blog/everything-i-own/
+link: https://mind.rathewolf.com/everything-i-own/
 slug: everything-i-own
 title: Everything I Own
 wordpress_id: 2999

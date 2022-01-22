@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-22 20:17:48+00:00
 layout: post
-link: http://rahilpatel.com/blog/the-tale-of-the-princess-kaguya/
+link: https://mind.rathewolf.com/the-tale-of-the-princess-kaguya/
 slug: the-tale-of-the-princess-kaguya
 title: かぐや姫の物語 (The Tale of the Princess Kaguya)
 wordpress_id: 4844

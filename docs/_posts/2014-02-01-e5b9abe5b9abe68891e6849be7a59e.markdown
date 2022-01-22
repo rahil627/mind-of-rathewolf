@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-02-01 15:00:25+00:00
 layout: post
-link: http://rahilpatel.com/blog/%e5%b9%ab%e5%b9%ab%e6%88%91%e6%84%9b%e7%a5%9e/
+link: https://mind.rathewolf.com/%e5%b9%ab%e5%b9%ab%e6%88%91%e6%84%9b%e7%a5%9e/
 slug: '%e5%b9%ab%e5%b9%ab%e6%88%91%e6%84%9b%e7%a5%9e'
 title: 幫幫我愛神 (Help me, Eros)
 wordpress_id: 1598

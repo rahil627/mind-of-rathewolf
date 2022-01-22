@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2015-09-08 21:04:44+00:00
 layout: post
-link: http://rahilpatel.com/blog/working-memory-and-community/
+link: https://mind.rathewolf.com/working-memory-and-community/
 slug: working-memory-and-community
 title: Working Memory and Community
 wordpress_id: 4624

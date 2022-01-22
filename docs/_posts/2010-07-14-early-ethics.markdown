@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2010-07-14 13:30:31+00:00
 layout: post
-link: http://rahilpatel.com/blog/early-ethics/
+link: https://mind.rathewolf.com/early-ethics/
 slug: early-ethics
 title: Early Ethics
 wordpress_id: 6533

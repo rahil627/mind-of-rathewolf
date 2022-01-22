@@ -3,7 +3,7 @@ author: rahil627
 comments: true
 date: 2014-11-11 10:43:00+00:00
 layout: post
-link: http://rahilpatel.com/blog/constant-progressive-action-ethics/
+link: https://mind.rathewolf.com/constant-progressive-action-ethics/
 slug: constant-progressive-action-ethics
 title: Constant Progressive Action Ethics
 wordpress_id: 2956
@@ -27,7 +27,7 @@ Is there a way to experience life while creating?</blockquote>
 
 Often, when I say action in my thoughts, I mean, a thought that leads to me taking an action via my will in a way I feel that is progressive. Progress can be anything from finding something delicious to eat to helping a friend.
 
-The goal of this ethics is to [constantly be doing something ](http://www.rahilpatel.com/blog/artist-productivity-ethics)"progressive", which makes me happy, and in some kind of direction I want.
+The goal of this ethics is to [constantly be doing something ](https://mind.rathewolf.com/artist-productivity-ethics)"progressive", which makes me happy, and in some kind of direction I want.
 
 
 
