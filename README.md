@@ -27,12 +27,14 @@ fix anchor links
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
 re-upload all game jam games?
-  - can upload pinkies up... but only with a good license
-  - the game rgbrgbrgb might be missing... along with the 2d terrain generator
+  - todo: can upload pinkies up... but only with a good license
+  - clean: diff local copy with github copy of the real ninja, and then delete the older one
+  - the game rgbrgbrgb might be missing... :( along with the 2d terrain generator
   - there used to be html pages that included the game embed and some instructions on the page
     - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
-    - pages: the jack of all trades, real ninja, can you imagine..., poorly designed upgrades, rgbrgbrgb
-    - done: copied to github repos
+    - all pages: the jack of all trades, real ninja, verbal assassin, poorly designed upgrades, rgbrgbrgb
+    - todo: double-check: add pages to github readme
+  - done: copied to github repos
   - maybe can just host it on github.io link, in the repo
     - todo: need to find the .swf file, then just link to it
   - for now, re-route the links in the portfolio page to their github repos
