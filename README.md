@@ -27,6 +27,7 @@ fix anchor links
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
 re-upload all game jam games?
+  - the game rgbrgbrgb might be missing... along with the 2d terrain generator
   - there used to be html pages that included the game embed and some instructions on the page
     - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
     - pages: the jack of all trades, real ninja, can you imagine..., poorly designed upgrades, rgbrgbrgb
