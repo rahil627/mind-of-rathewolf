@@ -27,6 +27,7 @@ fix anchor links
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
 re-upload all game jam games?
+  - can upload pinkies up... but only with a good license
   - the game rgbrgbrgb might be missing... along with the 2d terrain generator
   - there used to be html pages that included the game embed and some instructions on the page
     - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
