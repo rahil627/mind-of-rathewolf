@@ -187,7 +187,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 
-_note: I’ve since lost my web server twice, losing the game executables in the process, but, some of the [the games’ source files can stilll be scavenged from my github account](https://github.com/stars/rahil627/lists/my-games-n-game-code)_
+_note: I’ve since lost my web server thrice, losing the game executables in the process, but, most of the [the games’ source files are still on my github account](https://github.com/stars/rahil627/lists/my-games-n-game-code)_
 [my Flash and FlashPunk libraries](https://github.com/Rahil627/rahil-actionscript-libraries), written during this period
 [RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist 1v1 real-time strategy battle game prototype *(note: cannot find source files)*
 - 2D Terrain Generator, neato *(note: cannot find source files)*
