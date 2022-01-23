@@ -188,7 +188,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 _note: I’ve since lost my web server twice, losing the game executables in the process, but, I still have _most_ of [the games’ source files](https://www.dropbox.com/sh/1ofcriobsmklhys/AAC6itHkliI24dcWOlOa5kGpa?dl=0)_
-[Flash and FlashPunk libraries](https://github.com/Rahil627/ActionScript-Library), written during this period
+[Flash and FlashPunk libraries](https://github.com/Rahil627/my-actionscript-libraries), written during this period
 [RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist 1v1 real-time strategy battle game prototype
 - 2D Terrain Generator, neato
 [Rollem Gollem](http://globalgamejam.org/2012/rollem-golem), an iterative puzzle platformer game prototype
