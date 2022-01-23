@@ -178,7 +178,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 
 [Finger Skating: Battle](https://github.com/rahil627/finger-skating-battle), a local 1v1 iPad battle game inspired by dance yet with the playfulness of HORSE, the playground game
-[Doodle Tangle](http://www.youtube.com/watch?v=1vE86QNWoFI), a multiplayer iPad game prototype that explores physical problems (pardon the terrible video); [code](https://github.com/rahil627/doodle-tangle)
+[Doodle Tangle](http://www.youtube.com/watch?v=1vE86QNWoFI), A local multi-player iPad game that explores physical gameplay by cramming as many players around a single iPad. (pardon the terrible video); [code](https://github.com/rahil627/doodle-tangle)
 [Pinkies Up](http://cargocollective.com/jonstoked/pinkies-up), a local multiplayer iPad game with some quirky characters, made with love from Jon. SHOULD BE CONTINUED!
 
 
@@ -192,7 +192,7 @@ _note: I’ve since lost my web server twice, losing the game executables in the
 [RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist 1v1 real-time strategy battle game prototype
 - 2D Terrain Generator, neato
 [Rollem Gollem](http://globalgamejam.org/2012/rollem-golem), an iterative puzzle platformer game prototype
-[Babycastles at the AMNH](http://babycastles.com/index_amnh.html), a web page to promote an upcoming exhibition
+[Babycastles at the AMNH](http://babycastles.com/index_amnh.html), a web page for an exhibition at some fancy museum
 [Troll Kit](https://github.com/Rahil627/Babycastles-Trollkit), a program that transforms a PC into an independent arcade game machine
 [Poorly Designed Upgrades](https://mind.rathewolf.com/poorly-designed-upgrades), a game prototype with two ideas: the player's drawings affect gameplay and too many upgrades can lead to negative results
 [Can You Imagine Yourself as a Verbal Assassin?](https://mind.rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin), a game prototype in which the player must talk to input actions
