@@ -179,7 +179,7 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 [Finger Skating: Battle](https://github.com/rahil627/finger-skating-battle), a local 1v1 iPad battle game inspired by dance yet with the playfulness of HORSE, the playground game
 [Doodle Tangle](http://www.youtube.com/watch?v=1vE86QNWoFI), A local multi-player iPad game that explores physical gameplay by cramming as many players around a single iPad. (pardon the terrible video); [code](https://github.com/rahil627/doodle-tangle)
-[Pinkies Up](http://cargocollective.com/jonstoked/pinkies-up), a local multiplayer iPad game with some quirky characters, made with love from Jon. SHOULD BE CONTINUED!
+[Pinkies Up](http://cargocollective.com/jonstoked/pinkies-up), a local multiplayer iPad game with some quirky characters, made with love from Jon. SHOULD BE CONTINUED! *(note: code is private)*
 
 
 
@@ -189,8 +189,8 @@ Ahhhh, after a few lifetimes in the mind, the weather has finally cleared up. Th
 
 _note: I’ve since lost my web server twice, losing the game executables in the process, but, some of the [the games’ source files can stilll be scavenged from my github account](https://github.com/stars/rahil627/lists/my-games-n-game-code)_
 [my Flash and FlashPunk libraries](https://github.com/Rahil627/rahil-actionscript-libraries), written during this period
-[RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist 1v1 real-time strategy battle game prototype
-- 2D Terrain Generator, neato
+[RGBRGBRGB](https://mind.rathewolf.com/rgbrgbrgb), a minimalist 1v1 real-time strategy battle game prototype *(note: cannot find source files)*
+- 2D Terrain Generator, neato *(note: cannot find source files)*
 [Rollem Gollem](http://globalgamejam.org/2012/rollem-golem), an iterative puzzle platformer game prototype
 [Babycastles at the AMNH](http://babycastles.com/index_amnh.html), a web page for an exhibition at some fancy museum
 [Troll Kit](https://github.com/Rahil627/Babycastles-Trollkit), a program that transforms a PC into an independent arcade game machine
