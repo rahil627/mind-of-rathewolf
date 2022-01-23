@@ -23,15 +23,18 @@ the current `_pages` folder used the python script import as a base then merged 
 todo:
 fix anchor links
   - **toc (table of contents) plugin**
-uploads and attachments folders
+**set uploads and attachments folders**
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
 re-upload all game jam games?
   - there used to be html pages that included the game embed and some instructions on the page
     - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
     - pages: the jack of all trades, real ninja, can you imagine..., poorly designed upgrades, rgbrgbrgb
+    - done: copied to github repos
   - maybe can just host it on github.io link, in the repo
+    - todo: need to find the .swf file, then just link to it
   - for now, re-route the links in the portfolio page to their github repos
+    - done: i just kept the original post link, but added a link to all repos on the top of the section
 
 
 - see diff.txt file in root to see differences between the different importers
