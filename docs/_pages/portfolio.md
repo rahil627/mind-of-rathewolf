@@ -194,9 +194,9 @@ _note: I’ve since lost my web server twice, losing the game executables in the
 [Rollem Gollem](http://globalgamejam.org/2012/rollem-golem), an iterative puzzle platformer game prototype
 [Babycastles at the AMNH](http://babycastles.com/index_amnh.html), a web page to promote an upcoming exhibition
 [Troll Kit](https://github.com/Rahil627/Babycastles-Trollkit), a program that transforms a PC into an independent arcade game machine
-[Poorly Designed Upgrades](https://github.com/rahil627/poorly-designed-upgrades), a game prototype with two ideas: the player's drawings affect gameplay and too many upgrades can lead to negative results
+[Poorly Designed Upgrades](https://mind.rathewolf.com/poorly-designed-upgrades), a game prototype with two ideas: the player's drawings affect gameplay and too many upgrades can lead to negative results
 [Can You Imagine Yourself as a Verbal Assassin?](https://mind.rathewolf.com/can-you-imagine-yourself-as-a-verbal-assassin), a game prototype in which the player must talk to input actions
-[The Real Ninja](https://github.com/rahil627/the-real-ninja), a silly runner/slicer hybrid game prototype
+[The Real Ninja](https://mind.rathewolf.com/the-real-ninja), a silly runner/slicer hybrid game prototype
 [The Jack of All Trades](https://mind.rathewolf.com/the-jack-of-all-trades), a game prototype about choosing your own path in life
 
 
