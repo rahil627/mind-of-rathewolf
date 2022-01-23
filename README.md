@@ -27,6 +27,9 @@ fix anchor links
 diff 'n merge posts from all plugins?
  - uhhhh, some other day...
 re-upload all game jam games?
+  - check the repo files for .swf files (the flash app)
+    - just unzip them all and use the `find` command
+    - otherwise, would have to rebuild them... no thanks!
   - todo: can upload pinkies up... but only with a good license
   - clean: diff local copy with github copy of the real ninja, and then delete the older one
   - the game rgbrgbrgb might be missing... :( along with the 2d terrain generator
