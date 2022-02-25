@@ -31,7 +31,7 @@ A shout out to the great history games:
 The long awaited return. But can I return?...
 
 [Ra the Wolf](http://www.rathewolf.com/), a digital home for my spirit
-- [The Mind of Ra the Wolf](http://www.rathewolf.com/mind), a digital space for my mind’s expressions
+- [The Mind of Ra the Wolf](http://mind.rathewolf.com/), a digital space for my mind’s expressions
 [Will o’ Wolf](http://willowolf.com/), a digital space for my altruistic desires: my wills
 
 
