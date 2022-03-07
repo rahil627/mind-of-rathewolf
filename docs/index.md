@@ -1,5 +1,5 @@
 ---
-layout: page #only difference between this and layout is that this adds a h2
+layout: page #only difference between this and default is that this adds a h2
 title: yo!
 ---
 
