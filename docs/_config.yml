@@ -85,10 +85,10 @@ defaults:
 #    scope:
 #      path: "/posts"
 #    values:
-#      layout: "posts"
+#      layout: "post"
 
 #  -
 #    scope:
 #      path: "pages"
 #    values:
-#      layout: "pages"
+#      layout: "page"
