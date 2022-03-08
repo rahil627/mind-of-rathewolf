@@ -1,5 +1,8 @@
-#todo: should get from config file
-# don't generate this automatically because it's simpler to maintain the order this way
+# todo: should get from config file?
+#   - don't generate this automatically because it's simpler to maintain the order this way
+
+# note: the url is the url name, not the local file-path (i think...)
+# which allows you to move files around without having to update this :)
 links:
 - title: yo!
   url: /index
