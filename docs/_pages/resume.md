@@ -3,7 +3,7 @@ layout: page
 # just paste the markdowned resume below
 ---
 
-Herro. I’m **Rahil**, and *this* is a personal history of my life's works. I initially tried to limit it to experiences that are valuable to me, regardless of economic system and whose length is at least one month, but over time it has become something more. My portfolio at **[mind.rathewolf.com/portfolio](https://mind.rathewolf.com/portfolio)** contains an incomplete digital record of my early digital projects and early thoughts ‘n writings. You can also view this resume at **[mind.rathewolf.com/resume](https://mind.rathewolf.com/resume)**. You can contact me at **[ra#5579](https://discord.com/users/ra#5579)** on Discord, **[m.me/rahil627](http://m.me/rahil627**)** on Messenger, or **[rahil627@gmail.com](mailto:rahil627@gmail.com)**. I am extremely difficult to reach digitally, so I am sorry if i don’t reply.
+Herro. I’m **Rahil**, and *this* is a personal history of my life's works. I initially tried to limit it to experiences that are valuable to me, regardless of economic system and whose length is at least one month, but over time it has become something more. My portfolio at **[mind.rathewolf.com/portfolio](https://mind.rathewolf.com/portfolio)** contains an incomplete digital record of my early digital projects and early thoughts ‘n writings. You can also view this resume at **[mind.rathewolf.com/resume](https://mind.rathewolf.com/resume)**. You can contact me at **[ra#5579](https://discord.com/users/ra#5579)** on Discord, **[m.me/rahil627](http://m.me/rahil627)** on Messenger, or **[rahil627@gmail.com](mailto:rahil627@gmail.com)**. I am extremely difficult to reach digitally, so I am sorry if i don’t reply.
 
 ##### me at home near nature (台灣自然旁邊)
 2012-foreva eva?  
