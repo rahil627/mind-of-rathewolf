@@ -11,7 +11,7 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 #### import from wordpress
 ho. ly. shit. that one bad decision of using wordpress instead of writing my own site generator costed me. :(
 
-currently:
+#### currently:  
 license?  
   - just added MIT for now...
 the current `_posts` are from the python script  
@@ -22,7 +22,7 @@ the current `_pages` folder used the python script import as a base then merged 
     - TODO: should be able to re-generate these using jekyll
   - just remember to copy/paste resume, and you're good!
 
-todo:
+#### todo:  
 fix anchor links
   - **toc (table of contents) plugin**
 **set uploads and attachments folders**
@@ -61,7 +61,7 @@ re-upload all game jam games?
 - re-directs: mindof, themindof, blog, philosophy, philo
 - make this repo private, but be warned: you cannot use GitHub Pages on a private repo
 
-temp:
+#### temp:  
 should use Wordpress to backup to an xml file first
 
 https://import.jekyllrb.com/docs/wordpress/
