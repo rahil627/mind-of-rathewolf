@@ -38,10 +38,11 @@ re-upload all game jam games?
   - there used to be html pages that included the game embed and some instructions on the page
     - for example: rathewolf.com/poorly-designed-upgrades, 'n so on
     - games with it's own post: the jack of all trades, real ninja, verbal assassin, poorly designed upgrades, rgbrgbrgb, pinkies up
-    - for pinkies up: currently using a link to jon's site
-    - for roll 'em golem: using the global game jam site
-    - for doodle tangle: using a youtube video as the link! lol
-      - maybe never made a post for this one...
+      - could move the content of the post to the readme of the github repo, then link the repo
+      - for pinkies up: currently using a link to jon's site
+      - for roll 'em golem: using the global game jam site
+      - for doodle tangle: using a youtube video as the link! lol
+        - maybe never made a post for this one...
     - todo: double-check: add pages to github readme
   - done: copied to github repos
   - maybe can just host it on github.io link, in the repo
