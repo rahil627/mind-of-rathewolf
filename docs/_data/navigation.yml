@@ -32,8 +32,10 @@ links:
   url: /pages-list
 - title: drafts
   url: /drafts-list
-- title: old-site
+- title: <u>old-site</u>
   url: https://www.rahilpatel.com
+- title: <u>repo</u>
+  url: https://github.com/rahil627/mind-of-rathewolf
 - title: '-' #just to add some space
   url: {{ page.url }}
 - title: a <u>willowolf</u>
