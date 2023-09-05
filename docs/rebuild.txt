@@ -1,3 +1,0 @@
-rebuild the repo you dummy!
-
-github pages doesn't rebuild upon page rename?
