@@ -12,8 +12,6 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 ho. ly. shit. that one bad decision of using wordpress instead of writing my own site generator costed me. :(
 
 #### currently:  
-license?  
-  - just added MIT for now...
 the current `_posts` are from the python script  
 the current `_drafts_ are from the python script
   - **TODO: only 5 drafts were exported, need to merge with the other two imports (about 80?)**
@@ -23,6 +21,11 @@ the current `_pages` folder used the python script import as a base then merged 
   - just remember to copy/paste resume, and you're good!
 
 #### todo:  
+license??
+  - just added MIT for now...
+diff 'n trash older backups??
+  - https://github.com/rahil627/rahils-notepad
+  - good luck!
 fix anchor links
   - **toc (table of contents) plugin**
 **set uploads and attachments folders**
