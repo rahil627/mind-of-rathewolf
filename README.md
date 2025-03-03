@@ -8,6 +8,10 @@ i have my own unique thoughts, ideas, concepts. Those concepts build up to make 
 
 ### notes
 
+can migrate/update to bridgetown
+  - https://github.com/bridgetownrb/bridgetown
+  - this opens the option to move to roda framework if needed
+
 #### import from wordpress
 ho. ly. shit. that one bad decision of using wordpress instead of writing my own site generator costed me. :(
 
