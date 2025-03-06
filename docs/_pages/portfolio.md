@@ -12,12 +12,12 @@ description: This page contains a partial list of things I've made, and is now s
 
 ## temporary updates
 todo: put these in the right place  
+[aurara](https://github.com/helix-editor/helix/pull/11791), a beautiful theme for helix text editor!  
+[trying out some game engines](https://github.com/stars/rahil627/lists/my-games)  
 [能盛行 / the Factory](https://www.facebook.com/NSXFactory/), <3 <3  
 [屏東藝文樓 / the Place of Arts](https://www.facebook.com/pingtungplaceofthearts), <3 <3 <3  
-  - note: the page is private now
-  - [the old fb group](https://www.facebook.com/groups/201873603531671/about)
-[背包客星球 Backpackers / Planet](https://www.facebook.com/背包客星球-Backpackers-Planet-193307484153566). <3  
-
+  - NOTE: the page is private now  
+  - [the old fb group](https://www.facebook.com/groups/201873603531671/about)  
 ---
 
 A shout out to the great history games:
